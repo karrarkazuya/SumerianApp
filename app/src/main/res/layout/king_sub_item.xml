@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/menu_dropdown_panel_jabifyactionbar">
+
+    <LinearLayout
+        android:id="@+id/ruler_info_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <!-- ruler -->
+    <LinearLayout
+        android:id="@+id/ruler_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ruler"
+            android:textColor="@color/primarypressed"/>
+
+        <TextView
+            android:id="@+id/ruler"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="dfdfdf"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/black"/>
+    </LinearLayout>
+
+    <!-- epithet -->
+    <LinearLayout
+        android:layout_marginLeft="20dp"
+        android:id="@+id/epithet_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/epithet"
+            android:textColor="@color/primarypressed"/>
+
+        <TextView
+            android:id="@+id/epithet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="dfdfdf"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/black"/>
+    </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <!-- reign length -->
+        <LinearLayout
+            android:id="@+id/reign_length_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/reign_length"
+                android:textColor="@color/primarypressed"/>
+
+            <TextView
+                android:id="@+id/reign_length"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="dfdfdf"
+                android:layout_marginLeft="20dp"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+
+
+
+        <!-- approx dates -->
+        <LinearLayout
+            android:layout_marginLeft="20dp"
+            android:id="@+id/approx_dates_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/approx_dates"
+                android:textColor="@color/primarypressed"/>
+
+            <TextView
+                android:id="@+id/approx_dates"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="dfdfdf"
+                android:layout_marginLeft="20dp"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+        <!-- reign length -->
+        <LinearLayout
+            android:id="@+id/more_info_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/more_info"
+                android:textColor="@color/primarypressed"/>
+
+            <TextView
+                android:id="@+id/more_info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="dfdfdf"
+                android:layout_marginLeft="20dp"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/extra_info"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="cssdsd"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

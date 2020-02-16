@@ -1,0 +1,384 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@color/primary"/>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_centerHorizontal="true"
+                android:orientation="vertical" >
+
+                <!-- BAR -->
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="@color/primary" >
+
+                    <RelativeLayout
+                        android:id="@+id/menu"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_alignParentRight="true" >
+
+                        <ImageView
+                            android:id="@+id/imageView2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:layout_centerVertical="true"
+                            android:padding="4dp"
+                            android:src="@drawable/ic_settings" />
+
+                    </RelativeLayout>
+
+                    <TextView
+                        android:id="@+id/textView3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="32dp"
+                        android:text="@string/app_name"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="#ffffff" />
+
+                </RelativeLayout>
+
+                <!-- items -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="50dp"
+                    android:orientation="vertical">
+
+                    <!-- dictionary and convereter -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:gravity="center_horizontal"
+                        android:orientation="horizontal"
+                        android:paddingLeft="20dp"
+                        android:paddingRight="20dp"
+                        android:paddingTop="10dp"
+                        android:paddingBottom="10dp">
+
+                        <RelativeLayout
+                            android:id="@+id/dic"
+                            android:layout_width="150dp"
+                            android:layout_height="150dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/menu_dropdown_panel_jabifyactionbar">
+
+
+                            <LinearLayout
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical"
+                                android:layout_centerHorizontal="true"
+                                android:layout_centerVertical="true">
+
+                                <ImageView
+                                    android:id="@+id/imageView1"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="60dp"
+                                    android:src="@drawable/dic" />
+
+                                <TextView
+                                    android:id="@+id/textView1"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:text="@string/dictionary"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/primary" />
+
+                            </LinearLayout>
+
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:id="@+id/conv"
+                            android:layout_width="150dp"
+                            android:layout_height="150dp"
+                            android:layout_marginLeft="10dp"
+                            android:background="@drawable/menu_dropdown_panel_jabifyactionbar">
+
+                            <LinearLayout
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical"
+                                android:layout_centerHorizontal="true"
+                                android:layout_centerVertical="true">
+
+                                <ImageView
+                                    android:id="@+id/imageView12"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="60dp"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_centerVertical="true"
+                                    android:src="@drawable/conv" />
+
+                                <TextView
+                                    android:id="@+id/textView12"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:text="@string/convert"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/primary" />
+
+                            </LinearLayout>
+
+                        </RelativeLayout>
+
+                    </LinearLayout>
+                    <!-- timeline and proverbs -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:gravity="center_horizontal"
+                        android:orientation="horizontal"
+                        android:paddingLeft="20dp"
+                        android:paddingRight="20dp"
+                        android:paddingTop="10dp"
+                        android:paddingBottom="10dp">
+                        <!-- timeline -->
+                        <RelativeLayout
+                            android:id="@+id/tra"
+                            android:layout_width="150dp"
+                            android:layout_height="150dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/menu_dropdown_panel_jabifyactionbar">
+
+                            <LinearLayout
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical"
+                                android:layout_centerHorizontal="true"
+                                android:layout_centerVertical="true">
+                                <ImageView
+                                    android:id="@+id/imageView11"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="60dp"
+                                    android:src="@drawable/tra" />
+
+                                <TextView
+                                    android:id="@+id/textView11"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:text="@string/timeline"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/primary"/>
+                            </LinearLayout>
+
+                        </RelativeLayout>
+
+                        <!-- proverbs -->
+                        <RelativeLayout
+                            android:id="@+id/proverbs"
+                            android:layout_width="150dp"
+                            android:layout_height="150dp"
+                            android:layout_marginLeft="10dp"
+                            android:background="@drawable/menu_dropdown_panel_jabifyactionbar">
+
+                            <LinearLayout
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical"
+                                android:layout_centerHorizontal="true"
+                                android:layout_centerVertical="true">
+
+                                <ImageView
+                                    android:id="@+id/ImageView03"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="60dp"
+                                    android:src="@drawable/proverb" />
+
+                                <TextView
+                                    android:id="@+id/TextView03"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:text="@string/proverbs"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/primary" />
+                            </LinearLayout>
+
+                        </RelativeLayout>
+
+                    </LinearLayout>
+                    <!-- kings list and signs list -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:gravity="center_horizontal"
+                        android:orientation="horizontal"
+                        android:paddingLeft="20dp"
+                        android:paddingRight="20dp"
+                        android:paddingTop="10dp"
+                        android:paddingBottom="10dp">
+
+                        <!-- kings list -->
+                        <RelativeLayout
+                            android:id="@+id/kings"
+                            android:layout_width="150dp"
+                            android:layout_height="150dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/menu_dropdown_panel_jabifyactionbar">
+
+                            <LinearLayout
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical"
+                                android:layout_centerHorizontal="true"
+                                android:layout_centerVertical="true">
+                                <ImageView
+                                    android:id="@+id/ImageView02"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="60dp"
+                                    android:src="@drawable/kings" />
+
+                                <TextView
+                                    android:id="@+id/TextView01"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:text="@string/kings_list"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/primary" />
+                            </LinearLayout>
+                        </RelativeLayout>
+
+                        <!-- signs list -->
+                        <RelativeLayout
+                            android:id="@+id/signs"
+                            android:layout_width="150dp"
+                            android:layout_height="150dp"
+                            android:layout_marginLeft="10dp"
+                            android:background="@drawable/menu_dropdown_panel_jabifyactionbar">
+
+                            <LinearLayout
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical"
+                                android:layout_centerHorizontal="true"
+                                android:layout_centerVertical="true">
+
+                                <ImageView
+                                    android:id="@+id/ImageView01"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="60dp"
+                                    android:src="@drawable/signs" />
+
+                                <TextView
+                                    android:id="@+id/TextView02"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:text="@string/signs_list"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/primary" />
+                            </LinearLayout>
+
+                        </RelativeLayout>
+                    </LinearLayout>
+                    <!-- mythologies and cities -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:gravity="center_horizontal"
+                        android:orientation="horizontal"
+                        android:paddingLeft="20dp"
+                        android:paddingRight="20dp"
+                        android:paddingTop="10dp"
+                        android:paddingBottom="10dp">
+
+                        <!-- mythologies list -->
+                        <RelativeLayout
+                            android:id="@+id/mythologies"
+                            android:layout_width="150dp"
+                            android:layout_height="150dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/menu_dropdown_panel_jabifyactionbar">
+
+                            <LinearLayout
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical"
+                                android:layout_centerHorizontal="true"
+                                android:layout_centerVertical="true">
+                                <ImageView
+                                    android:id="@+id/ImageView02"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="60dp"
+                                    android:src="@drawable/mythologies" />
+
+                                <TextView
+                                    android:id="@+id/TextView01"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:text="@string/mythologies"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/primary" />
+                            </LinearLayout>
+                        </RelativeLayout>
+
+                        <!-- cities list -->
+                        <RelativeLayout
+                            android:id="@+id/cities"
+                            android:layout_width="150dp"
+                            android:layout_height="150dp"
+                            android:layout_marginLeft="10dp"
+                            android:background="@drawable/menu_dropdown_panel_jabifyactionbar">
+
+                            <LinearLayout
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical"
+                                android:layout_centerHorizontal="true"
+                                android:layout_centerVertical="true">
+
+                                <ImageView
+                                    android:id="@+id/ImageView01"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="60dp"
+                                    android:src="@drawable/cities" />
+
+                                <TextView
+                                    android:id="@+id/TextView02"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:text="@string/cities"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/primary" />
+                            </LinearLayout>
+
+                        </RelativeLayout>
+                    </LinearLayout>
+
+                </LinearLayout>
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

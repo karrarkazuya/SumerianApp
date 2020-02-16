@@ -1,0 +1,103 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+    <!-- INPUT -->
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="#ffffff" >
+
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignBaseline="@+id/button1"
+            android:layout_alignBottom="@+id/button1"
+            android:layout_toLeftOf="@+id/button1"
+            android:layout_toStartOf="@+id/button1"
+            android:background="@android:color/transparent"
+            android:textColor="#000000"
+            android:textColorHint="@android:color/darker_gray"
+            android:hint="@string/dicthint"
+            android:maxLines="1"
+            android:inputType="text"
+            android:layout_margin="10dp" >
+            <requestFocus />
+        </EditText>
+
+
+
+        <RelativeLayout
+            android:layout_width="10dp"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@+id/button1"
+            android:layout_toStartOf="@+id/button1"
+            android:background="@drawable/shadowr">
+        </RelativeLayout>
+
+
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/ic_button"
+            android:text="@string/search"
+            android:textColor="#ffffff" />
+
+    </RelativeLayout>
+
+    <!-- LIST LAYOUT -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/dict_tip"
+                android:textColor="@color/material_blue_grey_80"
+                android:textSize="20dp"/>
+        </RelativeLayout>
+
+        <ListView
+            android:id="@+id/wordslist"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:divider="#ffffff" >
+         </ListView>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:background="@drawable/shadowt">
+        </RelativeLayout>
+
+
+        
+
+    </RelativeLayout>
+
+</LinearLayout>

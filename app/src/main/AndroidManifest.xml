@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="karrar.sumerian.android"
+    android:versionCode="8"
+    android:versionName="1.4.2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat">
+        <activity
+            android:name=".ui.MainActivity"
+            android:label="@string/app_name"
+            android:layoutDirection="ltr"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.DictionaryActivity"
+            android:label="@string/app_name"
+            android:layoutDirection="ltr"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ui.TimelineActivity" />
+        <activity
+            android:name=".ui.views.dialogs.DictionaryItemViewer"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Light.NoTitleBar" />
+        <activity
+            android:name=".ui.About"
+            android:layoutDirection="ltr"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.ConverterActivity"
+            android:layoutDirection="ltr"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.LoadingActivity"
+            android:layoutDirection="ltr"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.ProverbsActivity"
+            android:layoutDirection="ltr"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.SignsListActivity"
+            android:layoutDirection="ltr"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.TimelineViewer"
+            android:layoutDirection="ltr"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ui.SettingsActivity" />
+        <activity android:name=".ui.SignViewerActivity" />
+        <activity android:name=".ui.KingsActivity" />
+        <activity android:name=".ui.MythActivity" />
+        <activity android:name=".ui.MythViewer" />
+        <activity android:name=".ui.CitiesActivity" />
+        <activity android:name=".ui.CitiesViewer" />
+        <activity android:name=".ui.ReferencesActivity" />
+        <activity android:name=".ui.KingItemActivity"></activity>
+    </application>
+
+</manifest>

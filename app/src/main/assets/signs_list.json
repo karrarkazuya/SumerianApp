@@ -1,0 +1,6725 @@
+{
+  "signs": [
+    {
+      "images": [
+        "A.png"
+      ],
+      "sign_value": "a, dur5, duru5",
+      "sign_name": "A",
+      "id": 1
+    },
+    {
+      "images": [
+        "A.png",
+        "AN.png"
+      ],
+      "sign_value": "am3, emx, šeĝ3",
+      "sign_name": "A.AN",
+      "id": 2
+    },
+    {
+      "images": [
+        "A.png",
+        "EDIN.png",
+        "LAL.png"
+      ],
+      "sign_value": "ummud",
+      "sign_name": "A.EDIN.LAL",
+      "id": 3
+    },
+    {
+      "images": [
+        "A.png",
+        "HA.png",
+        "TAR.png",
+        "DU.png"
+      ],
+      "sign_value": "girim3",
+      "sign_name": "A.HA.TAR.DU",
+      "id": 4
+    },
+    {
+      "images": [
+        "A.png",
+        "IGI.png"
+      ],
+      "sign_value": "er2, šex",
+      "sign_name": "A.IGI",
+      "id": 5
+    },
+    {
+      "images": [
+        "A.png",
+        "KA.png"
+      ],
+      "sign_value": "ugu2",
+      "sign_name": "A.KA",
+      "id": 6
+    },
+    {
+      "images": [
+        "A.png",
+        "KAL.png"
+      ],
+      "sign_value": "illu",
+      "sign_name": "A.KAL",
+      "id": 7
+    },
+    {
+      "images": [
+        "A.png",
+        "LAGAB_TIMES_A.png"
+      ],
+      "sign_value": "buniĝx",
+      "sign_name": "A.LAGAB×A",
+      "id": 8
+    },
+    {
+      "images": [
+        "A.png",
+        "LAGAB_TIMES_HAL.png"
+      ],
+      "sign_value": "id2",
+      "sign_name": "A.LAGAB×HAL Borger: A.ENGUR",
+      "id": 9
+    },
+    {
+      "images": [
+        "A.png",
+        "LAGAB_TIMES_KUL.png"
+      ],
+      "sign_value": "esir",
+      "sign_name": "A.LAGAB×KUL Borger: A.ESIR2",
+      "id": 10
+    },
+    {
+      "images": [
+        "A.png",
+        "MUSH3.png",
+        "DI.png"
+      ],
+      "sign_value": "sed5",
+      "sign_name": "A.MUŠ3.DI",
+      "id": 11
+    },
+    {
+      "images": [
+        "A.png",
+        "MUSH3_TIMES_A.png",
+        "DI.png"
+      ],
+      "sign_value": "sedx",
+      "sign_name": "A.MUŠ3×A.DI",
+      "id": 12
+    },
+    {
+      "images": [
+        "A.png",
+        "PA.png",
+        "GISAL.png",
+        "PAD.png",
+        "SI.png"
+      ],
+      "sign_value": "addir",
+      "sign_name": "A.PA.GISAL.PAD.SI.A Borger: A.PA.GISAL.PAD.DIR",
+      "id": 13
+    },
+    {
+      "images": [
+        "A.png",
+        "SU.png"
+      ],
+      "sign_value": "aktum",
+      "sign_name": "A.SU",
+      "id": 14
+    },
+    {
+      "images": [
+        "A.png",
+        "SUD.png"
+      ],
+      "sign_value": "kašbirx",
+      "sign_name": "A.SUD",
+      "id": 15
+    },
+    {
+      "images": [
+        "A.png",
+        "SHU.png",
+        "NAGA.png"
+      ],
+      "sign_value": "tu17",
+      "sign_name": "A.ŠU.NAGA",
+      "id": 16
+    },
+    {
+      "images": [
+        "A.png",
+        "TIR.png"
+      ],
+      "sign_value": "eša",
+      "sign_name": "A.TIR",
+      "id": 17
+    },
+    {
+      "images": [
+        "A.png",
+        "TU.png",
+        "GABA.png",
+        "LISH.png"
+      ],
+      "sign_value": "asal2",
+      "sign_name": "A.TU.GABA.LIŠ",
+      "id": 18
+    },
+    {
+      "images": [
+        "A_TIMES_HA.png"
+      ],
+      "sign_value": "saḫ7",
+      "sign_name": "A×HA Borger: ZAḪ3",
+      "id": 19
+    },
+    {
+      "images": [
+        "A2.png"
+      ],
+      "sign_value": "a2, ed, et, id, it, iṭ, te8",
+      "sign_name": "A2",
+      "id": 20
+    },
+    {
+      "images": [
+        "A2.png",
+        "KAL.png"
+      ],
+      "sign_value": "usu",
+      "sign_name": "A2.KAL",
+      "id": 21
+    },
+    {
+      "images": [
+        "A2.png",
+        "MUSH3.png"
+      ],
+      "sign_value": "aškud2",
+      "sign_name": "A2.MUŠ3",
+      "id": 22
+    },
+    {
+      "images": [
+        "A2.png",
+        "MUSH3_GUNU.png"
+      ],
+      "sign_value": "aškud",
+      "sign_name": "A2.MUŠ3@g Borger: A2.MUŠ2",
+      "id": 23
+    },
+    {
+      "images": [
+        "AB.png"
+      ],
+      "sign_value": "ab, aba, ap, eš3, iri12, is3",
+      "sign_name": "AB",
+      "id": 24
+    },
+    {
+      "images": [
+        "AB_GUNU.png"
+      ],
+      "sign_value": "ab4, aba4, gun4, iri11, unu, unug",
+      "sign_name": "AB@g Borger: UNUG",
+      "id": 25
+    },
+    {
+      "images": [
+        "AB.png",
+        "HA_GUNU.png"
+      ],
+      "sign_value": "giraba",
+      "sign_name": "AB.HA@g",
+      "id": 26
+    },
+    {
+      "images": [
+        "AB_TIMES_GAL.png"
+      ],
+      "sign_value": "irigal",
+      "sign_name": "AB×GAL Borger: URUGAL",
+      "id": 27
+    },
+    {
+      "images": [
+        "AB_TIMES_HA.png"
+      ],
+      "sign_value": "agarinx, nanše, niĝin6, sirara",
+      "sign_name": "AB×HA Borger: NINA",
+      "id": 28
+    },
+    {
+      "images": [
+        "AB2.png"
+      ],
+      "sign_value": "ab2",
+      "sign_name": "AB2",
+      "id": 29
+    },
+    {
+      "images": [
+        "AB2.png",
+        "KU.png"
+      ],
+      "sign_value": "unud",
+      "sign_name": "AB2.KU",
+      "id": 30
+    },
+    {
+      "images": [
+        "AB2.png",
+        "LU.png"
+      ],
+      "sign_value": "utul10",
+      "sign_name": "AB2.LU",
+      "id": 31
+    },
+    {
+      "images": [
+        "AB2.png",
+        "NUN.png",
+        "ME.png",
+        "DU.png"
+      ],
+      "sign_value": "abrig2",
+      "sign_name": "AB2.NUN.ME.DU",
+      "id": 32
+    },
+    {
+      "images": [
+        "AB2.png",
+        "TUG2.png"
+      ],
+      "sign_value": "sumunx",
+      "sign_name": "AB2.TUG2",
+      "id": 33
+    },
+    {
+      "images": [
+        "AB2_TIMES_GAN2_TENU.png"
+      ],
+      "sign_value": "šem5",
+      "sign_name": "AB2×GAN2@t",
+      "id": 34
+    },
+    {
+      "images": [
+        "AB2_TIMES_SHA3.png"
+      ],
+      "sign_value": "lipiš, šem3, ub3",
+      "sign_name": "AB2×ŠA3 Borger: LIBIŠ",
+      "id": 35
+    },
+    {
+      "images": [
+        "AD.png"
+      ],
+      "sign_value": "ad, at",
+      "sign_name": "AD",
+      "id": 36
+    },
+    {
+      "images": [
+        "AK.png"
+      ],
+      "sign_value": "ag, ak, ša5",
+      "sign_name": "AK Borger: AG",
+      "id": 37
+    },
+    {
+      "images": [
+        "AK_TIMES_ERIN2.png"
+      ],
+      "sign_value": "me3",
+      "sign_name": "AK×ERIN2 Borger: ME3",
+      "id": 38
+    },
+    {
+      "images": [
+        "AL.png"
+      ],
+      "sign_value": "al",
+      "sign_name": "AL",
+      "id": 39
+    },
+    {
+      "images": [
+        "ALAN.png"
+      ],
+      "sign_value": "alan",
+      "sign_name": "ALAN Borger: ALAM",
+      "id": 40
+    },
+    {
+      "images": [
+        "AMAR.png"
+      ],
+      "sign_value": "amar, mar2, zur",
+      "sign_name": "AMAR",
+      "id": 41
+    },
+    {
+      "images": [
+        "AMAR.png",
+        "UD.png"
+      ],
+      "sign_value": "marduk",
+      "sign_name": "AMAR.UD",
+      "id": 42
+    },
+    {
+      "images": [
+        "AMAR_TIMES_SHE.png"
+      ],
+      "sign_value": "sizkur",
+      "sign_name": "AMAR×ŠE Borger: SISKUR",
+      "id": 43
+    },
+    {
+      "images": [
+        "AMAR_TIMES_SHE.png"
+      ],
+      "sign_value": "sizkur2",
+      "sign_name": "AMAR×ŠE.AMAR×ŠE Borger: SISKUR.SISKUR",
+      "id": 44
+    },
+    {
+      "images": [
+        "AN.png"
+      ],
+      "sign_value": "am6, an, diĝir, il3, naggax",
+      "sign_name": "AN",
+      "id": 45
+    },
+    {
+      "images": [
+        "AN.AŠ.AN.png"
+      ],
+      "sign_value": "tilla2",
+      "sign_name": "AN.AŠ.AN",
+      "id": 46
+    },
+    {
+      "images": [
+        "AN.png",
+        "IM.png",
+        "DUGUD.png"
+      ],
+      "sign_value": "anzud",
+      "sign_name": "AN.IM.DUGUD",
+      "id": 47
+    },
+    {
+      "images": [
+        "AN.png",
+        "IM.png",
+        "MI.png"
+      ],
+      "sign_value": "anzud2",
+      "sign_name": "AN.IM.MI",
+      "id": 48
+    },
+    {
+      "images": [
+        "AN.png",
+        "NA.png"
+      ],
+      "sign_value": "nagga",
+      "sign_name": "AN.NA",
+      "id": 49
+    },
+    {
+      "images": [
+        "AN.png",
+        "NAGA.png"
+      ],
+      "sign_value": "nanibgal",
+      "sign_name": "AN.NAGA",
+      "id": 50
+    },
+    {
+      "images": [
+        "AN.png",
+        "SHE.png",
+        "NAGA.png"
+      ],
+      "sign_value": "nanibgal2",
+      "sign_name": "AN.ŠE.NAGA",
+      "id": 51
+    },
+    {
+      "images": [
+        "AN.png",
+        "ZAG.png"
+      ],
+      "sign_value": "uzugx",
+      "sign_name": "AN.ZAG",
+      "id": 52
+    },
+    {
+      "images": [
+        "AN_OVER_AN.png"
+      ],
+      "sign_value": "part of compound",
+      "sign_name": "AN/AN Borger: NAB",
+      "id": 53
+    },
+    {
+      "images": [
+        "AN_OVER_AN.png",
+        "AN.png"
+      ],
+      "sign_value": "mul, suḫub2",
+      "sign_name": "AN/AN.AN Borger: MUL",
+      "id": 54
+    },
+    {
+      "images": [
+        "AN_PLUS_NAGA_OPPOSING_AN_PLUS_NAGA.png"
+      ],
+      "sign_value": "dalḫamun5",
+      "sign_name": "AN+NAGA(inverted)AN+NAGA",
+      "id": 55
+    },
+    {
+      "images": [
+        "ANSHE.png"
+      ],
+      "sign_value": "anše",
+      "sign_name": "ANŠE",
+      "id": 56
+    },
+    {
+      "images": [
+        "ANSHE.png",
+        "ARAD.png"
+      ],
+      "sign_value": "dur3",
+      "sign_name": "ANŠE.ARAD",
+      "id": 57
+    },
+    {
+      "images": [
+        "ANSHE.png",
+        "IGI.png",
+        "ESH2.png"
+      ],
+      "sign_value": "dusu2",
+      "sign_name": "ANŠE.IGI.EŠ2 Borger: ANŠE.LIBIR",
+      "id": 58
+    },
+    {
+      "images": [
+        "APIN.png"
+      ],
+      "sign_value": "absin3, apin, engar, ur11, uš8",
+      "sign_name": "APIN",
+      "id": 59
+    },
+    {
+      "images": [
+        "ARAD.png"
+      ],
+      "sign_value": "arad, er3, nitaḫ2",
+      "sign_name": "ARAD",
+      "id": 60
+    },
+    {
+      "images": [
+        "ARAD_TIMES_KUR.png"
+      ],
+      "sign_value": "arad2",
+      "sign_name": "ARAD×KUR Borger: ARAD2",
+      "id": 61
+    },
+    {
+      "images": [
+        "ASH.png"
+      ],
+      "sign_value": "aš, dil, dili, rum, til4",
+      "sign_name": "AŠ",
+      "id": 62
+    },
+    {
+      "images": [
+        "AŠ2.png"
+      ],
+      "sign_value": "aš2, ziz2",
+      "sign_name": "AŠ2",
+      "id": 63
+    },
+    {
+      "images": [
+        "AŠ2.png",
+        "A.png",
+        "AN.png"
+      ],
+      "sign_value": "imĝaĝa, ulušin",
+      "sign_name": "AŠ2.A.AN",
+      "id": 64
+    },
+    {
+      "images": [
+        "AŠ2.png",
+        "AN.png"
+      ],
+      "sign_value": "imĝaĝa3",
+      "sign_name": "AŠ2.AN",
+      "id": 65
+    },
+    {
+      "images": [
+        "AŠ2.png",
+        "AN.png"
+      ],
+      "sign_value": "ulušin3",
+      "sign_name": "AŠ2.AN",
+      "id": 66
+    },
+    {
+      "images": [
+        "AŠ2.png",
+        "GAR3.png"
+      ],
+      "sign_value": "ešgar",
+      "sign_name": "AŠ2.GAR3",
+      "id": 67
+    },
+    {
+      "images": [
+        "AŠGAB.png"
+      ],
+      "sign_value": "ašgab",
+      "sign_name": "AŠGAB",
+      "id": 68
+    },
+    {
+      "images": [
+        "BA.png"
+      ],
+      "sign_value": "ba, be4",
+      "sign_name": "BA",
+      "id": 69
+    },
+    {
+      "images": [
+        "BAD.png"
+      ],
+      "sign_value": "ba9, bad, be",
+      "sign_name": "BAD",
+      "id": 70
+    },
+    {
+      "images": [
+        "BAD.png",
+        "LU2.png"
+      ],
+      "sign_value": "adx",
+      "sign_name": "BAD.LU2",
+      "id": 71
+    },
+    {
+      "images": [
+        "BAD.png",
+        "UD.png"
+      ],
+      "sign_value": "lugud",
+      "sign_name": "BAD.UD",
+      "id": 72
+    },
+    {
+      "images": [
+        "BAHAR2.png"
+      ],
+      "sign_value": "baḫar2",
+      "sign_name": "BAHAR2",
+      "id": 73
+    },
+    {
+      "images": [
+        "BAL.png"
+      ],
+      "sign_value": "bal",
+      "sign_name": "BAL",
+      "id": 74
+    },
+    {
+      "images": [
+        "BALAG.png"
+      ],
+      "sign_value": "balaĝ, buluĝ5",
+      "sign_name": "BALAG",
+      "id": 75
+    },
+    {
+      "images": [
+        "BALAG.png",
+        "LUL.png"
+      ],
+      "sign_value": "tigi",
+      "sign_name": "BALAG.LUL",
+      "id": 76
+    },
+    {
+      "images": [
+        "BAR.png"
+      ],
+      "sign_value": "bar",
+      "sign_name": "BAR",
+      "id": 77
+    },
+    {
+      "images": [
+        "BAR.png",
+        "AN.png"
+      ],
+      "sign_value": "kunga2",
+      "sign_name": "BAR.AN",
+      "id": 78
+    },
+    {
+      "images": [
+        "BARA2.png"
+      ],
+      "sign_value": "barag, šara",
+      "sign_name": "BARA2",
+      "id": 79
+    },
+    {
+      "images": [
+        "BARA2.png",
+        "PAP.png",
+        "SHE.png"
+      ],
+      "sign_value": "titab",
+      "sign_name": "BARA2.PAP.ŠE.PAP Borger: BARA2.MUNU4",
+      "id": 80
+    },
+    {
+      "images": [
+        "BI.png"
+      ],
+      "sign_value": "be2, bi, biz, kaš, pe2, pi2",
+      "sign_name": "BI",
+      "id": 81
+    },
+    {
+      "images": [
+        "BI.png",
+        "A.png",
+        "SUD.png"
+      ],
+      "sign_value": "kašbir",
+      "sign_name": "BI.A.SUD",
+      "id": 82
+    },
+    {
+      "images": [
+        "BI.png",
+        "DIN.png"
+      ],
+      "sign_value": "kurun",
+      "sign_name": "BI.DIN",
+      "id": 83
+    },
+    {
+      "images": [
+        "BI.png",
+        "LUL.png"
+      ],
+      "sign_value": "kušum",
+      "sign_name": "BI.LUL",
+      "id": 84
+    },
+    {
+      "images": [
+        "BU.png"
+      ],
+      "sign_value": "bu, bur12, dur7, gid2, kim3, pu, sir2, su13, sud4, tur8",
+      "sign_name": "BU",
+      "id": 85
+    },
+    {
+      "images": [
+        "BU_OVER_BU_AB.png"
+      ],
+      "sign_value": "sirsir",
+      "sign_name": "BU/BU.AB Borger: SIRSIR",
+      "id": 86
+    },
+    {
+      "images": [
+        "BULUG.png"
+      ],
+      "sign_value": "bulug",
+      "sign_name": "BULUG",
+      "id": 87
+    },
+    {
+      "images": [
+        "BUR.png"
+      ],
+      "sign_value": "bur",
+      "sign_name": "BUR",
+      "id": 88
+    },
+    {
+      "images": [
+        "BUR2.png"
+      ],
+      "sign_value": "bu8, bur2, du9, dun5, sun5, ušum",
+      "sign_name": "BUR2",
+      "id": 89
+    },
+    {
+      "images": [
+        "DA.png"
+      ],
+      "sign_value": "da, ta2",
+      "sign_name": "DA",
+      "id": 90
+    },
+    {
+      "images": [
+        "DAG.png"
+      ],
+      "sign_value": "barag2, dag, par3, para3, tag2",
+      "sign_name": "DAG",
+      "id": 91
+    },
+    {
+      "images": [
+        "DAG_KISIM5_TIMES_GA.png"
+      ],
+      "sign_value": "akan, ubur",
+      "sign_name": "DAG.KISIM5×GA  Borger: UBUR",
+      "id": 92
+    },
+    {
+      "images": [
+        "DAG_KISIM5_TIMES_GIR2.png"
+      ],
+      "sign_value": "kiši8",
+      "sign_name": "DAG.KISIM5×GIR2 Borger: KIŠI8",
+      "id": 93
+    },
+    {
+      "images": [
+        "DAG_KISIM5_TIMES_LU.png"
+      ],
+      "sign_value": "ubur2",
+      "sign_name": "DAG.KISIM5×LU Borger: UBUR2",
+      "id": 94
+    },
+    {
+      "images": [
+        "DAG_KISIM5_TIMES_LU_PLUS_MASH2.png"
+      ],
+      "sign_value": "amaš, utua2",
+      "sign_name": "DAG.KISIM5×LU+MAŠ2 Borger: AMAŠ",
+      "id": 95
+    },
+    {
+      "images": [
+        "DAG_KISIM5_TIMES_SI.png"
+      ],
+      "sign_value": "kisim2",
+      "sign_name": "DAG.KISIM5×SI",
+      "id": 96
+    },
+    {
+      "images": [
+        "DAG_KISIM5_TIMES_U2_PLUS_GIR2.png"
+      ],
+      "sign_value": "ḫarub, kisim",
+      "sign_name": "DAG.KISIM5×U2+GIR2 Borger: KIŠI9",
+      "id": 97
+    },
+    {
+      "images": [
+        "DAM.png"
+      ],
+      "sign_value": "dam",
+      "sign_name": "DAM",
+      "id": 98
+    },
+    {
+      "images": [
+        "DAR.png"
+      ],
+      "sign_value": "dar, gun3, tar2",
+      "sign_name": "DAR",
+      "id": 99
+    },
+    {
+      "images": [
+        "DARA3.png"
+      ],
+      "sign_value": "dar3, dara3, taraḫ",
+      "sign_name": "DARA3",
+      "id": 100
+    },
+    {
+      "images": [
+        "DARA4.png"
+      ],
+      "sign_value": "dara4",
+      "sign_name": "DARA4",
+      "id": 101
+    },
+    {
+      "images": [
+        "DI.png"
+      ],
+      "sign_value": "de, di, sa2, silim",
+      "sign_name": "DI",
+      "id": 102
+    },
+    {
+      "images": [
+        "DIB.png"
+      ],
+      "sign_value": "dab, dib",
+      "sign_name": "DIB",
+      "id": 103
+    },
+    {
+      "images": [
+        "DIM.png"
+      ],
+      "sign_value": "dim",
+      "sign_name": "DIM",
+      "id": 104
+    },
+    {
+      "images": [
+        "DIM_TIMES_SHE.png"
+      ],
+      "sign_value": "mun",
+      "sign_name": "DIM×ŠE Borger: MUN",
+      "id": 105
+    },
+    {
+      "images": [
+        "DIM2.png"
+      ],
+      "sign_value": "dim2, ge18, gen7, gim, gin7, šidim",
+      "sign_name": "DIM2 Borger: GIM",
+      "id": 106
+    },
+    {
+      "images": [
+        "DIN.png"
+      ],
+      "sign_value": "din, kurun2, tin",
+      "sign_name": "DIN",
+      "id": 107
+    },
+    {
+      "images": [
+        "DISH.png"
+      ],
+      "sign_value": "diš, eš4",
+      "sign_name": "DIŠ",
+      "id": 108
+    },
+    {
+      "images": [
+        "DU.png"
+      ],
+      "sign_value": "de6, du, gub, ĝen, im4, kux, kub, kurx, laḫ6, ra2, re6, ša4, tu3, tum2",
+      "sign_name": "DU",
+      "id": 109
+    },
+    {
+      "images": [
+        "DU.png"
+      ],
+      "sign_value": "laḫ5",
+      "sign_name": "DU.DU",
+      "id": 110
+    },
+    {
+      "images": [
+        "DU_GUNU.png"
+      ],
+      "sign_value": "suḫuš",
+      "sign_name": "DU@g Borger: SUḪUŠ",
+      "id": 111
+    },
+    {
+      "images": [
+        "DU_OVER_DU.png"
+      ],
+      "sign_value": "laḫ4, re7, su8, sub2, sug2",
+      "sign_name": "DU/DU Borger: LAḪ4",
+      "id": 112
+    },
+    {
+      "images": [
+        "DU_SHESHIG.png"
+      ],
+      "sign_value": "gir5, im2, kaš4, rim4",
+      "sign_name": "DUšešig Borger: KAŠ4",
+      "id": 113
+    },
+    {
+      "images": [
+        "DUB.png"
+      ],
+      "sign_value": "dab4, dub, kišib3, zamug",
+      "sign_name": "DUB",
+      "id": 114
+    },
+    {
+      "images": [
+        "DUB.png",
+        "NAGAR.png"
+      ],
+      "sign_value": "tibira",
+      "sign_name": "DUB.NAGAR",
+      "id": 115
+    },
+    {
+      "images": [
+        "DUB2.png"
+      ],
+      "sign_value": "dub2",
+      "sign_name": "DUB2",
+      "id": 116
+    },
+    {
+      "images": [
+        "DUG.png"
+      ],
+      "sign_value": "dug, epir, gurun7, kurin, kurun3",
+      "sign_name": "DUG",
+      "id": 117
+    },
+    {
+      "images": [
+        "DUGUD.png"
+      ],
+      "sign_value": "dugud, ĝi25",
+      "sign_name": "DUGUD",
+      "id": 118
+    },
+    {
+      "images": [
+        "DUN.png"
+      ],
+      "sign_value": "dun, dur9, sul, šaḫ2, šul, zu7",
+      "sign_name": "DUN Borger: ŠUL",
+      "id": 119
+    },
+    {
+      "images": [
+        "DUN3.png"
+      ],
+      "sign_value": "du5, tun3",
+      "sign_name": "DUN3 Borger: TUN3",
+      "id": 120
+    },
+    {
+      "images": [
+        "DUN3_GUNU.png"
+      ],
+      "sign_value": "aga3, giĝ4",
+      "sign_name": "DUN3@g Borger: GIN2",
+      "id": 121
+    },
+    {
+      "images": [
+        "DUN3_GUNU_GUNU.png"
+      ],
+      "sign_value": "aga, mir, niĝir",
+      "sign_name": "DUN3@g@g Borger: MIR",
+      "id": 122
+    },
+    {
+      "images": [
+        "DUN3_GUNU_GUNU_SHESHIG.png"
+      ],
+      "sign_value": "dul4, šudul4",
+      "sign_name": "DUN3@g@gšešig Borger: DUN4",
+      "id": 123
+    },
+    {
+      "images": [
+        "E.png"
+      ],
+      "sign_value": "e, eg2",
+      "sign_name": "E",
+      "id": 124
+    },
+    {
+      "images": [
+        "E.png",
+        "TUM.png"
+      ],
+      "sign_value": "gur21",
+      "sign_name": "E.TUM",
+      "id": 125
+    },
+    {
+      "images": [
+        "E2.png"
+      ],
+      "sign_value": "e2",
+      "sign_name": "E2",
+      "id": 126
+    },
+    {
+      "images": [
+        "E2.png",
+        "NUN.png"
+      ],
+      "sign_value": "agrun",
+      "sign_name": "E2.NUN",
+      "id": 127
+    },
+    {
+      "images": [
+        "E2.png",
+        "USH.png",
+        "BU.png",
+        "DA.png"
+      ],
+      "sign_value": "araḫ4",
+      "sign_name": "E2.UŠ.BU.DA",
+      "id": 128
+    },
+    {
+      "images": [
+        "EDIN.png"
+      ],
+      "sign_value": "bir4, edimx, edin, ru6",
+      "sign_name": "EDIN",
+      "id": 129
+    },
+    {
+      "images": [
+        "EGIR.png"
+      ],
+      "sign_value": "eĝer",
+      "sign_name": "EGIR",
+      "id": 130
+    },
+    {
+      "images": [
+        "EL.png"
+      ],
+      "sign_value": "el, il5, sikil",
+      "sign_name": "EL",
+      "id": 131
+    },
+    {
+      "images": [
+        "EN.png"
+      ],
+      "sign_value": "en, in4, ru12, uru16",
+      "sign_name": "EN",
+      "id": 132
+    },
+    {
+      "images": [
+        "EN.png",
+        "DIM2.png",
+        "GIG.png"
+      ],
+      "sign_value": "enegir3",
+      "sign_name": "EN.DIM2.GIG Borger: EN.GIM.GIG",
+      "id": 133
+    },
+    {
+      "images": [
+        "EN.png",
+        "KID.png"
+      ],
+      "sign_value": "nibru",
+      "sign_name": "EN.KID",
+      "id": 134
+    },
+    {
+      "images": [
+        "EN.png",
+        "ME.png",
+        "AD.png",
+        "KU3.png"
+      ],
+      "sign_value": "šennu",
+      "sign_name": "EN.ME.AD.KU3 Borger: EN.ME.AD.KUG",
+      "id": 135
+    },
+    {
+      "images": [
+        "EN.png",
+        "ME.png",
+        "GI.png"
+      ],
+      "sign_value": "engiz",
+      "sign_name": "EN.ME.GI",
+      "id": 136
+    },
+    {
+      "images": [
+        "EN.png",
+        "ME.png",
+        "LI.png"
+      ],
+      "sign_value": "ensi",
+      "sign_name": "EN.ME.LI",
+      "id": 137
+    },
+    {
+      "images": [
+        "EN.png",
+        "NU.png",
+        "NUNUZ.png",
+        "ZI.png",
+        "AN.png",
+        "SHESH.png",
+        "KI.png"
+      ],
+      "sign_value": "zirrux",
+      "sign_name": "EN.NU.NUNUZ.ZI.AN.ŠEŠ.KI",
+      "id": 138
+    },
+    {
+      "images": [
+        "EN.png",
+        "NUNUZ.png",
+        "ZI.png",
+        "AN.png",
+        "SHESH.png",
+        "KI.png"
+      ],
+      "sign_value": "zirru",
+      "sign_name": "EN.NUNUZ.ZI.AN.ŠEŠ.KI",
+      "id": 139
+    },
+    {
+      "images": [
+        "EN.png",
+        "PAP.png",
+        "IGI_GUNU.png",
+        "NUN.png",
+        "ME.png",
+        "EZEN_TIMES_KASKAL.png"
+      ],
+      "sign_value": "enkum, isimudx",
+      "sign_name": "EN.PAP.IGI@g.NUN.ME.EZEN×KASKAL Borger: EN.PAB.SIG7.NUN.ME.EZEN×KASKAL",
+      "id": 140
+    },
+    {
+      "images": [
+        "EN.png",
+        "TI.png"
+      ],
+      "sign_value": "ebiḫ",
+      "sign_name": "EN.TI",
+      "id": 141
+    },
+    {
+      "images": [
+        "EN.png",
+        "ZU.png"
+      ],
+      "sign_value": "suen",
+      "sign_name": "EN.ZU",
+      "id": 142
+    },
+    {
+      "images": [
+        "EN_TIMES_GAN2_TENU.png"
+      ],
+      "sign_value": "buru14, enkar, ešgiri2",
+      "sign_name": "EN×GAN2@t Borger: BURU14 and EN×KAR2",
+      "id": 143
+    },
+    {
+      "images": [
+        "EN_TIMES_ME.png",
+        "LI.png"
+      ],
+      "sign_value": "ensi3",
+      "sign_name": "EN×ME.LI Borger: ENME.LI",
+      "id": 144
+    },
+    {
+      "images": [
+        "EREN.png"
+      ],
+      "sign_value": "erin, še22, šeš4",
+      "sign_name": "EREN",
+      "id": 145
+    },
+    {
+      "images": [
+        "ERIN2.png"
+      ],
+      "sign_value": "erim, erin2, pir2, rin2, zalag2",
+      "sign_name": "ERIN2 Borger: ERIM",
+      "id": 146
+    },
+    {
+      "images": [
+        "ESH2.png"
+      ],
+      "sign_value": "egir2, eš2, eše2, gir15, ḫuĝ, sumunx, še3, ub2",
+      "sign_name": "EŠ2 Borger: ŠE3",
+      "id": 147
+    },
+    {
+      "images": [
+        "ESH2.png",
+        "BU.png",
+        "NUN.png",
+        "TU.png"
+      ],
+      "sign_value": "samanx",
+      "sign_name": "EŠ2.BU.EŠ2.NUN.EŠ2.TU",
+      "id": 148
+    },
+    {
+      "images": [
+        "ESH2.png",
+        "BU.png",
+        "NUN.png",
+        "TU.png"
+      ],
+      "sign_value": "saman2",
+      "sign_name": "EŠ2.BU.NUN.EŠ2.TU",
+      "id": 149
+    },
+    {
+      "images": [
+        "ESH2.png",
+        "MAH.png"
+      ],
+      "sign_value": "ebiḫ2",
+      "sign_name": "EŠ2.MAH",
+      "id": 150
+    },
+    {
+      "images": [
+        "ESH2.png",
+        "SHE.png"
+      ],
+      "sign_value": "dabin",
+      "sign_name": "EŠ2.ŠE",
+      "id": 151
+    },
+    {
+      "images": [
+        "ESH2.png",
+        "SUD.png",
+        "NUN.png",
+        "TU.png"
+      ],
+      "sign_value": "saman",
+      "sign_name": "EŠ2.SUD.NUN.EŠ2.TU",
+      "id": 152
+    },
+    {
+      "images": [
+        "ESH2.png",
+        "SUD.png",
+        "UD.png",
+        "NUN.png",
+        "TU.png"
+      ],
+      "sign_value": "samanx",
+      "sign_name": "EŠ2.SUD.UD.NUN.EŠ2.TU",
+      "id": 153
+    },
+    {
+      "images": [
+        "EZEN.png"
+      ],
+      "sign_value": "asilx, ezem, ezen, gublagax, šer3, šir3",
+      "sign_name": "EZEN",
+      "id": 154
+    },
+    {
+      "images": [
+        "EZEN_TIMES_A.png"
+      ],
+      "sign_value": "asil3, asila3",
+      "sign_name": "EZEN×A Borger: ASILAL3",
+      "id": 155
+    },
+    {
+      "images": [
+        "EZEN_TIMES_BAD.png"
+      ],
+      "sign_value": "bad3, u9, ug5, un3",
+      "sign_name": "EZEN×BAD Borger: BAD3",
+      "id": 156
+    },
+    {
+      "images": [
+        "EZEN_TIMES_KASKAL.png"
+      ],
+      "sign_value": "ubara, un4",
+      "sign_name": "EZEN×KASKAL Borger: UBARA",
+      "id": 157
+    },
+    {
+      "images": [
+        "EZEN_TIMES_KU3.png"
+      ],
+      "sign_value": "kisiga",
+      "sign_name": "EZEN×KU3 Borger: EZEN×KUG",
+      "id": 158
+    },
+    {
+      "images": [
+        "EZEN_TIMES_LA.png"
+      ],
+      "sign_value": "gublaga",
+      "sign_name": "EZEN×LA",
+      "id": 159
+    },
+    {
+      "images": [
+        "EZEN_TIMES_LAL_TIMES_LAL.png"
+      ],
+      "sign_value": "asil, asila",
+      "sign_name": "EZEN×LAL×LAL Borger: ASILAL and EZEN×LAL2",
+      "id": 160
+    },
+    {
+      "images": [
+        "GA.png"
+      ],
+      "sign_value": "ga, gur11, ka3, qa2",
+      "sign_name": "GA",
+      "id": 161
+    },
+    {
+      "images": [
+        "GA.png",
+        "DUB2.png"
+      ],
+      "sign_value": "saĝĝa7",
+      "sign_name": "GA.DUB2",
+      "id": 162
+    },
+    {
+      "images": [
+        "GA2.png"
+      ],
+      "sign_value": "ba4, ĝa2, ĝe26, ma3, pisaĝ",
+      "sign_name": "GA2",
+      "id": 163
+    },
+    {
+      "images": [
+        "GA2_TIMES_AN.png"
+      ],
+      "sign_value": "ama, daĝal",
+      "sign_name": "GA2×AN Borger: AMA",
+      "id": 164
+    },
+    {
+      "images": [
+        "GA2_TIMES_AN.png",
+        "AN.png",
+        "MUSH3.png"
+      ],
+      "sign_value": "amalu",
+      "sign_name": "GA2×AN.AN.MUŠ3 Borger: AMA.AN.MUŠ3",
+      "id": 165
+    },
+    {
+      "images": [
+        "GA2_TIMES_AN.png",
+        "DUN3_GUNU.png"
+      ],
+      "sign_value": "agarin3",
+      "sign_name": "GA2×AN.DUN3@g Borger: AMA.GIN2",
+      "id": 166
+    },
+    {
+      "images": [
+        "GA2_TIMES_AN.png",
+        "SHIM.png"
+      ],
+      "sign_value": "agarin4",
+      "sign_name": "GA2×AN.ŠIM Borger: AMA.ŠIM",
+      "id": 167
+    },
+    {
+      "images": [
+        "GA2_TIMES_GAN2_TENU.png"
+      ],
+      "sign_value": "dan4",
+      "sign_name": "GA2×GAN2@t Borger: DAN4 and GA2×KAR2",
+      "id": 168
+    },
+    {
+      "images": [
+        "GA2_TIMES_GAR.png"
+      ],
+      "sign_value": "ĝalga",
+      "sign_name": "GA2×GAR Borger: GALGA and GA2×NIG2",
+      "id": 169
+    },
+    {
+      "images": [
+        "GA2_TIMES_ME_PLUS_EN.png"
+      ],
+      "sign_value": "dan2, men",
+      "sign_name": "GA2×ME+EN Borger: MEN",
+      "id": 170
+    },
+    {
+      "images": [
+        "GA2_TIMES_MI.png"
+      ],
+      "sign_value": "itima",
+      "sign_name": "GA2×MI Borger: ITIMA",
+      "id": 171
+    },
+    {
+      "images": [
+        "GA2_TIMES_NUN.png"
+      ],
+      "sign_value": "ĝanun",
+      "sign_name": "GA2×NUN Borger: GANUN",
+      "id": 172
+    },
+    {
+      "images": [
+        "GA2_TIMES_NUN_OVER_NUN.png"
+      ],
+      "sign_value": "ur3",
+      "sign_name": "GA2×NUN/NUN Borger: UR3",
+      "id": 173
+    },
+    {
+      "images": [
+        "GA2_TIMES_PA.png"
+      ],
+      "sign_value": "gazi, sila4",
+      "sign_name": "GA2×PA Borger: SILA4",
+      "id": 174
+    },
+    {
+      "images": [
+        "GA2_TIMES_SAL.png"
+      ],
+      "sign_value": "ama5, arḫuš",
+      "sign_name": "GA2×SAL Borger: ARḪUŠ and GA2×MUNUS",
+      "id": 175
+    },
+    {
+      "images": [
+        "GA2_TIMES_SHE.png"
+      ],
+      "sign_value": "esaĝ2",
+      "sign_name": "GA2×ŠE Borger: ESAG2",
+      "id": 176
+    },
+    {
+      "images": [
+        "GA2_TIMES_TAK4.png"
+      ],
+      "sign_value": "dan3",
+      "sign_name": "GA2×TAK4 Borger: DAN3 and GA2×KID2",
+      "id": 177
+    },
+    {
+      "images": [
+        "GABA.png"
+      ],
+      "sign_value": "du8, duḫ, gab, gaba",
+      "sign_name": "GABA",
+      "id": 178
+    },
+    {
+      "images": [
+        "GAD.png"
+      ],
+      "sign_value": "gada",
+      "sign_name": "GAD",
+      "id": 179
+    },
+    {
+      "images": [
+        "GAD.png",
+        "TAK4.png",
+        "SI.png"
+      ],
+      "sign_value": "akkil",
+      "sign_name": "GAD.TAK4.SI Borger: AKKIL and GAD.KID2.SI",
+      "id": 180
+    },
+    {
+      "images": [
+        "GAD.png",
+        "TAK4.png",
+        "SI.png",
+        "A.png"
+      ],
+      "sign_value": "akkilx",
+      "sign_name": "GAD.TAK4.SI.A",
+      "id": 181
+    },
+    {
+      "images": [
+        "GAD.png",
+        "TAK4.png",
+        "UR2.png"
+      ],
+      "sign_value": "umbin",
+      "sign_name": "GAD.TAK4.UR2 Borger: UMBIN and GAD.KID2.UR2",
+      "id": 182
+    },
+    {
+      "images": [
+        "GAD_OVER_GAD_GAR_OVER_GAR.png"
+      ],
+      "sign_value": "garadinx, kinda",
+      "sign_name": "GAD/GAD.GAR/GAR Borger: KINDA",
+      "id": 183
+    },
+    {
+      "images": [
+        "GAL.png"
+      ],
+      "sign_value": "gal, kal2",
+      "sign_name": "GAL",
+      "id": 184
+    },
+    {
+      "images": [
+        "GAL.png",
+        "BUR2.png"
+      ],
+      "sign_value": "ušumgal",
+      "sign_name": "GAL.BUR2",
+      "id": 185
+    },
+    {
+      "images": [
+        "GAL_GAD_OVER_GAD_GAR_OVER_GAR.png"
+      ],
+      "sign_value": "kindagal",
+      "sign_name": "GAL.GAD/GAD.GAR/GAR Borger: GAL.KINDA",
+      "id": 186
+    },
+    {
+      "images": [
+        "GAL.png",
+        "TE.png"
+      ],
+      "sign_value": "tiru",
+      "sign_name": "GAL.TE",
+      "id": 187
+    },
+    {
+      "images": [
+        "GAL.png",
+        "URI.png"
+      ],
+      "sign_value": "kindagal2",
+      "sign_name": "GAL.URI",
+      "id": 188
+    },
+    {
+      "images": [
+        "GAL.png",
+        "URU_TIMES_BAR.png"
+      ],
+      "sign_value": "kingal",
+      "sign_name": "GAL.URU×BAR Borger: GAL.UKKIN",
+      "id": 189
+    },
+    {
+      "images": [
+        "GALAM.png"
+      ],
+      "sign_value": "galam, sukux, sukud",
+      "sign_name": "GALAM",
+      "id": 190
+    },
+    {
+      "images": [
+        "GAM.png"
+      ],
+      "sign_value": "gam, gur2, gurum",
+      "sign_name": "GAM",
+      "id": 191
+    },
+    {
+      "images": [
+        "GAN.png"
+      ],
+      "sign_value": "gam4, gan, gana, ḫe2, kan",
+      "sign_name": "GAN",
+      "id": 192
+    },
+    {
+      "images": [
+        "GAN2.png"
+      ],
+      "sign_value": "ga3, gan2, gana2, iku, kan2",
+      "sign_name": "GAN2",
+      "id": 193
+    },
+    {
+      "images": [
+        "GAN2_CROSSING_GAN2.png"
+      ],
+      "sign_value": "ulul2",
+      "sign_name": "GAN2%GAN2",
+      "id": 194
+    },
+    {
+      "images": [
+        "GAN2_TENU.png"
+      ],
+      "sign_value": "guru6, kar2",
+      "sign_name": "GAN2@t Borger: KAR2",
+      "id": 195
+    },
+    {
+      "images": [
+        "GAR.png"
+      ],
+      "sign_value": "ĝar, ni3, niĝ2, ninda, nindan, ša2",
+      "sign_name": "GAR Borger: NIG2",
+      "id": 196
+    },
+    {
+      "images": [
+        "GAR.png",
+        "SHA3.png"
+      ],
+      "sign_value": "kadra2",
+      "sign_name": "GAR.ŠA3 Borger: NIG2.ŠA3",
+      "id": 197
+    },
+    {
+      "images": [
+        "GAR.png",
+        "SHA3.png",
+        "A.png"
+      ],
+      "sign_value": "kadra",
+      "sign_name": "GAR.ŠA3.A Borger: NIG2.ŠA3.A",
+      "id": 198
+    },
+    {
+      "images": [
+        "GAR3.png"
+      ],
+      "sign_value": "gar3, gara3, qar",
+      "sign_name": "GAR3",
+      "id": 199
+    },
+    {
+      "images": [
+        "GA_GUNU.png"
+      ],
+      "sign_value": "gara2",
+      "sign_name": "GA@g Borger: GAR2",
+      "id": 200
+    },
+    {
+      "images": [
+        "GESHTIN.png"
+      ],
+      "sign_value": "ĝeštin",
+      "sign_name": "GEŠTIN",
+      "id": 201
+    },
+    {
+      "images": [
+        "GI.png"
+      ],
+      "sign_value": "ge, gen6, gi, ke2, ki2, sig17",
+      "sign_name": "GI",
+      "id": 202
+    },
+    {
+      "images": [
+        "GI.png",
+        "NA.png",
+        "AB.png",
+        "U_GUD.png"
+      ],
+      "sign_value": "šutum",
+      "sign_name": "GI.NA.AB.U.GUD Borger: GI.NA.AB.UL",
+      "id": 203
+    },
+    {
+      "images": [
+        "GI4.png"
+      ],
+      "sign_value": "ge4, gi4, qi4",
+      "sign_name": "GI4",
+      "id": 204
+    },
+    {
+      "images": [
+        "GIDIM.png"
+      ],
+      "sign_value": "gidim",
+      "sign_name": "GIDIM",
+      "id": 205
+    },
+    {
+      "images": [
+        "GIG.png"
+      ],
+      "sign_value": "gi17, gig, simx",
+      "sign_name": "GIG",
+      "id": 206
+    },
+    {
+      "images": [
+        "GIR2.png"
+      ],
+      "sign_value": "ĝir2, ĝiri2",
+      "sign_name": "GIR2",
+      "id": 207
+    },
+    {
+      "images": [
+        "GIR2_GUNU.png"
+      ],
+      "sign_value": "kiši17, tab2, ul4",
+      "sign_name": "GIR2@g",
+      "id": 208
+    },
+    {
+      "images": [
+        "GIR3.png"
+      ],
+      "sign_value": "er9, gir3, ĝir3, ĝiri3, šakkan2",
+      "sign_name": "GIR3",
+      "id": 209
+    },
+    {
+      "images": [
+        "GIR3.png",
+        "ARAD.png"
+      ],
+      "sign_value": "šagina",
+      "sign_name": "GIR3.ARAD",
+      "id": 210
+    },
+    {
+      "images": [
+        "GIR3.png",
+        "BAR.png"
+      ],
+      "sign_value": "šer11",
+      "sign_name": "GIR3.BAR",
+      "id": 211
+    },
+    {
+      "images": [
+        "GIR3_TIMES_A_PLUS_IGI.png"
+      ],
+      "sign_value": "alim",
+      "sign_name": "GIR3×A+IGI Borger: ALIM",
+      "id": 212
+    },
+    {
+      "images": [
+        "GIR3_TIMES_GAN2_TENU.png"
+      ],
+      "sign_value": "gir16, giri16, girid2",
+      "sign_name": "GIR3×GAN2@t Borger: GIR3×KAR2",
+      "id": 213
+    },
+    {
+      "images": [
+        "GIR3_TIMES_LU_PLUS_IGI.png"
+      ],
+      "sign_value": "lulim",
+      "sign_name": "GIR3×LU+IGI",
+      "id": 214
+    },
+    {
+      "images": [
+        "GISAL.png"
+      ],
+      "sign_value": "ĝisal",
+      "sign_name": "GISAL",
+      "id": 215
+    },
+    {
+      "images": [
+        "GISH.png"
+      ],
+      "sign_value": "ĝiš, is, iš6, iz",
+      "sign_name": "GIŠ",
+      "id": 216
+    },
+    {
+      "images": [
+        "GISH.png",
+        "BAR.png"
+      ],
+      "sign_value": "gira2",
+      "sign_name": "GIŠ.BAR",
+      "id": 217
+    },
+    {
+      "images": [
+        "GISH.png",
+        "DUN3_GUNU.png",
+        "MASH.png"
+      ],
+      "sign_value": "gilgameš",
+      "sign_name": "GIŠ.DUN3@g.MAŠ Borger: GIŠ.GIN2.MAŠ",
+      "id": 218
+    },
+    {
+      "images": [
+        "GISH.png",
+        "GA2_TIMES_NUN_OVER_NUN.png"
+      ],
+      "sign_value": "ĝušurx",
+      "sign_name": "GIŠ.GA2×NUN/NUN",
+      "id": 219
+    },
+    {
+      "images": [
+        "GISH.png",
+        "KUSHU2.png"
+      ],
+      "sign_value": "umma",
+      "sign_name": "GIŠ.KUŠU2",
+      "id": 220
+    },
+    {
+      "images": [
+        "GISH.png",
+        "MI.png"
+      ],
+      "sign_value": "ĝissu",
+      "sign_name": "GIŠ.MI",
+      "id": 221
+    },
+    {
+      "images": [
+        "GISH.png",
+        "NE.png",
+        "GA.png",
+        "MES.png"
+      ],
+      "sign_value": "gilgameš3",
+      "sign_name": "GIŠ.NE.GA.MES",
+      "id": 222
+    },
+    {
+      "images": [
+        "GISH.png",
+        "NE.png",
+        "MES.png",
+        "GA.png"
+      ],
+      "sign_value": "gilgamešx",
+      "sign_name": "GIŠ.NE.MES.GA",
+      "id": 223
+    },
+    {
+      "images": [
+        "GISH.png",
+        "NE_SHESHIG.png",
+        "GA.png",
+        "MES.png"
+      ],
+      "sign_value": "gilgameš2",
+      "sign_name": "GIŠ.NEšešig.GA.MES Borger: GIŠ.BIL2.GA.MES",
+      "id": 224
+    },
+    {
+      "images": [
+        "GISH.png",
+        "PI.png",
+        "TUG2.png"
+      ],
+      "sign_value": "ĝeštug3",
+      "sign_name": "GIŠ.PI.TUG2",
+      "id": 225
+    },
+    {
+      "images": [
+        "GISH.png",
+        "TUG2.png",
+        "NI.png"
+      ],
+      "sign_value": "ĝizzalx",
+      "sign_name": "GIŠ.TUG2.NI",
+      "id": 226
+    },
+    {
+      "images": [
+        "GISH.png",
+        "TUG2.png",
+        "PI.png"
+      ],
+      "sign_value": "ĝeštug2",
+      "sign_name": "GIŠ.TUG2.PI",
+      "id": 227
+    },
+    {
+      "images": [
+        "GISH.png",
+        "TUG2.png",
+        "PI.png",
+        "NU11.png",
+        "SILA3.png"
+      ],
+      "sign_value": "ĝizzal",
+      "sign_name": "GIŠ.TUG2.PI.NU11.SILA3",
+      "id": 228
+    },
+    {
+      "images": [
+        "GISH_CROSSING_GISH.png"
+      ],
+      "sign_value": "ḫul3, lirum3, šennur, ul3",
+      "sign_name": "GIŠ%GIŠ Borger: KIB",
+      "id": 229
+    },
+    {
+      "images": [
+        "GISH_CROSSING_GISH.png",
+        "NUN.png"
+      ],
+      "sign_value": "buranunx",
+      "sign_name": "GIŠ%GIŠ.NUN",
+      "id": 230
+    },
+    {
+      "images": [
+        "GI_CROSSING_GI.png"
+      ],
+      "sign_value": "gel, gi16, gib, gil, gilim",
+      "sign_name": "GI%GI Borger: GIL",
+      "id": 231
+    },
+    {
+      "images": [
+        "GU.png"
+      ],
+      "sign_value": "gu",
+      "sign_name": "GU",
+      "id": 232
+    },
+    {
+      "images": [
+        "GU_CROSSING_GU.png"
+      ],
+      "sign_value": "saḫ4, suḫ3",
+      "sign_name": "GU%GU Borger: SUḪ3",
+      "id": 233
+    },
+    {
+      "images": [
+        "GU2.png"
+      ],
+      "sign_value": "gu2, gun2",
+      "sign_name": "GU2",
+      "id": 234
+    },
+    {
+      "images": [
+        "GU2_TIMES_KAK.png"
+      ],
+      "sign_value": "dur, usanx",
+      "sign_name": "GU2×KAK Borger: DUR",
+      "id": 235
+    },
+    {
+      "images": [
+        "GU2_TIMES_NUN.png"
+      ],
+      "sign_value": "sub3, usan",
+      "sign_name": "GU2×NUN Borger: USAN",
+      "id": 236
+    },
+    {
+      "images": [
+        "GUD.png"
+      ],
+      "sign_value": "eštub, gu4, gud",
+      "sign_name": "GUD",
+      "id": 237
+    },
+    {
+      "images": [
+        "GUD_TIMES_A_PLUS_KUR.png"
+      ],
+      "sign_value": "ildag2",
+      "sign_name": "GUD×A+KUR Borger: AM×A",
+      "id": 238
+    },
+    {
+      "images": [
+        "GUD_TIMES_KUR.png"
+      ],
+      "sign_value": "am, ildag3",
+      "sign_name": "GUD×KUR Borger: AM",
+      "id": 239
+    },
+    {
+      "images": [
+        "GUL.png"
+      ],
+      "sign_value": "gul, isimu2, kul2, si23, sumun2",
+      "sign_name": "GUL",
+      "id": 240
+    },
+    {
+      "images": [
+        "GUM.png"
+      ],
+      "sign_value": "gum, kum, naĝa4, qum",
+      "sign_name": "GUM Borger: KUM",
+      "id": 241
+    },
+    {
+      "images": [
+        "GUM_TIMES_SHE.png"
+      ],
+      "sign_value": "gaz, naĝa3",
+      "sign_name": "GUM×ŠE Borger: GAZ",
+      "id": 242
+    },
+    {
+      "images": [
+        "GUR.png"
+      ],
+      "sign_value": "gur",
+      "sign_name": "GUR",
+      "id": 243
+    },
+    {
+      "images": [
+        "GUR7.png"
+      ],
+      "sign_value": "guru7",
+      "sign_name": "GUR7",
+      "id": 244
+    },
+    {
+      "images": [
+        "GURUN.png"
+      ],
+      "sign_value": "gamx, gurun",
+      "sign_name": "GURUN",
+      "id": 245
+    },
+    {
+      "images": [
+        "HA.png"
+      ],
+      "sign_value": "ḫa, ku6, peš11",
+      "sign_name": "HA",
+      "id": 246
+    },
+    {
+      "images": [
+        "HA.png",
+        "A.png"
+      ],
+      "sign_value": "kuara, saḫ6",
+      "sign_name": "HA.A",
+      "id": 247
+    },
+    {
+      "images": [
+        "HA_GUNU.png"
+      ],
+      "sign_value": "biš, gir, peš",
+      "sign_name": "HA@g Borger: GIR",
+      "id": 248
+    },
+    {
+      "images": [
+        "HAL.png"
+      ],
+      "sign_value": "ḫal",
+      "sign_name": "HAL",
+      "id": 249
+    },
+    {
+      "images": [
+        "HI.png"
+      ],
+      "sign_value": "da10, du10, dub3, dug3, ḫe, ḫi, šar2",
+      "sign_name": "HI",
+      "id": 250
+    },
+    {
+      "images": [
+        "HI.png",
+        "GIR3.png"
+      ],
+      "sign_value": "ḫuš",
+      "sign_name": "HI.GIR3 Borger: ḪUŠ",
+      "id": 251
+    },
+    {
+      "images": [
+        "HI_TIMES_ASH.png"
+      ],
+      "sign_value": "sur3",
+      "sign_name": "HI×AŠ Borger: SUR3",
+      "id": 252
+    },
+    {
+      "images": [
+        "HI_TIMES_ASH2.png"
+      ],
+      "sign_value": "ar3, ḫar, ḫur, kin2, kinkin, mar6, mur, ur5",
+      "sign_name": "HI×AŠ2 Borger: ḪAR",
+      "id": 253
+    },
+    {
+      "images": [
+        "HI_TIMES_BAD.png"
+      ],
+      "sign_value": "kam, tu7, utul2",
+      "sign_name": "HI×BAD Borger: KAM",
+      "id": 254
+    },
+    {
+      "images": [
+        "HI_TIMES_NUN.png"
+      ],
+      "sign_value": "a’, aḫ, eḫ, iḫ, uḫ, umun3",
+      "sign_name": "HI×NUN Borger: AḪ",
+      "id": 255
+    },
+    {
+      "images": [
+        "HI_TIMES_NUN.png",
+        "ME.png"
+      ],
+      "sign_value": "gudug",
+      "sign_name": "HI×NUN.ME Borger: AḪ.ME",
+      "id": 256
+    },
+    {
+      "images": [
+        "HI_TIMES_SHE.png"
+      ],
+      "sign_value": "bir, dubur, giriš",
+      "sign_name": "HI×ŠE Borger: BIR",
+      "id": 257
+    },
+    {
+      "images": [
+        "HU.png"
+      ],
+      "sign_value": "ḫu, mušen, pag, u11",
+      "sign_name": "HU",
+      "id": 258
+    },
+    {
+      "images": [
+        "HU.png",
+        "HI.png"
+      ],
+      "sign_value": "mud",
+      "sign_name": "HU.HI Borger: MUD",
+      "id": 259
+    },
+    {
+      "images": [
+        "HU.png",
+        "NA2.png"
+      ],
+      "sign_value": "sa4, še21",
+      "sign_name": "HU.NA2 Borger: SA4",
+      "id": 260
+    },
+    {
+      "images": [
+        "HU.png",
+        "SI.png"
+      ],
+      "sign_value": "u5",
+      "sign_name": "HU.SI Borger: U5",
+      "id": 261
+    },
+    {
+      "images": [
+        "HU.png",
+        "SHE.png",
+        "ERIN2.png"
+      ],
+      "sign_value": "buru5",
+      "sign_name": "HU.ŠE.ERIN2 Borger: BURU5",
+      "id": 262
+    },
+    {
+      "images": [
+        "HUB2.png"
+      ],
+      "sign_value": "ḫub2, tu11",
+      "sign_name": "HUB2",
+      "id": 263
+    },
+    {
+      "images": [
+        "HUB2_TIMES_UD.png"
+      ],
+      "sign_value": "tu10",
+      "sign_name": "HUB2×UD Borger: ḪUB",
+      "id": 264
+    },
+    {
+      "images": [
+        "HUL2.png"
+      ],
+      "sign_value": "bibra, gukkal, ḫul2, kuš8, ukuš2",
+      "sign_name": "HUL2",
+      "id": 265
+    },
+    {
+      "images": [
+        "I.png"
+      ],
+      "sign_value": "i",
+      "sign_name": "I",
+      "id": 266
+    },
+    {
+      "images": [
+        "I_A.png"
+      ],
+      "sign_value": "ia",
+      "sign_name": "I.A Borger: IA",
+      "id": 267
+    },
+    {
+      "images": [
+        "I.png",
+        "LU.png"
+      ],
+      "sign_value": "kun4",
+      "sign_name": "I.LU",
+      "id": 268
+    },
+    {
+      "images": [
+        "IB.png"
+      ],
+      "sign_value": "dara2, eb, ib, ip, uraš, urta",
+      "sign_name": "IB",
+      "id": 269
+    },
+    {
+      "images": [
+        "IDIM.png"
+      ],
+      "sign_value": "idim",
+      "sign_name": "IDIM",
+      "id": 270
+    },
+    {
+      "images": [
+        "IG.png"
+      ],
+      "sign_value": "eg, ek, ĝal2, ig, ik, iq",
+      "sign_name": "IG",
+      "id": 271
+    },
+    {
+      "images": [
+        "IGI.png"
+      ],
+      "sign_value": "ge8, gi8, igi, lib4, lim, ši",
+      "sign_name": "IGI",
+      "id": 272
+    },
+    {
+      "images": [
+        "IGI.png",
+        "A.png"
+      ],
+      "sign_value": "šex",
+      "sign_name": "IGI.A",
+      "id": 273
+    },
+    {
+      "images": [
+        "IGI.png",
+        "DIB.png"
+      ],
+      "sign_value": "u3",
+      "sign_name": "IGI.DIB Borger: U3",
+      "id": 274
+    },
+    {
+      "images": [
+        "IGI.png",
+        "DIM.png"
+      ],
+      "sign_value": "ḫenzer",
+      "sign_name": "IGI.DIM",
+      "id": 275
+    },
+    {
+      "images": [
+        "IGI.png",
+        "DU.png"
+      ],
+      "sign_value": "igištu, palil",
+      "sign_name": "IGI.DU",
+      "id": 276
+    },
+    {
+      "images": [
+        "IGI.png",
+        "DUB.png"
+      ],
+      "sign_value": "aĝrig, ĝiškim",
+      "sign_name": "IGI.DUB Borger: AGRIG",
+      "id": 277
+    },
+    {
+      "images": [
+        "IGI.png",
+        "E2.png"
+      ],
+      "sign_value": "u6",
+      "sign_name": "IGI.E2 Borger: U6",
+      "id": 278
+    },
+    {
+      "images": [
+        "IGI.png",
+        "ERIN2.png"
+      ],
+      "sign_value": "kur7, kurum7, sig5",
+      "sign_name": "IGI.ERIN2 Borger: SIG5",
+      "id": 279
+    },
+    {
+      "images": [
+        "IGI.png",
+        "ESH2.png"
+      ],
+      "sign_value": "libir",
+      "sign_name": "IGI.EŠ2 Borger: LIBIR",
+      "id": 280
+    },
+    {
+      "images": [
+        "IGI.png",
+        "KAK.png"
+      ],
+      "sign_value": "dala2, šukur",
+      "sign_name": "IGI.KAK Borger: IGI.GAG",
+      "id": 281
+    },
+    {
+      "images": [
+        "IGI.png",
+        "KUR.png"
+      ],
+      "sign_value": "ganzer3",
+      "sign_name": "IGI.KUR",
+      "id": 282
+    },
+    {
+      "images": [
+        "IGI.png",
+        "KUR.png",
+        "ZA.png"
+      ],
+      "sign_value": "ganzer",
+      "sign_name": "IGI.KUR.ZA",
+      "id": 283
+    },
+    {
+      "images": [
+        "IGI.png",
+        "NAGAR.png",
+        "BU.png"
+      ],
+      "sign_value": "ildum2",
+      "sign_name": "IGI.NAGAR.BU",
+      "id": 284
+    },
+    {
+      "images": [
+        "IGI.png",
+        "RI.png"
+      ],
+      "sign_value": "ar",
+      "sign_name": "IGI.RI Borger: AR",
+      "id": 285
+    },
+    {
+      "images": [
+        "IGI.png",
+        "RU.png"
+      ],
+      "sign_value": "pa3, pad3",
+      "sign_name": "IGI.RU Borger: PAD3",
+      "id": 286
+    },
+    {
+      "images": [
+        "IGI.png",
+        "TUR.png"
+      ],
+      "sign_value": "ligima",
+      "sign_name": "IGI.TUR.TUR",
+      "id": 287
+    },
+    {
+      "images": [
+        "IGI.png",
+        "UR.png"
+      ],
+      "sign_value": "ḫul",
+      "sign_name": "IGI.UR Borger: ḪUL",
+      "id": 288
+    },
+    {
+      "images": [
+        "IGI_GUNU.png"
+      ],
+      "sign_value": "imma3, se12, sig7, šex, ugur2",
+      "sign_name": "IGI@g Borger: SIG7",
+      "id": 289
+    },
+    {
+      "images": [
+        "IGI_GUNU.png",
+        "ALAN.png"
+      ],
+      "sign_value": "ulutim2",
+      "sign_name": "IGI@g.ALAN Borger: SIG7.ALAM",
+      "id": 290
+    },
+    {
+      "images": [
+        "IL.png"
+      ],
+      "sign_value": "il",
+      "sign_name": "IL",
+      "id": 291
+    },
+    {
+      "images": [
+        "IL2.png"
+      ],
+      "sign_value": "dusu, ga6, gur3, guru3, il2",
+      "sign_name": "IL2",
+      "id": 292
+    },
+    {
+      "images": [
+        "IM.png"
+      ],
+      "sign_value": "did, em, enegir, im, iškur, karkara, ni2, tum9",
+      "sign_name": "IM",
+      "id": 293
+    },
+    {
+      "images": [
+        "IM.png",
+        "A.png"
+      ],
+      "sign_value": "šeĝx",
+      "sign_name": "IM.A",
+      "id": 294
+    },
+    {
+      "images": [
+        "IM.png",
+        "A.png"
+      ],
+      "sign_value": "šeĝx",
+      "sign_name": "IM.A.A",
+      "id": 295
+    },
+    {
+      "images": [
+        "IM.png",
+        "A.png",
+        "AN.png"
+      ],
+      "sign_value": "šeĝ14",
+      "sign_name": "IM.A.AN",
+      "id": 296
+    },
+    {
+      "images": [
+        "IM.png",
+        "DUGUD.png"
+      ],
+      "sign_value": "muru9",
+      "sign_name": "IM.DUGUD",
+      "id": 297
+    },
+    {
+      "images": [
+        "IM.png",
+        "SI.png",
+        "A.png"
+      ],
+      "sign_value": "dungu",
+      "sign_name": "IM.SI.A Borger: IM.DIR",
+      "id": 298
+    },
+    {
+      "images": [
+        "IM_TIMES_TAK4.png"
+      ],
+      "sign_value": "kid7",
+      "sign_name": "IM×TAK4 Borger: IM×KID2",
+      "id": 299
+    },
+    {
+      "images": [
+        "IMIN.png"
+      ],
+      "sign_value": "imin",
+      "sign_name": "IMIN",
+      "id": 300
+    },
+    {
+      "images": [
+        "IN.png"
+      ],
+      "sign_value": "en6, in, isin2",
+      "sign_name": "IN",
+      "id": 301
+    },
+    {
+      "images": [
+        "IR.png"
+      ],
+      "sign_value": "er, ir",
+      "sign_name": "IR",
+      "id": 302
+    },
+    {
+      "images": [
+        "ISH.png"
+      ],
+      "sign_value": "isiš, iš, iši, kuš7, kukkuš, saḫar",
+      "sign_name": "IŠ",
+      "id": 303
+    },
+    {
+      "images": [
+        "KA.png"
+      ],
+      "sign_value": "du11, dug4, ga14, giri17, gu3, inim, ka, kir4, pi4, su11, šudx, zu2, zuḫ",
+      "sign_name": "KA",
+      "id": 304
+    },
+    {
+      "images": [
+        "KA.png",
+        "AN.png",
+        "NI.png",
+        "SI.png"
+      ],
+      "sign_value": "kurku2",
+      "sign_name": "KA.AN.NI.SI",
+      "id": 305
+    },
+    {
+      "images": [
+        "KA.png",
+        "DI.png"
+      ],
+      "sign_value": "ištaran",
+      "sign_name": "KA.DI",
+      "id": 306
+    },
+    {
+      "images": [
+        "KA.png",
+        "HI.png"
+      ],
+      "sign_value": "dimma",
+      "sign_name": "KA.HI",
+      "id": 307
+    },
+    {
+      "images": [
+        "KA.png",
+        "SHU.png"
+      ],
+      "sign_value": "šudux",
+      "sign_name": "KA.ŠU",
+      "id": 308
+    },
+    {
+      "images": [
+        "KA.png",
+        "U2.png"
+      ],
+      "sign_value": "uzugx",
+      "sign_name": "KA.U2",
+      "id": 309
+    },
+    {
+      "images": [
+        "KA_TIMES_A.png"
+      ],
+      "sign_value": "enmen2, kab2, na8, naĝ",
+      "sign_name": "KA×A Borger: NAG",
+      "id": 310
+    },
+    {
+      "images": [
+        "KA_TIMES_BAD.png"
+      ],
+      "sign_value": "uš11",
+      "sign_name": "KA×BAD Borger: UŠ11",
+      "id": 311
+    },
+    {
+      "images": [
+        "KA_TIMES_BALAG.png"
+      ],
+      "sign_value": "šeg11",
+      "sign_name": "KA×BALAG",
+      "id": 312
+    },
+    {
+      "images": [
+        "KA_TIMES_ESH2.png"
+      ],
+      "sign_value": "ma5",
+      "sign_name": "KA×EŠ2 Borger: KA×ŠE3",
+      "id": 313
+    },
+    {
+      "images": [
+        "KA_TIMES_GA.png"
+      ],
+      "sign_value": "sub",
+      "sign_name": "KA×GA",
+      "id": 314
+    },
+    {
+      "images": [
+        "KA_TIMES_GAN2_TENU.png"
+      ],
+      "sign_value": "bu3, kana6, puzur5",
+      "sign_name": "KA×GAN2@t Borger: PU3 and KA×KAR2",
+      "id": 315
+    },
+    {
+      "images": [
+        "KA_TIMES_GAN2_TENU.png",
+        "SHA.png"
+      ],
+      "sign_value": "puzur4",
+      "sign_name": "KA×GAN2@t.ŠA Borger: PU3.ZUR8",
+      "id": 316
+    },
+    {
+      "images": [
+        "KA_TIMES_GAR.png"
+      ],
+      "sign_value": "gu7, šaĝar",
+      "sign_name": "KA×GAR Borger: GU7 and KA×NIG2",
+      "id": 317
+    },
+    {
+      "images": [
+        "KA_TIMES_IM.png"
+      ],
+      "sign_value": "bun2",
+      "sign_name": "KA×IM Borger: BUN2",
+      "id": 318
+    },
+    {
+      "images": [
+        "KA_TIMES_LI.png"
+      ],
+      "sign_value": "ĝili3, mu7, šegx, tu6, uš7, zug4",
+      "sign_name": "KA×LI Borger: TU6",
+      "id": 319
+    },
+    {
+      "images": [
+        "KA_TIMES_ME.png"
+      ],
+      "sign_value": "eme",
+      "sign_name": "KA×ME Borger: EME",
+      "id": 320
+    },
+    {
+      "images": [
+        "KA_TIMES_MI.png"
+      ],
+      "sign_value": "kana5",
+      "sign_name": "KA×MI",
+      "id": 321
+    },
+    {
+      "images": [
+        "KA_TIMES_NE.png"
+      ],
+      "sign_value": "urgu2",
+      "sign_name": "KA×NE",
+      "id": 322
+    },
+    {
+      "images": [
+        "KA_TIMES_NUN.png"
+      ],
+      "sign_value": "nundum",
+      "sign_name": "KA×NUN Borger: NUNDUM",
+      "id": 323
+    },
+    {
+      "images": [
+        "KA_TIMES_SA.png"
+      ],
+      "sign_value": "sun4",
+      "sign_name": "KA×SA Borger: SU6",
+      "id": 324
+    },
+    {
+      "images": [
+        "KA_TIMES_SAR.png"
+      ],
+      "sign_value": "ma8",
+      "sign_name": "KA×SAR",
+      "id": 325
+    },
+    {
+      "images": [
+        "KA_TIMES_SHE.png"
+      ],
+      "sign_value": "tukur2",
+      "sign_name": "KA×ŠE",
+      "id": 326
+    },
+    {
+      "images": [
+        "KA_TIMES_SHID.png"
+      ],
+      "sign_value": "sigx, šeg10",
+      "sign_name": "KA×ŠID",
+      "id": 327
+    },
+    {
+      "images": [
+        "KA_TIMES_SHU.png"
+      ],
+      "sign_value": "šudu3",
+      "sign_name": "KA×ŠU",
+      "id": 328
+    },
+    {
+      "images": [
+        "KA_TIMES_UD.png"
+      ],
+      "sign_value": "enmen, si19",
+      "sign_name": "KA×UD",
+      "id": 329
+    },
+    {
+      "images": [
+        "KA2.png"
+      ],
+      "sign_value": "kan4",
+      "sign_name": "KA2",
+      "id": 330
+    },
+    {
+      "images": [
+        "KA2.png",
+        "GAL.png"
+      ],
+      "sign_value": "abul, abula",
+      "sign_name": "KA2.GAL",
+      "id": 331
+    },
+    {
+      "images": [
+        "KAB.png"
+      ],
+      "sign_value": "gab2, gabu2, kab",
+      "sign_name": "KAB",
+      "id": 332
+    },
+    {
+      "images": [
+        "KAD3.png"
+      ],
+      "sign_value": "sedx",
+      "sign_name": "KAD3",
+      "id": 333
+    },
+    {
+      "images": [
+        "KAD4.png"
+      ],
+      "sign_value": "kad4, kam3, peš5",
+      "sign_name": "KAD4",
+      "id": 334
+    },
+    {
+      "images": [
+        "KAD5.png"
+      ],
+      "sign_value": "kad5, peš6",
+      "sign_name": "KAD5",
+      "id": 335
+    },
+    {
+      "images": [
+        "KAK.png"
+      ],
+      "sign_value": "da3, du3, gag, ḫenbur, ru2",
+      "sign_name": "KAK Borger: GAG",
+      "id": 336
+    },
+    {
+      "images": [
+        "KAL.png"
+      ],
+      "sign_value": "alad2, esi, ĝuruš, kal, kalag, lamma, rib, sun7, zi8",
+      "sign_name": "KAL",
+      "id": 337
+    },
+    {
+      "images": [
+        "KAL_TIMES_BAD.png"
+      ],
+      "sign_value": "alad",
+      "sign_name": "KAL×BAD Borger: ALAD",
+      "id": 338
+    },
+    {
+      "images": [
+        "KASKAL.png"
+      ],
+      "sign_value": "eš8, ir7, kaskal, raš",
+      "sign_name": "KASKAL",
+      "id": 339
+    },
+    {
+      "images": [
+        "KASKAL.png",
+        "BU.png"
+      ],
+      "sign_value": "danna",
+      "sign_name": "KASKAL.BU",
+      "id": 340
+    },
+    {
+      "images": [
+        "KASKAL.png",
+        "KUR.png"
+      ],
+      "sign_value": "illat",
+      "sign_name": "KASKAL.KUR Borger: ILLAT",
+      "id": 341
+    },
+    {
+      "images": [
+        "KASKAL.png",
+        "LAGAB.png"
+      ],
+      "sign_value": "šubtum3",
+      "sign_name": "KASKAL.LAGAB",
+      "id": 342
+    },
+    {
+      "images": [
+        "KASKAL.png",
+        "LAGAB_TIMES_U.png"
+      ],
+      "sign_value": "šubtum5",
+      "sign_name": "KASKAL.LAGAB×U",
+      "id": 343
+    },
+    {
+      "images": [
+        "KASKAL_LAGAB_TIMES_U_OVER_LAGAB_TIMES_U.png"
+      ],
+      "sign_value": "šubtum6",
+      "sign_name": "KASKAL.LAGAB×U/LAGAB×U",
+      "id": 344
+    },
+    {
+      "images": [
+        "KESH2.png"
+      ],
+      "sign_value": "gir11, ḫir, keše2, kirid",
+      "sign_name": "KEŠ2",
+      "id": 345
+    },
+    {
+      "images": [
+        "KI.png"
+      ],
+      "sign_value": "ge5, gi5, ke, ki, qi2",
+      "sign_name": "KI",
+      "id": 346
+    },
+    {
+      "images": [
+        "KI.png",
+        "A.png"
+      ],
+      "sign_value": "peš10",
+      "sign_name": "KI.A",
+      "id": 347
+    },
+    {
+      "images": [
+        "KI.png",
+        "AN.png",
+        "SHESH.png"
+      ],
+      "sign_value": "munzer",
+      "sign_name": "KI.AN.ŠEŠ.KI",
+      "id": 348
+    },
+    {
+      "images": [
+        "KI.png",
+        "BI.png"
+      ],
+      "sign_value": "ĝišbunx",
+      "sign_name": "KI.BI",
+      "id": 349
+    },
+    {
+      "images": [
+        "KI.png",
+        "BI.png",
+        "GAR.png"
+      ],
+      "sign_value": "ĝišbum, ĝišbun",
+      "sign_name": "KI.BI.GAR Borger: KI.BI.NIG2",
+      "id": 350
+    },
+    {
+      "images": [
+        "KI.png",
+        "E.png",
+        "NE.png",
+        "DI.png"
+      ],
+      "sign_value": "ešemen",
+      "sign_name": "KI.E.NE.DI",
+      "id": 351
+    },
+    {
+      "images": [
+        "KI.png",
+        "E.png",
+        "NE.png",
+        "DI.png",
+        "AN.png",
+        "MUSH3.png"
+      ],
+      "sign_value": "ešemen2",
+      "sign_name": "KI.E.NE.DI.AN.MUŠ3",
+      "id": 352
+    },
+    {
+      "images": [
+        "KI.png",
+        "KAL.png"
+      ],
+      "sign_value": "ḫirin, sas, ulutim",
+      "sign_name": "KI.KAL",
+      "id": 353
+    },
+    {
+      "images": [
+        "KI.png",
+        "KAL_TIMES_BAD.png"
+      ],
+      "sign_value": "garaš2",
+      "sign_name": "KI.KAL×BAD Borger: KI.ALAD",
+      "id": 354
+    },
+    {
+      "images": [
+        "KI.png",
+        "LAM.png"
+      ],
+      "sign_value": "ganba",
+      "sign_name": "KI.LAM",
+      "id": 355
+    },
+    {
+      "images": [
+        "KI.png",
+        "SAG.png",
+        "SAL.png"
+      ],
+      "sign_value": "igira2",
+      "sign_name": "KI.SAG.SAL Borger: KI.SAG.MUNUS",
+      "id": 356
+    },
+    {
+      "images": [
+        "KI.png",
+        "SU.png",
+        "LU.png",
+        "ESH2.png",
+        "GAR.png"
+      ],
+      "sign_value": "ugnim",
+      "sign_name": "KI.SU.LU.EŠ2.GAR Borger: KI.SU.LU.ŠE3.NIG2",
+      "id": 357
+    },
+    {
+      "images": [
+        "KI.png",
+        "UD.png"
+      ],
+      "sign_value": "kislaḫ",
+      "sign_name": "KI.UD",
+      "id": 358
+    },
+    {
+      "images": [
+        "KI.png",
+        "URU_TIMES_MIN.png"
+      ],
+      "sign_value": "dagan",
+      "sign_name": "KI.URU×MIN Borger: KI.GIŠGAL",
+      "id": 359
+    },
+    {
+      "images": [
+        "KI_TIMES_U.png"
+      ],
+      "sign_value": "ḫabrud",
+      "sign_name": "KI×U Borger: ḪABRUD",
+      "id": 360
+    },
+    {
+      "images": [
+        "KID.png"
+      ],
+      "sign_value": "ge2, gi2, ke4, kid, lil2",
+      "sign_name": "KID",
+      "id": 361
+    },
+    {
+      "images": [
+        "KIN.png"
+      ],
+      "sign_value": "gur10, kiĝ2, kin, saga11",
+      "sign_name": "KIN",
+      "id": 362
+    },
+    {
+      "images": [
+        "KISAL.png"
+      ],
+      "sign_value": "kisal, par4",
+      "sign_name": "KISAL",
+      "id": 363
+    },
+    {
+      "images": [
+        "KISH.png"
+      ],
+      "sign_value": "kiš",
+      "sign_name": "KIŠ",
+      "id": 364
+    },
+    {
+      "images": [
+        "KU.png"
+      ],
+      "sign_value": "bid3, bu7, dab5, dib2, dur2, duru2, durun, gu5, ku, nu10, suḫ5, še10, tukul, tuš, ugu4",
+      "sign_name": "KU",
+      "id": 365
+    },
+    {
+      "images": [
+        "KU.png",
+        "AN.png"
+      ],
+      "sign_value": "mitum",
+      "sign_name": "KU.AN",
+      "id": 366
+    },
+    {
+      "images": [
+        "KU.png",
+        "IDIM.png"
+      ],
+      "sign_value": "mitum2",
+      "sign_name": "KU.IDIM",
+      "id": 367
+    },
+    {
+      "images": [
+        "KU.png"
+      ],
+      "sign_value": "durunx, eḫ3",
+      "sign_name": "KU.KU",
+      "id": 368
+    },
+    {
+      "images": [
+        "KU.png"
+      ],
+      "sign_value": "eḫeḫḫe",
+      "sign_name": "KU.KU.KU",
+      "id": 369
+    },
+    {
+      "images": [
+        "KU3.png"
+      ],
+      "sign_value": "ku3, kug",
+      "sign_name": "KU3 Borger: KUG",
+      "id": 370
+    },
+    {
+      "images": [
+        "KU3.png",
+        "AN.png"
+      ],
+      "sign_value": "azag",
+      "sign_name": "KU3.AN Borger: KUG.AN",
+      "id": 371
+    },
+    {
+      "images": [
+        "KU4.png"
+      ],
+      "sign_value": "ku4, kur9",
+      "sign_name": "KU4",
+      "id": 372
+    },
+    {
+      "images": [
+        "KU7.png"
+      ],
+      "sign_value": "gurušta, ku7",
+      "sign_name": "KU7",
+      "id": 373
+    },
+    {
+      "images": [
+        "KUL.png"
+      ],
+      "sign_value": "kul, numun",
+      "sign_name": "KUL Borger: NUMUN",
+      "id": 374
+    },
+    {
+      "images": [
+        "KUN.png"
+      ],
+      "sign_value": "kun",
+      "sign_name": "KUN",
+      "id": 375
+    },
+    {
+      "images": [
+        "KUR.png"
+      ],
+      "sign_value": "gin3, kur",
+      "sign_name": "KUR",
+      "id": 376
+    },
+    {
+      "images": [
+        "KUR.png",
+        "ZA.png",
+        "ZI.png"
+      ],
+      "sign_value": "ganzerx",
+      "sign_name": "KUR.ZA.KUR.ZI",
+      "id": 377
+    },
+    {
+      "images": [
+        "KUSHU2.png"
+      ],
+      "sign_value": "kušu2, uḫ3",
+      "sign_name": "KUŠU2",
+      "id": 378
+    },
+    {
+      "images": [
+        "LA.png"
+      ],
+      "sign_value": "la, šika",
+      "sign_name": "LA",
+      "id": 379
+    },
+    {
+      "images": [
+        "LAGAB.png"
+      ],
+      "sign_value": "ellag, girin, gur4, ḫab, kilib, kir3, lagab, lugud2, ni10, niĝin2, rin",
+      "sign_name": "LAGAB",
+      "id": 380
+    },
+    {
+      "images": [
+        "LAGAB.png"
+      ],
+      "sign_value": "kilib3, niĝin",
+      "sign_name": "LAGAB.LAGAB Borger: NIGIN",
+      "id": 381
+    },
+    {
+      "images": [
+        "LAGAB_TIMES_A.png"
+      ],
+      "sign_value": "ambar, as4, buniĝ, sug",
+      "sign_name": "LAGAB×A Borger: SUG",
+      "id": 382
+    },
+    {
+      "images": [
+        "LAGAB_TIMES_BAD.png"
+      ],
+      "sign_value": "gigir",
+      "sign_name": "LAGAB×BAD Borger: GIGIR",
+      "id": 383
+    },
+    {
+      "images": [
+        "LAGAB_TIMES_GAR.png"
+      ],
+      "sign_value": "buniĝ2",
+      "sign_name": "LAGAB×GAR Borger: LAGAB×NIG2",
+      "id": 384
+    },
+    {
+      "images": [
+        "LAGAB_TIMES_GUD.png"
+      ],
+      "sign_value": "šurum3",
+      "sign_name": "LAGAB×GUD",
+      "id": 385
+    },
+    {
+      "images": [
+        "LAGAB_TIMES_GUD_PLUS_GUD.png"
+      ],
+      "sign_value": "ganam4, šurum, u8",
+      "sign_name": "LAGAB×GUD+GUD",
+      "id": 386
+    },
+    {
+      "images": [
+        "LAGAB_TIMES_HAL.png"
+      ],
+      "sign_value": "engur, namma",
+      "sign_name": "LAGAB×HAL Borger: ENGUR",
+      "id": 387
+    },
+    {
+      "images": [
+        "LAGAB_TIMES_IGI_GUNU.png"
+      ],
+      "sign_value": "immax, šara2",
+      "sign_name": "LAGAB×IGI@g Borger: ŠARA2 and LAGAB×SIG7",
+      "id": 388
+    },
+    {
+      "images": [
+        "LAGAB_TIMES_KUL.png"
+      ],
+      "sign_value": "esir2",
+      "sign_name": "LAGAB×KUL Borger: ESIR2 and LAGAB×NUMUN",
+      "id": 389
+    },
+    {
+      "images": [
+        "LAGAB_TIMES_SUM.png"
+      ],
+      "sign_value": "zar",
+      "sign_name": "LAGAB×SUM Borger: ZAR",
+      "id": 390
+    },
+    {
+      "images": [
+        "LAGAB_TIMES_U.png"
+      ],
+      "sign_value": "bu4, dul2, gigir2, ḫab2, pu2, tul2, ub4",
+      "sign_name": "LAGAB×U Borger: TUL2",
+      "id": 391
+    },
+    {
+      "images": [
+        "LAGAB_TIMES_U_PLUS_A.png"
+      ],
+      "sign_value": "umaḫ",
+      "sign_name": "LAGAB×U+A",
+      "id": 392
+    },
+    {
+      "images": [
+        "LAGAB_TIMES_U_PLUS_U_PLUS_U.png"
+      ],
+      "sign_value": "bul, bur10, ninna2, tuku4",
+      "sign_name": "LAGAB×U+U+U Borger: BUL and LAGAB×EŠ",
+      "id": 393
+    },
+    {
+      "images": [
+        "LAGAR.png"
+      ],
+      "sign_value": "lagar",
+      "sign_name": "LAGAR",
+      "id": 394
+    },
+    {
+      "images": [
+        "LAGAR_GUNU.png"
+      ],
+      "sign_value": "du6",
+      "sign_name": "LAGAR@g Borger: DU6",
+      "id": 395
+    },
+    {
+      "images": [
+        "LAGAR_GUNU.png",
+        "DU.png"
+      ],
+      "sign_value": "e11, ed3",
+      "sign_name": "LAGAR@g.DU Borger: DU6.DU",
+      "id": 396
+    },
+    {
+      "images": [
+        "LAGAR_GUNU_OVER_LAGAR_GUNU_SHE.png"
+      ],
+      "sign_value": "part of compound",
+      "sign_name": "LAGAR@g/LAGAR@g.ŠE",
+      "id": 397
+    },
+    {
+      "images": [
+        "LAGAR_GUNU_OVER_LAGAR_GUNU_SHE.png",
+        "SAR.png"
+      ],
+      "sign_value": "šumunda",
+      "sign_name": "LAGAR@g/LAGAR@g.ŠE.SAR Borger: DU6/DU6.ŠE.SAR",
+      "id": 398
+    },
+    {
+      "images": [
+        "LAGAR_TIMES_SHE.png"
+      ],
+      "sign_value": "sur12",
+      "sign_name": "LAGAR×ŠE Borger: SU7",
+      "id": 399
+    },
+    {
+      "images": [
+        "LAL.png"
+      ],
+      "sign_value": "la2, lal, suru5",
+      "sign_name": "LAL",
+      "id": 400
+    },
+    {
+      "images": [
+        "LAL_TIMES_LAL.png"
+      ],
+      "sign_value": "part of compound",
+      "sign_name": "LAL×LAL Borger: LAL2",
+      "id": 401
+    },
+    {
+      "images": [
+        "LAL_TIMES_LAL.png",
+        "DU.png"
+      ],
+      "sign_value": "ukur3",
+      "sign_name": "LAL×LAL.DU Borger: LAL2.DU",
+      "id": 402
+    },
+    {
+      "images": [
+        "LAL_TIMES_LAL.png",
+        "LAGAB.png"
+      ],
+      "sign_value": "niĝin5",
+      "sign_name": "LAL×LAL.LAGAB Borger: LAL2.LAGAB",
+      "id": 403
+    },
+    {
+      "images": [
+        "LAL_TIMES_LAL.png",
+        "SAR.png"
+      ],
+      "sign_value": "ušur",
+      "sign_name": "LAL×LAL.SAR Borger: LAL2.TIMES.SAR",
+      "id": 404
+    },
+    {
+      "images": [
+        "LAM.png"
+      ],
+      "sign_value": "ešx, lam",
+      "sign_name": "LAM",
+      "id": 405
+    },
+    {
+      "images": [
+        "LAM.png",
+        "KUR.png",
+        "RU.png"
+      ],
+      "sign_value": "aratta",
+      "sign_name": "LAM.KUR.RU",
+      "id": 406
+    },
+    {
+      "images": [
+        "LAM.png",
+        "KUR.png",
+        "RU.png",
+        "DA.png"
+      ],
+      "sign_value": "arattax",
+      "sign_name": "LAM.KUR.RU.DA",
+      "id": 407
+    },
+    {
+      "images": [
+        "LI.png"
+      ],
+      "sign_value": "en3, gub2, le, li",
+      "sign_name": "LI",
+      "id": 408
+    },
+    {
+      "images": [
+        "LIL.png"
+      ],
+      "sign_value": "lil, sukux",
+      "sign_name": "LIL",
+      "id": 409
+    },
+    {
+      "images": [
+        "LIMMU2.png"
+      ],
+      "sign_value": "limmu2",
+      "sign_name": "LIMMU2",
+      "id": 410
+    },
+    {
+      "images": [
+        "LISH.png"
+      ],
+      "sign_value": "dilim2",
+      "sign_name": "LIŠ",
+      "id": 411
+    },
+    {
+      "images": [
+        "LU.png"
+      ],
+      "sign_value": "lu, lug, nu12, udu",
+      "sign_name": "LU",
+      "id": 412
+    },
+    {
+      "images": [
+        "LU_TIMES_BAD.png"
+      ],
+      "sign_value": "ad3",
+      "sign_name": "LU×BAD Borger: AD3",
+      "id": 413
+    },
+    {
+      "images": [
+        "LU2.png"
+      ],
+      "sign_value": "lu2",
+      "sign_name": "LU2",
+      "id": 414
+    },
+    {
+      "images": [
+        "LU2.png",
+        "KI.png"
+      ],
+      "sign_value": "gurud2",
+      "sign_name": "LU2.KI",
+      "id": 415
+    },
+    {
+      "images": [
+        "LU2.png",
+        "SU.png"
+      ],
+      "sign_value": "šimaški",
+      "sign_name": "LU2.SU",
+      "id": 416
+    },
+    {
+      "images": [
+        "LU2_OPPOSING_LU2.png"
+      ],
+      "sign_value": "inbir",
+      "sign_name": "LU2(inverted)LU2 Borger: GIGAM",
+      "id": 417
+    },
+    {
+      "images": [
+        "LU2_SHESHIG.png"
+      ],
+      "sign_value": "ri9",
+      "sign_name": "LU2šešig",
+      "id": 418
+    },
+    {
+      "images": [
+        "LU2_TIMES_BAD.png"
+      ],
+      "sign_value": "ad6",
+      "sign_name": "LU2×BAD",
+      "id": 419
+    },
+    {
+      "images": [
+        "LU2_TIMES_GAN2_TENU.png"
+      ],
+      "sign_value": "šaĝa, še29",
+      "sign_name": "LU2×GAN2@t Borger: LU2×KAR2",
+      "id": 420
+    },
+    {
+      "images": [
+        "LU2_TIMES_NE.png"
+      ],
+      "sign_value": "du14",
+      "sign_name": "LU2×NE",
+      "id": 421
+    },
+    {
+      "images": [
+        "LU3.png"
+      ],
+      "sign_value": "gar5, gug2, lu3",
+      "sign_name": "LU3 Borger: GUG2",
+      "id": 422
+    },
+    {
+      "images": [
+        "LUGAL.png"
+      ],
+      "sign_value": "lillan, lugal, rab3, šarrum",
+      "sign_name": "LUGAL",
+      "id": 423
+    },
+    {
+      "images": [
+        "LUGAL_SHESHIG.png"
+      ],
+      "sign_value": "dim3",
+      "sign_name": "LUGALšešig Borger: DIM3",
+      "id": 424
+    },
+    {
+      "images": [
+        "LUH.png"
+      ],
+      "sign_value": "ḫuluḫ, luḫ, sukkal",
+      "sign_name": "LUH",
+      "id": 425
+    },
+    {
+      "images": [
+        "LUL.png"
+      ],
+      "sign_value": "ka5, lib, lu5, lub, lul, nar, paḫ, šatam",
+      "sign_name": "LUL",
+      "id": 426
+    },
+    {
+      "images": [
+        "LUL.png",
+        "BALAG.png"
+      ],
+      "sign_value": "tigi2",
+      "sign_name": "LUL.BALAG",
+      "id": 427
+    },
+    {
+      "images": [
+        "LUM.png"
+      ],
+      "sign_value": "gum2, gun5, guz, ḫum, ḫuz, lum, num2",
+      "sign_name": "LUM",
+      "id": 428
+    },
+    {
+      "images": [
+        "MA.png"
+      ],
+      "sign_value": "ma, peš3",
+      "sign_name": "MA",
+      "id": 429
+    },
+    {
+      "images": [
+        "MA_GUNU.png"
+      ],
+      "sign_value": "ḫašḫur",
+      "sign_name": "MA@g Borger: ḪAŠḪUR",
+      "id": 430
+    },
+    {
+      "images": [
+        "MA2.png"
+      ],
+      "sign_value": "ma2",
+      "sign_name": "MA2",
+      "id": 431
+    },
+    {
+      "images": [
+        "MA2.png",
+        "KASKAL.png",
+        "BALAG.png"
+      ],
+      "sign_value": "surx",
+      "sign_name": "MA2.KASKAL.BALAG",
+      "id": 432
+    },
+    {
+      "images": [
+        "MA2.png",
+        "KASKAL.png",
+        "IGI_GUNU.png"
+      ],
+      "sign_value": "sur9",
+      "sign_name": "MA2.KASKAL.IGI@g Borger: SUR9 and MA2.KASKAL.SIG7",
+      "id": 433
+    },
+    {
+      "images": [
+        "MA2.png",
+        "MUG.png"
+      ],
+      "sign_value": "dimgul",
+      "sign_name": "MA2.MUG Borger: DIMGUL",
+      "id": 434
+    },
+    {
+      "images": [
+        "MAH.png"
+      ],
+      "sign_value": "maḫ, šutur",
+      "sign_name": "MAH",
+      "id": 435
+    },
+    {
+      "images": [
+        "MAR.png"
+      ],
+      "sign_value": "mar",
+      "sign_name": "MAR",
+      "id": 436
+    },
+    {
+      "images": [
+        "MASH.png"
+      ],
+      "sign_value": "mas, maš, sa9",
+      "sign_name": "MAŠ",
+      "id": 437
+    },
+    {
+      "images": [
+        "MASH.png",
+        "GU2.png",
+        "GAR3.png"
+      ],
+      "sign_value": "dalla, idigna",
+      "sign_name": "MAŠ.GU2.GAR3 Borger: IDIGNA",
+      "id": 438
+    },
+    {
+      "images": [
+        "MASH.png",
+        "PA.png"
+      ],
+      "sign_value": "maš3",
+      "sign_name": "MAŠ.PA",
+      "id": 439
+    },
+    {
+      "images": [
+        "MASH2.png"
+      ],
+      "sign_value": "maš2",
+      "sign_name": "MAŠ2",
+      "id": 440
+    },
+    {
+      "images": [
+        "ME.png"
+      ],
+      "sign_value": "ba13, išib, me, men2",
+      "sign_name": "ME",
+      "id": 441
+    },
+    {
+      "images": [
+        "MES.png"
+      ],
+      "sign_value": "kišib, meš3",
+      "sign_name": "MES",
+      "id": 442
+    },
+    {
+      "images": [
+        "MI.png"
+      ],
+      "sign_value": "gig2, ĝi6, ku10, me2, mi",
+      "sign_name": "MI",
+      "id": 443
+    },
+    {
+      "images": [
+        "MIN.png"
+      ],
+      "sign_value": "min",
+      "sign_name": "MIN",
+      "id": 444
+    },
+    {
+      "images": [
+        "MU.png"
+      ],
+      "sign_value": "ĝu10, mu, muḫaldim",
+      "sign_name": "MU",
+      "id": 445
+    },
+    {
+      "images": [
+        "MU.png",
+        "USH.png",
+        "TUG2.png",
+        "PI.png"
+      ],
+      "sign_value": "muštug2",
+      "sign_name": "MU.UŠ.TUG2.PI",
+      "id": 446
+    },
+    {
+      "images": [
+        "MU_OVER_MU.png"
+      ],
+      "sign_value": "daḫ, taḫ",
+      "sign_name": "MU/MU Borger: DAḪ",
+      "id": 447
+    },
+    {
+      "images": [
+        "MUG.png"
+      ],
+      "sign_value": "mug",
+      "sign_name": "MUG",
+      "id": 448
+    },
+    {
+      "images": [
+        "MUNSUB.png"
+      ],
+      "sign_value": "sumur3",
+      "sign_name": "MUNSUB Borger: MUNŠUB",
+      "id": 449
+    },
+    {
+      "images": [
+        "MURGU2.png"
+      ],
+      "sign_value": "murgu2",
+      "sign_name": "MURGU2",
+      "id": 450
+    },
+    {
+      "images": [
+        "MUSH.png"
+      ],
+      "sign_value": "muš, niraḫ, suḫx, šubax",
+      "sign_name": "MUŠ",
+      "id": 451
+    },
+    {
+      "images": [
+        "MUSH.png",
+        "SHA.png"
+      ],
+      "sign_value": "šubax",
+      "sign_name": "MUŠ.ŠA",
+      "id": 452
+    },
+    {
+      "images": [
+        "MUSH_OVER_MUSH.png"
+      ],
+      "sign_value": "ri8",
+      "sign_name": "MUŠ/MUŠ",
+      "id": 453
+    },
+    {
+      "images": [
+        "MUSH_OVER_MUSH_TIMES_A_PLUS_NA.png"
+      ],
+      "sign_value": "erina8",
+      "sign_name": "MUŠ/MUŠ×A+NA",
+      "id": 454
+    },
+    {
+      "images": [
+        "MUSH3.png"
+      ],
+      "sign_value": "inana, muš3, sed6, suḫ10, šuba4",
+      "sign_name": "MUŠ3",
+      "id": 455
+    },
+    {
+      "images": [
+        "MUSH3.png",
+        "BU.png"
+      ],
+      "sign_value": "susbu3",
+      "sign_name": "MUŠ3.BU",
+      "id": 456
+    },
+    {
+      "images": [
+        "MUSH3.png",
+        "DI.png"
+      ],
+      "sign_value": "sed4",
+      "sign_name": "MUŠ3.DI",
+      "id": 457
+    },
+    {
+      "images": [
+        "MUSH3.png",
+        "EREN.png"
+      ],
+      "sign_value": "šušin",
+      "sign_name": "MUŠ3.EREN",
+      "id": 458
+    },
+    {
+      "images": [
+        "MUSH3.png",
+        "ZA.png"
+      ],
+      "sign_value": "šuba3",
+      "sign_name": "MUŠ3.ZA",
+      "id": 459
+    },
+    {
+      "images": [
+        "MUSH3_GUNU.png"
+      ],
+      "sign_value": "muš2, suḫ, susbu2",
+      "sign_name": "MUŠ3@g Borger: MUŠ2",
+      "id": 460
+    },
+    {
+      "images": [
+        "MUSH3_GUNU.png",
+        "BU.png"
+      ],
+      "sign_value": "susbu",
+      "sign_name": "MUŠ3@g.BU Borger: MUŠ2.BU",
+      "id": 461
+    },
+    {
+      "images": [
+        "MUSH3_TIMES_A.png"
+      ],
+      "sign_value": "part of compound",
+      "sign_name": "MUŠ3×A",
+      "id": 462
+    },
+    {
+      "images": [
+        "MUSH3_TIMES_A_PLUS_DI.png"
+      ],
+      "sign_value": "sed",
+      "sign_name": "MUŠ3×A+DI Borger: SED",
+      "id": 463
+    },
+    {
+      "images": [
+        "NA.png"
+      ],
+      "sign_value": "na",
+      "sign_name": "NA",
+      "id": 464
+    },
+    {
+      "images": [
+        "NA2.png"
+      ],
+      "sign_value": "na2, nu2",
+      "sign_name": "NA2",
+      "id": 465
+    },
+    {
+      "images": [
+        "NAGA.png"
+      ],
+      "sign_value": "ereš2, naĝa, nisaba2",
+      "sign_name": "NAGA",
+      "id": 466
+    },
+    {
+      "images": [
+        "NAGA_INVERTED.png"
+      ],
+      "sign_value": "teme",
+      "sign_name": "NAGA(inverted)",
+      "id": 467
+    },
+    {
+      "images": [
+        "NAGAR.png"
+      ],
+      "sign_value": "nagar",
+      "sign_name": "NAGAR",
+      "id": 468
+    },
+    {
+      "images": [
+        "NAGAR.png",
+        "ZA_TENU.png"
+      ],
+      "sign_value": "tugul",
+      "sign_name": "NAGAR.ZA@t Borger: TUGUL",
+      "id": 469
+    },
+    {
+      "images": [
+        "NAM.png"
+      ],
+      "sign_value": "bir5, nam, sim, sin2",
+      "sign_name": "NAM",
+      "id": 470
+    },
+    {
+      "images": [
+        "NAM.png",
+        "LUGAL.png"
+      ],
+      "sign_value": "pala",
+      "sign_name": "NAM.LUGAL",
+      "id": 471
+    },
+    {
+      "images": [
+        "NAM.png",
+        "SAL.png",
+        "TUG2.png"
+      ],
+      "sign_value": "pala3",
+      "sign_name": "NAM.SAL.TUG2 Borger: NAM.NIN and NAM.MUNUS.TUG2",
+      "id": 472
+    },
+    {
+      "images": [
+        "NE.png"
+      ],
+      "sign_value": "bar7, be7, bi2, bil, de3, du17, gibil4, izi, kum2, lam2, lem4, li9, ne, ni5, pel, pil, saḫarx, šeĝ6",
+      "sign_name": "NE",
+      "id": 473
+    },
+    {
+      "images": [
+        "NE.png",
+        "GI.png"
+      ],
+      "sign_value": "gibil6",
+      "sign_name": "NE.GI",
+      "id": 474
+    },
+    {
+      "images": [
+        "NE.png",
+        "RU.png"
+      ],
+      "sign_value": "erim2",
+      "sign_name": "NE.RU",
+      "id": 475
+    },
+    {
+      "images": [
+        "NE_SHESHIG.png"
+      ],
+      "sign_value": "bil2, gibil, pel2",
+      "sign_name": "NEšešig Borger: BIL2",
+      "id": 476
+    },
+    {
+      "images": [
+        "NI.png"
+      ],
+      "sign_value": "be3, dig, i3, ia3, le2, li2, lid2, ne2, ni, suš2, zal, zar2",
+      "sign_name": "NI",
+      "id": 477
+    },
+    {
+      "images": [
+        "NI.png",
+        "TUK.png"
+      ],
+      "sign_value": "dilmun",
+      "sign_name": "NI.TUK",
+      "id": 478
+    },
+    {
+      "images": [
+        "NI.png",
+        "UD.png"
+      ],
+      "sign_value": "ia4, na4",
+      "sign_name": "NI.UD Borger: NA4",
+      "id": 479
+    },
+    {
+      "images": [
+        "NIM.png"
+      ],
+      "sign_value": "deḫi3, elam, nim, tum4",
+      "sign_name": "NIM",
+      "id": 480
+    },
+    {
+      "images": [
+        "NIM_TIMES_GAN2_TENU.png"
+      ],
+      "sign_value": "tum3",
+      "sign_name": "NIM×GAN2@t Borger: TUM3 and NIM×KAR2",
+      "id": 481
+    },
+    {
+      "images": [
+        "NINDA2.png"
+      ],
+      "sign_value": "inda, ninda2",
+      "sign_name": "NINDA2",
+      "id": 482
+    },
+    {
+      "images": [
+        "NINDA2_TIMES_GUD.png"
+      ],
+      "sign_value": "indagara",
+      "sign_name": "NINDA2×GUD Borger: NINDA2×GU4",
+      "id": 483
+    },
+    {
+      "images": [
+        "NINDA2_TIMES_NE.png"
+      ],
+      "sign_value": "aĝ2, eĝ3, em3, iĝ3",
+      "sign_name": "NINDA2×NE Borger: AG2",
+      "id": 484
+    },
+    {
+      "images": [
+        "NINDA2_TIMES_SHE.png"
+      ],
+      "sign_value": "sa10, sam2",
+      "sign_name": "NINDA2×ŠE Borger: ŠAM2",
+      "id": 485
+    },
+    {
+      "images": [
+        "NISAG.png"
+      ],
+      "sign_value": "nesaĝ",
+      "sign_name": "NISAG",
+      "id": 486
+    },
+    {
+      "images": [
+        "NU.png"
+      ],
+      "sign_value": "nu, sir5",
+      "sign_name": "NU",
+      "id": 487
+    },
+    {
+      "images": [
+        "NU11.png"
+      ],
+      "sign_value": "nu11",
+      "sign_name": "NU11",
+      "id": 488
+    },
+    {
+      "images": [
+        "NU11.png",
+        "BUR.png"
+      ],
+      "sign_value": "buru4",
+      "sign_name": "NU11.BUR",
+      "id": 489
+    },
+    {
+      "images": [
+        "NU11.png",
+        "BUR.png",
+        "LA.png"
+      ],
+      "sign_value": "lagaš",
+      "sign_name": "NU11.BUR.LA",
+      "id": 490
+    },
+    {
+      "images": [
+        "NU11.png",
+        "SILA3.png"
+      ],
+      "sign_value": "ĝizzal2",
+      "sign_name": "NU11.SILA3",
+      "id": 491
+    },
+    {
+      "images": [
+        "NUN.png"
+      ],
+      "sign_value": "eridug, nun, sil2, zil",
+      "sign_name": "NUN",
+      "id": 492
+    },
+    {
+      "images": [
+        "NUN.png",
+        "LAGAR.png"
+      ],
+      "sign_value": "immalx, šilamx, tur3",
+      "sign_name": "NUN.LAGAR Borger: TUR3",
+      "id": 493
+    },
+    {
+      "images": [
+        "NUN.png",
+        "ME.png"
+      ],
+      "sign_value": "abgal",
+      "sign_name": "NUN.ME",
+      "id": 494
+    },
+    {
+      "images": [
+        "NUN.png",
+        "ME.png",
+        "DU.png"
+      ],
+      "sign_value": "abrig",
+      "sign_name": "NUN.ME.DU",
+      "id": 495
+    },
+    {
+      "images": [
+        "NUN.png",
+        "ME.png",
+        "KA_TIMES_GAN2_TENU.png"
+      ],
+      "sign_value": "abgal2",
+      "sign_name": "NUN.ME.KA×GAN2@t Borger: NUN.ME.PU3",
+      "id": 496
+    },
+    {
+      "images": [
+        "NUN.png",
+        "ME.png",
+        "TAG.png"
+      ],
+      "sign_value": "gašam",
+      "sign_name": "NUN.ME.TAG",
+      "id": 497
+    },
+    {
+      "images": [
+        "NUNUZ.png"
+      ],
+      "sign_value": "nida, nunuz, nus",
+      "sign_name": "NUNUZ",
+      "id": 498
+    },
+    {
+      "images": [
+        "NUNUZ_AB2_TIMES_ASHGAB.png"
+      ],
+      "sign_value": "usan3",
+      "sign_name": "NUNUZ.AB2×AŠGAB Borger: USAN3",
+      "id": 499
+    },
+    {
+      "images": [
+        "NUNUZ_AB2_TIMES_LA.png"
+      ],
+      "sign_value": "laḫtan",
+      "sign_name": "NUNUZ.AB2×LA Borger: LAḪTAN",
+      "id": 500
+    },
+    {
+      "images": [
+        "NUN_LAGAR_TIMES_MASH.png"
+      ],
+      "sign_value": "immal",
+      "sign_name": "NUN.LAGAR×MAŠ Borger: IMMAL",
+      "id": 501
+    },
+    {
+      "images": [
+        "NUN_LAGAR_TIMES_SAL.png"
+      ],
+      "sign_value": "arḫuš2, immal2, šilam",
+      "sign_name": "NUN.LAGAR×SAL Borger: ŠILAM",
+      "id": 502
+    },
+    {
+      "images": [
+        "NUN_OVER_NUN.png"
+      ],
+      "sign_value": "nir, ri5, šer7, tirx",
+      "sign_name": "NUN/NUN Borger: NIR",
+      "id": 503
+    },
+    {
+      "images": [
+        "NUN_TENU.png"
+      ],
+      "sign_value": "agargara, garx",
+      "sign_name": "NUN@t",
+      "id": 504
+    },
+    {
+      "images": [
+        "NUN_TENU.png",
+        "KI.png"
+      ],
+      "sign_value": "gurud",
+      "sign_name": "NUN@t.KI",
+      "id": 505
+    },
+    {
+      "images": [
+        "PA.png"
+      ],
+      "sign_value": "ĝidru, ḫendur, kumx, kun2, mu6, mudru, pa, sag3, sig3, ux, ugula",
+      "sign_name": "PA",
+      "id": 506
+    },
+    {
+      "images": [
+        "PA.png",
+        "AL.png"
+      ],
+      "sign_value": "šabra",
+      "sign_name": "PA.AL",
+      "id": 507
+    },
+    {
+      "images": [
+        "PA.png",
+        "AN.png"
+      ],
+      "sign_value": "biluda, ĝarza",
+      "sign_name": "PA.AN",
+      "id": 508
+    },
+    {
+      "images": [
+        "PA.png",
+        "DAG_KISIM5_TIMES_KAK.png"
+      ],
+      "sign_value": "kabar",
+      "sign_name": "PA.DAG.KISIM5×KAK Borger: PA.DAG.KISIM5×GAG",
+      "id": 509
+    },
+    {
+      "images": [
+        "PA.png",
+        "DU_SHESHIG.png"
+      ],
+      "sign_value": "maškim",
+      "sign_name": "PA.DUšešig Borger: PA.KAŠ4",
+      "id": 510
+    },
+    {
+      "images": [
+        "PA.png",
+        "GAN.png"
+      ],
+      "sign_value": "sag2",
+      "sign_name": "PA.GAN",
+      "id": 511
+    },
+    {
+      "images": [
+        "PA.png",
+        "GISAL.png",
+        "SI.png",
+        "A.png"
+      ],
+      "sign_value": "addirx",
+      "sign_name": "PA.GISAL.SI.A",
+      "id": 512
+    },
+    {
+      "images": [
+        "PA.png",
+        "GISAL.png",
+        "SI.png",
+        "A.png",
+        "PAD.png"
+      ],
+      "sign_value": "addirx",
+      "sign_name": "PA.GISAL.SI.A.PAD",
+      "id": 513
+    },
+    {
+      "images": [
+        "PA.png",
+        "HUB2.png",
+        "DU.png"
+      ],
+      "sign_value": "rig7",
+      "sign_name": "PA.HUB2.DU",
+      "id": 514
+    },
+    {
+      "images": [
+        "PA.png",
+        "IB.png"
+      ],
+      "sign_value": "šab",
+      "sign_name": "PA.IB Borger: ŠAB",
+      "id": 515
+    },
+    {
+      "images": [
+        "PA.png",
+        "LU.png"
+      ],
+      "sign_value": "sipad",
+      "sign_name": "PA.LU Borger: SIPA",
+      "id": 516
+    },
+    {
+      "images": [
+        "PA.png",
+        "LUGAL.png"
+      ],
+      "sign_value": "ĝarza2",
+      "sign_name": "PA.LUGAL",
+      "id": 517
+    },
+    {
+      "images": [
+        "PA.png",
+        "SHE.png"
+      ],
+      "sign_value": "išin",
+      "sign_name": "PA.ŠE",
+      "id": 518
+    },
+    {
+      "images": [
+        "PA.png",
+        "TE.png",
+        "SI.png"
+      ],
+      "sign_value": "ensi2",
+      "sign_name": "PA.TE.SI",
+      "id": 519
+    },
+    {
+      "images": [
+        "PA.png",
+        "TUG2.png"
+      ],
+      "sign_value": "nuska",
+      "sign_name": "PA.TUG2 Borger: NUSKA",
+      "id": 520
+    },
+    {
+      "images": [
+        "PA.png",
+        "URU_TIMES_MIN.png"
+      ],
+      "sign_value": "zilulu",
+      "sign_name": "PA.URU×MIN Borger: PA.GIŠGAL",
+      "id": 521
+    },
+    {
+      "images": [
+        "PA.png",
+        "UZU.png"
+      ],
+      "sign_value": "tud2",
+      "sign_name": "PA.UZU",
+      "id": 522
+    },
+    {
+      "images": [
+        "PAD.png"
+      ],
+      "sign_value": "kurum6, pax, pad, šukur2, šutug",
+      "sign_name": "PAD",
+      "id": 523
+    },
+    {
+      "images": [
+        "PAD.png",
+        "AN.png",
+        "MUSH3.png"
+      ],
+      "sign_value": "nidba",
+      "sign_name": "PAD.AN.MUŠ3",
+      "id": 524
+    },
+    {
+      "images": [
+        "PAD.png",
+        "MUSH3.png"
+      ],
+      "sign_value": "nidba2",
+      "sign_name": "PAD.MUŠ3",
+      "id": 525
+    },
+    {
+      "images": [
+        "PAN.png"
+      ],
+      "sign_value": "pan",
+      "sign_name": "PAN",
+      "id": 526
+    },
+    {
+      "images": [
+        "PAP.png"
+      ],
+      "sign_value": "kur2, pa4, pap",
+      "sign_name": "PAP",
+      "id": 527
+    },
+    {
+      "images": [
+        "PAP.png",
+        "E.png"
+      ],
+      "sign_value": "pa5",
+      "sign_name": "PAP.E Borger: PAB.E",
+      "id": 528
+    },
+    {
+      "images": [
+        "PAP.png",
+        "IGI_GUNU.png"
+      ],
+      "sign_value": "isimud",
+      "sign_name": "PAP.IGI@g Borger: PAB.SIG7",
+      "id": 529
+    },
+    {
+      "images": [
+        "PAP.png",
+        "IGI_GUNU.png",
+        "NUN.png",
+        "ME.png"
+      ],
+      "sign_value": "isimud4",
+      "sign_name": "PAP.IGI@g.NUN.ME Borger: PAB.SIG7.NUN.ME",
+      "id": 530
+    },
+    {
+      "images": [
+        "PAP.png",
+        "NA2.png"
+      ],
+      "sign_value": "gam3, zub, zubi",
+      "sign_name": "PAP.NA2 Borger: GAM3 and PAB.NA2",
+      "id": 531
+    },
+    {
+      "images": [
+        "PAP.png",
+        "NUN.png",
+        "ME.png",
+        "EZEN.png"
+      ],
+      "sign_value": "isimudx",
+      "sign_name": "PAP.NUN.ME.EZEN",
+      "id": 532
+    },
+    {
+      "images": [
+        "PAP.png"
+      ],
+      "sign_value": "buluĝ3, dim4",
+      "sign_name": "PAP.PAP Borger: BULUG3",
+      "id": 533
+    },
+    {
+      "images": [
+        "PAP.png",
+        "SHE.png"
+      ],
+      "sign_value": "munu4",
+      "sign_name": "PAP.ŠE.PAP Borger: MUNU4",
+      "id": 534
+    },
+    {
+      "images": [
+        "PESH2.png"
+      ],
+      "sign_value": "kilim, peš2",
+      "sign_name": "PEŠ2",
+      "id": 535
+    },
+    {
+      "images": [
+        "PI.png"
+      ],
+      "sign_value": "be6, bi3, ĝeštug, me8, pa12, pe, pi, tal2, wa, we, wi",
+      "sign_name": "PI",
+      "id": 536
+    },
+    {
+      "images": [
+        "PIRIG.png"
+      ],
+      "sign_value": "ne3, niskum, piriĝ",
+      "sign_name": "PIRIG",
+      "id": 537
+    },
+    {
+      "images": [
+        "PIRIG.png",
+        "AB_GUNU.png",
+        "GAL.png"
+      ],
+      "sign_value": "nergal",
+      "sign_name": "PIRIG.AB@g.GAL Borger: PIRIG.UNUG.GAL",
+      "id": 538
+    },
+    {
+      "images": [
+        "PIRIG.png",
+        "AB_TIMES_GAL.png"
+      ],
+      "sign_value": "nergalx",
+      "sign_name": "PIRIG.AB×GAL",
+      "id": 539
+    },
+    {
+      "images": [
+        "PIRIG.png",
+        "TUR.png"
+      ],
+      "sign_value": "nemurx",
+      "sign_name": "PIRIG.TUR",
+      "id": 540
+    },
+    {
+      "images": [
+        "PIRIG_OPPOSING_PIRIG.png"
+      ],
+      "sign_value": "tidnim, tidnum",
+      "sign_name": "PIRIG(inverted)PIRIG",
+      "id": 541
+    },
+    {
+      "images": [
+        "PIRIG_TIMES_UD.png"
+      ],
+      "sign_value": "piriĝ3, ug, uk, uq",
+      "sign_name": "PIRIG×UD Borger: UG",
+      "id": 542
+    },
+    {
+      "images": [
+        "PIRIG_TIMES_ZA.png"
+      ],
+      "sign_value": "az",
+      "sign_name": "PIRIG×ZA Borger: AZ",
+      "id": 543
+    },
+    {
+      "images": [
+        "RA.png"
+      ],
+      "sign_value": "ra",
+      "sign_name": "RA",
+      "id": 544
+    },
+    {
+      "images": [
+        "RI.png"
+      ],
+      "sign_value": "dal, de5, re, ri, rig5",
+      "sign_name": "RI",
+      "id": 545
+    },
+    {
+      "images": [
+        "RU.png"
+      ],
+      "sign_value": "ilar, ru, šub",
+      "sign_name": "RU",
+      "id": 546
+    },
+    {
+      "images": [
+        "SA.png"
+      ],
+      "sign_value": "sa",
+      "sign_name": "SA",
+      "id": 547
+    },
+    {
+      "images": [
+        "SAG.png"
+      ],
+      "sign_value": "dul7, sa12, saĝ, šak",
+      "sign_name": "SAG",
+      "id": 548
+    },
+    {
+      "images": [
+        "SAG.png",
+        "PA.png",
+        "LAGAB.png"
+      ],
+      "sign_value": "zaraḫ",
+      "sign_name": "SAG.PA.LAGAB",
+      "id": 549
+    },
+    {
+      "images": [
+        "SAG_GUNU.png"
+      ],
+      "sign_value": "dul3, kuš2, kušu4, sumur, sur2",
+      "sign_name": "SAG@g Borger: DUL3",
+      "id": 550
+    },
+    {
+      "images": [
+        "SAG_TIMES_SHID.png"
+      ],
+      "sign_value": "dilib3",
+      "sign_name": "SAG×ŠID Borger: DILIB3",
+      "id": 551
+    },
+    {
+      "images": [
+        "SAG_TIMES_U2.png"
+      ],
+      "sign_value": "uzug3",
+      "sign_name": "SAG×U2",
+      "id": 552
+    },
+    {
+      "images": [
+        "SAL.png"
+      ],
+      "sign_value": "gal4, mi2, munus, sal",
+      "sign_name": "SAL Borger: MUNUS",
+      "id": 553
+    },
+    {
+      "images": [
+        "SAL.png",
+        "ANSHE.png"
+      ],
+      "sign_value": "eme3",
+      "sign_name": "SAL.ANŠE Borger: MUNUS.ANŠE",
+      "id": 554
+    },
+    {
+      "images": [
+        "SAL.png",
+        "ESH2.png"
+      ],
+      "sign_value": "egir3, ninx",
+      "sign_name": "SAL.EŠ2 Borger: EGI2 and MUNUS.ŠE3",
+      "id": 555
+    },
+    {
+      "images": [
+        "SAL.png",
+        "GA2_TIMES_PA.png"
+      ],
+      "sign_value": "kir11",
+      "sign_name": "SAL.GA2×PA Borger: MUNUS.SILA4",
+      "id": 556
+    },
+    {
+      "images": [
+        "SAL.png",
+        "HUB2.png"
+      ],
+      "sign_value": "eme5, lagar3",
+      "sign_name": "SAL.HUB2 Borger: MUNUS.ḪUB2",
+      "id": 557
+    },
+    {
+      "images": [
+        "SAL.png",
+        "KU.png"
+      ],
+      "sign_value": "nin9",
+      "sign_name": "SAL.KU Borger: MUNUS.KU",
+      "id": 558
+    },
+    {
+      "images": [
+        "SAL.png",
+        "KUR.png"
+      ],
+      "sign_value": "geme2",
+      "sign_name": "SAL.KUR Borger: GEME2 and MUNUS.KUR",
+      "id": 559
+    },
+    {
+      "images": [
+        "SAL.png",
+        "LAGAR.png"
+      ],
+      "sign_value": "murub2",
+      "sign_name": "SAL.LAGAR Borger: MUNUS.LAGAR",
+      "id": 560
+    },
+    {
+      "images": [
+        "SAL.png",
+        "ME.png"
+      ],
+      "sign_value": "lukur",
+      "sign_name": "SAL.ME Borger: MUNUS.ME",
+      "id": 561
+    },
+    {
+      "images": [
+        "SAL.png",
+        "TUG2.png"
+      ],
+      "sign_value": "e5, ereš, nin",
+      "sign_name": "SAL.TUG2 Borger: NIN and MUNUS.TUG2",
+      "id": 562
+    },
+    {
+      "images": [
+        "SAL.png",
+        "TUG2.png",
+        "PAP.png",
+        "IGI_GUNU.png",
+        "NUN.png",
+        "ME.png",
+        "EZEN_TIMES_KASKAL.png"
+      ],
+      "sign_value": "ninkum",
+      "sign_name": "SAL.TUG2.PAP.IGI@g.NUN.ME.EZEN×KASKAL Borger: NIN.PAB.SIG7.NUN.ME.UBARA",
+      "id": 563
+    },
+    {
+      "images": [
+        "SAL.png",
+        "UD.png",
+        "EDIN.png"
+      ],
+      "sign_value": "murum5",
+      "sign_name": "SAL.UD.EDIN Borger: MUNUS.UD.EDIN",
+      "id": 564
+    },
+    {
+      "images": [
+        "SAL.png",
+        "UR.png"
+      ],
+      "sign_value": "nig",
+      "sign_name": "SAL.UR Borger: NIG and MUNUS.UR",
+      "id": 565
+    },
+    {
+      "images": [
+        "SAL.png",
+        "USH.png"
+      ],
+      "sign_value": "nitalam4",
+      "sign_name": "SAL.UŠ Borger: MUNUS.UŠ",
+      "id": 566
+    },
+    {
+      "images": [
+        "SAL.png",
+        "USH.png",
+        "DAM.png"
+      ],
+      "sign_value": "nitalam",
+      "sign_name": "SAL.UŠ.DAM Borger: MUNUS.UŠ.DAM",
+      "id": 567
+    },
+    {
+      "images": [
+        "SAL.png",
+        "USH.png",
+        "DI.png"
+      ],
+      "sign_value": "mussa",
+      "sign_name": "SAL.UŠ.DI Borger: MUNUS.UŠ.DI",
+      "id": 568
+    },
+    {
+      "images": [
+        "SAL.png",
+        "USH.png",
+        "DI.png",
+        "KID.png"
+      ],
+      "sign_value": "gambix",
+      "sign_name": "SAL.UŠ.DI.KID",
+      "id": 569
+    },
+    {
+      "images": [
+        "SAR.png"
+      ],
+      "sign_value": "kiri6, mu2, nisig, saḫar2, sakar, sar, sigx, šar",
+      "sign_name": "SAR",
+      "id": 570
+    },
+    {
+      "images": [
+        "SI.png"
+      ],
+      "sign_value": "si, sig9",
+      "sign_name": "SI",
+      "id": 571
+    },
+    {
+      "images": [
+        "SI.png",
+        "A.png"
+      ],
+      "sign_value": "dirig, sa5, ušub",
+      "sign_name": "SI.A Borger: DIR",
+      "id": 572
+    },
+    {
+      "images": [
+        "SI_GUNU.png"
+      ],
+      "sign_value": "sa11, su4",
+      "sign_name": "SI@g Borger: SU4",
+      "id": 573
+    },
+    {
+      "images": [
+        "SIG.png"
+      ],
+      "sign_value": "si11, sig, sik, šex",
+      "sign_name": "SIG",
+      "id": 574
+    },
+    {
+      "images": [
+        "SIG4.png"
+      ],
+      "sign_value": "ĝar8, kulla, murgu, šeg12",
+      "sign_name": "SIG4",
+      "id": 575
+    },
+    {
+      "images": [
+        "SIK2.png"
+      ],
+      "sign_value": "siki",
+      "sign_name": "SIK2",
+      "id": 576
+    },
+    {
+      "images": [
+        "SIK2.png",
+        "SUD.png"
+      ],
+      "sign_value": "zulumḫi",
+      "sign_name": "SIK2.SUD",
+      "id": 577
+    },
+    {
+      "images": [
+        "SILA3.png"
+      ],
+      "sign_value": "qa, sal4, sila3",
+      "sign_name": "SILA3",
+      "id": 578
+    },
+    {
+      "images": [
+        "SILA3.png",
+        "SHU.png",
+        "GABA.png"
+      ],
+      "sign_value": "sagi",
+      "sign_name": "SILA3.ŠU.GABA",
+      "id": 579
+    },
+    {
+      "images": [
+        "SU.png"
+      ],
+      "sign_value": "kuš, su, sug6",
+      "sign_name": "SU",
+      "id": 580
+    },
+    {
+      "images": [
+        "SU.png",
+        "KUR.png",
+        "RU.png"
+      ],
+      "sign_value": "sud3, šuruppag",
+      "sign_name": "SU.KUR.RU",
+      "id": 581
+    },
+    {
+      "images": [
+        "SUD.png"
+      ],
+      "sign_value": "su3, sud, sug4",
+      "sign_name": "SUD",
+      "id": 582
+    },
+    {
+      "images": [
+        "SUD2.png"
+      ],
+      "sign_value": "sud2, šita3",
+      "sign_name": "SUD2",
+      "id": 583
+    },
+    {
+      "images": [
+        "SUHUR.png"
+      ],
+      "sign_value": "suḫur, sumur2",
+      "sign_name": "SUHUR",
+      "id": 584
+    },
+    {
+      "images": [
+        "SUM.png"
+      ],
+      "sign_value": "si3, sig10, sum, šum2",
+      "sign_name": "SUM",
+      "id": 585
+    },
+    {
+      "images": [
+        "SUR.png"
+      ],
+      "sign_value": "sur",
+      "sign_name": "SUR",
+      "id": 586
+    },
+    {
+      "images": [
+        "SHA.png"
+      ],
+      "sign_value": "en8, ša",
+      "sign_name": "ŠA",
+      "id": 587
+    },
+    {
+      "images": [
+        "SHA3.png"
+      ],
+      "sign_value": "pešx, ša3, šag4",
+      "sign_name": "ŠA3",
+      "id": 588
+    },
+    {
+      "images": [
+        "SHA3_TIMES_A.png"
+      ],
+      "sign_value": "bir7, iškila, peš4",
+      "sign_name": "ŠA3×A Borger: PEŠ4",
+      "id": 589
+    },
+    {
+      "images": [
+        "SHA3_TIMES_NE.png"
+      ],
+      "sign_value": "ninim",
+      "sign_name": "ŠA3×NE",
+      "id": 590
+    },
+    {
+      "images": [
+        "SHA3_TIMES_TUR.png"
+      ],
+      "sign_value": "peš13",
+      "sign_name": "ŠA3×TUR",
+      "id": 591
+    },
+    {
+      "images": [
+        "SHA6.png"
+      ],
+      "sign_value": "ĝišnimbar, sa6, sag9",
+      "sign_name": "ŠA6 Borger: SA6",
+      "id": 592
+    },
+    {
+      "images": [
+        "SHE.png"
+      ],
+      "sign_value": "niga, še",
+      "sign_name": "ŠE",
+      "id": 593
+    },
+    {
+      "images": [
+        "SHE.png",
+        "ESH2.png",
+        "NUN.png",
+        "BU.png"
+      ],
+      "sign_value": "saman3",
+      "sign_name": "ŠE.EŠ2.NUN.BU Borger: ŠE.ŠE3.NUN.BU",
+      "id": 594
+    },
+    {
+      "images": [
+        "SHE.png",
+        "HU.png"
+      ],
+      "sign_value": "us, uz",
+      "sign_name": "ŠE.HU Borger: UZ",
+      "id": 595
+    },
+    {
+      "images": [
+        "SHE.png",
+        "HU.png",
+        "TUR.png"
+      ],
+      "sign_value": "bibad",
+      "sign_name": "ŠE.HU.TUR Borger: UZ.TUR",
+      "id": 596
+    },
+    {
+      "images": [
+        "SHE.png",
+        "KAK.png"
+      ],
+      "sign_value": "ḫenbur2",
+      "sign_name": "ŠE.KAK Borger: ŠE.GAG",
+      "id": 597
+    },
+    {
+      "images": [
+        "SHE.png",
+        "NAGA.png"
+      ],
+      "sign_value": "nisaba",
+      "sign_name": "ŠE.NAGA",
+      "id": 598
+    },
+    {
+      "images": [
+        "SHE.png",
+        "TIR.png"
+      ],
+      "sign_value": "ezim2, ezina2",
+      "sign_name": "ŠE.TIR",
+      "id": 599
+    },
+    {
+      "images": [
+        "SHE_OVER_SHE_TAB_OVER_TAB_GAR_OVER_GAR.png"
+      ],
+      "sign_value": "garadin3",
+      "sign_name": "ŠE/ŠE.TAB/TAB.GAR/GAR",
+      "id": 600
+    },
+    {
+      "images": [
+        "SHEG9.png"
+      ],
+      "sign_value": "kiši6, šeg9",
+      "sign_name": "ŠEG9",
+      "id": 601
+    },
+    {
+      "images": [
+        "SHEN.png"
+      ],
+      "sign_value": "dur10, šen",
+      "sign_name": "ŠEN",
+      "id": 602
+    },
+    {
+      "images": [
+        "SHESH.png"
+      ],
+      "sign_value": "mun4, muš5, sis, šeš",
+      "sign_name": "ŠEŠ",
+      "id": 603
+    },
+    {
+      "images": [
+        "SHESH.png",
+        "AB.png"
+      ],
+      "sign_value": "urim5",
+      "sign_name": "ŠEŠ.AB",
+      "id": 604
+    },
+    {
+      "images": [
+        "SHESH.png",
+        "AB_GUNU.png"
+      ],
+      "sign_value": "urim2",
+      "sign_name": "ŠEŠ.AB@g Borger: ŠEŠ.UNUG",
+      "id": 605
+    },
+    {
+      "images": [
+        "SHESH.png",
+        "KI.png"
+      ],
+      "sign_value": "nanna",
+      "sign_name": "ŠEŠ.KI",
+      "id": 606
+    },
+    {
+      "images": [
+        "SHESH2.png"
+      ],
+      "sign_value": "še8, šeš2",
+      "sign_name": "ŠEŠ2",
+      "id": 607
+    },
+    {
+      "images": [
+        "SHID.png"
+      ],
+      "sign_value": "kas7, kiri8, lag, nesaĝ2, pisaĝ2, saĝ5, saĝĝa, silaĝ, šid, šub6, šudum",
+      "sign_name": "ŠID",
+      "id": 608
+    },
+    {
+      "images": [
+        "SHID_TIMES_A.png"
+      ],
+      "sign_value": "alal, pisaĝ3",
+      "sign_name": "ŠID×A Borger: UMBISAG2",
+      "id": 609
+    },
+    {
+      "images": [
+        "SHIM.png"
+      ],
+      "sign_value": "bappir2, lunga, mud5, šem, šembi2, šim, šembizid",
+      "sign_name": "ŠIM",
+      "id": 610
+    },
+    {
+      "images": [
+        "SHIM.png",
+        "AN.png",
+        "SAL.png",
+        "TUG2.png",
+        "IB.png"
+      ],
+      "sign_value": "ligidba",
+      "sign_name": "ŠIM.AN.SAL.TUG2.IB Borger: ŠIM.AN.NIN.IB",
+      "id": 611
+    },
+    {
+      "images": [
+        "SHIM_TIMES_GAR.png"
+      ],
+      "sign_value": "bappir, lunga3",
+      "sign_name": "ŠIM×GAR Borger: ŠIM×NIG2",
+      "id": 612
+    },
+    {
+      "images": [
+        "SHIM_TIMES_IGI_GUNU.png"
+      ],
+      "sign_value": "šembi",
+      "sign_name": "ŠIM×IGI@g Borger: ŠIM×SIG7",
+      "id": 613
+    },
+    {
+      "images": [
+        "SHIM_TIMES_KUSHU2.png"
+      ],
+      "sign_value": "šembulugx",
+      "sign_name": "ŠIM×KUŠU2",
+      "id": 614
+    },
+    {
+      "images": [
+        "SHINIG.png"
+      ],
+      "sign_value": "šinig",
+      "sign_name": "ŠINIG",
+      "id": 615
+    },
+    {
+      "images": [
+        "SHIR.png"
+      ],
+      "sign_value": "aš7, šir",
+      "sign_name": "ŠIR",
+      "id": 616
+    },
+    {
+      "images": [
+        "SHITA.png"
+      ],
+      "sign_value": "šita",
+      "sign_name": "ŠITA",
+      "id": 617
+    },
+    {
+      "images": [
+        "SHITA.png",
+        "GISH.png"
+      ],
+      "sign_value": "šita2, udug2",
+      "sign_name": "ŠITA.GIŠ Borger: ŠITA2",
+      "id": 618
+    },
+    {
+      "images": [
+        "SHU.png"
+      ],
+      "sign_value": "šu",
+      "sign_name": "ŠU",
+      "id": 619
+    },
+    {
+      "images": [
+        "SHU.png",
+        "BU.png"
+      ],
+      "sign_value": "dulu",
+      "sign_name": "ŠU.BU",
+      "id": 620
+    },
+    {
+      "images": [
+        "SHU.png",
+        "DI.png",
+        "U_U_U.png"
+      ],
+      "sign_value": "suḫub4",
+      "sign_name": "ŠU.DI.U.U.U Borger: ŠU.DI.EŠ",
+      "id": 621
+    },
+    {
+      "images": [
+        "SHU.png",
+        "GAR.png",
+        "TUR.png",
+        "LAL.png"
+      ],
+      "sign_value": "tukum",
+      "sign_name": "ŠU.GAR.TUR.LAL Borger: ŠU.NIG2.TUR.LAL",
+      "id": 622
+    },
+    {
+      "images": [
+        "SHU.png",
+        "KAL.png"
+      ],
+      "sign_value": "lirum",
+      "sign_name": "ŠU.KAL",
+      "id": 623
+    },
+    {
+      "images": [
+        "SHU.png",
+        "NAGA.png"
+      ],
+      "sign_value": "tu5",
+      "sign_name": "ŠU.NAGA",
+      "id": 624
+    },
+    {
+      "images": [
+        "SHU.png",
+        "PAP.png"
+      ],
+      "sign_value": "ĝešpu2",
+      "sign_name": "ŠU.PAP.PAP Borger: ŠU.BULUG3",
+      "id": 625
+    },
+    {
+      "images": [
+        "SHU.png",
+        "SILA3.png",
+        "GABA.png"
+      ],
+      "sign_value": "sagix",
+      "sign_name": "ŠU.SILA3.GABA",
+      "id": 626
+    },
+    {
+      "images": [
+        "SHU.png",
+        "U_U_U.png",
+        "DI.png"
+      ],
+      "sign_value": "suḫubx",
+      "sign_name": "ŠU.U.U.U.DI",
+      "id": 627
+    },
+    {
+      "images": [
+        "SHU2.png"
+      ],
+      "sign_value": "šu2, šuš2",
+      "sign_name": "ŠU2",
+      "id": 628
+    },
+    {
+      "images": [
+        "SHU2.png",
+        "AN.png",
+        "HI_TIMES_GAD.png"
+      ],
+      "sign_value": "keš3",
+      "sign_name": "ŠU2.AN.HI×GAD Borger: KEŠ3",
+      "id": 629
+    },
+    {
+      "images": [
+        "SHU2.png",
+        "AN_OVER_AN.png",
+        "AN.png"
+      ],
+      "sign_value": "kunga",
+      "sign_name": "ŠU2.AN/AN.AN Borger: KUNGA and ŠU2.MUL",
+      "id": 630
+    },
+    {
+      "images": [
+        "SHU2.png",
+        "AŠ2.png"
+      ],
+      "sign_value": "gibil2, kibir2",
+      "sign_name": "ŠU2.AŠ2 Borger: GIBIL2",
+      "id": 631
+    },
+    {
+      "images": [
+        "SHU2.png",
+        "DUN3_GUNU_GUNU_SHESHIG.png"
+      ],
+      "sign_value": "šudul",
+      "sign_name": "ŠU2.DUN3@g@gšešig Borger: ŠUDUN and ŠU2.DUN4",
+      "id": 632
+    },
+    {
+      "images": [
+        "SHUBUR.png"
+      ],
+      "sign_value": "šaḫ, šubur",
+      "sign_name": "ŠUBUR",
+      "id": 633
+    },
+    {
+      "images": [
+        "TA.png"
+      ],
+      "sign_value": "da2, ta",
+      "sign_name": "TA",
+      "id": 634
+    },
+    {
+      "images": [
+        "TA_TIMES_HI.png"
+      ],
+      "sign_value": "alamuš, lal3",
+      "sign_name": "TA×HI Borger: LAL3",
+      "id": 635
+    },
+    {
+      "images": [
+        "TAB.png"
+      ],
+      "sign_value": "dab2, tab, tap",
+      "sign_name": "TAB",
+      "id": 636
+    },
+    {
+      "images": [
+        "TAB.png",
+        "GAR.png",
+        "SHE.png"
+      ],
+      "sign_value": "garadinx",
+      "sign_name": "TAB.GAR.ŠE",
+      "id": 637
+    },
+    {
+      "images": [
+        "TAB.png",
+        "KUN.png"
+      ],
+      "sign_value": "megida2",
+      "sign_name": "TAB.KUN Borger: MEGIDDA2",
+      "id": 638
+    },
+    {
+      "images": [
+        "TAG.png"
+      ],
+      "sign_value": "sub6, šum, tag, tibir, tuku5, zil2",
+      "sign_name": "TAG",
+      "id": 639
+    },
+    {
+      "images": [
+        "TAG_TIMES_SHU.png"
+      ],
+      "sign_value": "tibir2",
+      "sign_name": "TAG×ŠU",
+      "id": 640
+    },
+    {
+      "images": [
+        "TAG_TIMES_TUG2.png"
+      ],
+      "sign_value": "uttu",
+      "sign_name": "TAG×TUG2",
+      "id": 641
+    },
+    {
+      "images": [
+        "TAK4.png"
+      ],
+      "sign_value": "da13, kid2, tak4, taka4",
+      "sign_name": "TAK4 Borger: KID2",
+      "id": 642
+    },
+    {
+      "images": [
+        "TAK4.png",
+        "IM.png"
+      ],
+      "sign_value": "kidx",
+      "sign_name": "TAK4.IM",
+      "id": 643
+    },
+    {
+      "images": [
+        "TAR.png"
+      ],
+      "sign_value": "ḫaš, ku5, kud, kur5, sila, tar",
+      "sign_name": "TAR",
+      "id": 644
+    },
+    {
+      "images": [
+        "TE.png"
+      ],
+      "sign_value": "gal5, te, teĝ3, temen, ten",
+      "sign_name": "TE",
+      "id": 645
+    },
+    {
+      "images": [
+        "TE.png",
+        "A.png"
+      ],
+      "sign_value": "kar",
+      "sign_name": "TE.A Borger: KAR",
+      "id": 646
+    },
+    {
+      "images": [
+        "TE.png",
+        "AB.png"
+      ],
+      "sign_value": "unu6",
+      "sign_name": "TE.AB",
+      "id": 647
+    },
+    {
+      "images": [
+        "TE.png",
+        "AB_GUNU.png"
+      ],
+      "sign_value": "unu2",
+      "sign_name": "TE.AB@g Borger: TE.UNUG",
+      "id": 648
+    },
+    {
+      "images": [
+        "TE_GUNU.png"
+      ],
+      "sign_value": "gur8, tenx, uru5",
+      "sign_name": "TE@g Borger: GUR8",
+      "id": 649
+    },
+    {
+      "images": [
+        "TE_GUNU.png",
+        "AB_GUNU.png"
+      ],
+      "sign_value": "unu7",
+      "sign_name": "TE@g.AB@g Borger: GUR8.UNUG",
+      "id": 650
+    },
+    {
+      "images": [
+        "TI.png"
+      ],
+      "sign_value": "de9, di3, ti, tiĝ4, til3",
+      "sign_name": "TI",
+      "id": 651
+    },
+    {
+      "images": [
+        "TIL.png"
+      ],
+      "sign_value": "sumun, šumun, til",
+      "sign_name": "TIL",
+      "id": 652
+    },
+    {
+      "images": [
+        "TIR.png"
+      ],
+      "sign_value": "ezina3, ter, tir",
+      "sign_name": "TIR",
+      "id": 653
+    },
+    {
+      "images": [
+        "TU.png"
+      ],
+      "sign_value": "du2, tu, tud, tum12, tur5",
+      "sign_name": "TU",
+      "id": 654
+    },
+    {
+      "images": [
+        "TUG2.png"
+      ],
+      "sign_value": "azlag2, dul5, mu4, mur10, nam2, taškarin, tubax, tug2, tuku2, umuš",
+      "sign_name": "TUG2",
+      "id": 655
+    },
+    {
+      "images": [
+        "TUG2.png",
+        "UD.png"
+      ],
+      "sign_value": "azlag",
+      "sign_name": "TUG2.UD",
+      "id": 656
+    },
+    {
+      "images": [
+        "TUK.png"
+      ],
+      "sign_value": "du12, tuk, tuku",
+      "sign_name": "TUK",
+      "id": 657
+    },
+    {
+      "images": [
+        "TUM.png"
+      ],
+      "sign_value": "dum, eb2, ib2, tum",
+      "sign_name": "TUM",
+      "id": 658
+    },
+    {
+      "images": [
+        "TUR.png"
+      ],
+      "sign_value": "ban3, banda3, di4, dumu, tur",
+      "sign_name": "TUR",
+      "id": 659
+    },
+    {
+      "images": [
+        "TUR.png",
+        "DISH.png"
+      ],
+      "sign_value": "genna",
+      "sign_name": "TUR.DIŠ",
+      "id": 660
+    },
+    {
+      "images": [
+        "TUR.png",
+        "ESH2.png"
+      ],
+      "sign_value": "kun5",
+      "sign_name": "TUR.EŠ2 Borger: TUR.ŠE3",
+      "id": 661
+    },
+    {
+      "images": [
+        "TUR.png",
+        "USH.png"
+      ],
+      "sign_value": "ibila",
+      "sign_name": "TUR.UŠ",
+      "id": 662
+    },
+    {
+      "images": [
+        "U.png"
+      ],
+      "sign_value": "bur3, buru3, šu4, u",
+      "sign_name": "U",
+      "id": 663
+    },
+    {
+      "images": [
+        "U.png",
+        "AD.png"
+      ],
+      "sign_value": "gir4, isimu3",
+      "sign_name": "U.AD Borger: GIR4",
+      "id": 664
+    },
+    {
+      "images": [
+        "U.png",
+        "DIM.png"
+      ],
+      "sign_value": "gakkul3",
+      "sign_name": "U.DIM Borger: GAKKUL3",
+      "id": 665
+    },
+    {
+      "images": [
+        "U.png",
+        "DIM_TIMES_SHE.png"
+      ],
+      "sign_value": "gakkul",
+      "sign_name": "U.DIM×ŠE Borger: GAKKUL and U.MUN",
+      "id": 666
+    },
+    {
+      "images": [
+        "U.png",
+        "EN_TIMES_GAN2_TENU.png"
+      ],
+      "sign_value": "šibir",
+      "sign_name": "U.EN×GAN2@t Borger: ŠIBIR and U.BURU14",
+      "id": 667
+    },
+    {
+      "images": [
+        "U.png",
+        "GA.png"
+      ],
+      "sign_value": "utaḫ",
+      "sign_name": "U.GA Borger: UTU2",
+      "id": 668
+    },
+    {
+      "images": [
+        "U.png",
+        "GAN.png"
+      ],
+      "sign_value": "šaĝan",
+      "sign_name": "U.GAN Borger: ŠAGAN",
+      "id": 669
+    },
+    {
+      "images": [
+        "U_GUD.png"
+      ],
+      "sign_value": "du7, ul",
+      "sign_name": "U.GUD Borger: UL",
+      "id": 670
+    },
+    {
+      "images": [
+        "U.png",
+        "KA.png"
+      ],
+      "sign_value": "ugu",
+      "sign_name": "U.KA Borger: UGU",
+      "id": 671
+    },
+    {
+      "images": [
+        "U.png",
+        "KID.png"
+      ],
+      "sign_value": "šita4",
+      "sign_name": "U.KID Borger: ŠITA4",
+      "id": 672
+    },
+    {
+      "images": [
+        "U.png",
+        "MU.png"
+      ],
+      "sign_value": "udun",
+      "sign_name": "U.MU Borger: UDUN",
+      "id": 673
+    },
+    {
+      "images": [
+        "U.png",
+        "PIRIG.png"
+      ],
+      "sign_value": "kušu, kušum4",
+      "sign_name": "U.PIRIG Borger: KUŠU",
+      "id": 674
+    },
+    {
+      "images": [
+        "U.png",
+        "SAG.png"
+      ],
+      "sign_value": "saĝšu",
+      "sign_name": "U.SAG Borger: SAGŠU",
+      "id": 675
+    },
+    {
+      "images": [
+        "U.png",
+        "TUG2.png"
+      ],
+      "sign_value": "dul, šudul2",
+      "sign_name": "U.TUG2 Borger: DUL and ŠU4.DUL5",
+      "id": 676
+    },
+    {
+      "images": [
+        "U.png"
+      ],
+      "sign_value": "men5, min3, puzur2",
+      "sign_name": "U.U Borger: MAN",
+      "id": 677
+    },
+    {
+      "images": [
+        "U_U_U.png"
+      ],
+      "sign_value": "es2, eš",
+      "sign_name": "U.U.U Borger: EŠ",
+      "id": 678
+    },
+    {
+      "images": [
+        "U_OVER_U_PA_OVER_PA_GAR_OVER_GAR.png"
+      ],
+      "sign_value": "garadin10",
+      "sign_name": "U/U.PA/PA.GAR/GAR",
+      "id": 679
+    },
+    {
+      "images": [
+        "U_OVER_U_SUR_OVER_SUR.png"
+      ],
+      "sign_value": "garadin9",
+      "sign_name": "U/U.SUR/SUR",
+      "id": 680
+    },
+    {
+      "images": [
+        "U.png",
+        "UD.png",
+        "KID.png"
+      ],
+      "sign_value": "niĝin3",
+      "sign_name": "U.UD.KID Borger: NIGIN3",
+      "id": 681
+    },
+    {
+      "images": [
+        "U2.png"
+      ],
+      "sign_value": "kuš3, u2",
+      "sign_name": "U2",
+      "id": 682
+    },
+    {
+      "images": [
+        "U2.png",
+        "GIR2_GUNU.png"
+      ],
+      "sign_value": "ad5, kiši16",
+      "sign_name": "U2.GIR2@g",
+      "id": 683
+    },
+    {
+      "images": [
+        "U2.png",
+        "KI.png",
+        "SUM.png",
+        "GA.png"
+      ],
+      "sign_value": "gud3",
+      "sign_name": "U2.KI.SUM.GA",
+      "id": 684
+    },
+    {
+      "images": [
+        "U2.png",
+        "NAGA.png"
+      ],
+      "sign_value": "ugax",
+      "sign_name": "U2.NAGA",
+      "id": 685
+    },
+    {
+      "images": [
+        "U2.png",
+        "NAGA.png",
+        "GA.png"
+      ],
+      "sign_value": "uga",
+      "sign_name": "U2.NAGA.GA",
+      "id": 686
+    },
+    {
+      "images": [
+        "U2.png",
+        "SA.png"
+      ],
+      "sign_value": "dida",
+      "sign_name": "U2.SA",
+      "id": 687
+    },
+    {
+      "images": [
+        "UB.png"
+      ],
+      "sign_value": "ar2, ub, up",
+      "sign_name": "UB",
+      "id": 688
+    },
+    {
+      "images": [
+        "UD.png"
+      ],
+      "sign_value": "a12, babbar, bir2, dag2, ḫad2, šamaš, tam, u4, ud, ut, utu, zalag",
+      "sign_name": "UD",
+      "id": 689
+    },
+    {
+      "images": [
+        "UD.png",
+        "AB_GUNU.png"
+      ],
+      "sign_value": "larsam",
+      "sign_name": "UD.AB@g Borger: UD.UNUG",
+      "id": 690
+    },
+    {
+      "images": [
+        "UD.png",
+        "AN.png",
+        "SHESH.png",
+        "KI.png"
+      ],
+      "sign_value": "iti6",
+      "sign_name": "UD.AN.ŠEŠ.KI",
+      "id": 691
+    },
+    {
+      "images": [
+        "UD.png",
+        "DU.png"
+      ],
+      "sign_value": "e3, ed2",
+      "sign_name": "UD.DU",
+      "id": 692
+    },
+    {
+      "images": [
+        "UD.png",
+        "GISH_CROSSING_GISH.png",
+        "NUN.png"
+      ],
+      "sign_value": "buranun, buranuna, zimbir",
+      "sign_name": "UD.GIŠ%GIŠ.NUN Borger: UD.KIB.NUN",
+      "id": 693
+    },
+    {
+      "images": [
+        "UD.png",
+        "KA.png",
+        "BAR.png"
+      ],
+      "sign_value": "zabar",
+      "sign_name": "UD.KA.BAR",
+      "id": 694
+    },
+    {
+      "images": [
+        "UD_KUSHU2.png"
+      ],
+      "sign_value": "aḫ6, akšak, uḫ2",
+      "sign_name": "UD.KUŠU2 Borger: UḪ2",
+      "id": 695
+    },
+    {
+      "images": [
+        "UD.png",
+        "MA2.png",
+        "AB_TIMES_HA.png",
+        "KI.png",
+        "TAG.png"
+      ],
+      "sign_value": "sirara6",
+      "sign_name": "UD.MA2.AB×HA.KI.TAG Borger: UD.MA2.NINA.KI.TAG",
+      "id": 696
+    },
+    {
+      "images": [
+        "UD.png",
+        "MA2.png",
+        "AB_TIMES_HA.png",
+        "SHIR.png"
+      ],
+      "sign_value": "sirara2",
+      "sign_name": "UD.MA2.AB×HA.ŠIR Borger: UD.MA2.NINA.ŠIR",
+      "id": 697
+    },
+    {
+      "images": [
+        "UD.png",
+        "MA2.png",
+        "AB_TIMES_HA.png",
+        "TAG.png"
+      ],
+      "sign_value": "sirara3",
+      "sign_name": "UD.MA2.AB×HA.TAG Borger: UD.MA2.NINA.TAG",
+      "id": 698
+    },
+    {
+      "images": [
+        "UD.png",
+        "NUN.png"
+      ],
+      "sign_value": "adab, surungal",
+      "sign_name": "UD.NUN",
+      "id": 699
+    },
+    {
+      "images": [
+        "UD.png",
+        "SAL.png",
+        "HUB2.png"
+      ],
+      "sign_value": "algameš",
+      "sign_name": "UD.SAL.HUB2 Borger: UD.MUNUS.ḪUB2",
+      "id": 700
+    },
+    {
+      "images": [
+        "UD.png",
+        "SAR.png"
+      ],
+      "sign_value": "šarag",
+      "sign_name": "UD.SAR",
+      "id": 701
+    },
+    {
+      "images": [
+        "UD.png"
+      ],
+      "sign_value": "babbar2, dadag",
+      "sign_name": "UD.UD",
+      "id": 702
+    },
+    {
+      "images": [
+        "UD_TIMES_U_PLUS_U_PLUS_U.png"
+      ],
+      "sign_value": "itid",
+      "sign_name": "UD×U+U+U Borger: ITI",
+      "id": 703
+    },
+    {
+      "images": [
+        "UD_TIMES_U_PLUS_U_PLUS_U.png",
+        "AN.png",
+        "SHESH.png",
+        "KI.png"
+      ],
+      "sign_value": "iti7",
+      "sign_name": "UD×U+U+U.AN.ŠEŠ.KI Borger: ITI.AN.ŠEŠ.KI",
+      "id": 704
+    },
+    {
+      "images": [
+        "UD_TIMES_U_PLUS_U_PLUS_U_GUNU.png"
+      ],
+      "sign_value": "murub4",
+      "sign_name": "UD×U+U+U@g Borger: MURU2 and ITI@g",
+      "id": 705
+    },
+    {
+      "images": [
+        "UDUG.png"
+      ],
+      "sign_value": "udug",
+      "sign_name": "UDUG",
+      "id": 706
+    },
+    {
+      "images": [
+        "UM.png"
+      ],
+      "sign_value": "deḫi2, um",
+      "sign_name": "UM",
+      "id": 707
+    },
+    {
+      "images": [
+        "UM.png",
+        "ME.png"
+      ],
+      "sign_value": "emeda",
+      "sign_name": "UM.ME",
+      "id": 708
+    },
+    {
+      "images": [
+        "UMUM.png"
+      ],
+      "sign_value": "simug, umum, umun2",
+      "sign_name": "UMUM",
+      "id": 709
+    },
+    {
+      "images": [
+        "UMUM_TIMES_KASKAL.png"
+      ],
+      "sign_value": "abzux, de2",
+      "sign_name": "UMUM×KASKAL Borger: DE2",
+      "id": 710
+    },
+    {
+      "images": [
+        "UN.png"
+      ],
+      "sign_value": "kalam, uĝ3, un",
+      "sign_name": "UN",
+      "id": 711
+    },
+    {
+      "images": [
+        "UR.png"
+      ],
+      "sign_value": "teš2, ur",
+      "sign_name": "UR",
+      "id": 712
+    },
+    {
+      "images": [
+        "UR_SHESHIG.png"
+      ],
+      "sign_value": "dul9",
+      "sign_name": "URšešig",
+      "id": 713
+    },
+    {
+      "images": [
+        "UR2.png"
+      ],
+      "sign_value": "ur2",
+      "sign_name": "UR2",
+      "id": 714
+    },
+    {
+      "images": [
+        "UR2_TIMES_NUN.png"
+      ],
+      "sign_value": "ušbar",
+      "sign_name": "UR2×NUN",
+      "id": 715
+    },
+    {
+      "images": [
+        "UR2_TIMES_U2.png"
+      ],
+      "sign_value": "ušbar7",
+      "sign_name": "UR2×U2",
+      "id": 716
+    },
+    {
+      "images": [
+        "UR2_TIMES_U2_PLUS_ASH.png"
+      ],
+      "sign_value": "ušbar3",
+      "sign_name": "UR2×U2+AŠ",
+      "id": 717
+    },
+    {
+      "images": [
+        "UR4.png"
+      ],
+      "sign_value": "ur4",
+      "sign_name": "UR4",
+      "id": 718
+    },
+    {
+      "images": [
+        "URI.png"
+      ],
+      "sign_value": "uri",
+      "sign_name": "URI",
+      "id": 719
+    },
+    {
+      "images": [
+        "URI3.png"
+      ],
+      "sign_value": "urin, uru3",
+      "sign_name": "URI3",
+      "id": 720
+    },
+    {
+      "images": [
+        "URU.png"
+      ],
+      "sign_value": "eri, iri, re2, ri2, u19, uru",
+      "sign_name": "URU",
+      "id": 721
+    },
+    {
+      "images": [
+        "URU_TIMES_A.png"
+      ],
+      "sign_value": "uru18",
+      "sign_name": "URU×A",
+      "id": 722
+    },
+    {
+      "images": [
+        "URU_TIMES_BAR.png"
+      ],
+      "sign_value": "unken",
+      "sign_name": "URU×BAR Borger: UKKIN",
+      "id": 723
+    },
+    {
+      "images": [
+        "URU_TIMES_GA.png"
+      ],
+      "sign_value": "šakir3",
+      "sign_name": "URU×GA Borger: ŠAKIR3",
+      "id": 724
+    },
+    {
+      "images": [
+        "URU_TIMES_GAR.png"
+      ],
+      "sign_value": "erim3",
+      "sign_name": "URU×GAR Borger: ERIM3 and URU×NIG2",
+      "id": 725
+    },
+    {
+      "images": [
+        "URU_TIMES_GU.png"
+      ],
+      "sign_value": "gur5, guru5, guruš3, šakir, šegx",
+      "sign_name": "URU×GU",
+      "id": 726
+    },
+    {
+      "images": [
+        "URU_TIMES_IGI.png"
+      ],
+      "sign_value": "asal, asar, asari, silig",
+      "sign_name": "URU×IGI Borger: ASARI",
+      "id": 727
+    },
+    {
+      "images": [
+        "URU_TIMES_MIN.png"
+      ],
+      "sign_value": "ĝišgal, u18, ulu3, uru17",
+      "sign_name": "URU×MIN Borger: GIŠGAL",
+      "id": 728
+    },
+    {
+      "images": [
+        "URU_TIMES_TU.png"
+      ],
+      "sign_value": "šeg5",
+      "sign_name": "URU×TU",
+      "id": 729
+    },
+    {
+      "images": [
+        "URU_TIMES_UD.png"
+      ],
+      "sign_value": "erim6, uru2",
+      "sign_name": "URU×UD Borger: URU2",
+      "id": 730
+    },
+    {
+      "images": [
+        "URU_TIMES_URUDA.png"
+      ],
+      "sign_value": "banšur, silig5, urux",
+      "sign_name": "URU×URUDA Borger: BANŠUR",
+      "id": 731
+    },
+    {
+      "images": [
+        "URUDA.png"
+      ],
+      "sign_value": "dab6, urud",
+      "sign_name": "URUDA Borger: URUDU",
+      "id": 732
+    },
+    {
+      "images": [
+        "USH.png"
+      ],
+      "sign_value": "ĝiš3, nitaḫ, us2, uš",
+      "sign_name": "UŠ",
+      "id": 733
+    },
+    {
+      "images": [
+        "USH.png",
+        "BU.png",
+        "DA.png"
+      ],
+      "sign_value": "araḫx",
+      "sign_name": "UŠ.BU.DA",
+      "id": 734
+    },
+    {
+      "images": [
+        "USH.png",
+        "DAM.png"
+      ],
+      "sign_value": "nitalam2",
+      "sign_name": "UŠ.DAM",
+      "id": 735
+    },
+    {
+      "images": [
+        "USH.png",
+        "GA.png"
+      ],
+      "sign_value": "bungu",
+      "sign_name": "UŠ.GA",
+      "id": 736
+    },
+    {
+      "images": [
+        "USH.png",
+        "KU.png"
+      ],
+      "sign_value": "gala",
+      "sign_name": "UŠ.KU",
+      "id": 737
+    },
+    {
+      "images": [
+        "USH.png",
+        "SAL.png",
+        "DAM.png"
+      ],
+      "sign_value": "nitalam3",
+      "sign_name": "UŠ.SAL.DAM Borger: UŠ.MUNUS.DAM",
+      "id": 738
+    },
+    {
+      "images": [
+        "USH2.png"
+      ],
+      "sign_value": "ug7, uš2",
+      "sign_name": "UŠ2",
+      "id": 739
+    },
+    {
+      "images": [
+        "USH_TIMES_A.png"
+      ],
+      "sign_value": "kaš3",
+      "sign_name": "UŠ×A Borger: KAŠ3",
+      "id": 740
+    },
+    {
+      "images": [
+        "USH_TIMES_TAK4.png"
+      ],
+      "sign_value": "dan6",
+      "sign_name": "UŠ×TAK4 Borger: UŠ×KID2",
+      "id": 741
+    },
+    {
+      "images": [
+        "UZ3.png"
+      ],
+      "sign_value": "ud5, uz3",
+      "sign_name": "UZ3",
+      "id": 742
+    },
+    {
+      "images": [
+        "UZU.png"
+      ],
+      "sign_value": "uzu",
+      "sign_name": "UZU",
+      "id": 743
+    },
+    {
+      "images": [
+        "ZA.png"
+      ],
+      "sign_value": "sa3, za",
+      "sign_name": "ZA",
+      "id": 744
+    },
+    {
+      "images": [
+        "ZA.png",
+        "DUN3_GUNU.png"
+      ],
+      "sign_value": "nir2",
+      "sign_name": "ZA.DUN3@g Borger: ZA.GIN2",
+      "id": 745
+    },
+    {
+      "images": [
+        "ZA.png",
+        "DUN3_GUNU_GUNU.png"
+      ],
+      "sign_value": "nir7",
+      "sign_name": "ZA.DUN3@g@g Borger: ZA.MIR",
+      "id": 746
+    },
+    {
+      "images": [
+        "ZA.png",
+        "GUL.png"
+      ],
+      "sign_value": "gug",
+      "sign_name": "ZA.GUL Borger: GUG",
+      "id": 747
+    },
+    {
+      "images": [
+        "ZA.png",
+        "MUSH3.png"
+      ],
+      "sign_value": "šuba2",
+      "sign_name": "ZA.MUŠ3",
+      "id": 748
+    },
+    {
+      "images": [
+        "ZA.png",
+        "MUSH3.png",
+        "AB_GUNU.png"
+      ],
+      "sign_value": "zabalam2",
+      "sign_name": "ZA.MUŠ3.AB@g Borger: ZA.MUŠ3.UNUG",
+      "id": 749
+    },
+    {
+      "images": [
+        "ZA.png",
+        "MUSH3.png",
+        "DI.png"
+      ],
+      "sign_value": "ḫalba2, sed8",
+      "sign_name": "ZA.MUŠ3.DI",
+      "id": 750
+    },
+    {
+      "images": [
+        "ZA.png",
+        "MUSH3_GUNU.png"
+      ],
+      "sign_value": "šuba",
+      "sign_name": "ZA.MUŠ3@g Borger: ZA.MUŠ2",
+      "id": 751
+    },
+    {
+      "images": [
+        "ZA.png",
+        "MUSH3_GUNU.png",
+        "AB_GUNU.png"
+      ],
+      "sign_value": "zabalam",
+      "sign_name": "ZA.MUŠ3@g.AB@g Borger: ZA.MUŠ2.UNUG",
+      "id": 752
+    },
+    {
+      "images": [
+        "ZA.png",
+        "NIM.png"
+      ],
+      "sign_value": "nir3",
+      "sign_name": "ZA.NIM",
+      "id": 753
+    },
+    {
+      "images": [
+        "ZA_TENU.png"
+      ],
+      "sign_value": "ad4",
+      "sign_name": "ZA@t Borger: AD4",
+      "id": 754
+    },
+    {
+      "images": [
+        "ZADIM.png"
+      ],
+      "sign_value": "zadim",
+      "sign_name": "ZADIM",
+      "id": 755
+    },
+    {
+      "images": [
+        "ZAG.png"
+      ],
+      "sign_value": "za3, zag, zak",
+      "sign_name": "ZAG",
+      "id": 756
+    },
+    {
+      "images": [
+        "ZAG.png",
+        "AN.png"
+      ],
+      "sign_value": "uzug",
+      "sign_name": "ZAG.AN",
+      "id": 757
+    },
+    {
+      "images": [
+        "ZAG.png",
+        "HA.png"
+      ],
+      "sign_value": "enkud",
+      "sign_name": "ZAG.HA",
+      "id": 758
+    },
+    {
+      "images": [
+        "ZE2.png"
+      ],
+      "sign_value": "ze2, zi2",
+      "sign_name": "ZE2 Borger: ZI2",
+      "id": 759
+    },
+    {
+      "images": [
+        "ZI.png"
+      ],
+      "sign_value": "se2, si2, ṣi2, ze, zi, zid, zig3",
+      "sign_name": "ZI",
+      "id": 760
+    },
+    {
+      "images": [
+        "ZI_OVER_ZI.png"
+      ],
+      "sign_value": "part of compound",
+      "sign_name": "ZI/ZI",
+      "id": 761
+    },
+    {
+      "images": [
+        "ZI_OVER_ZI.png",
+        "LAGAB.png"
+      ],
+      "sign_value": "numun2, šub5, zukum",
+      "sign_name": "ZI/ZI.LAGAB Borger: NUMUN2",
+      "id": 762
+    },
+    {
+      "images": [
+        "ZI3.png"
+      ],
+      "sign_value": "zid2",
+      "sign_name": "ZI3",
+      "id": 763
+    },
+    {
+      "images": [
+        "ZIG.png"
+      ],
+      "sign_value": "ḫaš2, zib2",
+      "sign_name": "ZIG Borger: ZIK",
+      "id": 764
+    },
+    {
+      "images": [
+        "ZU.png"
+      ],
+      "sign_value": "su2, zu",
+      "sign_name": "ZU",
+      "id": 765
+    },
+    {
+      "images": [
+        "ZU.png",
+        "AB.png"
+      ],
+      "sign_value": "abzu",
+      "sign_name": "ZU.AB",
+      "id": 766
+    },
+    {
+      "images": [
+        "ZUM.png"
+      ],
+      "sign_value": "ḫaš4, rig2, sum2, zum",
+      "sign_name": "ZUM",
+      "id": 767
+    },
+    {
+      "images": [
+        "TWO_ASH.png"
+      ],
+      "sign_value": "min5",
+      "sign_name": "TWO.AŠ Borger: AŠ.AŠ",
+      "id": 768
+    },
+    {
+      "images": [
+        "ONE_BURU.png"
+      ],
+      "sign_value": "BUR3@g",
+      "sign_name": "ONE.BURU Borger: BUR3@g",
+      "id": 769
+    },
+    {
+      "images": [
+        "THREE_DISH.png"
+      ],
+      "sign_value": "eš5",
+      "sign_name": "THREE.DIŠ Borger: EŠ5",
+      "id": 770
+    },
+    {
+      "images": [
+        "FOUR_DISH.png"
+      ],
+      "sign_value": "limmu5",
+      "sign_name": "FOUR.DIŠ Borger: LIMMU5",
+      "id": 771
+    },
+    {
+      "images": [
+        "FOUR_DISH_VAR.png"
+      ],
+      "sign_value": "limmu",
+      "sign_name": "FOUR.DIŠ.VAR Borger: LIMMU",
+      "id": 772
+    },
+    {
+      "images": [
+        "FIVE_DISH.png"
+      ],
+      "sign_value": "ia2",
+      "sign_name": "FIVE.DIŠ Borger: IA2",
+      "id": 773
+    },
+    {
+      "images": [
+        "EIGHT_DISH.png"
+      ],
+      "sign_value": "ussu",
+      "sign_name": "EIGHT.DIŠ Borger: USSU",
+      "id": 774
+    },
+    {
+      "images": [
+        "ONE_ESHE3.png"
+      ],
+      "sign_value": "eše3",
+      "sign_name": "ONE.EŠE3 Borger: EŠE3 and AŠ+U",
+      "id": 775
+    },
+    {
+      "images": [
+        "TWO_ESHE3.png"
+      ],
+      "sign_value": "eše3/eše3",
+      "sign_name": "TWO.EŠE3 Borger: EŠE3/EŠE3",
+      "id": 776
+    },
+    {
+      "images": [
+        "FIVE_U.png"
+      ],
+      "sign_value": "ninnu",
+      "sign_name": "FIVE.U Borger: NINNU",
+      "id": 777
+    }
+  ],
+  "references": [
+    "The signs in this list were kindly supplied by Steve Tinney of the Pennsylvania Sumerian Dictionary Project The sign names are taken from the 'Final proposal to encode the Cuneiform script in the SMP of the UCS', a Unicode proposal which can be found at ISO/IEC JTC1/SC2/WG2 N2786.",
+    "http://etcsl.orinst.ox.ac.uk/edition2/signlist.php",
+    "https://en.wikipedia.org/wiki/List_of_cuneiform_signs"
+  ],
+  "info": [
+    "When the sign name used in the Unicode proposal differs from the name found in Rykle Borger's 1988 Assyrisch-babylonische Zeichenliste (Verlag Butzon & Bercker, Kevelaer/Neukirchener Verlag, Neukirchen-Vluyn), the name in Borger has been included. The sign values follow the same publication, updated to include those in Borger's 2004 Mesopotamisches Zeichenlexikon (Ugarit-Verlag, Münster).",
+    "As well as primary signs, the Unicode proposal operates with two types of signs: compound and complex. Compound signs are 'linear sequences of two or more signs or wedge-clusters generally treated by scholars as a single unit, when each and every such wedge-cluster exists as a clearly identified character in its own right.' Complex signs are 'signs made up of a primary sign with one or more secondary signs written within it or otherwise conjoined to it, such that the whole is generally treated by scholars as a unit; this includes linear sequences of two or more signs or wedge-clusters where one or more of said clusters have not been clearly identified as characters in their own right.'",
+    ". (dot) is used to separate the individual signs of a compound sign",
+    "× shows that one sign is written within another sign",
+    "+ shows that the two signs form a ligature",
+    "/ shows that the first sign (sequence/cluster) is written above the second (sequence/cluster)",
+    "(inverted) shows that the second sign (sequence/cluster) is written inverted in relation to the first sign (sequence/cluster)",
+    "% shows that two signs cross each other"
+  ]
+}

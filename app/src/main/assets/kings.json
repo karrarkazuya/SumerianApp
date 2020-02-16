@@ -1,0 +1,1201 @@
+{
+  "info": "The Sumerian King List is an ancient manuscript originally recorded in the Sumerian language, listing kings of Sumer (ancient southern Iraq) from Sumerian and neighboring dynasties, their supposed reign lengths, and the locations of kingship. Kingship was seen as handed down by the gods, and could be transferred from one city to another, reflecting perceived hegemony in the region. Throughout its Bronze Age existence, the document evolved into a political tool. Its final and single attested version, dating to the Middle Bronze Age, aimed to legitimize Isin's claims to hegemony when Isin was vying for dominance with Larsa and other neighboring city-states in southern Mesopotamia",
+  "dynasties": [
+    {
+      "title": "Antediluvian rulers",
+      "info": "",
+      "kings": [
+        {
+          "extra_info": "After the kingship descended from heaven, the kingship was in Eridug. In Eridug Alulim became king; he ruled for 28800 years."
+        },
+        {
+          "ruler": "Alulim",
+          "epithet": "",
+          "length_of_reign": "8 sars (28,800 years)",
+          "approx_dates": "",
+          "more_info": "mythological"
+        },
+        {
+          "ruler": "Alalngar",
+          "epithet": "",
+          "length_of_reign": "10 sars (36,000 years)",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then Eridug fell and the kingship was taken to Bad-tibira."
+        },
+        {
+          "ruler": "En-men-lu-ana",
+          "epithet": "",
+          "length_of_reign": "12 sars (43,200 years)",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "En-men-gal-ana",
+          "epithet": "",
+          "length_of_reign": "8 sars (28,800 years)",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Dumuzid, the Shepherd ",
+          "epithet": "the shepherd",
+          "length_of_reign": "10 sars (36,000 years)",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then Bad-tibira fell and the kingship was taken to Larag."
+        },
+        {
+          "ruler": "En-sipad-zid-ana",
+          "epithet": "",
+          "length_of_reign": "8 sars (28,800 years)",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then Larag fell and the kingship was taken to Zimbir."
+        },
+        {
+          "ruler": "En-men-dur-ana",
+          "epithet": "",
+          "length_of_reign": "5 sars and 5 ners (21,000 years)",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then Zimbir fell and the kingship was taken to Shuruppag."
+        },
+        {
+          "ruler": "Ubara-Tutu",
+          "epithet": "",
+          "length_of_reign": "5 sars and 1 ner (18,600 years)",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then the flood swept over."
+        }
+      ]
+    },
+    {
+      "title": "First Dynasty of Kish",
+      "info": "",
+      "kings": [
+        {
+          "extra_info": "After the flood had swept over, and the kingship had descended from heaven, the kingship was in Kish."
+        },
+        {
+          "ruler": "Jushur",
+          "epithet": "",
+          "length_of_reign": "1,200 years",
+          "approx_dates": "historicity uncertain",
+          "more_info": "names before Etana do not appear in any other known source, and their existence is archaeologically unverified"
+        },
+        {
+          "ruler": "Kullassina-bel",
+          "epithet": "",
+          "length_of_reign": "960 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Nangishlishma",
+          "epithet": "",
+          "length_of_reign": "670 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "En-tarah-ana",
+          "epithet": "",
+          "length_of_reign": "420 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Babum",
+          "epithet": "",
+          "length_of_reign": "300 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Puannum",
+          "epithet": "",
+          "length_of_reign": "840 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Kalibum",
+          "epithet": "",
+          "length_of_reign": "960 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Kalumum",
+          "epithet": "",
+          "length_of_reign": "840 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Zuqaqip",
+          "epithet": "",
+          "length_of_reign": "900 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Atab(or A-ba)",
+          "epithet": "",
+          "length_of_reign": "600 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Mashda",
+          "epithet": "the son of Atab",
+          "length_of_reign": "840 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Arwium",
+          "epithet": "the son of Mashda",
+          "length_of_reign": "720 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Etana",
+          "epithet": "the shepherd, who ascended to heaven and consolidated all the foreign countries",
+          "length_of_reign": "1,500 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Balih",
+          "epithet": "the son of Etana",
+          "length_of_reign": "400 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "En-me-nuna",
+          "epithet": "",
+          "length_of_reign": "660 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Melem-Kish",
+          "epithet": "the son of En-me-nuna",
+          "length_of_reign": "900 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Barsal-nuna",
+          "epithet": "the son of En-me-nuna",
+          "length_of_reign": "1,200 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Zamug",
+          "epithet": "the son of Barsal-nuna",
+          "length_of_reign": "140 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Tizqar",
+          "epithet": "the son of Zamug",
+          "length_of_reign": "305 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Ilku",
+          "epithet": "",
+          "length_of_reign": "900 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Iltasadum",
+          "epithet": "",
+          "length_of_reign": "1,200 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "En-me-barage-si",
+          "epithet": "who made the land of Elam submit",
+          "length_of_reign": "900 years",
+          "approx_dates": "ca. 2600 BC",
+          "more_info": "the earliest ruler on the List confirmed independently from epigraphical evidence"
+        },
+        {
+          "ruler": "Aga of Kish",
+          "epithet": "the son of En-me-barage-si",
+          "length_of_reign": "625 years",
+          "approx_dates": "ca. 2600 BC",
+          "more_info": "contemporary with Gilgamesh of Uruk, according to the Epic of Gilgamesh, Gilgameš and Aga Translation at ETCSL"
+        },
+        {
+          "extra_info": "Then Kish was defeated and the kingship was taken to E-ana"
+        }
+      ]
+    },
+    {
+      "title": "First Rulers of Uruk",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "Mesh-ki-ang-gasher of E-ana",
+          "epithet": "the son of Utu",
+          "length_of_reign": "324 years",
+          "approx_dates": "ca. 27th",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Mesh-ki-ang-gasher entered the sea and disappeared."
+        },
+        {
+          "ruler": "Enmerkar",
+          "epithet": "the son of Mesh-ki-ang-gasher, the king of Unug, who built Unug (Uruk)",
+          "length_of_reign": "420 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Lugalbanda",
+          "epithet": "the shepherd",
+          "length_of_reign": "1,200 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Dumuzid (Dumuzi)",
+          "epithet": "the fisherman whose city was Kuara ('He captured En-me-barage-si single-handedly.')",
+          "length_of_reign": "100 years",
+          "approx_dates": "ca. 2600 BC",
+          "more_info": ""
+        },
+        {
+          "ruler": "Gilgamesh",
+          "epithet": "whose father was a phantom (?), the lord of Kulaba",
+          "length_of_reign": "126 years",
+          "approx_dates": "ca. 2600 BC",
+          "more_info": "ontemporary with Aga of Kish, according to the Epic of Gilgamesh"
+        },
+        {
+          "ruler": "Ur-Nungal",
+          "epithet": "the son of Gilgamesh",
+          "length_of_reign": "30 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Udul-kalama",
+          "epithet": "the son of Ur-Nungal",
+          "length_of_reign": "15 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "La-ba'shum",
+          "epithet": "",
+          "length_of_reign": "9 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "En-nun-tarah-ana",
+          "epithet": "",
+          "length_of_reign": "8 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Mesh-he",
+          "epithet": "the smith",
+          "length_of_reign": "36 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Melem-ana",
+          "epithet": "",
+          "length_of_reign": "6 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Lugal-kitun",
+          "epithet": "",
+          "length_of_reign": "36 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then Unug was defeated and the kingship was taken to Urim (Ur)."
+        }
+      ]
+    },
+    {
+      "title": "First Dynasty of Ur",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "Mesh-Ane-pada",
+          "epithet": "",
+          "length_of_reign": "80 years",
+          "approx_dates": "ca. 26th century BC",
+          "more_info": ""
+        },
+        {
+          "ruler": "Mesh-ki-ang-Nuna",
+          "epithet": "the son of Mesh-Ane-pada",
+          "length_of_reign": "36 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Elulu",
+          "epithet": "",
+          "length_of_reign": "25 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Balulu",
+          "epithet": "",
+          "length_of_reign": "36 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then Urim was defeated and the kingship was taken to Awan"
+        }
+      ]
+    },
+    {
+      "title": "Dynasty of Awan",
+      "info": "This was a dynasty from Elam",
+      "kings": [
+        {
+          "ruler": "Three kings of Awan",
+          "epithet": "",
+          "length_of_reign": "356 years",
+          "approx_dates": "ca. 26th century BC",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then Awan was defeated and the kingship was taken to Kish"
+        }
+      ]
+    },
+    {
+      "title": "Second Dynasty of Kish",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "Susuda",
+          "epithet": "the fuller",
+          "length_of_reign": "201 years",
+          "approx_dates": "ca. 26th century BC",
+          "more_info": ""
+        },
+        {
+          "ruler": "Dadasig",
+          "epithet": "",
+          "length_of_reign": "81 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Mamagal",
+          "epithet": "the boatman",
+          "length_of_reign": "360 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Kalbum",
+          "epithet": "the son of Mamagal",
+          "length_of_reign": "195 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Tuge",
+          "epithet": "",
+          "length_of_reign": "360 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Men-nuna",
+          "epithet": "the son of Tuge",
+          "length_of_reign": "180 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Enbi-Ishtar",
+          "epithet": "",
+          "length_of_reign": "290 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Lugalngu",
+          "epithet": "",
+          "length_of_reign": "360 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then Kish was defeated and the kingship was taken to Hamazi"
+        }
+      ]
+    },
+    {
+      "title": "The First Dynasty of Lagash",
+      "info": "(ca. 2500 – ca. 2271 BC) is not mentioned in the King List, though it is well known from inscriptions"
+    },
+    {
+      "title": "The Dynasty of Hamazi",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "Hadanish",
+          "epithet": "",
+          "length_of_reign": "360 years",
+          "approx_dates": "ca. 2500 BC",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then Hamazi was defeated and the kingship was taken to Unug (Uruk)."
+        }
+      ]
+    },
+    {
+      "title": "Second Dynasty of Uruk",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "En-shag-kush-ana",
+          "epithet": "",
+          "length_of_reign": "60 years",
+          "approx_dates": "ca. 25th century BC",
+          "more_info": "said to have conquered parts of Sumer; then Eannatum of Lagash claims to have taken over Sumer, Kish, and all Mesopotamia."
+        },
+        {
+          "ruler": "Lugal-kinishe-dudu or Lugal-ure",
+          "epithet": "",
+          "length_of_reign": "120 years",
+          "approx_dates": "",
+          "more_info": "contemporary with Entemena of Lagash"
+        },
+        {
+          "ruler": "Argandea",
+          "epithet": "",
+          "length_of_reign": "7 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then Unug was defeated and the kingship was taken to Urim (Ur)."
+        }
+      ]
+    },
+    {
+      "title": "Second Dynasty of Ur",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "Nanni",
+          "epithet": "",
+          "length_of_reign": "120 years",
+          "approx_dates": "ca. 25th century BC",
+          "more_info": ""
+        },
+        {
+          "ruler": "Mesh-ki-ang-Nanna II",
+          "epithet": "the son of Nanni",
+          "length_of_reign": "48 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "(?)",
+          "epithet": "",
+          "length_of_reign": "2 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then Urim was defeated and the kingship was taken to Adab"
+        }
+      ]
+    },
+    {
+      "title": "Dynasty of Adab",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "Lugal-Ane-mundu",
+          "epithet": "",
+          "length_of_reign": "90 years",
+          "approx_dates": "ca. 25th century BC",
+          "more_info": "said to have conquered all Mesopotamia from the Persian Gulf to the Zagros Mountains and Elam"
+        },
+        {
+          "extra_info": "Then Adab was defeated and the kingship was taken to Mari"
+        }
+      ]
+    },
+    {
+      "title": "Dynasty of Mari",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "Anbu",
+          "epithet": "",
+          "length_of_reign": "30 years",
+          "approx_dates": "ca. 25th century BC",
+          "more_info": ""
+        },
+        {
+          "ruler": "Anba",
+          "epithet": "the son of Anbu",
+          "length_of_reign": "17 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Bazi",
+          "epithet": "the leatherworker",
+          "length_of_reign": "30 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Zizi of Mari",
+          "epithet": "the fuller",
+          "length_of_reign": "20 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Limer",
+          "epithet": "the 'gudug' priest",
+          "length_of_reign": "30 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Sharrum-iter",
+          "epithet": "",
+          "length_of_reign": "9 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then Mari was defeated and the kingship was taken to Kish"
+        }
+      ]
+    },
+    {
+      "title": "Third Dynasty of Kish",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "Kug-Bau (Kubaba)",
+          "epithet": "the woman tavern-keeper, who made firm the foundations of Kish",
+          "length_of_reign": "100 years",
+          "approx_dates": "ca. 25th century BC",
+          "more_info": "the only known woman in the King List; said to have gained independence from En-anna-tum I of Lagash and En-shag-kush-ana of Uruk ; contemporary with Puzur-Nirah of Akshak , according to the later Chronicle of the É-sagila"
+        },
+        {
+          "extra_info": "Then Kish was defeated and the kingship was taken to Akshak"
+        }
+      ]
+    },
+    {
+      "title": "Dynasty of Akshak",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "Unzi",
+          "epithet": "",
+          "length_of_reign": "30 years",
+          "approx_dates": "ca. 25th – 24th century BC",
+          "more_info": ""
+        },
+        {
+          "ruler": "Undalulu",
+          "epithet": "",
+          "length_of_reign": "6 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Urur",
+          "epithet": "",
+          "length_of_reign": "6 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Puzur-Nirah",
+          "epithet": "",
+          "length_of_reign": "20 years",
+          "approx_dates": "",
+          "more_info": "contemporary with Kug-Bau of Kish , according to the later Chronicle of É-sagila"
+        },
+        {
+          "ruler": "Ishu-Il",
+          "epithet": "",
+          "length_of_reign": "24 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Shu-Suen of Akshak",
+          "epithet": "the son of Ishu-Il",
+          "length_of_reign": "7 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then Akshak was defeated and the kingship was taken to Kish"
+        }
+      ]
+    },
+    {
+      "title": "Fourth Dynasty of Kish",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "Puzur-Suen",
+          "epithet": "the son of Kug-Bau",
+          "length_of_reign": "25 years",
+          "approx_dates": "ca. 24th – 23rd century BC",
+          "more_info": ""
+        },
+        {
+          "ruler": "Ur-Zababa",
+          "epithet": "the son of Puzur-Suen",
+          "length_of_reign": "400 (6?) years",
+          "approx_dates": "ca. 2300 BC",
+          "more_info": "according to the king list, Sargon of Akkad was his cup-bearer"
+        },
+        {
+          "ruler": "Zimudar",
+          "epithet": "",
+          "length_of_reign": "30 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Usi-watar",
+          "epithet": "the son of Zimudar",
+          "length_of_reign": "7 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Eshtar-muti",
+          "epithet": "",
+          "length_of_reign": "11 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Ishme-Shamash",
+          "epithet": "",
+          "length_of_reign": "11 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "(Shu-ilishu)*\t",
+          "epithet": "",
+          "length_of_reign": "(15 years)*\t",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Nanniya",
+          "epithet": "the jeweller",
+          "length_of_reign": "7 years",
+          "approx_dates": "ca. 2303–2296 BC (short)\t",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then Kish was defeated and the kingship was taken to Unug (Uruk)."
+        }
+      ]
+    },
+    {
+      "title": "Third Dynasty of Uruk",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "Lugal-zage-si",
+          "epithet": "",
+          "length_of_reign": "25 years",
+          "approx_dates": "years\tca. 2296–2271 BC (short)",
+          "more_info": ""
+        },
+        {
+          "extra_info": "said to have defeated Urukagina of Lagash, as well as Kish and other Sumerian cities, creating a unified kingdom; he in turn was overthrown by Sargon of Akkad"
+        }
+      ]
+    },
+    {
+      "title": "Dynasty of Akkad",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "Sargon of Akkad",
+          "epithet": "whose father was a gardener, the cupbearer of Ur-Zababa, became king, the king of Agade, who built Agade",
+          "length_of_reign": "40 years",
+          "approx_dates": "ca. 2270–2215 BC (short)",
+          "more_info": "defeated Lugal-zage-si of Uruk, took over Sumer, and began the Akkadian Empire"
+        },
+        {
+          "ruler": "Rimush of Akkad",
+          "epithet": "the son of Sargon",
+          "length_of_reign": "9 years",
+          "approx_dates": "ca. 2214–2206 BC (short)",
+          "more_info": ""
+        },
+        {
+          "ruler": "Manishtushu (Manishtusu)",
+          "epithet": "the older brother of Rimush, the son of Sargon",
+          "length_of_reign": "15 years",
+          "approx_dates": "ca. 2205–2191 BC (short)",
+          "more_info": ""
+        },
+        {
+          "ruler": "Naram-Sin of Akkad",
+          "epithet": "the son of Man-ishtishu",
+          "length_of_reign": "56 years",
+          "approx_dates": "ca. 2190–2154 BC (short)",
+          "more_info": ""
+        },
+        {
+          "ruler": "Shar-kali-sharri",
+          "epithet": "the son of Naram-Sin",
+          "length_of_reign": "25 years",
+          "approx_dates": "ca. 2153–22.0 BC (short)",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then who was king? Who was not the king?"
+        },
+        {
+          "ruler": "Irgigi, Imi, Nanum, Ilulu",
+          "epithet": "and the 4 of them ruled for only 3 years",
+          "length_of_reign": "",
+          "approx_dates": "ca. 2128–2125 BC (short)",
+          "more_info": ""
+        },
+        {
+          "ruler": "Dudu of Akkad",
+          "epithet": "",
+          "length_of_reign": "21 years",
+          "approx_dates": "ca. 2125–2104 BC (short)",
+          "more_info": ""
+        },
+        {
+          "ruler": "Shu-Durul",
+          "epithet": "the son of Dudu",
+          "length_of_reign": "15 years",
+          "approx_dates": "ca. 2104–2083 BC (short)",
+          "more_info": "Akkad falls to the Gutians"
+        },
+        {
+          "extra_info": "Then Agade was defeated and the kingship was taken to Unug (Uruk)."
+        }
+      ]
+    },
+    {
+      "title": "Fourth Dynasty of Uruk",
+      "info": "Possibly rulers of lower Mesopotamia contemporary with the Dynasty of Akkad",
+      "kings": [
+        {
+          "ruler": "Ur-ningin",
+          "epithet": "",
+          "length_of_reign": "7 years",
+          "approx_dates": "ca. 2091? – 2061? BC (short)",
+          "more_info": ""
+        },
+        {
+          "ruler": "Ur-gigir",
+          "epithet": "the son of Ur-ningin",
+          "length_of_reign": "6 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Kuda",
+          "epithet": "",
+          "length_of_reign": "6 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Puzur-ili",
+          "epithet": "",
+          "length_of_reign": "5 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Ur-Utu (or Lugal-melem)",
+          "epithet": "(the son of Ur-gigir)*",
+          "length_of_reign": "25 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Unug was defeated and the kingship was taken to the army of Gutium"
+        }
+      ]
+    },
+    {
+      "title": "The 2nd Dynasty of Lagash",
+      "info": "(before ca. 2093–2046 BC (short)) is not mentioned in the King List, though it is well known from inscriptions.",
+      "kings": []
+    },
+    {
+      "title": "Gutian rule",
+      "info": "In the army of Gutium, at first no king was famous; they were their own kings and ruled thus for 3 years.",
+      "kings": [
+        {
+          "ruler": "Inkishush",
+          "epithet": "",
+          "length_of_reign": "6 years",
+          "approx_dates": "ca. 2147–2050 BC (short)",
+          "more_info": ""
+        },
+        {
+          "ruler": "Zarlagab",
+          "epithet": "",
+          "length_of_reign": "6 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Shulme (or Yarlagash)",
+          "epithet": "",
+          "length_of_reign": "6 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Silulumesh (or Silulu)",
+          "epithet": "",
+          "length_of_reign": "6 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Inimabakesh (or Duga)",
+          "epithet": "",
+          "length_of_reign": "5 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Igeshaush (or Ilu-An)",
+          "epithet": "",
+          "length_of_reign": "6 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Yarlagab",
+          "epithet": "",
+          "length_of_reign": "3 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Ibate of Gutium",
+          "epithet": "",
+          "length_of_reign": "3 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Yarla (or Yarlangab)",
+          "epithet": "",
+          "length_of_reign": "3 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Kurum",
+          "epithet": "",
+          "length_of_reign": "1 year",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Apilkin",
+          "epithet": "",
+          "length_of_reign": "3 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "La-erabum",
+          "epithet": "",
+          "length_of_reign": "2 years",
+          "approx_dates": "mace head inscription",
+          "more_info": ""
+        },
+        {
+          "ruler": "Irarum",
+          "epithet": "",
+          "length_of_reign": "2 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Ibranum",
+          "epithet": "",
+          "length_of_reign": "1 year",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Hablum",
+          "epithet": "",
+          "length_of_reign": "2 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Puzur-Suen",
+          "epithet": "the son of Hablum",
+          "length_of_reign": "7 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Yarlaganda",
+          "epithet": "",
+          "length_of_reign": "7 years",
+          "approx_dates": "",
+          "more_info": "foundation inscription at Umma"
+        },
+        {
+          "ruler": "(?)",
+          "epithet": "",
+          "length_of_reign": "7 years",
+          "approx_dates": "",
+          "more_info": "Si-um or Si-u? — foundation inscription at Umma"
+        },
+        {
+          "ruler": "Tirigan",
+          "epithet": "",
+          "length_of_reign": "40 days",
+          "approx_dates": "",
+          "more_info": "defeated by Utu-hengal of Uruk"
+        },
+        {
+          "extra_info": "Then the army of Gutium was defeated and the kingship taken to Unug (Uruk)."
+        }
+      ]
+    },
+    {
+      "title": "Fifth Dynasty of Uruk",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "Utu-hengal",
+          "epithet": "",
+          "length_of_reign": "conflicting dates (427 years / 26 years / 7 years)\t",
+          "approx_dates": "ca. 2055–2048 BC (short)",
+          "more_info": "efeats Tirigan and the Gutians, appoints Ur-Namma governor of Ur"
+        },
+        {
+          "extra_info": "Then Unug was defeated and the kingship was taken to Urim (Ur)."
+        }
+      ]
+    },
+    {
+      "title": "Third Dynasty of Ur",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "Ur-Namma (Ur-Nammu)",
+          "epithet": "",
+          "length_of_reign": "18 years",
+          "approx_dates": "ca. 2047–2030 BC (short)",
+          "more_info": "defeats Nammahani of Lagash; contemporary of Utu-hengal of Uruk"
+        },
+        {
+          "ruler": "Shulgi",
+          "epithet": "the son of Ur-Namma",
+          "length_of_reign": "46 years",
+          "approx_dates": "ca. 2029–1982 BC (short)",
+          "more_info": "possible lunar/solar eclipse 2005 BC"
+        },
+        {
+          "ruler": "Amar-Suena",
+          "epithet": "the son of Shulgi",
+          "length_of_reign": "9 years",
+          "approx_dates": "ca. 1981–1973 BC (short)",
+          "more_info": ""
+        },
+        {
+          "ruler": "Shu-Suen",
+          "epithet": "the son of Amar-Suena",
+          "length_of_reign": "9 years",
+          "approx_dates": "ca. 1972–1964 BC (short)",
+          "more_info": ""
+        },
+        {
+          "ruler": "Ibbi-Suen",
+          "epithet": "the son of Shu-Suen",
+          "length_of_reign": "24 years",
+          "approx_dates": "ca. 1963–1940 BC (short)",
+          "more_info": ""
+        },
+        {
+          "extra_info": "Then Urim was defeated. The very foundation of Sumer was torn out. The kingship was taken to Isin"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "info": "Independent Amorite states in lower Mesopotamia. The Dynasty of Larsa (c. 1961–1674 BC (short)) from this period is not mentioned in the King List"
+    },
+    {
+      "title": "Dynasty of Isin",
+      "info": "",
+      "kings": [
+        {
+          "ruler": "Ishbi-Erra",
+          "epithet": "",
+          "length_of_reign": "33 years",
+          "approx_dates": "ca. 1953–1730 BC (short)",
+          "more_info": "contemporary of Ibbi-Suen of Ur"
+        },
+        {
+          "ruler": "Shu-Ilishu",
+          "epithet": "the son of Ishbi-Erra",
+          "length_of_reign": "20 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Iddin-Dagan",
+          "epithet": "the son of Shu-ilishu",
+          "length_of_reign": "20 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Ishme-Dagan",
+          "epithet": "the son of Iddin-Dagan",
+          "length_of_reign": "20 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Lipit-Eshtar",
+          "epithet": "the son of Ishme-Dagan (or Iddin-Dagan)",
+          "length_of_reign": "11 years",
+          "approx_dates": "",
+          "more_info": "contemporary of Gungunum of Larsa"
+        },
+        {
+          "ruler": "Ur-Ninurta",
+          "epithet": "(the son of Ishkur, may he have years of abundance, a good reign, and a sweet life)*",
+          "length_of_reign": "28 years",
+          "approx_dates": "",
+          "more_info": "Contemporary of Abisare of Larsa"
+        },
+        {
+          "ruler": "Bur-Suen",
+          "epithet": "the son of Ur-Ninurta",
+          "length_of_reign": "21 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Lipit-Enlil",
+          "epithet": "the son of Bur-Suen",
+          "length_of_reign": "5 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Erra-imitti",
+          "epithet": "",
+          "length_of_reign": "8 years",
+          "approx_dates": "",
+          "more_info": "He appointed his gardener, Enlil-Bani, substitute king and then suddenly died."
+        },
+        {
+          "ruler": "Enlil-bani",
+          "epithet": "",
+          "length_of_reign": "24 years",
+          "approx_dates": "",
+          "more_info": "contemporary of Sumu-la-El of Babylon. He was Erra-imitti's gardener and was appointed substitute king, to serve as a scapegoat and then sacrificed, but remained on the throne when Erra－imitti suddenly died."
+        },
+        {
+          "ruler": "Zambiya",
+          "epithet": "",
+          "length_of_reign": "3 years",
+          "approx_dates": "",
+          "more_info": "contemporary of Sin-Iqisham of Larsa"
+        },
+        {
+          "ruler": "Iter-pisha",
+          "epithet": "",
+          "length_of_reign": "4 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Ur-du-kuga",
+          "epithet": "",
+          "length_of_reign": "4 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "Suen-magir",
+          "epithet": "",
+          "length_of_reign": "11 years",
+          "approx_dates": "",
+          "more_info": ""
+        },
+        {
+          "ruler": "(Damiq-ilishu)*",
+          "epithet": "(the son of Suen-magir)*",
+          "length_of_reign": "(23 years)*",
+          "approx_dates": "",
+          "more_info": ""
+        }
+      ]
+    }
+  ]
+}

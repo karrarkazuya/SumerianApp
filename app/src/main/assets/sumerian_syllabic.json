@@ -1,0 +1,3571 @@
+{"syllabic": [
+{"id": 0,
+"tag": "banmin",
+"subs": [
+"banmin","2(ban2)","bamen","bamin"
+]}
+,
+{"id": 1,
+"tag": "A",
+"subs": [
+"a","aya2","duru5","dur5","e4","ebir3","epir3","eš10","ya10","ʾu4","aia2","barx(A)","buniĝx(A)","burx(A)","ea","emx(A)","ĝa10","ia10","id5","me5","mu14","sedx(A)","šegx(A)","ţur5"
+]}
+,
+{"id": 2,
+"tag": "A.AN",
+"subs": [
+"am3","šeĝ3","šeg3","še7","a4","šemx(A.AN)"
+]}
+,
+{"id": 3,
+"tag": "A.EDIN.LAL",
+"subs": [
+"ummu3","ummud"
+]}
+,
+{"id": 4,
+"tag": "A.PA.GISAL.PAD.SI.A",
+"subs": [
+"addir","au","aʾuʾu","iddir","samanx(A.PA.GISAL.PAD.SI.A)"
+]}
+,
+{"id": 5,
+"tag": "A.SU",
+"subs": [
+"aktum"
+]}
+,
+{"id": 6,
+"tag": "A.TAR.A.AN",
+"subs": [
+"ebla"
+]}
+,
+{"id": 7,
+"tag": "A.TU",
+"subs": [
+"asalx(A.TU)"
+]}
+,
+{"id": 8,
+"tag": "A.TU.GABA.SIG.GAR",
+"subs": [
+"asalx(A.TU.GABA.SIG.GAR)"
+]}
+,
+{"id": 9,
+"tag": "A2",
+"subs": [
+"a2","id","et","it","idi2","ed","it","ti8","te8","ah5","ahi2","eţ","iţ"
+]}
+,
+{"id": 10,
+"tag": "AB",
+"subs": [
+"ab","aba","ap","ap","eš3","ez3","iz3","eša3","iš7","es3","esa3","is3","is3","abba","agarinx(AB)","ašx(AB)","eri12","ešex(AB)","eş3","giraba","iri12","iş3","unu5"
+]}
+,
+{"id": 11,
+"tag": "AB2",
+"subs": [
+"ab2","ap2","le8","li8","lid","lit","liti","liţ","liţi","rem2","reme2","rim2","rimu2"
+]}
+,
+{"id": 12,
+"tag": "AD",
+"subs": [
+"ad","at","ada","at","ab3","aba3","ap3","aţ"
+]}
+,
+{"id": 13,
+"tag": "AK",
+"subs": [
+"ak","aka","ag","a5","aq","kid3","ša5","aĝ","akix(AK)","aqa","ke3","ki3","me6","na3","ra6"
+]}
+,
+{"id": 14,
+"tag": "AL",
+"subs": [
+"al","ala3","mah2","maha2","il10"
+]}
+,
+{"id": 15,
+"tag": "ALAN",
+"subs": [
+"alan","al2","alag","alaĝ","alala","alam","belili","kaššeba2","kaššebi2"
+]}
+,
+{"id": 16,
+"tag": "AMAR",
+"subs": [
+"amar","zur","mar2","mara2","marad","surx(AMAR)","şar2","şur","şuru"
+]}
+,
+{"id": 17,
+"tag": "AN",
+"subs": [
+"an","anu","ana2","am6","diĝir","digir","dingir","dingira","ilu","ili","a11","d","dalhamunx(AN)","dibur","dimer","dimer","dimir","dimmer","diner","dinir","dir3","el3","eššu2","il3","ila","le4","sa8","šubul","şa3","usanx(AN)","za5"
+]}
+,
+{"id": 18,
+"tag": "APIN",
+"subs": [
+"absin3","abšin3","apin","apina","engar","engara","ereš4","uru4","ur11","bin","eriš4","pin","uš8"
+]}
+,
+{"id": 19,
+"tag": "ARAD",
+"subs": [
+"arad","urda","urdu","er3","eru","ir3","eri3","erum","er3","ir3","nita2","nitah2","nintah2","nintax(ARAD)","wardu","arda","erad","irda","...ki","nintax(ARAD)","suburx(ARAD)","subarrumx(ARAD)","šubur2","war3"
+]}
+,
+{"id": 20,
+"tag": "ARKAB2.IB",
+"subs": [
+"arkabx(ARKAB2.IB)"
+]}
+,
+{"id": 21,
+"tag": "az",
+"subs": [
+"az","as","asa","aza","ugx(PIRIG×ZA)","aş","us4","uş4","uz4"
+]}
+,
+{"id": 22,
+"tag": "AŠ2",
+"subs": [
+"aš2","az2","aša2","as2","asa2","baneš","utu5","aś","aş2","baeš","daš3","deššu","taš3","ud2","udeššu","ut2"
+]}
+,
+{"id": 23,
+"tag": "BA",
+"subs": [
+"ba","pa2","pa2","be4","bi6","wa2","libit"
+]}
+,
+{"id": 24,
+"tag": "BAD",
+"subs": [
+"bad","bada","bat","pat2","bata","ba9","pad2","mud2","mitu","mut2","mit","sugin","ulal","ziz","zu4","bara4","baţ","be","bi4","bid2","dihi","dim7","edim","eš7","idin","mat2","me4","miţ","pax(BAD)","paţ2","pe3","pi3","qit3","sungin","şiş","ti5","tile","ţil2","zar5","zara5","zaz","zis","zuru9"
+]}
+,
+{"id": 25,
+"tag": "BAD.BAD",
+"subs": [
+"dabda2"
+]}
+,
+{"id": 26,
+"tag": "BAHAR2",
+"subs": [
+"bahar2","muštaptin","allura","alurx(BAHAR2)","lil7","lillu","nunurra","nunurru"
+]}
+,
+{"id": 27,
+"tag": "BAL",
+"subs": [
+"bala","bal","balak","bul3","kulx(BAL)","pal","pala4","pul3"
+]}
+,
+{"id": 28,
+"tag": "BALAG",
+"subs": [
+"balaĝ","balag","buluĝ5","bulug5","lumha","bulunx(BALAG)","bum2","gud10","gudu10","taka\\ +2 "
+]}
+,
+{"id": 29,
+"tag": "BALAG.TUR",
+"subs": [
+"zabitum"
+]}
+,
+{"id": 30,
+"tag": "BAR",
+"subs": [
+"bar","par2","para2","bara","bare","ba15","sutu","war"
+]}
+,
+{"id": 31,
+"tag": "BARA2",
+"subs": [
+"barag","bara2","parag","par6","para10","bar2","šara","ša23","šar6"
+]}
+,
+{"id": 32,
+"tag": "BI",
+"subs": [
+"be2","bi","biz","dugx(BI)","epir2","kaš","gaš","kas2","ebirx(BI)","huburx(BI)","ka8","kaş","pe2","pi2","sa18","siris4","su15","ša21","šu13"
+]}
+,
+{"id": 33,
+"tag": "ECEMIN5",
+"subs": [
+"ešemen5","ešemin5"
+]}
+,
+{"id": 34,
+"tag": "BI.A.SUD",
+"subs": [
+"kašbir","kaš-bir8","ulušinx(BI.A.SUD)"
+]}
+,
+{"id": 35,
+"tag": "BI.DIN",
+"subs": [
+"kurun"
+]}
+,
+{"id": 36,
+"tag": "BI.U2.SA",
+"subs": [
+"pihu"
+]}
+,
+{"id": 37,
+"tag": "BIL2",
+"subs": [
+"bil2","pel2","pil2","gibil","gibila"
+]}
+,
+{"id": 38,
+"tag": "BU",
+"subs": [
+"bu","bur12","gazinbu","gazimbi","gazinbi","gid2","gida2","gidi3","git2","kid10","kit10","kim3","gim7","gidim3","madal","malla","mudla","nun3","pu","sir2","su13","šašku","šaški","šir2","dim13","dul10","dur7","gazibu","gi27","giţ2","guz2","ildumx(BU)","madla","madlu","mudlu","mudra3","mudru3","mudul","mulla","mullu","pi8","qid2","qit2","ra5","six(BU)","sud4","sugx(BU)","surx(BU)","suš3","šer2","šud2","tur8"
+]}
+,
+{"id": 39,
+"tag": "BU%BU",
+"subs": [
+"unu12"
+]}
+,
+{"id": 40,
+"tag": "BULUG",
+"subs": [
+"bulug","buluĝ","mangara","bu9","magar","magara","muš6","nagarx(BULUG)","niĝinx(BULUG)"
+]}
+,
+{"id": 41,
+"tag": "bulug3",
+"subs": [
+"aman","bu10","buluĝ3","dim4","munu4","bulug3","bulunx(PAP.PAP)","bur13","pur13"
+]}
+,
+{"id": 42,
+"tag": "BUR",
+"subs": [
+"bur","puru","pur","buru","limx(BUR)"
+]}
+,
+{"id": 43,
+"tag": "BUR2",
+"subs": [
+"bu8","bulug2","bur2","pul2","bul2","buru2","dun5","du9","sun5","šum5","ušu","ušum","bal2","su16"
+]}
+,
+{"id": 44,
+"tag": "DA",
+"subs": [
+"da","ta2","ta2","ax(DA)","dix(DA)","du20","idi3","le10","li10","ţa"
+]}
+,
+{"id": 45,
+"tag": "DAG",
+"subs": [
+"barag2","bara3","par3","para3","bar3","par3","dag","tag2","dak","tak2","tag2","da8","daq","taq2","ţak"
+]}
+,
+{"id": 46,
+"tag": "DAM",
+"subs": [
+"dam","dama","tam2","da4","dum3","lam3","ta4","tum10","ţa4","ţam"
+]}
+,
+{"id": 47,
+"tag": "DAR",
+"subs": [
+"dar","tar2","tar2","gun3","gunu3","dax(DAR)","daš4","dir2","gux(DAR)","tir3","ţar2","ţir4"
+]}
+,
+{"id": 48,
+"tag": "dar3",
+"subs": [
+"durah","dara3","dar3","tara3","tarah","tarah","tar3","ţar3"
+]}
+,
+{"id": 49,
+"tag": "DARA4",
+"subs": [
+"dara4","durahx(DARA4)","inna","lahar2","u10","dar4","gana6","ganam6","lahrum2","mudru4","nina2","ninnax(DARA4)","tarahx(DARA4)","ua2"
+]}
+,
+{"id": 50,
+"tag": "DI",
+"subs": [
+"di","de","te10","ti4","sa2","sal2","si8","silim","silima","dux(DI)","salagud","salgud","salim","se8","silix(DI)","sim3","sisax(DI)","śa2","šul3","ţe","ţi"
+]}
+,
+{"id": 51,
+"tag": "DIB",
+"subs": [
+"dab","dib","deb","dibi","dip","tib","tip","daba","dabe","dap","dix(DIB)","dubba","dul8","nu12","ţab3","ţib","ţip"
+]}
+,
+{"id": 52,
+"tag": "DIM",
+"subs": [
+"dim","dum4","tim","tum8","di11","mun3","tam3","ti3","ţim"
+]}
+,
+{"id": 53,
+"tag": "DIM2",
+"subs": [
+"dim2","dem2","dima2","gin7","gim","gi18","gen7","ge18","ki5","ke5","šidim","šitim","dix(DIM2)","gem","gimi","kim","kin8","mušda","mušdam","mušdama","qim","šidi","šilamx(DIM2)","šitalamx(DIM2)","šitlam","tam6","ţim2"
+]}
+,
+{"id": 54,
+"tag": "DIN",
+"subs": [
+"din","kurun2","gurun8","tin","dan5","den","di2","dini","idinx(DIN)","ten2","ti2","tilx(DIN)","tim3","ţin"
+]}
+,
+{"id": 55,
+"tag": "DU",
+"subs": [
+"de6","di6","du","tu3","tu3","gir7","gub","gubu","guba","kub","gup","kup","ĝen","gen","gin","kin7","ginax(DU)","ĝin","kurx(DU)","lah6","ra2","re6","ri6","ša4","tum2","tumu2","tuma2","aragub","dulx(DU)","er10","ge13","gim6","ĝim6","im6","kaš5","kim6","kux(DU)","men3","mix(DU)","nax(DU)","qub","qup","še13","ţu3"
+]}
+,
+{"id": 56,
+"tag": "DU.DU",
+"subs": [
+"erx(DU.DU)","lah5","gidx(DU.DU)","laha5","lalah2","rahx(DU.DU)","šux(DU.DU)"
+]}
+,
+{"id": 57,
+"tag": "DUB",
+"subs": [
+"dab4","dehi","tehi","tehi","dih","dub","tup","duba","dup","tub","dubu","tup","kišib3","samag","šen4","urud2","leʾum","deh","dubba","mebulug3","menbulug3","mes2","simig","sumug","ţup","urudu2"
+]}
+,
+{"id": 58,
+"tag": "DUB.NAGAR",
+"subs": [
+"tibira","dibira","tabira","tebiru"
+]}
+,
+{"id": 59,
+"tag": "DUB2",
+"subs": [
+"dub2","tup2","duba2","dup2","tub2","dubu2","dim5","sagkurini","tig3","tu16","tunx(DUB2)","ţub2"
+]}
+,
+{"id": 60,
+"tag": "DUG",
+"subs": [
+"dug","ebir","epir","kurun3","gurun7","kurum10","lud","lut","ulud","lum3","lumu3","si14","šikin2","šikin2","urrub","ursub","urzub","duk","duka","duq","epig2","gurinx(DUG)","kurinx(DUG)","liţ2","lutu","luţ","luţu","şurşub","tug3","tuk3","tuq3","urşub","zurzub"
+]}
+,
+{"id": 61,
+"tag": "DUGUD",
+"subs": [
+"dugud","duguda","dugux(DUGUD)","dukudx(DUGUD)","gi25","ĝi25","kaptu","qaptu"
+]}
+,
+{"id": 62,
+"tag": "DUN",
+"subs": [
+"dun","tun4","duna","dur9","šah2","šahan3","šul","sul","zu7","du24","duru9","sah3","su17"
+]}
+,
+{"id": 63,
+"tag": "DUN3",
+"subs": [
+"du5","dulx(DUN3)","tun3","dug5","dun3","su18","sug5","tu18","tuna3","tug8","ţu"
+]}
+,
+{"id": 64,
+"tag": "DUN4",
+"subs": [
+"dul4","tul6","dun4","migir2","nigir2","nimgir2","šudul4","šudun4","šutul4","šutun4"
+]}
+,
+{"id": 65,
+"tag": "DUR2",
+"subs": [
+"dur2","tur7","duru2","durun","durum2","duruna","ţur2"
+]}
+,
+{"id": 66,
+"tag": "E",
+"subs": [
+"e","eki","eg2","ig2","i15","eg2","šurux(E)","yi3"
+]}
+,
+{"id": 67,
+"tag": "E2",
+"subs": [
+"bit","e2","a14","ʾa3","aʾ3","bītu","bed","bet","bid","biţ","eʾ3","iski","piţ"
+]}
+,
+{"id": 68,
+"tag": "EDIN",
+"subs": [
+"edin","edina","eden","edena","bilx(EDIN)","bir4","dinx(EDIN)","edimx(EDIN)","eru5","erua2","girx(EDIN)","gurx(EDIN)","idenx(EDIN)","la8","rabita","ri10","ribx(EDIN)","ru6"
+]}
+,
+{"id": 69,
+"tag": "EGIR",
+"subs": [
+"eĝir","eĝer","eĝera","egir","eger","egera","lumhax(EGIR)","tum13"
+]}
+,
+{"id": 70,
+"tag": "EL",
+"subs": [
+"il5","ili5","ele2","el","sikil","eš14"
+]}
+,
+{"id": 71,
+"tag": "ECE3",
+"subs": [
+"eše3"
+]}
+,
+{"id": 72,
+"tag": "EN",
+"subs": [
+"en","enu","in4","ena","eni","ru12","uru16","urunx(EN)","adx(EN)","amx(EN)"
+]}
+,
+{"id": 73,
+"tag": "EREN",
+"subs": [
+"eren","erin","erin","šeš4","še22","erena","erina","sux(EREN)"
+]}
+,
+{"id": 74,
+"tag": "ERIN2",
+"subs": [
+"erin2","eren2","erena2","erina2","erem","erim","lah2","rin2","surx(ERIN2)","zab","zalag2","şab","şābu","bir3","hiš3","lih2","nura","nuri","nuru","par5","pir2","rina2","sap2","şap","şapa","tam5","udax(ERIN2)","zap"
+]}
+,
+{"id": 75,
+"tag": "eš",
+"subs": [
+"ba3","es2","eš","ušu3","30","batu","eša2","eše","is5","iš3","nan3","sin","şin","uš18"
+]}
+,
+{"id": 76,
+"tag": "EZEN",
+"subs": [
+"asilx(EZEN)","ezem","ezen","izun","ezema","ezena","ezin","izen","izim","izin","esen","esin","ezen","šir3","šer3","ser3","sir3","asilax(EZEN)","asilalx(EZEN)","badx(EZEN)","sidra","silx(EZEN)","sirda","sirim2"
+]}
+,
+{"id": 77,
+"tag": "GA",
+"subs": [
+"ebir4","ga","ka3","ka3","gar9","gara9","gur11","kur15","epir4","ge20","gu11","ha7","qa2","šizbu"
+]}
+,
+{"id": 78,
+"tag": "GA2",
+"subs": [
+"bisaĝ","bisag","pisag","pisaĝ","bisan","pisan","pisaĝ","ĝa2","ga2","ma3","ma3","ĝe26","ge26","alba","ba4","ešda3","ilba","mal","mala","ša13"
+]}
+,
+{"id": 79,
+"tag": "GABA",
+"subs": [
+"duh","tuhu","tuh","du8","tu24","tah2","tuh","gaba","dudda","ga15","gab","gap","irtu","pitru","qab","qap","ţah2","ţuh","ţu5"
+]}
+,
+{"id": 80,
+"tag": "GAD",
+"subs": [
+"gada","kad","gad","gadu","gat","gid4","gida4","kat","kid9","kit9","kut2","qad3","qat3","qid4"
+]}
+,
+{"id": 81,
+"tag": "GAL",
+"subs": [
+"gal","kal2","gala8","gale","qal","rab2","rap2"
+]}
+,
+{"id": 82,
+"tag": "GALAM",
+"subs": [
+"galam","sukud","sukux(GALAM)","ubi","gax(GALAM)","gud5"
+]}
+,
+{"id": 83,
+"tag": "GAM",
+"subs": [
+"gurum","girum","gam","gum4","gur2","guru2","gan7","ar5","qam","qur3"
+]}
+,
+{"id": 84,
+"tag": "GAN",
+"subs": [
+"he2","kan","gan","gana","kana","gam4","sag7","hi2","li6","qan","seg16","sig16"
+]}
+,
+{"id": 85,
+"tag": "GAN2",
+"subs": [
+"ašag","gana2","gan2","kana2","iku","kan2","mulu4","eqlu","al3","alalx(GAN2)","aša5","burux(GAN2)","ga3","ĝa3","girrix(GAN2)","išhuru3","išhurum3","kalax(GAN2)","karx(GAN2)","ul8","ululx(GAN2)"
+]}
+,
+{"id": 86,
+"tag": "GAR",
+"subs": [
+"gar","ĝar","menari","niĝ2","ni3","nig2","nin6","ninda","nindan","ša2","ga4","gara","garak5","inda3","inta3","kar5","kux(GAR)","mar3","mu8","nigix(GAR)","nik2","nim5","ninni3","niq2","niqix(GAR)","nita4","qar3","qara3","sa15","šikin","šu7"
+]}
+,
+{"id": 87,
+"tag": "GAR3",
+"subs": [
+"gar3","gara3","kar3","ĝar3","qar","qer5"
+]}
+,
+{"id": 88,
+"tag": "GI",
+"subs": [
+"gi","gin6","gen6","ke2","ki2","ge","gin6","sig17","seg17","sissix(GI)","ešša3","gitag","qan2","qe3","qi3","si22","tar5","taru5"
+]}
+,
+{"id": 89,
+"tag": "gil",
+"subs": [
+"esir4","ge16","gel","gilibx(GI%GI)","gilim","kilim2","gib","gil","gillim","gi16","unu10","gig3","gili","kil2","qil2","qili2"
+]}
+,
+{"id": 90,
+"tag": "GI4",
+"subs": [
+"gi4","ge4","ga8","ki8","gagri","qe4","qi4"
+]}
+,
+{"id": 91,
+"tag": "gigi",
+"subs": [
+"esir5","gigi"
+]}
+,
+{"id": 92,
+"tag": "GIDIM",
+"subs": [
+"gidim","gedim","kitim"
+]}
+,
+{"id": 93,
+"tag": "GIG",
+"subs": [
+"gi17","gib3","gig","kiĝ","kik","ge17","qiq","simx(GIG)"
+]}
+,
+{"id": 94,
+"tag": "GIR2",
+"subs": [
+"ĝir2","ĝiri2","gir2","giri2","ĝiri2","garx(GIR2)","irx(GIR2)","mer3","meri3","mirix(GIR2)","patru","ukur"
+]}
+,
+{"id": 95,
+"tag": "GIR3",
+"subs": [
+"ĝiri3","ĝir3","giri3","gir3","ger3","giru3","kir10","kiri5","huš2","imerix(GIR3)","ir9","er9","anše2","anšu2","merx(GIR3)","mirix(GIR3)","qir7","sakkan","sumugan","sumugga","sumukan","sumuqan","šakan2","šakkan2","wir"
+]}
+,
+{"id": 96,
+"tag": "GIR3.ARAD",
+"subs": [
+"šagina","šakan6","šaggin","šaggina"
+]}
+,
+{"id": 97,
+"tag": "GIŠ",
+"subs": [
+"ĝeš","ĝiš","giš","geš","giša","kis2","gez","giz","ĝiš","is","iz","işu","es","eš19","eş","ez","gis","giş","ĝizzalx(GIŠ)","iš6","iş","miš3","mu9","niš2"
+]}
+,
+{"id": 98,
+"tag": "GU",
+"subs": [
+"gu","ku8","gumx(GU)","qu3"
+]}
+,
+{"id": 99,
+"tag": "suh3",
+"subs": [
+"sah4","suh3","sih5","zih","sax(GU%GU)","zax(GU%GU)"
+]}
+,
+{"id": 100,
+"tag": "GU2",
+"subs": [
+"gu2","gun2","kišādu","lil6","qu6","tik","tiq","usanx(GU2)"
+]}
+,
+{"id": 101,
+"tag": "GU2.NUNUZ",
+"subs": [
+"nida"
+]}
+,
+{"id": 102,
+"tag": "GUD",
+"subs": [
+"bahar","eštub","gar4","gara4","gud","gudu","gu4","alpu","alap","dapar","dapara","dipar","gadma","gidim7","gudma","gugarid","gurx(GUD)","har2","hara2","kamuš","ku15","kušdim","kušgim","kušum3","lagabx(GUD)","qadma","qudmax(GUD)","rušban","rušpan","šušgim","zeb3","zib3"
+]}
+,
+{"id": 103,
+"tag": "GUL",
+"subs": [
+"gul","gulu","kul2","kul2","isim2","isimu2","si23","sumun2","sumunu2","sumuna2","sun2","šun3","suna2","sun2","isi2","qul2"
+]}
+,
+{"id": 104,
+"tag": "GUM",
+"subs": [
+"gaz2","gum","kum","naĝa4","naga4","qum","gas2","gu8","kas6","ku13","kun3","qu","ša9","šaqu3"
+]}
+,
+{"id": 105,
+"tag": "GUR",
+"subs": [
+"gur","gura","guru","kur3","qur","tari","taru"
+]}
+,
+{"id": 106,
+"tag": "GUR7",
+"subs": [
+"gur7","guru7","kara6","kuru13"
+]}
+,
+{"id": 107,
+"tag": "GURUN",
+"subs": [
+"gurumx(GURUN)","gurun","kurun6","buru7","gurin","guru20","bur7","kurrunx(GURUN)"
+]}
+,
+{"id": 108,
+"tag": "HA",
+"subs": [
+"gir14","ha","ku6","ʾa4","a7","ayax(HA)","kir9","kua","peš11"
+]}
+,
+{"id": 109,
+"tag": "HAL",
+"subs": [
+"buluh","bur8","buru8","buruh","bur8","buru8","hal","hala"
+]}
+,
+{"id": 110,
+"tag": "HI",
+"subs": [
+"da10","du10","dub3","dug3","hi","he","ha4","ʾi3","dab3","de8","di2","dugu","i11","kugu","mux(HI)","ta8","te2","ti2","ţa3","ţab6","ţe2","ţi2"
+]}
+,
+{"id": 111,
+"tag": "HI.GIR3",
+"subs": [
+"huš","huša","hiš4","hušux(HI.GIR3)","ruš"
+]}
+,
+{"id": 112,
+"tag": "HU",
+"subs": [
+"dalx(HU)","hu","u11","u11","mušen","mušena","pag","bag","bak","pak","ʾu5","bah","baq","burux(HU)","muš8","pa7","pah3","paq","puq2","talx(HU)","usan5"
+]}
+,
+{"id": 113,
+"tag": "mud",
+"subs": [
+"mud","mat3","mu12","mut","muţ","muţux(HU.HI)"
+]}
+,
+{"id": 114,
+"tag": "HU.SI",
+"subs": [
+"u5","ud3"
+]}
+,
+{"id": 115,
+"tag": "HUB2",
+"subs": [
+"hub2","hup2","tu11","dux(HUB2)","kup3","tukx(HUB2)","tumx(HUB2)"
+]}
+,
+{"id": 116,
+"tag": "HUL2",
+"subs": [
+"bibra","gukkal","hul2","hula2","kuš8","ukuš2","bibri","guggal","kungal"
+]}
+,
+{"id": 117,
+"tag": "I",
+"subs": [
+"i","nat2"
+]}
+,
+{"id": 118,
+"tag": "ia",
+"subs": [
+"ia","ie","ii","iu","yi2"
+]}
+,
+{"id": 119,
+"tag": "I.LU",
+"subs": [
+"kun4","kuĝ4"
+]}
+,
+{"id": 120,
+"tag": "IB",
+"subs": [
+"arkabx(IB)","dara2","eb","ib","ibbi","uraš","urta","dar2","dari2","daru2","darum2","diri2","ep","ip"
+]}
+,
+{"id": 121,
+"tag": "IDIM",
+"subs": [
+"ari2","banda4","idim","iri8","kir5","uri4","dehi4","haniš","mid","pax(IDIM)","rapiqu2","sullat","šullat","urumx(IDIM)"
+]}
+,
+{"id": 122,
+"tag": "IG",
+"subs": [
+"ĝal2","gal2","gala7","gagal","ig","iga","ik","eg","ek","ik","iq","da11","eĝ","eq","ga7","kagar","mal","mal3"
+]}
+,
+{"id": 123,
+"tag": "IGI",
+"subs": [
+"bad5","ge8","gi8","igi","igu","lib4","lim","lima","limi","lum2","ši","si17","še20","mahru","panu","badi","bat5","damu2","igax(IGI)","ina2","ini2","inu2","lam5","le3","lem","li3","pa10","pad4","pan3","rax(IGI)"
+]}
+,
+{"id": 124,
+"tag": "u3",
+"subs": [
+"u3","ša17"
+]}
+,
+{"id": 125,
+"tag": "IGI.DIM",
+"subs": [
+"henzer","henzir","ubri2"
+]}
+,
+{"id": 126,
+"tag": "agrig",
+"subs": [
+"agrig","aĝrig","ĝiškim","ĝiskim","izkim","iskim","giškim","gizkim","giskim"
+]}
+,
+{"id": 127,
+"tag": "u6",
+"subs": [
+"u6","ug6"
+]}
+,
+{"id": 128,
+"tag": "sig5",
+"subs": [
+"gurum2","kurum7","sag10","sig5","burux(IGI.ERIN2)","burumx(IGI.ERIN2)","gurux(IGI.ERIN2)","kur7","kuru7","sa13","seg5","ša15"
+]}
+,
+{"id": 129,
+"tag": "IGI.KAK",
+"subs": [
+"dalla2","dala2","henburx(IGI.KAK)","šukur","ubri","ubrim"
+]}
+,
+{"id": 130,
+"tag": "ar",
+"subs": [
+"ar","ara8"
+]}
+,
+{"id": 131,
+"tag": "pad3",
+"subs": [
+"pad3","pa3"
+]}
+,
+{"id": 132,
+"tag": "IGI.TUR.TUR",
+"subs": [
+"ligima","ligim","ligin"
+]}
+,
+{"id": 133,
+"tag": "hul",
+"subs": [
+"hul","hulu","hula","hulu"
+]}
+,
+{"id": 134,
+"tag": "IL",
+"subs": [
+"il","el2"
+]}
+,
+{"id": 135,
+"tag": "IL2",
+"subs": [
+"dupsik","gur3","gil3","guru3","guru3","ĝa6","il2","ila2","ili2","dusi","dussu","dusu","ga6"
+]}
+,
+{"id": 136,
+"tag": "IM",
+"subs": [
+"im","em","imi","muru3","murim","tumu","tum9","tu15","adad","anegi","di[...]ig","did","dalhamunx(IM)","enegir","ilumer","imex(IM)","išgurx(IM)","iškur","kakra","kakru","karkar","karkara","mer2","mir2","mur3","šar5","šara5","šeĝ7","tešub","tid"
+]}
+,
+{"id": 137,
+"tag": "IMIN",
+"subs": [
+"imin","umun7","imina","7","umunax(IMIN)"
+]}
+,
+{"id": 138,
+"tag": "IN",
+"subs": [
+"gir12","in","ini","en6","isin2", "kilim"
+]}
+,
+{"id": 139,
+"tag": "IR",
+"subs": [
+"ir","ere14","eri14","ire14","iri14","ereš3","er","erešu"
+]}
+,
+{"id": 140,
+"tag": "KA",
+"subs": [
+"dug4","duga4","du11","e7","gu3","inim","enem","enim","i5","ka","kag2","kak2","ga14","kag2","kir4","kiri3","giri17","sumurx(KA)","uzugx(KA)","zu2","su11","še28","zuh","zug2","zuh","zug2","bux(KA)","da12","dag5","emex(KA)","en4","eneĝ","gir17","gur18","iš5","mex(KA)","nagx(KA)","pe4","pi4","pu5","qa3","sigx(KA)","sugx(KA)","sumux(KA)","šed17","šeg13","šix(KA)","šudx(KA)","zib4"
+]}
+,
+{"id": 141,
+"tag": "KA.KAK",
+"subs": [
+"gug6","pihu3"
+]}
+,
+{"id": 142,
+"tag": "KA2",
+"subs": [
+"kan4","aganx(KA2)","aka4","akan2","baba2","babu","gu16","ka2","kankan","papa2"
+]}
+,
+{"id": 143,
+"tag": "KAB",
+"subs": [
+"gab2","kab","gap2","gabu2","kap","gaba2","kapa","gub3","gubu3","kab","qab2","qap2"
+]}
+,
+{"id": 144,
+"tag": "KAD4",
+"subs": [
+"kad4","kat4","kam3","peš5","piš5","šed5","unu9","gešhur","geškad","gišhur","giškad","had4","karx(KAD4)","kara4","kid5","kim2","qat5"
+]}
+,
+{"id": 145,
+"tag": "KAD5",
+"subs": [
+"banšur3","bansur3","kad5","kat5","peš6","piš6","kid6","kimx(KAD5)","qat8"
+]}
+,
+{"id": 146,
+"tag": "KAD5.KAD5",
+"subs": [
+"esir3","tal5","til6"
+]}
+,
+{"id": 147,
+"tag": "KAK",
+"subs": [
+"da3","du3","tu20","ru2","ru2","gag","gak","kak","kak","henbur","ban4","ka15","kal3","kaq","ki7","qa6","qaq","qi6","re12","ri12","usanx(KAK)","zarx(KAK)"
+]}
+,
+{"id": 148,
+"tag": "KAL",
+"subs": [
+"esi","kal","gal9","kalag","kalaga","kala","la6","lamma","rib","lip2","rub","lib2","rip","sag8","sig15","seg15","silim2","silima2","subx(KAL)","sun7","šedu","ursub2","zurzub2","dannu","eţlu","alad2","baštum","dan","dana3","dun6","esig","ešax(KAL)","kalga","lab","lala2","lama3","lamassu","lammar","lap","mirx(KAL)","nir6","qal4","rab4","sa14","si21","sunax(KAL)","şurşub2","tan","tana","ţan","urrub2","zi8"
+]}
+,
+{"id": 149,
+"tag": "KAM4",
+"subs": [
+"gam3","kam4","zub","zubi","zubu"
+]}
+,
+{"id": 150,
+"tag": "KASKAL",
+"subs": [
+"bu2","buš","dana2","eš8","kas","kaskal","kaš2","raš","danna2","ir7","iš2","kasa","ras","rin6","šubtumx(KASKAL)"
+]}
+,
+{"id": 151,
+"tag": "KI",
+"subs": [
+"gagar","ki","gu14","ku11","ge5","gi5","ke","erşetu","qaqqaru","ammax(KI)","ĝišbunx(KI)","qe2","qi2","sasx(KI)","ubdax(KI)"
+]}
+,
+{"id": 152,
+"tag": "KI.NE",
+"subs": [
+"abni2","dinig","gibil3","gunni","izi2","kušlug","mel3","munu2","nimur","meli","ne5","nemur","zi7"
+]}
+,
+{"id": 153,
+"tag": "KID",
+"subs": [
+"buru6","gi2","kid","gid","git","kit","lil2","lila2","lel2","sah","šah3","bur6","ge2","gub5","gup5","ke4","ki4","kiţ","kub4","kup4","muru12","qi5","qid","qit","sih2","suh4","ših2","şah2"
+]}
+,
+{"id": 154,
+"tag": "KIN",
+"subs": [
+"gur10","kiĝ2","kig2","kin","kun10","kin","sag11","saga11","sig18","kimx(KIN)","kinga","qe","qi","qin","seg18","siga18"
+]}
+,
+{"id": 155,
+"tag": "KIŠ",
+"subs": [
+"kiš","kiši","kis","kešx(KIŠ)","kišex(KIŠ)","kiş","qis","qiš"
+]}
+,
+{"id": 156,
+"tag": "KISAL",
+"subs": [
+"kisal","bur6","dag4","lel4"
+]}
+,
+{"id": 157,
+"tag": "KISIM5",
+"subs": [
+"kisim5","kišim5"
+]}
+,
+{"id": 158,
+"tag": "KU",
+"subs": [
+"bed3","bi7","bit3","be5","bid3","bet3","bid3","bu7","dab5","daba5","dib2","dib2","hux(KU)","ku","guz3","kuz3","gu5","nu10","suh5","suš","šed6","še10","ši5","tukul","tukula","tuš","duš","tušu","ugu4","bulx(KU)","deb2","gud7","kud3","qu2","sahx(KU)","su5","sur11","tibx(KU)","tum5","tuma","zap2"
+]}
+,
+{"id": 159,
+"tag": "KU.AN",
+"subs": [
+"mitum","miţţu","medda","meddu","meţa","meţu","midda","middu","mitta","mittu","miţa","miţu"
+]}
+,
+{"id": 160,
+"tag": "KU.GAR",
+"subs": [
+"guza","guzza"
+]}
+,
+{"id": 161,
+"tag": "KU.IDIM",
+"subs": [
+"mitum2","middu2","midda2","medda2","meddu2","meţa2","meţu2","mitta2","mittu2","miţa2","miţu2"
+]}
+,
+{"id": 162,
+"tag": "KU3",
+"subs": [
+"kug","ku3","kuk","qu5"
+]}
+,
+{"id": 163,
+"tag": "KU4",
+"subs": [
+"kur9","ku4","hu2","lilx(KU4)"
+]}
+,
+{"id": 164,
+"tag": "KU7",
+"subs": [
+"daban","dabašin","hirin2","kakkala","ku7","guruš2","kuš6","kuruš","kurušda","gurušta","gurušda","bandiliša","bube","ešdax(KU7)","ešqa","gaml","gurusa","gurušti","kakkuda","kakkula","kakkuša","kud5","kukkuda","kukula","kukkuša","šandilimma","šendilima","šindilib","šindilimma","tubašin"
+]}
+,
+{"id": 165,
+"tag": "KUL",
+"subs": [
+"kul","kula","gul2","kulu","numun","šabalbal","gu9","ku9","nu5","nuĝun","numu","qul","til8","zar4","zarax(KUL)","zir","ziri"
+]}
+,
+{"id": 166,
+"tag": "KUN",
+"subs": [
+"kun","ku14","kunu","megidax(KUN)","...nunnam...","qun"
+]}
+,
+{"id": 167,
+"tag": "KUR",
+"subs": [
+"gin3","gen3","gina3","kin3","kur","gur16","rašu","razu","šahan","zizanu","amma","anubu","ge21","lat","laţ","mad","mat","maţ","nad","nat","nata","qur2","raman","ramanu","sad","sat","sata","šad","šada","šadu","šat","šata","šaţ"
+]}
+,
+{"id": 168,
+"tag": "KWU318",
+"subs": [
+"hirinx(KWU318)"
+]}
+,
+{"id": 169,
+"tag": "LA",
+"subs": [
+"la","šika","šikx(LA)"
+]}
+,
+{"id": 170,
+"tag": "LAGAB",
+"subs": [
+"ellag","illag","gir8","girim","gurun3","girin","gur4","hab","haba","hap","kilib","kir3","kur4","lagab","lugud2","niĝin2","nigin2","ni10","nigi2","ri3","rim","rin","tukur","ella2","ellaĝ","gil2","gili2","girenx(LAGAB)","giri8","gud8","kel","kele","kil","kili","kux(LAGAB)","kuru4","niĝi2","nimen2","nin4","qil","qir3","re3","reme","sim4","sux(LAGAB)","surx(LAGAB)","tuku6","tukulx(LAGAB)","tur6"
+]}
+,
+{"id": 171,
+"tag": "nigin",
+"subs": [
+"kilib3","niĝin","nigin","ninni2","nini","banx(LAGAB.LAGAB)","garadin5","išhara3","karadin5","kel3","kil3","kilax(LAGAB.LAGAB)","kilux(LAGAB.LAGAB)","kili3","kin4","ni6","niggix(LAGAB.LAGAB)","nigginaku","nigi","nimenx(LAGAB.LAGAB)","nin3","rin3"
+]}
+,
+{"id": 172,
+"tag": "LAGAB.U.KAK",
+"subs": [
+"mud4"
+]}
+,
+{"id": 173,
+"tag": "LAGAR",
+"subs": [
+"lagar","lagal","nagal"
+]}
+,
+{"id": 174,
+"tag": "LAK483",
+"subs": [
+"tugx(LAK483)"
+]}
+,
+{"id": 175,
+"tag": "LAK490",
+"subs": [
+"gamurx(LAK490)"
+]}
+,
+{"id": 176,
+"tag": "LAL",
+"subs": [
+"la2","lal","sur5","suru5","zuru5","zur5","lux(LAL)","šurx(LAL)","šurux(LAL)"
+]}
+,
+{"id": 177,
+"tag": "LAL2",
+"subs": [
+"lal2","kurnun","la5","laʾu","lal-lal","lalʾu","lalla","lallal","papnun"
+]}
+,
+{"id": 178,
+"tag": "LAL2.DU",
+"subs": [
+"ukur3","uku2"
+]}
+,
+{"id": 179,
+"tag": "LAL2.SAR",
+"subs": [
+"usar","nanga3","niĝin8","nimen4","šur4","usur","ušar","ušur"
+]}
+,
+{"id": 180,
+"tag": "LAM",
+"subs": [
+"ešx(LAM)","lam","lama","la12","lammax(LAM)","lim3","lugx(LAM)"
+]}
+,
+{"id": 181,
+"tag": "LI",
+"subs": [
+"en3","gub2","gup2","li","le","ni8","nu9"
+]}
+,
+{"id": 182,
+"tag": "LIL",
+"subs": [
+"kurx(LIL)","lil","il9","sukux(LIL)"
+]}
+,
+{"id": 183,
+"tag": "LIMMU",
+"subs": [
+"4","limmu","limu","4(diš@v)","lammu"
+]}
+,
+{"id": 184,
+"tag": "LIMMU2",
+"subs": [
+"limmu2","limu2","arba","arrap","erba","lam4","lammu2","lim2"
+]}
+,
+{"id": 185,
+"tag": "LIŠ",
+"subs": [
+"dilim2","dili2","liš","lis","liz","del2","li12","lih4","mal4"
+]}
+,
+{"id": 186,
+"tag": "LU",
+"subs": [
+"lu","lug","udu","eze","nu12","si6"
+]}
+,
+{"id": 187,
+"tag": "LU2",
+"subs": [
+"girix(LU2)","lu2","šaĝax(LU2)","šagax(LU2)","addax(LU2)","dux(LU2)","na6","ruh2","ša11"
+]}
+,
+{"id": 188,
+"tag": "LU3",
+"subs": [
+"gar5","gug2","kuk2","lu3","gadx(LU3)","gudx(LU3)"
+]}
+,
+{"id": 189,
+"tag": "LUGAL",
+"subs": [
+"lillan","lugal","lugala","saĝ4","šar3","nūr-ili","šarru","bišeba","bišebi","haniš2","nurra","rab3","sag4","šarax(LUGAL)","šarra","šugur"
+]}
+,
+{"id": 190,
+"tag": "LUH",
+"subs": [
+"huluh","luh","luhu","rih","ruh","lih3","subur2","sukkal","šukal","sugal7","šukkal","sukal","lah3","laha3","nah","rah"
+]}
+,
+{"id": 191,
+"tag": "LUL",
+"subs": [
+"ka5","kušum2","lib","lu5","lub","lugx(LUL)","lul","lulu","nar","nari","pah","bah3","sulug","šatam","še11","buh","dunga2","dugax(LUL)","ilumer3","lab2","lep","libi","lip","lup","pan2","pih","puh","sar7","šattam","šaţam","zulug"
+]}
+,
+{"id": 192,
+"tag": "LUM",
+"subs": [
+"gum2","gun5","guz","hum","humu","lamx(LUM)","lum","luma","lumu","num2","egir5","eĝir5","gamx(LUM)","gu15","gud6","gumu","hu5","hus","huz","kunx(LUM)","kuĝx(LUM)","kus2","kuş2","lu4","nim4","nu4","qum3"
+]}
+,
+{"id": 193,
+"tag": "MA",
+"subs": [
+"ma","peš3","pešše","wa6"
+]}
+,
+{"id": 194,
+"tag": "MA2",
+"subs": [
+"hux(MA2)","ma2"
+]}
+,
+{"id": 195,
+"tag": "MAH",
+"subs": [
+"mah","maha","šutur","al6","mih"
+]}
+,
+{"id": 196,
+"tag": "MAR",
+"subs": [
+"mar","mara","gar7","ĝar7","war2"
+]}
+,
+{"id": 197,
+"tag": "MAŠ",
+"subs": [
+"ba7","maš","maša","mas","sa9","zipah","baš","ma7","maś","maş","naš","til9","waš"
+]}
+,
+{"id": 198,
+"tag": "ME",
+"subs": [
+"ba13","ma6","ma6","išib","isib","me","men2","meš2","mi3","deš4","diš4","gax(ME)","galx(ME)","gex(ME)","sib","sip","šab4","šib","šip","tuba"
+]}
+,
+{"id": 199,
+"tag": "MES",
+"subs": [
+"kišib","mes","miš","mesa","meš3","mis","mez","mesi","dubx(MES)","miş","rid","rit","riţ"
+]}
+,
+{"id": 200,
+"tag": "MI",
+"subs": [
+"giggi","ĝi6","gig2","gigi2","kuku5","ge6","gi6","ĝe6","ku10","kukku5","mi","me2","dugud2","ga12","gikki","ku10-ku10","muš9","muši","mušu","sil4","sux(MI)","şil2","wi4"
+]}
+,
+{"id": 201,
+"tag": "MIN",
+"subs": [
+"2","min","mina","menx(MIN)","šin2","šina"
+]}
+,
+{"id": 202,
+"tag": "MU",
+"subs": [
+"ĝu10","gu10","mu","mu","muhaldim","muhaldima","suh7","i14","ia5","mehida","mehidi","mehidu","šad2","šu10","šum3","šumu","tah3","tuh3","wu4"
+]}
+,
+{"id": 203,
+"tag": "MU.BU",
+"subs": [
+"mudra6","mudru6","munzerx(MU.BU)"
+]}
+,
+{"id": 204,
+"tag": "MUG",
+"subs": [
+"mug","muga","muk","buk","gagim","gaggim","gakim","gugim","gukim","guggim","mugux(MUG)","muq","puk","šuk2","uttu4","wuk"
+]}
+,
+{"id": 205,
+"tag": "MUNSUB",
+"subs": [
+"munsub","sub5","šub4","sumur3","munšub","musub"
+]}
+,
+{"id": 206,
+"tag": "MURGU2",
+"subs": [
+"mur7","murgu2","egir6","eĝir6","lumx(MURGU2)","mur8"
+]}
+,
+{"id": 207,
+"tag": "NA",
+"subs": [
+"na","aniku","ne6","nu8"
+]}
+,
+{"id": 208,
+"tag": "NA2",
+"subs": [
+"nud","nu2","na2","šex(NA2)","daramx(NA2)","nad3","ne7","timuax(NA2)"
+]}
+,
+{"id": 209,
+"tag": "NAGA",
+"subs": [
+"hilib2","naĝa","naga","teme","te3","ugax(NAGA)","ereš2","eriš2","nak2","nama","nanga6","nidaba2","nisaba2","tu22"
+]}
+,
+{"id": 210,
+"tag": "NAGA@180",
+"subs": [
+"teme2"
+]}
+,
+{"id": 211,
+"tag": "NAGAR",
+"subs": [
+"alla","nagar","nagara","bulug4","e10","haia","haya","ildumx(NAGAR)","illa","lamga","niminx(NAGAR)"
+]}
+,
+{"id": 212,
+"tag": "NAM",
+"subs": [
+"bir5","pir6","nam","sim","sin2","šim2","bix(NAM)","na7","si13","śim2","šam4","šen3"
+]}
+,
+{"id": 213,
+"tag": "NAM.EN",
+"subs": [
+"pala2"
+]}
+,
+{"id": 214,
+"tag": "NAM.LUGAL",
+"subs": [
+"pala"
+]}
+,
+{"id": 215,
+"tag": "NAM.SAL.TUG2",
+"subs": [
+"pala3"
+]}
+,
+{"id": 216,
+"tag": "NAM2",
+"subs": [
+"nam2"
+]}
+,
+{"id": 217,
+"tag": "NE",
+"subs": [
+"bar7","bi2","bil","bir9","de3","didalx(NE)","gir10","gibil4","ibbix(NE)","izi","izu","kum2","gum3","kun9","li9","le9","lim4","lem4","lam2","lama2","ne","ni5","pel","šarx(NE)","šeĝ6","šeg6","še6","zah","barax(NE)","be7","bila","bili","di7","du17","ge9","gi9","ku16","nunx(NE)","pe5","pi5","pil","qum2","šemx(NE)","şah","şeh2","te4","ti9","ţe3","ţi5","zix(NE)"
+]}
+,
+{"id": 218,
+"tag": "NE.RU",
+"subs": [
+"erim2","erima2","erin7","ne-ru","nerim","rim3","rum2"
+]}
+,
+{"id": 219,
+"tag": "NI",
+"subs": [
+"dig","dik","digi","gamar","gur13","i3","ia3","li2","le2","lid2","mu5","ni","ne2","ni","ne2","sul2","suš2","ux(NI)","zal","šal3","šar8","sal3","sar3","zar2","zala","šamnu","be3","bux(NI)","dex(NI)","diq","gub4","hax(NI)","ilix(NI)","libx(NI)","şal","tiq2","ya3","zagga","zaĝa","zalli"
+]}
+,
+{"id": 220,
+"tag": "NI.TUK",
+"subs": [
+"dilmun","delmun","dilmuna","telmun","tilmun"
+]}
+,
+{"id": 221,
+"tag": "na4",
+"subs": [
+"ia4","na4","za2","abnu","atumx(NI.UD)","bar4","dag3","dak3","daq3","i4","tak3","taq3","ya4"
+]}
+,
+{"id": 222,
+"tag": "NI2",
+"subs": [
+"ni2","me10"
+]}
+,
+{"id": 223,
+"tag": "NIM",
+"subs": [
+"dih3","dehi3","tehe3","tehi3","deh3","nim","nima","nem","num","num","tum4","tumu4","alamax(NIM)","dihi3","elam","elama","elamu","enim2","nam3","ni7","nu3","rum3","tu8"
+]}
+,
+{"id": 224,
+"tag": "NINDA2",
+"subs": [
+"gur9","inda","ninda2","nida2"
+]}
+,
+{"id": 225,
+"tag": "NISAG",
+"subs": [
+"nesaĝ","nesag","nisag","nisaĝ","murub4","muru2","mur2","muri","saĝ5","zag3","sag5","sax(NISAG)","zax(NISAG)","zaĝ3"
+]}
+,
+{"id": 226,
+"tag": "NU",
+"subs": [
+"nu","sir5","šir5","ul2","la3","sarx(NU)","surx(NU)"
+]}
+,
+{"id": 227,
+"tag": "NU11",
+"subs": [
+"ĝešnu","gišnu","gešnu","nu11","duri","enšab","numx(NU11)","nurx(NU11)","pil6","sakarx(NU11)","sudx(NU11)"
+]}
+,
+{"id": 228,
+"tag": "NU11.BUR",
+"subs": [
+"buru4","bur4","gasx(NU11.BUR)","ugax(NU11.BUR)"
+]}
+,
+{"id": 229,
+"tag": "NUN",
+"subs": [
+"eridu","nun","nuna","nunun","nu6","nuĝx(NUN)","zil","sil2","abx(NUN)","agargarax(NUN)","dabx(NUN)","dabax(NUN)","erida","eridug","eriduga","gar6","gara6","li11","rabx(NUN)","...ri","şil","za4","zalx(NUN)","zel"
+]}
+,
+{"id": 230,
+"tag": "tur3",
+"subs": [
+"immalx(NUN.LAGAR)","tur3","surum","šilamx(NUN.LAGAR)","šurumx(NUN.LAGAR)"
+]}
+,
+{"id": 231,
+"tag": "NUN.ME.TAG",
+"subs": [
+"gašam","gaššu"
+]}
+,
+{"id": 232,
+"tag": "NUNUZ",
+"subs": [
+"nunuz","nunus","nus","nunu","nuz","pel5","sug9"
+]}
+,
+{"id": 233,
+"tag": "NUNUZ.AB2",
+"subs": [
+"nisagga"
+]}
+,
+{"id": 234,
+"tag": "PA",
+"subs": [
+"ĝidru","mudru","ĝidri","ĝedru","gidru","gidri","kun2","luĝ2","lug2","lun","lu9","mu6","pa","ba2","sag3","sak3","zag2","zak2","šag3","sig3","seg3","sig3","sullat2","šullat2","ux(PA)","ugula","addirx(PA)","ari3","aru","dur6","duru6","endur","geštara","gidar","gidirx(PA)","gišturu","ĝedar","ĝešturu","had","haniš3","has2","haş2","haţ","haz2","hendur","hud","kumx(PA)","lar","maš4","midra","mua","muati","muatu","munsubx(PA)","muwa","muwati","muya","muyati","si29","sigga2","siqqax(PA)","ugulu","zaq2"
+]}
+,
+{"id": 235,
+"tag": "PA.AL",
+"subs": [
+"šabra","šapra"
+]}
+,
+{"id": 236,
+"tag": "PA.GAN",
+"subs": [
+"sag2","sig11","seg11","sig11","sikix(PA.GAN)"
+]}
+,
+{"id": 237,
+"tag": "PA.HUB2.DU",
+"subs": [
+"rig7"
+]}
+,
+{"id": 238,
+"tag": "šab",
+"subs": [
+"hamanzer","sab","šab","sap","sip4","sipa2","šaba","šap","šib3","šip3","šub3","šup3"
+]}
+,
+{"id": 239,
+"tag": "sipa",
+"subs": [
+"sib2","sipad","sibad","sipa","reʾu","nuska2","nusku2","nuška2","nušku2","reʾe","reʾi","sap3","siba","sip2","šab5","šap5","zip3"
+]}
+,
+{"id": 240,
+"tag": "PA.LUGAL",
+"subs": [
+"ĝarza2","garza2","girza"
+]}
+,
+{"id": 241,
+"tag": "PA.TE.SI",
+"subs": [
+"ensi2","ensik","ensag"
+]}
+,
+{"id": 242,
+"tag": "PAD",
+"subs": [
+"kurum6","pad","bad2","pat","pata","bat2","šukur2","šuku","šukun3","šuk","šug","šutug","bu15","kur6","kurummax(PAD)","pax(PAD)","pada","paţ","šuq"
+]}
+,
+{"id": 243,
+"tag": "PAN",
+"subs": [
+"pan","pana","tir5","ba10","ban"
+]}
+,
+{"id": 244,
+"tag": "PAP",
+"subs": [
+"kur2","kuru2","gur12","pap","bab","pab","bap","pa4","aha3","ba14","qur4"
+]}
+,
+{"id": 245,
+"tag": "PI",
+"subs": [
+"be6","pe","pi","bi3","pe","pi","bi3","ĝeštug","geštug","ĝištug","gištug","ĝeštu","geštu","ĝištu","gištu","me8","tal2","tala2","wa","wu","a3","am7","aw","bax(PI)","bux(PI)","dax(PI)","ex(PI)","ew","geltan","gešdu","geštunux(PI)","gišdu","gištunux(PI)","ĝestug","ĝešdu","ĝistug","ĝišdu","i16","iu2","iw","ma9","meštunux(PI)","mi5","mištunux(PI)","muštu","muštug","neda","pa12","ta7","til7","u17","uštu","uštug","uw","we","wi","ya","ye","yi","yu"
+]}
+,
+{"id": 246,
+"tag": "PIRIG",
+"subs": [
+"ne3","nisku","pil7","piriĝ","piriĝa","pirig","piriga","ug2","nemurx(PIRIG)","uĝ2"
+]}
+,
+{"id": 247,
+"tag": "PIRIG.TUR",
+"subs": [
+"nemurx(PIRIG.TUR)","nimurx(PIRIG.TUR)"
+]}
+,
+{"id": 248,
+"tag": "RA",
+"subs": [
+"ra","rah2"
+]}
+,
+{"id": 249,
+"tag": "RAB",
+"subs": [
+"rab","raba","rap"
+]}
+,
+{"id": 250,
+"tag": "RAB.GAL",
+"subs": [
+"ĝušur2","gušur2","ur13"
+]}
+,
+{"id": 251,
+"tag": "RAB.MAH",
+"subs": [
+"ĝušurx(RAB.MAH)"
+]}
+,
+{"id": 252,
+"tag": "RAB.TUR.TUR",
+"subs": [
+"ĝušurx(RAB.TUR.TUR)"
+]}
+,
+{"id": 253,
+"tag": "RI",
+"subs": [
+"dal","ri","re","rig5","de5","degx(RI)","di5","tal","bagx(RI)","bakx(RI)","dala","eš11","hux(RI)","ša7","tala","ţal"
+]}
+,
+{"id": 254,
+"tag": "RU",
+"subs": [
+"gešbu","ĝešpu","illar","illuru","ilar","ru","šub","šib2","šuba5","sub7","šup","gešba","ĝešba","ĝešbu","illulu","illur","šux(RU)"
+]}
+,
+{"id": 255,
+"tag": "SA",
+"subs": [
+"sa","ša10","gid3","śa"
+]}
+,
+{"id": 256,
+"tag": "ZA",
+"subs": [
+"za","sa3","zagga2","şa"
+]}
+,
+{"id": 257,
+"tag": "sa6",
+"subs": [
+"ĝešnimbar","ĝišnimbar","ĝešimmar","ĝišimmar","gešimmar","gišimmar","hud4","pa9","sag9","ša6","šag5","sa6","sig6","a10","gešnimbar","had3","nimbar","seg6"
+]}
+,
+{"id": 258,
+"tag": "SAG",
+"subs": [
+"dul7","sa12","saĝĝar","saggar","saĝ","šag","šak","sag","saga","saĝa","sak","rēšu","dunga","ris","riš","samx(SAG)","san","saq","sur14","ša24","šaq","šegx(SAG)","zug3"
+]}
+,
+{"id": 259,
+"tag": "SAG.PA.LAGAB",
+"subs": [
+"zarah"
+]}
+,
+{"id": 260,
+"tag": "SAL",
+"subs": [
+"gal4","kal4","mug2","muk3","munus","mu10","min2","mem","munuz","mim","mi2","murub","nunusx(SAL)","rag","rak","rak","sal","sala","šal","šal","f","gambix(SAL)","ĝal4","lagarx(SAL)","mam2","man2","mex(SAL)","raq","ša12","šel4"
+]}
+,
+{"id": 261,
+"tag": "nin9",
+"subs": [
+"nin9","nen9","e13"
+]}
+,
+{"id": 262,
+"tag": "geme2",
+"subs": [
+"geme2","amat","amtu","ge12","gem3","gi12","gim3","gin5"
+]}
+,
+{"id": 263,
+"tag": "SAL.ME",
+"subs": [
+"lukur","lagar2"
+]}
+,
+{"id": 264,
+"tag": "SAL.TUG2",
+"subs": [
+"e5","ereš","eriš","nin","nim2","min4","nina3","nen","in5","ni4"
+]}
+,
+{"id": 265,
+"tag": "SAL.UD.EDIN",
+"subs": [
+"murum5","muru5"
+]}
+,
+{"id": 266,
+"tag": "nig",
+"subs": [
+"nig","nik","niĝ","niq"
+]}
+,
+{"id": 267,
+"tag": "SANGA2",
+"subs": [
+"saĝa2","sanga2"
+]}
+,
+{"id": 268,
+"tag": "SAR",
+"subs": [
+"kiri6","mu2","mud6","mud6","nisig","sahar2","sakar","sar","sigx(SAR)","šar","ma4","nisax(SAR)","nisix(SAR)","nissa","niša","sara","sarix(SAR)","se15","si15","śar","ša8","šakar","šara7","šer9","šir9"
+]}
+,
+{"id": 269,
+"tag": "ŠAR2",
+"subs": [
+"šar2","šara6","sar2","sara2","sare2","1(šar2)"
+]}
+,
+{"id": 270,
+"tag": "SI",
+"subs": [
+"hux(SI)","si","se","seg9","še2","sig9","ši2","sig9","śe","śi","şi3"
+]}
+,
+{"id": 271,
+"tag": "ŠEŠ",
+"subs": [
+"mun4","muš5","sas","ses","sis","šeš","ah2","aha2","ahi","nan","siš","šas","šaš","šaş","še16","šes","šiš","šiş","šiz","zax(ŠEŠ)","zahx(ŠEŠ)"
+]}
+,
+{"id": 272,
+"tag": "dir",
+"subs": [
+"dirig","dir","diri","sa5","tir4","uš15","ušub","du26","mal2","nindar","six(SI.A)","ter4","ţir"
+]}
+,
+{"id": 273,
+"tag": "sed",
+"subs": [
+"amagi","halba","mabi","sed","šed7","sedi","sid","halbi","halbu","mammi","se9","še4"
+]}
+,
+{"id": 274,
+"tag": "SIG",
+"subs": [
+"epig","se11","si11","ši3","si11","sig","šig","šik","zig2","seg","zik2","siga","sik","big","bik","ipig","pik","piq","siq","śe2","śi3","šag6","šak6","šex(SIG)","šeĝ","šiq","ziq2"
+]}
+,
+{"id": 275,
+"tag": "SIG4",
+"subs": [
+"gar8","ĝar8","murgu","sig4","šeg12","bar5","egir6","gara8","kulla","kullux(SIG4)","seg4","še27","šeb4","šed16"
+]}
+,
+{"id": 276,
+"tag": "SIK2",
+"subs": [
+"siki","sig2","sik2","šik2","seg2","šiq2"
+]}
+,
+{"id": 277,
+"tag": "munšub2",
+"subs": [
+"aš5","munsub2","munšub2","musub2","muzer","muzir"
+]}
+,
+{"id": 278,
+"tag": "SILA3",
+"subs": [
+"qa","sal4","sila3","qû","ga5","ka4","sala4","sil3","šal2"
+]}
+,
+{"id": 279,
+"tag": "SUD",
+"subs": [
+"sir","su3","zu6","šuz","sud","šud","šut","sug4","sar4","six(SUD)","śu3","šir8","šux(SUD)","šuţ","zir4"
+]}
+,
+{"id": 280,
+"tag": "SU",
+"subs": [
+"kuš","kus","kuz","guš","su","sum3","sug6","šu11","sug6","śu"
+]}
+,
+{"id": 281,
+"tag": "SU.A",
+"subs": [
+"aktum2"
+]}
+,
+{"id": 282,
+"tag": "ZU",
+"subs": [
+"zu","su2","ka14","ki6","şu2","zax(ZU)"
+]}
+,
+{"id": 283,
+"tag": "ŠUBUR",
+"subs": [
+"subur","šah","sah2","šaha","sih","subar","subir","ših","šubar","šubur","šubura","šuh2","şeh","zeh2","zih2"
+]}
+,
+{"id": 284,
+"tag": "SUD2",
+"subs": [
+"ildag","sud2","šita3","šušu","susu","zusu","adarx(SUD2)","ra4","rad","rat","rata","raţ","rit2","rud","ruţ","susx(SUD2)","šidax(SUD2)","šitanx(SUD2)"
+]}
+,
+{"id": 285,
+"tag": "SUHUR",
+"subs": [
+"suhur","sumur2","ubi2","suh2","ugab"
+]}
+,
+{"id": 286,
+"tag": "SUM",
+"subs": [
+"sig10","seg10","sik10","si3","se3","šum2","sum","sumu","šumu2","zar3","ari6","sar8","sim2","su12","sun3","śum2","še19","šun4","zeĝ"
+]}
+,
+{"id": 287,
+"tag": "SUR",
+"subs": [
+"sur","sura","šur","šur","śur","ţir3"
+]}
+,
+{"id": 288,
+"tag": "SUR9",
+"subs": [
+"sur9","surru","sura9","zur2"
+]}
+,
+{"id": 289,
+"tag": "TA",
+"subs": [
+"ta","da2","ţa2"
+]}
+,
+{"id": 290,
+"tag": "TAB",
+"subs": [
+"min6","tab","dapa2","taba","dab2","tap","tapa","dap2","ţab","ţap"
+]}
+,
+{"id": 291,
+"tag": "megidda2",
+"subs": [
+"megida2","megidda2"
+]}
+,
+{"id": 292,
+"tag": "TAG",
+"subs": [
+"guruš4","sub6","subu","šerim","šum","sum6","šumu3","šuš4","tag","taka","taga","tuku5","tak","tuku5","tak","tibir","zil2","da6","sux(TAG)","suhx(TAG)","śum","šan2","šerid","šu14","ta3","taq","uttux(TAG)"
+]}
+,
+{"id": 293,
+"tag": "TAK4",
+"subs": [
+"azad2","kid2","gid6","kit2","tak4","da13","tag4","taka4","ta6","tad","taka4","dad","dat","erbura","gudx(TAK4)","gudibir","irbura","kamx(TAK4)","šux(TAK4)","šuru6","šurum6","tat","tukx(TAK4)","ţat","urx(TAK4)"
+]}
+,
+{"id": 294,
+"tag": "TAR",
+"subs": [
+"haš","has","haz","kud","kut","gud4","ku5","kutu","kuksu","kur5","sila","šil","tar","tara","dar6","haş","hus2","kudma","kuru5","kurum5","qadmax(TAR)","qadmu","qud","qudma","qudmu","qumx(TAR)","qut","qutu","six(TAR)","sil","sulu","šar7","tax(TAR)","tir2","ţar","ţir2","ursagsim","ursaĝsim","zil3"
+]}
+,
+{"id": 295,
+"tag": "TE",
+"subs": [
+"gallax(TE)","gal5","mul2","te","teĝ3","ten","ti7","teg3","teĝ3","ten","temen","de4","di12","gul3","temx(TE)","temennax(TE)","ţe4","ţi4","unux(TE)"
+]}
+,
+{"id": 296,
+"tag": "kar",
+"subs": [
+"kar","kara","gar14","ka11","kir8","qar2"
+]}
+,
+{"id": 297,
+"tag": "TI",
+"subs": [
+"teĝ4","ti","te9","tig4","tiĝ4","til3","tila3","di3","de9","til3","tibnu","ţe6","ţi3"
+]}
+,
+{"id": 298,
+"tag": "TIL",
+"subs": [
+"sumun","šumun","sun","suna","šumun","til","šum4","tel"
+]}
+,
+{"id": 299,
+"tag": "TU",
+"subs": [
+"du2","huduš","tu","tud","tum12","tur5","dud2","dur11","hu2","namšeše","ţu2"
+]}
+,
+{"id": 300,
+"tag": "TUG2",
+"subs": [
+"azlag2","dul5","i6","mur10","mu4","taškarin","taskarin","tu9","tubax(TUG2)","tug2","tuku2","tuk2","tuku2","umuš","uš4","ašlag2","azalag2","te5","tiškarin","tiškarini"
+]}
+,
+{"id": 301,
+"tag": "TUG2.UD",
+"subs": [
+"azlag","ašlag","azalag"
+]}
+,
+{"id": 302,
+"tag": "TUK",
+"subs": [
+"du12","tug","tuku","duk2","raš2","tu12","tuk","tuq"
+]}
+,
+{"id": 303,
+"tag": "TUM",
+"subs": [
+"egir4","ib2","ep2","ip2","eb2","tum","tim2","dum","dam3","du4","eger4","geškadx(TUM)","giškadx(TUM)","ri...","suri","tam4","tu4","ţu4","ţum"
+]}
+,
+{"id": 304,
+"tag": "TUR",
+"subs": [
+"ban3","banda3","di4","dumu","peš7","suhušx(TUR)","tur","tul4","turu","tura","damu","du13","dumx(TUR)","ibila4","maru","šak7","šir6","tu19","ţur3","zerx(TUR)"
+]}
+,
+{"id": 305,
+"tag": "U",
+"subs": [
+"u","un2","10","bur3","buru3","burudx(U)","ge14","giguru","puzur","buzur","bur3","buru3","šil3","šu4","šuš","šu4","umun","a6","barx(U)","bu12","gešburx(U)","gibiru","giburu","guru12","ha3","hu3","ušur5","utahx(U)","utux(U)","1(u)"
+]}
+,
+{"id": 306,
+"tag": "gir4",
+"subs": [
+"gir4","kir13","isim3","isimu3","isimu3","isi3","kirix(U.AD)"
+]}
+,
+{"id": 307,
+"tag": "gakkul3",
+"subs": [
+"gakkul3","kakkul3","mun6"
+]}
+,
+{"id": 308,
+"tag": "šagan",
+"subs": [
+"šaĝan","šagan","šakan","šaman2","saman4","šakan","šaman2"
+]}
+,
+{"id": 309,
+"tag": "ul",
+"subs": [
+"du7","ul","mul4","ullu","rax(U.GUD)","ru5","ula","ullu3","ulu","ur6"
+]}
+,
+{"id": 310,
+"tag": "šita4",
+"subs": [
+"šita4","šutul6","šudul6","niginx(U.KID)","šagx(U.KID)","šakx(U.KID)"
+]}
+,
+{"id": 311,
+"tag": "kušu",
+"subs": [
+"kušu","kušum4","kiši10","kušum4","kuš5"
+]}
+,
+{"id": 312,
+"tag": "sagšu",
+"subs": [
+"sagdul","saĝšu","ugux(U.SAG)","sagšu","sagtušx(U.SAG)"
+]}
+,
+{"id": 313,
+"tag": "dul",
+"subs": [
+"dul","tul","šudul2","šudun2"
+]}
+,
+{"id": 314,
+"tag": "man",
+"subs": [
+"man","men5","mim3","min3","mina3","mam","mana","min3","niš","neš","nis","puzur2","buzur2","tab4","amna2","gešx(U.U)","gišx(U.U)","mešx(U.U)","naš","nes","šamaš2","šar4","šarru2","šušana2","šušanaku","utu3","wan"
+]}
+,
+{"id": 315,
+"tag": "U2",
+"subs": [
+"kuš3","kušumx(U2)","tešbi","u2","ba6","bu11","hazabur","kazab","kazabu","kazabur","kazbi","kazbu","kilibu","kešx(U2)","kuzbi","kuzbu","mašammi","maššam","mat šammi","pu11","sam","šam","ugax(U2)","wa3","wux(U2)"
+]}
+,
+{"id": 316,
+"tag": "U2.KI.SUM.GA",
+"subs": [
+"gud3"
+]}
+,
+{"id": 317,
+"tag": "U2.NAGA.GA",
+"subs": [
+"uga"
+]}
+,
+{"id": 318,
+"tag": "UB",
+"subs": [
+"ar2","ara2","ub","up","uba","ubu2","ubda","warx(UB)"
+]}
+,
+{"id": 319,
+"tag": "UD",
+"subs": [
+"ah3","babbar","babar","par","bar6","para","barax(UD)","bir2","dag2","had2","hada2","hud2","a12","haš3","kum4","la7","pirig2","piriĝ2","ra3","siki2","šarag","tam","dam2","tu2","u4","ud","ud","ul6","ut","utu","zalag","şītu","al5","amna","ara7","ayax(UD)","bab2","ber2","beš12","da7","e8","gal8","ha5","heš","lah","lih","luhx(UD)","peš12","pir","sa16","salah","šamaš","ta5","ţam2","ug4","um2","un5","uta","uţ","zalax(UD)","zalaga","zalah","zalaqax(UD)"
+]}
+,
+{"id": 320,
+"tag": "UD.DU",
+"subs": [
+"e3","ed2","i10","ed2","saguš","ara4","edax(UD.DU)","sagus"
+]}
+,
+{"id": 321,
+"tag": "UD.KA.BAR",
+"subs": [
+"zabar","sipar","zibar"
+]}
+,
+{"id": 322,
+"tag": "UD.NUN",
+"subs": [
+"adab","adaba","arab","darengal","durungal","isurungal","suruengal","surungal","surugal","turungal","usab"
+]}
+,
+{"id": 323,
+"tag": "UD.UD",
+"subs": [
+"babbar2","dadag","babar2","hahad","hahhadx(UD.UD)","huhud","larag2"
+]}
+,
+{"id": 324,
+"tag": "UDUG",
+"subs": [
+"šedu2","udug","utug","rābişu","šēdu","gidim4","udux(UDUG)"
+]}
+,
+{"id": 325,
+"tag": "UM",
+"subs": [
+"dih2","samag","tehi2","um","umu","deh2","dehi2","dihi2","sumug","šumugx(UM)","teh2","u16"
+]}
+,
+{"id": 326,
+"tag": "UMBIN",
+"subs": [
+"sigx(UMBIN)","umbin"
+]}
+,
+{"id": 327,
+"tag": "UMUM",
+"subs": [
+"simug","umun2","umum"
+]}
+,
+{"id": 328,
+"tag": "UN",
+"subs": [
+"kalam","kalama","uĝ3","un","unu4","u12","ug3","un","kanaĝ","kanam","uga3","uku3","umx(UN)"
+]}
+,
+{"id": 329,
+"tag": "UR",
+"subs": [
+"lu6","šuzi","teš2","daš","tiz2","tiš2","taš","das","taša","deš3","tis2","tas","taz","ur","ura","uru13","a8","aia3","kalbu","aya3","dulx(UR)","li7","lik","liq","nigx(UR)","ru7","surx(UR)","tan8","taş","tiş2"
+]}
+,
+{"id": 330,
+"tag": "UR2",
+"subs": [
+"ur2","uru8","uru8"
+]}
+,
+{"id": 331,
+"tag": "UR4",
+"subs": [
+"gur15","ur4","ura4"
+]}
+,
+{"id": 332,
+"tag": "URI",
+"subs": [
+"tilla","tila","uri","ari","kinda2","ur10","uru19"
+]}
+,
+{"id": 333,
+"tag": "URI3",
+"subs": [
+"urin","uri3","urun","uru3","urimx(URI3)"
+]}
+,
+{"id": 334,
+"tag": "URU",
+"subs": [
+"ala","alu","al8","ale","ali","iri","eri","ulu4","er4","ir4","uru","ere","uru","lu8","ri2","u19","re2","ru9","šigx(URU)"
+]}
+,
+{"id": 335,
+"tag": "URUDA",
+"subs": [
+"da5","dab6","minbulug","menbulug","šen2","urud","mebulug","uruda"
+]}
+,
+{"id": 336,
+"tag": "uz",
+"subs": [
+"bazbazx(ŠE.HU)","uz","us","uza","uzu3","uš10","uş"
+]}
+,
+{"id": 337,
+"tag": "UŠ",
+"subs": [
+"ĝeš3","ĝiš3","nita","nitah","nit","nitahu","nintah","ninta","nintahu","nittax(UŠ)","unu8","us2","uš","geš3","giš3","gurušx(UŠ)","iš10","mešx(UŠ)","mišx(UŠ)","nid","niţ","usa2","usu2","uś","uş2","uz2"
+]}
+,
+{"id": 338,
+"tag": "UZ3",
+"subs": [
+"uzud","ud5","uz3","surx(UZ3)","uda5","us3","ut5","uza3"
+]}
+,
+{"id": 339,
+"tag": "UZU",
+"subs": [
+"uzu","šer4","šeru","šir4","širam","širim","širu","širum","usux(UZU)"
+]}
+,
+{"id": 340,
+"tag": "X",
+"subs": [
+"gurx(X)"
+]}
+,
+{"id": 341,
+"tag": "ZAG",
+"subs": [
+"en7","sax(ZAG)","zag","sak6","zak","za3","bute","buti","butu","puta","pute","puti","putu","şak","zaq"
+]}
+,
+{"id": 342,
+"tag": "ZE2",
+"subs": [
+"ze2","zi2","se20","si20","zi2","şe","şi"
+]}
+,
+{"id": 343,
+"tag": "ZI",
+"subs": [
+"se2","si2","ze","zi","zig3","zid","zig3","zid","şe2","şi2"
+]}
+,
+{"id": 344,
+"tag": "ZI3",
+"subs": [
+"zid2","zi3","gurx(ZI3)","gurux(ZI3)","karx(ZI3)","karax(ZI3)","kirix(ZI3)","zux(ZI3)"
+]}
+,
+{"id": 345,
+"tag": "ZIG",
+"subs": [
+"haš2","zib2","zig","zik","heš2","hiš2","şib2","zaq4","ziq","ziqi"
+]}
+,
+{"id": 346,
+"tag": "ZIZ2",
+"subs": [
+"ziz2"
+]}
+,
+{"id": 347,
+"tag": "ZU5",
+"subs": [
+"zu5"
+]}
+,
+{"id": 348,
+"tag": "ZUBUR",
+"subs": [
+"zubur","zabar2"
+]}
+,
+{"id": 349,
+"tag": "ZUM",
+"subs": [
+"haš4","rig2","zum","sum2","sim5","garig2","gazum2","hal2","ri4","rik2","rimx(ZUM)","riq2","su14","šu15","şim","şu","şum","zu3"
+]}
+,
+{"id": 350,
+"tag": "ZUM.LAGAB",
+"subs": [
+"gazumx(ZUM.LAGAB)"
+]}
+,
+{"id": 351,
+"tag": "GA2×TAK4",
+"subs": [
+"dan3","tan3"
+]}
+,
+{"id": 352,
+"tag": "EN.PAP.IGI@g.NUN.ME.EZEN×KASKAL",
+"subs": [
+"enkum"
+]}
+,
+{"id": 353,
+"tag": "A.IGI",
+"subs": [
+"er2","ir2","era2","ira2","šešx(A.IGI)","eseš","esiš3","eš9","isiš2"
+]}
+,
+{"id": 354,
+"tag": "tul2",
+"subs": [
+"bu6","gala3","gigir2","hab2","kala3","pu2","bu4","tukurx(LAGAB×U)","tul2","dul2","ub4","gigira2","hap2","ţul"
+]}
+,
+{"id": 355,
+"tag": "AB2.KU",
+"subs": [
+"unud","utul","unu3","udul","munux(AB2.KU)","nagadx(AB2.KU)"
+]}
+,
+{"id": 356,
+"tag": "NUN.ME",
+"subs": [
+"abgal"
+]}
+,
+{"id": 357,
+"tag": "NUN.ME.DU",
+"subs": [
+"abrig"
+]}
+,
+{"id": 358,
+"tag": "KA2.GAL",
+"subs": [
+"abul","abulla","abula"
+]}
+,
+{"id": 359,
+"tag": "ZU.AB",
+"subs": [
+"abzu","absu"
+]}
+,
+{"id": 360,
+"tag": "LU2×BAD",
+"subs": [
+"adda","ad6","adax(LU2×BAD)"
+]}
+,
+{"id": 361,
+"tag": "E2.NUN",
+"subs": [
+"agrun","agrux(E2.NUN)","agrunax(E2.NUN)","agrux(E2.NUN)","agrunax(E2.NUN)","e2-gar6"
+]}
+,
+{"id": 362,
+"tag": "ag2",
+"subs": [
+"aĝ2","ag2","aga2","aka2","eĝ3","iĝ3","eg3","ig3","iĝ3","am2","em3","im3","ram","rama","ugx(NINDA2×NE)"
+]}
+,
+{"id": 363,
+"tag": "ubur",
+"subs": [
+"akan","akani","harax(DAG.KISIM5×GA)","kisim7","ubur","subx(DAG.KISIM5×GA)"
+]}
+,
+{"id": 364,
+"tag": "sug",
+"subs": [
+"ambar","ambara","anbar","abbar","as4","ašte2","aya4","buniĝ","bunin","kunin2","bugin","puginx(LAGAB×A)","ellamkuš4","elamkuš4","sug","suk","šuk3","zug","zuk","umun11","a9","aʾa3","abbarax(LAGAB×A)","ablal2","aia4","aslum","engurx(LAGAB×A)","gunin2","ix(LAGAB×A)","idx(LAGAB×A)","nammax(LAGAB×A)","nammux(LAGAB×A)","puginx(LAGAB×A)","sugix(LAGAB×A)","suq","zikumx(LAGAB×A)","zuq"
+]}
+,
+{"id": 365,
+"tag": "AN.IM.DUGUD",
+"subs": [
+"anzud","anzu"
+]}
+,
+{"id": 366,
+"tag": "AN.IM.MI",
+"subs": [
+"anzud2","anzu2"
+]}
+,
+{"id": 367,
+"tag": "har",
+"subs": [
+"ara3","ar3","gur14","har","hara","hur","huru","hir2","huru","kin2","kinkin","mar6","mur","muru","murum","saĝĝar2","saggar2","ur5","ir5","ura5","endibdim","ga11","gadibdim","gin8","gu13","gudibdim","gunux(HI×AŠ2)","hu4","kikken","kikkin","sagbar","surx(HI×AŠ2)","unux(HI×AŠ2)","urux(HI×AŠ2)"
+]}
+,
+{"id": 368,
+"tag": "LAM×KUR +2 RU",
+"subs": [
+"aratta","arata","araţa","šuripak2","šurippak2","šurupak2","šuruppak2"
+]}
+,
+{"id": 369,
+"tag": "asari",
+"subs": [
+"banšurx(URU×IGI)","silig","šilig","nūr-ili","asax(URU×IGI)","asal","asar","asara","asari","asaru","ilumer2","išhuru2"
+]}
+,
+{"id": 370,
+"tag": "asilal",
+"subs": [
+"asil","asila","asilal","silx(EZEN×LAL2)"
+]}
+,
+{"id": 371,
+"tag": "asilal3",
+"subs": [
+"asil3","asila3","asilal3","asillal3","murgišur","numgišur","sil6","silal"
+]}
+,
+{"id": 372,
+"tag": "KU3.AN",
+"subs": [
+"azag","asag","azak","asax"
+]}
+,
+{"id": 373,
+"tag": "ŠIM×GAR",
+"subs": [
+"bappir","bappira","lunga3","siraš3","šinx","birx","lumgi3","ningi3","nungi3","siris3"
+]}
+,
+{"id": 374,
+"tag": "pu3",
+"subs": [
+"bu3","kana6","mux","pu3","puzur5","tugure","puzru","ba11","bum","burx","buzur5","kan6","pum"
+]}
+,
+{"id": 375,
+"tag": "bul",
+"subs": [
+"bul","ninna2","nenna2","tuku4","zansur","bu5","bur10","burux","nenni2","ninni4","ninnim4","ninnux","nussu","pul","tu13","tug4","tuk4","bun"
+]}
+,
+{"id": 376,
+"tag": "UD.GIŠ%GIŠ.NUN",
+"subs": [
+"buranun","buranuna","buranunu","burunun","burununa","sippar","zimbir"
+]}
+,
+{"id": 377,
+"tag": "gu7",
+"subs": [
+"gu7","ku2","ku2","šaĝar","šagar","kur8"
+]}
+,
+{"id": 378,
+"tag": "URU×GU",
+"subs": [
+"gur5","kur12","guru5","guru5","guruš3","šakir","šakira","šakira","šegx","šurumx","šakiri","šigx"
+]}
+,
+{"id": 379,
+"tag": "heš5",
+"subs": [
+"heš5","še29","šaĝa","šaga"
+]}
+,
+{"id": 380,
+"tag": "KA×BALAG",
+"subs": [
+"šed15","šeg11","sigx(KA×BALAG)","si18","še26","šidx(KA×BALAG)","šix(KA×BALAG)","šigx(KA×BALAG)","gudiddi","sigx(KA×BALAG)","šix(KA×BALAG)","šidx(KA×BALAG)","šigx(KA×BALAG)"
+]}
+,
+{"id": 381,
+"tag": "URU×TU",
+"subs": [
+"šeg5","sigx(URU×TU)","šig5"
+]}
+,
+{"id": 382,
+"tag": "AB2×GAN2@t",
+"subs": [
+"šem5","kir6","qir6"
+]}
+,
+{"id": 383,
+"tag": "šimbi",
+"subs": [
+"šembi","šimbi"
+]}
+,
+{"id": 384,
+"tag": "MUŠ3",
+"subs": [
+"inana","muš3","mush3@g","sed6","sedi6","se27","še23","šed12","suh10","sukuš","zanaru","ennin","ga-ša-an-an-na","inanna","inini","innana","innin","ištar","mim2","mušku","ninni6","sar5","suba4","suku6","sukud3","sus2","susbu4","suz2","šuba4","zannaru"
+]}
+,
+{"id": 385,
+"tag": "KASKAL.LAGAB×U +3 LAGAB×U",
+"subs": [
+"šubtu6","šubtum6"
+]}
+,
+{"id": 386,
+"tag": "ŠU2.DUN3@g@g@s",
+"subs": [
+"šudul"
+]}
+,
+{"id": 387,
+"tag": "UR@s",
+"subs": [
+"dul9","šudul4","šudul5","šudun5","šutul5","šutun5","tul7"
+]}
+,
+{"id": 388,
+"tag": "DU6&DU6.ŠE.SAR",
+"subs": [
+"šumunda"
+]}
+,
+{"id": 389,
+"tag": "ama",
+"subs": [
+"ama","daĝal","dagal","dagala","šaganx(GA2×AN)","ame","ami","ammax(GA2×AN)","arhuš4","damal","damal","eme4","hegal","imi2","max(GA2×AN)","šakkan7"
+]}
+,
+{"id": 390,
+"tag": "idigna",
+"subs": [
+"dalla","idigna","dal2","idignu"
+]}
+,
+{"id": 391,
+"tag": "men",
+"subs": [
+"dan2","men","min7","tan2","era3","eri15","menax(GA2×ME +2 EN)","mi4"
+]}
+,
+{"id": 392,
+"tag": "GA2×GAN2@t",
+"subs": [
+"dan4","tan4"
+]}
+,
+{"id": 393,
+"tag": "KASKAL.BU",
+"subs": [
+"danna","dana"
+]}
+,
+{"id": 394,
+"tag": "LU2×NE",
+"subs": [
+"du14"
+]}
+,
+{"id": 395,
+"tag": "ŠU.BU",
+"subs": [
+"dubul","dulu","ul7"
+]}
+,
+{"id": 396,
+"tag": "IM.SI.A",
+"subs": [
+"dungu","dungax(IM.SI.A)"
+]}
+,
+{"id": 397,
+"tag": "ANŠE.ARAD",
+"subs": [
+"dur3","duru3","šakkan6","du25","šagginx(ANŠE.ARAD)"
+]}
+,
+{"id": 398,
+"tag": "DU6.DU",
+"subs": [
+"e11","ed3","ed3","gigir4"
+]}
+,
+{"id": 399,
+"tag": "EN.TI",
+"subs": [
+"ebeh","ebih"
+]}
+,
+{"id": 400,
+"tag": "egi2",
+"subs": [
+"egir3","eger3","egi2","ege2","ninx(SAL.EŠ2)"
+]}
+,
+{"id": 401,
+"tag": "ah",
+"subs": [
+"ah","eh","gudux(HI×NUN)","numun3","uh","uman","umun3","aʾ2","aha","bi9","duga3","eʾ2","girišx(HI×NUN)","iʾ2","ih","nu13","u13","uʾ2","uhu"
+]}
+,
+{"id": 402,
+"tag": "KU.KU",
+"subs": [
+"durunx(KU.KU)","durunax(KU.KU)","eh3"
+]}
+,
+{"id": 403,
+"tag": "SAL.ANŠE",
+"subs": [
+"eme3"
+]}
+,
+{"id": 404,
+"tag": "EN.DIM2.GIG",
+"subs": [
+"enegir3"
+]}
+,
+{"id": 405,
+"tag": "ZAG.HA",
+"subs": [
+"enkud","enku","essad","ešsad","eššad","būdu"
+]}
+,
+{"id": 406,
+"tag": "EN.ME.LI",
+"subs": [
+"ensi","šešlam2"
+]}
+,
+{"id": 407,
+"tag": "enme",
+"subs": [
+"ensi3","enme"
+]}
+,
+{"id": 408,
+"tag": "esag2",
+"subs": [
+"arah3","esaĝ2","esag2","usi","asagx(GA2×ŠE)"
+]}
+,
+{"id": 409,
+"tag": "A.LAGAB×KUL",
+"subs": [
+"esir","ešer","kuninx(A.LAGAB×KUL)","sarx(A.LAGAB×KUL)"
+]}
+,
+{"id": 410,
+"tag": "KI.LAM",
+"subs": [
+"ganba","šakaka","šakanka","...ba","malba"
+]}
+,
+{"id": 411,
+"tag": "IGI.KUR.ZA",
+"subs": [
+"ganzer","ganzir"
+]}
+,
+{"id": 412,
+"tag": "GA@g",
+"subs": [
+"gara2","gar2"
+]}
+,
+{"id": 413,
+"tag": "KI.KAL×BAD",
+"subs": [
+"garaš2","karaš"
+]}
+,
+{"id": 414,
+"tag": "ŠE +3 ŠE.TAB +3 TAB.GAR +3 GAR",
+"subs": [
+"garadin3","karadin3"
+]}
+,
+{"id": 415,
+"tag": "NE.GI",
+"subs": [
+"enx(NE.GI)","gibil6","gir18","gira3","girra"
+]}
+,
+{"id": 416,
+"tag": "gin2",
+"subs": [
+"aga3","aĝa3","giĝ4","gin2","gina2","gim2","ge11","gi11","gig4","gin2","puš4"
+]}
+,
+{"id": 417,
+"tag": "KEŠ2",
+"subs": [
+"gir11","giri11","girid","kiri7","kirid","kirit","kirid","hir","her","keš2","keše2","kešda","keši2","kiši2","kiris","kiš2"
+]}
+,
+{"id": 418,
+"tag": "giri16",
+"subs": [
+"gir16","giri16","girid2","ĝiri16","irx(GIR3×GAN2@t)"
+]}
+,
+{"id": 419,
+"tag": "A.HA.TAR.KAK",
+"subs": [
+"girim3","nun2"
+]}
+,
+{"id": 420,
+"tag": "EZEN×LA",
+"subs": [
+"laban","gubalaga","gublaga"
+]}
+,
+{"id": 421,
+"tag": "HI×NUN.ME",
+"subs": [
+"guda2","gudug","šutug2","gudx(HI×NUN.ME)","guddax(HI×NUN.ME)","gudu4"
+]}
+,
+{"id": 422,
+"tag": "E.TUM",
+"subs": [
+"gur21","guru21","kur14","kuru14","kurul14","šurux(E.TUM)"
+]}
+,
+{"id": 423,
+"tag": "NUN@t.KI",
+"subs": [
+"gurud","kurud","kuruda","gur19","guru19","kur11","kuru11","nunpe","zilpe"
+]}
+,
+{"id": 424,
+"tag": "LU2×KI",
+"subs": [
+"dubal6","gurud2"
+]}
+,
+{"id": 425,
+"tag": "KI×U",
+"subs": [
+"habruda","habrud","hanburuda","harx(KI×U)"
+]}
+,
+{"id": 426,
+"tag": "še3",
+"subs": [
+"egi","egir2","eger2","eš2","eše2","ĝir15","ĝi7","ĝer15","ĝe7","gir15","ger15","gi7","ge7","huĝ","hug","hun","še3","ub2","ege","iš9","izid","nah2","samanx(EŠ2)","ša16","ši4","šu3","şi9","uba2","up2"
+]}
+,
+{"id": 427,
+"tag": "GIŠ%GIŠ",
+"subs": [
+"adamin3","alal3","dara5","hul3","kib","lirum3","šennur","ul3","ulul","adamen3","puhrum","an2","dari5","daru5","dur4","duru4","durum4","kip","gib2","gip2","girrix(GIŠ%GIŠ)","liri3","liru3","qib","qip","šallur","tur4","ţur4"
+]}
+,
+{"id": 428,
+"tag": "peš4",
+"subs": [
+"bir7","ber7","peš4","piš4","sur4","iškila","iškili","išla","išli","kiri4"
+]}
+,
+{"id": 429,
+"tag": "A.LAGAB × HAL",
+"subs": [
+"id2","i7","itu5","it2","ita5","iti5","ida2"
+]}
+,
+{"id": 430,
+"tag": "KI.SAG.SAL",
+"subs": [
+"igira2","igiru","zarahx(KI.SAG.SAL)"
+]}
+,
+{"id": 431,
+"tag": "GUD×A +2 KUR",
+"subs": [
+"ildag2"
+]}
+,
+{"id": 432,
+"tag": "IGI.NAGAR.BU",
+"subs": [
+"ildum2","ilduma2","ildumma2","ildu2"
+]}
+,
+{"id": 433,
+"tag": "NINDA2×GUD",
+"subs": [
+"indagra"
+]}
+,
+{"id": 434,
+"tag": "urugal",
+"subs": [
+"ešgal","irigal","erigal","urugal","unugi2"
+]}
+,
+{"id": 435,
+"tag": "UD.AN.ŠEŠ.KI",
+"subs": [
+"itudx(UD.AN.ŠEŠ.KI)","itax(UD.AN.ŠEŠ.KI)"
+]}
+,
+{"id": 436,
+"tag": "iti",
+"subs": [
+"itud","iti","itu","itid","a13","arhu","du16","id8","u22"
+]}
+,
+{"id": 437,
+"tag": "galga",
+"subs": [
+"egara","ĝalga","galga","eĝara","išhara","išhuru","malga"
+]}
+,
+{"id": 438,
+"tag": "PA.AN",
+"subs": [
+"biluda","ĝarza","garza","ĝarzu","garzu","billuda","billudu","kuš4"
+]}
+,
+{"id": 439,
+"tag": "ŠU.PAP.PAP",
+"subs": [
+"ĝešpu2","gešbu2","ĝešbu2","gešpu2","ĝešbax(ŠU.PAP.PAP)"
+]}
+,
+{"id": 440,
+"tag": "GEŠTIN",
+"subs": [
+"ĝeštin","geštin","ĝeština","geština","mutin"
+]}
+,
+{"id": 441,
+"tag": "GIŠ.TUG2.PI",
+"subs": [
+"ĝeštug2","geštug2","ĝištug2","gištug2","ĝeštu2","geštu2","ĝištu2","gištu2","gešdu2","gišdu2"
+]}
+,
+{"id": 442,
+"tag": "GIŠ.PI.TUG2",
+"subs": [
+"ĝeštug3","geštug3","ĝištug3","gištug3","ĝeštu3","geštu3","ĝištu3","gištu3","gešdu3","gišdu3"
+]}
+,
+{"id": 443,
+"tag": "KI.BI.GAR",
+"subs": [
+"ĝešbun","ĝišbun","gišbun","gizbun","gešbun","šubun"
+]}
+,
+{"id": 444,
+"tag": "gišgal",
+"subs": [
+"ĝišgal","gišgal","ulu3","uru17","u18","lu7","uru17","gal3","qal3","suk3","ul12","zik3"
+]}
+,
+{"id": 445,
+"tag": "tu6",
+"subs": [
+"ĝeli3","ĝili3","geli3","gili3","meli2","mele2","mili2","meli2","mu7","sug7","zug4","zug4","šegx(KA×LI)","tu6","uš7","gele3","gilib3","girix(KA×LI)","ĝirix(KA×LI)","mel2","mumunx(KA×LI)","munx(KA×LI)","zuhx(KA×LI)"
+]}
+,
+{"id": 446,
+"tag": "GIŠ.MI",
+"subs": [
+"ĝissu","gizzu","gissu","dimmušx(GIŠ.MI)","luhumx(GIŠ.MI)","luhummu","şil4","ubilla2"
+]}
+,
+{"id": 447,
+"tag": "GIŠ.TUG2.PI.ŠIR.SILA3",
+"subs": [
+"ĝizzal","gizzal","gišzal","gizal2","misal"
+]}
+,
+{"id": 448,
+"tag": "ŠIR@t.SILA3",
+"subs": [
+"ĝizzal2"
+]}
+,
+{"id": 449,
+"tag": "GURUŠ",
+"subs": [
+"ĝuruš","giriš2","ĝereš2","guruš","gireš2","murušx(GURUŠ)"
+]}
+,
+{"id": 450,
+"tag": "PA.DAG.KISIM5×KAK",
+"subs": [
+"gabar","kabar","kapar","rig10","ririg","udul9","utul9","nagada"
+]}
+,
+{"id": 451,
+"tag": "KA×MI",
+"subs": [
+"kana5","ganax(KA×MI)","kan5"
+]}
+,
+{"id": 452,
+"tag": "U2.GIR2@g",
+"subs": [
+"ad5","kišig","adda3","addu2","aţu","kiš16","kiša","kišeg","kišek","kiši16","kišik"
+]}
+,
+{"id": 453,
+"tag": "tab2",
+"subs": [
+"ad2","at2","kiši17","kišig2","tab2","ul4","adda4","addu3","aţ2","kiša2","kišeg2","kišik2"
+]}
+,
+{"id": 454,
+"tag": "GAL.GAD +3 GAD.GAR +3 GAR",
+"subs": [
+"kindagal","kindaĝal"
+]}
+,
+{"id": 455,
+"tag": "GAL.URI",
+"subs": [
+"kindagal2"
+]}
+,
+{"id": 456,
+"tag": "GAL.URU×BAR",
+"subs": [
+"kingal"
+]}
+,
+{"id": 457,
+"tag": "SAL.GA2×PA",
+"subs": [
+"kir11","mirx(SAL.GA2×PA)"
+]}
+,
+{"id": 458,
+"tag": "EZEN×KU3",
+"subs": [
+"silalx(EZEN×KU3)","kisig","kisiga","kišag","udnimx(EZEN×KU3)"
+]}
+,
+{"id": 459,
+"tag": "KI.UD",
+"subs": [
+"kislah","kizlah"
+]}
+,
+{"id": 460,
+"tag": "HA.A",
+"subs": [
+"zah2","sah6","saha6","zaha2","kuar","kuara"
+]}
+,
+{"id": 461,
+"tag": "KA.AN.NI.SI",
+"subs": [
+"kurku2"
+]}
+,
+{"id": 462,
+"tag": "ŠIR.BUR.LA",
+"subs": [
+"lagaš","lagas","lagaša","lagasa"
+]}
+,
+{"id": 463,
+"tag": "ŠU.KAL",
+"subs": [
+"lirum","liri","liru","šugmaš","šukbar"
+]}
+,
+{"id": 464,
+"tag": "BAD.UD",
+"subs": [
+"lugud"
+]}
+,
+{"id": 465,
+"tag": "ma5",
+"subs": [
+"ma5","mu3"
+]}
+,
+{"id": 466,
+"tag": "AMAR.UD",
+"subs": [
+"marduk"
+]}
+,
+{"id": 467,
+"tag": "mun",
+"subs": [
+"gakkul2","kakkul2","mun","munu"
+]}
+,
+{"id": 468,
+"tag": "IM.DUGUD",
+"subs": [
+"aĝar6","agar6","muru9"
+]}
+,
+{"id": 469,
+"tag": "SAL.LAGAR",
+"subs": [
+"ezix(SAL.LAGAR)","murub2","emeš","emezi","garimx(SAL.LAGAR)","garinx(SAL.LAGAR)","umahx(SAL.LAGAR)","usuh"
+]}
+,
+{"id": 470,
+"tag": "AN.NA",
+"subs": [
+"an-na","nagga","nanga5","niggi","niggin"
+]}
+,
+{"id": 471,
+"tag": "nag",
+"subs": [
+"immen2","emmen2","enmen2","emmin2","immin2","kab2","naĝ","naga2","nag","nak","emma2","gab3","gu6","imma2","immeli","na8","namx(KA×A)","naq","nik5"
+]}
+,
+{"id": 472,
+"tag": "gaz",
+"subs": [
+"gaz","gaza","kas3","gas","kaš6","kaz","naĝa3","naga3","gaş","kaş3","kumx(GUM×ŠE)"
+]}
+,
+{"id": 473,
+"tag": "engur",
+"subs": [
+"engur","angur","id3","i8","namma","zikum","bunig3","buniĝ3","gilugu","gur22","ex(LAGAB × HAL)","lammu6","nammu","zikumux(LAGAB × HAL)"
+]}
+,
+{"id": 474,
+"tag": "AN.NAGA",
+"subs": [
+"nanibgal"
+]}
+,
+{"id": 475,
+"tag": "ŠID",
+"subs": [
+"aĝ3","aka3","bisaĝ2","bisag2","pisag2","pisaĝ2","bisan2","pisan2","dilib","dim12","kid4","gud9","lag","lak","laka","nesaĝ2","nesag2","nisag2","nisaĝ2","saĝĝa","saĝa8","sanga","sangu","silaĝ","silag","sila11","šid","šiti","šed","šud4","sid2","šita5","šit","sit2","šita5","šub6","šudum","tu14","tuba3","umbisaĝ","umbisag","uttu2","zandara","ag3","ak3","alal2","alamu2","almu2","elal2","gir13","ka9","kas7","kiri8","la10","laq","lik2","liq2","mer4","pa8","sagga","sinx(ŠID)","subx(ŠID)","šanga","še14","šitim2","šiţ","te6","ubisag","uţu2","zadri","zadru","zandar"
+]}
+,
+{"id": 476,
+"tag": "EN.KID",
+"subs": [
+"ellil","en-lil2","illil","nibri","nibru"
+]}
+,
+{"id": 477,
+"tag": "nigin3",
+"subs": [
+"niĝar","niĝin3","nigin3","ni9","nig6","nigar","niĝ6","nimgin3","ningin3"
+]}
+,
+{"id": 478,
+"tag": "nina",
+"subs": [
+"nanše","našše","nazi","nigin6","niĝin6","nina","sirara","siraran"
+]}
+,
+{"id": 479,
+"tag": "mir",
+"subs": [
+"aga","mir","niĝir","nimgir","nigir","nimirx(DUN3@g@g)","ten3","tin3","agu","ir17","mer","mere","migir","miri","uku"
+]}
+,
+{"id": 480,
+"tag": "SAL.TUG2.PAP.IGI@g.NUN.ME.EZEN×KASKAL",
+"subs": [
+"nenkum","ninkum"
+]}
+,
+{"id": 481,
+"tag": "ZA.DUN3@g",
+"subs": [
+"nir2"
+]}
+,
+{"id": 482,
+"tag": "ZA.DUN3@g@g",
+"subs": [
+"nir7"
+]}
+,
+{"id": 483,
+"tag": "PAP.E",
+"subs": [
+"pa5","pad5"
+]}
+,
+{"id": 484,
+"tag": "ŠA3×TUR",
+"subs": [
+"peš13"
+]}
+,
+{"id": 485,
+"tag": "ug",
+"subs": [
+"pirig3","piriĝ3","ug","uk","uku4","uk","uq","u21","udx(PIRIG×UD)"
+]}
+,
+{"id": 486,
+"tag": "umbisag2",
+"subs": [
+"alal","bisaĝ3","bisag3","pisag3","pisaĝ3","bisan3","pisan3","hubhub","umbisaĝ2","alax(ŠID×A)","alalmu","alamu","almu","bizeg3","bizem3","elal","kirbanu","mezeg","mezeĝ","mezem","mizeg","mizem","ubisag2","umbisag2"
+]}
+,
+{"id": 487,
+"tag": "KA×GAN2@t.ŠA",
+"subs": [
+"puzur4","buzur4","puzru"
+]}
+,
+{"id": 488,
+"tag": "lah4",
+"subs": [
+"lah4","lalah","laha4","re7","su8","sub2","sup2","sug2","la4","ri7"
+]}
+,
+{"id": 489,
+"tag": "NINDA2×ŠE",
+"subs": [
+"sam2","šam2","sa10","šam2","agx(NINDA2×ŠE)"
+]}
+,
+{"id": 490,
+"tag": "SILA3.ŠU.GABA",
+"subs": [
+"sagi","šagia"
+]}
+,
+{"id": 491,
+"tag": "zah3",
+"subs": [
+"zah3","sah7","saha7","zaha3"
+]}
+,
+{"id": 492,
+"tag": "UD.MA2.AB×HA.TAG",
+"subs": [
+"sirara3"
+]}
+,
+{"id": 493,
+"tag": "UD.MA2.AB×HA.KI.TAG",
+"subs": [
+"sirara6"
+]}
+,
+{"id": 494,
+"tag": "SISKUR",
+"subs": [
+"siškur","siskur","sizkur","disgur"
+]}
+,
+{"id": 495,
+"tag": "SISKUR.SISKUR",
+"subs": [
+"siškur2","siskur2","sizkur2"
+]}
+,
+{"id": 496,
+"tag": "KA×GA",
+"subs": [
+"sub","simx(KA×GA)","šubx(KA×GA)"
+]}
+,
+{"id": 497,
+"tag": "SU.KUR.RU",
+"subs": [
+"sud3","šuripak","šurippak","šurupak","šuruppak"
+]}
+,
+{"id": 498,
+"tag": "EN.ZU",
+"subs": [
+"tungal","sin3","suen","suena","zuen","zuena"
+]}
+,
+{"id": 499,
+"tag": "mul",
+"subs": [
+"mul","mulu","suhub2","šuhub2","šun2","kunga3","kungi3","munx(AN+3)","nap2"
+]}
+,
+{"id": 500,
+"tag": "ŠU.DI.U.U.U",
+"subs": [
+"suhub4","šuhub4","sahab2","šahab2"
+]}
+,
+{"id": 501,
+"tag": "su6",
+"subs": [
+"sum4","sun4","su6","dunx(KA×SA)","mangaga","sul3","tunx(KA×SA)"
+]}
+,
+{"id": 502,
+"tag": "su7",
+"subs": [
+"su7","sug8","sul4","sur12","sura12"
+]}
+,
+{"id": 503,
+"tag": "BALAG.LUL",
+"subs": [
+"tigi","tegi","tigu"
+]}
+,
+{"id": 504,
+"tag": "GAL.TE",
+"subs": [
+"tiru","tirum"
+]}
+,
+{"id": 505,
+"tag": "hub",
+"subs": [
+"hub","tu10","hup","qup2","tumx(HUB2×UD)"
+]}
+,
+{"id": 506,
+"tag": "A.ŠU.NAGA",
+"subs": [
+"tu17"
+]}
+,
+{"id": 507,
+"tag": "ŠU.NAGA",
+"subs": [
+"tu5"
+]}
+,
+{"id": 508,
+"tag": "kam",
+"subs": [
+"gam2","kam","tu7","du15","utul2","eriš6","gama2","hud3","ka13","kama","qam2","udul2"
+]}
+,
+{"id": 509,
+"tag": "PA.UZU",
+"subs": [
+"dudux(PA.UZU)","tud2","dud","duda","dunda","tudu","tunda"
+]}
+,
+{"id": 510,
+"tag": "ŠU.GAR.TUR.LAL",
+"subs": [
+"tukum","tukun"
+]}
+,
+{"id": 511,
+"tag": "KA×ŠE",
+"subs": [
+"tukur2","tukurex(KA×ŠE)"
+]}
+,
+{"id": 512,
+"tag": "bad3",
+"subs": [
+"bad3","bada3","bat3","u9","uĝ5","ug5","uga5","uk5","un3","anx(EZEN×BAD)","ba8","dur8","durum","ubx(EZEN×BAD)","uq5"
+]}
+,
+{"id": 513,
+"tag": "UR2×NUN",
+"subs": [
+"ušbar","ušbur"
+]}
+,
+{"id": 514,
+"tag": "UR2×U2 +2 AŠ",
+"subs": [
+"murum4","muru4","urum2","uru7","ur9","uru7","ušbar3","ušbur3"
+]}
+,
+{"id": 515,
+"tag": "UR2×U2",
+"subs": [
+"urum8","ušbar7","ušbur7"
+]}
+,
+{"id": 516,
+"tag": "KI.KAL",
+"subs": [
+"bad4","dubad","garaš5","karaš2","hirim","hirin","kankal","kislah3","sas","uludin","ulutim","ulutin","uludim","kikla"
+]}
+,
+{"id": 517,
+"tag": "ukkin",
+"subs": [
+"unkin","unken","ukkin","barimx(URU×BAR)","kin5","ukken"
+]}
+,
+{"id": 518,
+"tag": "TE.AB",
+"subs": [
+"unu6","unug3"
+]}
+,
+{"id": 519,
+"tag": "URU×A",
+"subs": [
+"uru18","arx(URU×A)","ararim","nagx(URU×A)","ru14","urua"
+]}
+,
+{"id": 520,
+"tag": "A2.KAL",
+"subs": [
+"liri4","lirum4","liru4","usu","uššux(A2.KAL)"
+]}
+,
+{"id": 521,
+"tag": "TAG×TUG2",
+"subs": [
+"silig3","tibir4","uttu","uţu","utux(TAG×TUG2)"
+]}
+,
+{"id": 522,
+"tag": "AB2.LU",
+"subs": [
+"udul10","utul10"
+]}
+,
+{"id": 523,
+"tag": "numun2",
+"subs": [
+"aški","gin4","gug4","lamahuš","numun2","suluhu3","šub5","zukum","mud7","sulumhi3","šumun","zuluhu3","zulumhi3"
+]}
+,
+{"id": 524,
+"tag": "SIK2.SUD",
+"subs": [
+"suluhu","zuluhu","zulumhi","sulumhi"
+]}
+,
+{"id": 525,
+"tag": "XXXX",
+"subs": [
+"xxxx-----------------------------------------------------"
+]}
+,
+{"id": 526,
+"tag": "ŠA3",
+"subs": [
+"ša3","šag4","šalambi"
+]}
+,
+{"id": 527,
+"tag": "CEC.KI",
+"subs": [
+"nanna","nannar"
+]}
+,
+{"id": 528,
+"tag": "DU6",
+"subs": [
+"du6","dud","dul6","tul5","til2"
+]}
+,
+{"id": 529,
+"tag": "MUŠ",
+"subs": [
+"muš","šer10","šuba3","šuba4"
+]}
+,
+{"id": 530,
+"tag": "GIR",
+"subs": [
+"gir","giri","kiri","kir","peš","buš2","biš","bis2","pus","puš3","piš","piša","pis","ha@g"
+]}
+,
+{"id": 531,
+"tag": "SILA4",
+"subs": [
+"sila4","gazi"
+]}
+,
+{"id": 532,
+"tag": "AŠ",
+"subs": [
+"1","aš","aša","az3","as3","dil","dili","tal3","del","dil","dele","til4","deli","dal3","ge15","geš4","lirum2","liru2","makkaš2","rum","rim5","satak","santak","santag","santa","salugub","simed","tal3","ana3","ašša","aş3","deš2","diš2","eš18","eš20","in6","ina","liri2","makaš2","ram2","ru3","sagtag","sagtak","šup2","teš","ţil","zux(AŠ)","1(aš)"
+]}
+,
+{"id": 533,
+"tag": "tir",
+"subs": [
+"gamun2","panax(ŠE.NUN +3 NUN)","še15","tir","ter","dir4","ezinu3","ninni8","qišat","šabu","ţir5"
+]}
+,
+{"id": 534,
+"tag": "nir",
+"subs": [
+"nir","nur","ninir","ner","nira","šer7","lir","nar3","larax(NUN +3 NUN)","nemerx(NUN +3 NUN)","ri5","tirx(NUN +3 NUN)"
+]}
+,
+{"id": 535,
+"tag": "UNUG",
+"subs": [
+"erim5","gun4","iri11","nu7","unu","unug","urugal2","ab4","ab@g","aba4","eri11","erin5","guna4","gunu4","sirara5","urual2","uruk"
+]}
+,
+{"id": 536,
+"tag": "ŠU",
+"subs": [
+"šu","kat7","qad","qat","qata","sagix(ŠU)"
+]}
+,
+{"id": 537,
+"tag": "ŠIR",
+"subs": [
+"šir","šur3","sil8","sir4","siru","sirum","as5","aš7","gasax(ŠIR)","šer"
+]}
+,
+{"id": 538,
+"tag": "DE2",
+"subs": [
+"abzux(UMUM×KASKAL)","da9","de2","di8","dim6","du19","mum","mun2","ninagal","si7","siu","ţe5"
+]}
+,
+{"id": 539,
+"tag": "ŠEŠ.UNUG",
+"subs": [
+"urim2","uri2","ura15","uram","uru14","urum5"
+]}
+,
+{"id": 540,
+"tag": "EME",
+"subs": [
+"eme","em4","uli"
+]}
+,
+{"id": 541,
+"tag": "ŠE.NAGA",
+"subs": [
+"nisaba","nidaba","tux(ŠE.NAGA)"
+]}
+,
+{"id": 542,
+"tag": "TUM3",
+"subs": [
+"tum3","tumu3","kux(NIM×GAN2@t)","tu25"
+]}
+,
+{"id": 543,
+"tag": "TUR.UŠ",
+"subs": [
+"ibila","ibil"
+]}
+,
+{"id": 544,
+"tag": "NINNU",
+"subs": [
+"ninnu","50"
+]}
+,
+{"id": 545,
+"tag": "URU2",
+"subs": [
+"erim6","uru2","erim6","erin6","ararimx(URU×UD)","erarimx(URU×UD)","erix(URU×UD)","ru4","urumx(URU×UD)","ururim","urušibx(URU×UD)","urutamga2"
+]}
+,
+{"id": 546,
+"tag": "MAŠ2",
+"subs": [
+"maš2","maz2","kun8","mašaku"
+]}
+,
+{"id": 547,
+"tag": "DUL3",
+"subs": [
+"dul3","kuš2","sumur","šur2","sur2","sur2","šur2","muhhu","şalmu","dilx(SAG@g)","kušu4","muh4","śur2","ugu5"
+]}
+,
+{"id": 548,
+"tag": "DIŠ",
+"subs": [
+"diš","deš","duš2","tiz","tiš","diša","gala10","m","ge3","geš2","eš2","geš2","gešu","iš2","giš2","ge3","gi3","makkaš","satak4","santak4","santag4","santa4","šantag","šantak","tal4","til5","1(diš)","anx(DIŠ)","ana","aš10","daš2","eš4","gešta","il4","ili6","iš4","makaš","muš7","nigida","salubug2","salugub2","sandak4","taš2","ţiš","uš9","1(bariga)"
+]}
+,
+{"id": 549,
+"tag": "EŠ5",
+"subs": [
+"3","eš5","eša5"
+]}
+,
+{"id": 550,
+"tag": "IA2",
+"subs": [
+"5","i2","ia2","5(diš)"
+]}
+,
+{"id": 551,
+"tag": "AŠ3",
+"subs": [
+"6","aš3","aša3","6(diš)","ašša3","dešax(6(DIŠ))"
+]}
+,
+{"id": 552,
+"tag": "USSU",
+"subs": [
+"8","ussu","8(diš)","usa"
+]}
+,
+{"id": 553,
+"tag": "ILIMMU",
+"subs": [
+"9","ilimmu","elimmu","ilimx(9(DIŠ))","9(diš)"
+]}
+,
+{"id": 554,
+"tag": "GUR8",
+"subs": [
+"gur8","guru8","gura8","ru10","uru5","ur12","ru10","gar13","qurx(TE@g)","tex(TE@g)"
+]}
+,
+{"id": 555,
+"tag": "UŠUM.GAL",
+"subs": [
+"ušumgal"
+]}
+,
+{"id": 556,
+"tag": "ŠA",
+"subs": [
+"ara","ša","sa19","en8","li5","na5","zur8"
+]}
+,
+{"id": 557,
+"tag": "UŠ2",
+"subs": [
+"ug7","uš2"
+]}
+,
+{"id": 558,
+"tag": "UR3",
+"subs": [
+"ušur","gušur","ur3","uru12","ura3"
+]}
+,
+{"id": 559,
+"tag": "AM",
+"subs": [
+"am","ama2","ildag3","adar2"
+]}
+,
+{"id": 560,
+"tag": "TAH",
+"subs": [
+"dah","tah","dah","taha","tuh2","ţah"
+]}
+,
+{"id": 561,
+"tag": "KAR2",
+"subs": [
+"guru6","kar2","kara2","gar19","kara2","garak","gur6","ilx(GAN2@t)","kiri2"
+]}
+,
+{"id": 562,
+"tag": "šudu3",
+"subs": [
+"burx(KA×ŠU)","šud3","šude3","šudu3","šex(KA×ŠU)","šedx(KA×ŠU)","šegx(KA×ŠU)","šix(KA×ŠU)","šu12","ušx(KA×ŠU)"
+]}
+,
+{"id": 563,
+"tag": "arhuš",
+"subs": [
+"ama5","arhuš","ur14","uš3","[...]","am5","ame2","ami2","eme8"
+]}
+,
+{"id": 564,
+"tag": "ŠIM",
+"subs": [
+"bappir2","bappira2","lunga","mud5","šem","šembizi","šim","šem","asila2","asilal2","asilla2","lumgi","mulugx(ŠIM)","ningi","nugx(ŠIM)","nungi","rig","rik","riq","siraš","siris","siriš","su20","šembi2","šembulugx(ŠIM)","ši6","šimbizi"
+]}
+,
+{"id": 565,
+"tag": "GIGIR",
+"subs": [
+"gigir","gigira","pu6","tul8"
+]}
+,
+{"id": 566,
+"tag": "SUHUŠ",
+"subs": [
+"suhuš","šuhuš","išdu","gim5","gir6","giri6","im5","išdumx(DU@g)","kas5","kim5","suh6"
+]}
+,
+{"id": 567,
+"tag": "LIBIŠ",
+"subs": [
+"gir9","kir2","kiri9","lipiš","libiš","šagx(AB2×ŠA3)","šem3","ub3"
+]}
+,
+{"id": 568,
+"tag": "ŠEŠ2",
+"subs": [
+"šeš2","še8","še8","šiš2"
+]}
+,
+{"id": 569,
+"tag": "ANŠE",
+"subs": [
+"anše","anšu","šakan3","anši","sumugan"
+]}
+,
+{"id": 570,
+"tag": "U8",
+"subs": [
+"ganam4","lahar","lahru","šurum","šurim","šurun","šuru","u8","ua","us5","us5","dibx(LAGAB×GUD +2 GUD)","gana4","gayayu","lahrax(LAGAB×GUD +2 GUD)","lahrum","šerba","uz5","wax(LAGAB×GUD +2 GUD)"
+]}
+,
+{"id": 571,
+"tag": "ŠE",
+"subs": [
+"ašnan2","niga","nigan","še","u20","nigx(ŠE)","nigu","sagx(ŠE)"
+]}
+,
+{"id": 572,
+"tag": "UŠ.KU",
+"subs": [
+"gala","galx(UŠ.KU)","nitax(UŠ.KU)"
+]}
+,
+{"id": 573,
+"tag": "IM2",
+"subs": [
+"gir5","giri5","im2","kaku","kas4","kaš4","rim4","lik","lsimu","gim4","girim2","ka7","kamaš","kim4","lah7","rax(DU@s)"
+]}
+,
+{"id": 574,
+"tag": "UMUM",
+"subs": [
+"simug","umum","umun2","umum"
+]}
+,
+{"id": 575,
+"tag": "MUŠ3.DI",
+"subs": [
+"sed4","še17","šed10","šed10","amagix(MUŠ3.DI)","halbax(MUŠ3.DI)","halbix(MUŠ3.DI)","mabix(MUŠ3.DI)","mammix(MUŠ3.DI)","se25","sedi4"
+]}
+,
+{"id": 576,
+"tag": "GAR.ŠA3.A",
+"subs": [
+"kadra","kadri","kadru"
+]}
+,
+{"id": 577,
+"tag": "KAD3",
+"subs": [
+"gat3","kad3","kat3","kata3","kud6","qat7","šed4"
+]}
+,
+{"id": 578,
+"tag": "MUŠ2",
+"subs": [
+"muš2","se28","suz","su10","še24","sus","suh","sih4","šuh","suku5","susbu2","sušbu","šusbu","sed7","sedi7","sukud2","suzbu2","šed13","šukx(MUŠ3@g)","šušinakx(MUŠ3@g)","tišpak"
+]}
+,
+{"id": 579,
+"tag": "URI3",
+"subs": [
+"uri3","urin","uri3","urun","uru3","urimx(URI3)"
+]}
+,
+{"id": 580,
+"tag": "DUR2",
+"subs": [
+"dur2","tur7","duru2","durun","durum2","duruna","ţur2"
+]}
+,
+{"id": 581,
+"tag": "KA×NE",
+"subs": [
+"murgu3","urgu2"
+]}
+,
+{"id": 582,
+"tag": "su4",
+"subs": [
+"sa11","su4","si4","sa11","gunux(SI@g)","śi2","śu2","usan4"
+]}
+,
+{"id": 583,
+"tag": "HEŠ5",
+"subs": [
+"heš5","še29","šaa","šaga"
+]}
+,
+{"id": 584,
+"tag": "ŠA3×NE",
+"subs": [
+"ninim","nanam","nenim"
+]}
+,
+{"id": 585,
+"tag": "UD.AN.ŠEŠ.KI",
+"subs": [
+"iti6","itudx(UD.AN.ŠEŠ.KI)","itax(UD.AN.ŠEŠ.KI)"
+]}
+,
+{"id": 586,
+"tag": "KUŠU2",
+"subs": [
+"kušu2","uh3","kuš9"
+]}
+,
+{"id": 587,
+"tag": "IŠ",
+"subs": [
+"is2","iš","kukkuš","kuš7","mel","mili","mil","milla","sahar","sušx(IŠ)","ukum","es5","eš15","isi","isiš","iś","iši","iş2","iz2","kukkuda2","kukuda2","sahardub","šuš3"
+]}
+,
+{"id": 588,
+"tag": "ma5",
+"subs": [
+"ma5","mu3"
+]}
+,
+{"id": 589,
+"tag": "ZI3",
+"subs": [
+"zi3","zid2","zi3","gurx(ZI3)","gurux(ZI3)","karx(ZI3)","karax(ZI3)","kirix(ZI3)","zux(ZI3)"
+]}
+,
+{"id": 590,
+"tag": "DI.A",
+"subs": [
+"peš10"
+]}
+,
+{"id": 591,
+"tag": "TAG×ŠU",
+"subs": [
+"tibir2"
+]}
+,
+{"id": 592,
+"tag": "AN.AŠ.AN",
+"subs": [
+"tilla2"
+]}
+,
+{"id": 593,
+"tag": "ŠU2.AŠ2",
+"subs": [
+"kibir2", "gibil2"
+]}
+,
+{"id": 594,
+"tag": "GI.LI",
+"subs": [
+"kibir2", "gien3"
+]}
+]}

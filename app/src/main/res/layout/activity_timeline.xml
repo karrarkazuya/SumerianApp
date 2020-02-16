@@ -1,0 +1,760 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff"
+        android:orientation="vertical">
+
+        <!-- BAR -->
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="@color/primary" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/timeline"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#ffffff" />
+
+            <RelativeLayout
+                android:id="@+id/back"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true" >
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/back_btn" />
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:background="@drawable/shadowt">
+        </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <!-- Seleucid Empire -->
+        <RelativeLayout
+            android:id="@+id/se"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="#ff0066"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/se"
+                android:textColor="@color/black"
+                android:textSize="29dp" />
+
+            <!-- FROM -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:text="312BC"
+                android:textColor="@color/black"
+                android:layout_margin="5dp"/>
+
+            <!-- TO -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_margin="5dp"
+                android:text="141BC"
+                android:textColor="@color/black" />
+
+
+        </RelativeLayout>
+
+        <!-- Macedonian Empire -->
+        <RelativeLayout
+            android:id="@+id/me"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="#ff6699"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/me"
+                android:textColor="@color/black"
+                android:textSize="29dp" />
+
+            <!-- FROM -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:text="324BC"
+                android:textColor="@color/black"
+                android:layout_margin="5dp"/>
+
+            <!-- TO -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_margin="5dp"
+                android:text="312BC"
+                android:textColor="@color/black" />
+
+
+        </RelativeLayout>
+
+        <!-- persian domination -->
+        <RelativeLayout
+            android:id="@+id/pe"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="#999966"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/bd"
+                android:textColor="@color/black"
+                android:textSize="29dp" />
+
+
+            <!-- FROM -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:text="539BC"
+                android:textColor="@color/black"
+                android:layout_margin="5dp"/>
+
+            <!-- TO -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_margin="5dp"
+                android:text="324BC"
+                android:textColor="@color/black" />
+
+
+        </RelativeLayout>
+
+        <!-- neo babylonian empire -->
+        <RelativeLayout
+            android:id="@+id/nbe"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#0066cc"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/nbe"
+                android:textColor="@color/black"
+                android:textSize="29dp" />
+
+            <!-- FROM -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:text="612BC"
+                android:textColor="@color/black"
+                android:layout_margin="5dp"/>
+
+            <!-- TO -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_margin="5dp"
+                android:text="539BC"
+                android:textColor="@color/black" />
+        </RelativeLayout>
+
+        <!-- neo assyrian empire -->
+        <RelativeLayout
+            android:id="@+id/nae"
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:background="#ff9999"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/nse"
+                android:textColor="@color/black"
+                android:textSize="29dp" />
+
+            <!-- FROM -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:text="884BC"
+                android:textColor="@color/black"
+                android:layout_margin="5dp"/>
+
+            <!-- TO -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_margin="5dp"
+                android:text="612BC"
+                android:textColor="@color/black" />
+        </RelativeLayout>
+
+        <!-- Sea people -->
+        <RelativeLayout
+            android:id="@+id/sp"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:background="#00cc99"
+            android:layout_marginTop="5dp">
+
+            <!-- Cassite Dynasty -->
+            <RelativeLayout
+                android:id="@+id/cd2"
+                android:layout_width="120dp"
+                android:layout_height="55dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_toLeftOf="@+id/textView"
+                android:layout_toStartOf="@+id/textView"
+                android:background="#ffff00">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_margin="2dp"
+                    android:text="1155BC"
+                    android:textColor="@color/black"
+                    android:textSize="10dp" />
+
+            </RelativeLayout>
+
+
+
+
+            <!-- assyrian -->
+            <RelativeLayout
+                android:id="@+id/pa2"
+                android:layout_width="187dp"
+                android:layout_height="30dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:background="#ff9999">
+
+                <TextView
+                    android:id="@+id/textView7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_margin="2dp"
+                    android:text="1190BC"
+                    android:textColor="@color/black"
+                    android:textSize="10dp" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/sp"
+                android:textColor="@color/black"
+                android:textSize="29dp"
+                android:id="@+id/textView" />
+
+            <!-- FROM -->
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:text="884BC"
+                android:textColor="@color/black"
+                android:layout_margin="5dp"/>
+
+            <!-- hittite -->
+            <RelativeLayout
+                android:id="@+id/h2"
+                android:layout_width="90dp"
+                android:layout_height="25dp"
+                android:layout_alignParentBottom="true"
+                android:layout_toEndOf="@+id/cd2"
+                android:layout_toLeftOf="@+id/pa2"
+                android:layout_toRightOf="@+id/cd2"
+                android:layout_toStartOf="@+id/pa2"
+                android:background="#cc8800">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_margin="2dp"
+                    android:text="1200BC"
+                    android:textColor="@color/black"
+                    android:textSize="10dp" />
+
+            </RelativeLayout>
+
+            <!-- TO -->
+        </RelativeLayout>
+
+        <!-- Cassite Dynasty -->
+        <RelativeLayout
+            android:id="@+id/cd"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:background="#ffff00"
+            android:layout_marginTop="5dp">
+
+            <!-- hittite -->
+            <RelativeLayout
+                android:id="@+id/h"
+                android:layout_width="80dp"
+                android:layout_height="55dp"
+                android:layout_alignLeft="@+id/textView"
+                android:layout_alignParentTop="true"
+                android:layout_alignStart="@+id/textView"
+                android:layout_marginLeft="23dp"
+                android:layout_marginStart="23dp"
+                android:background="#cc8800">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:text="@string/he"
+                    android:textColor="@color/black"
+                    android:textSize="13dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="2dp"
+                    android:text="1370BC"
+                    android:textColor="@color/black"
+                    android:textSize="10dp" />
+
+            </RelativeLayout>
+
+
+            <!-- assyrian -->
+            <RelativeLayout
+                android:id="@+id/pa"
+                android:layout_width="90dp"
+                android:layout_height="30dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_toEndOf="@+id/h"
+                android:layout_toRightOf="@+id/h"
+                android:background="#ff9999">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:text="@string/ae"
+                    android:textColor="@color/black"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:text="1234BC"
+                    android:textColor="@color/black"
+                    android:textSize="10dp"
+                    android:layout_margin="2dp"/>
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/cd"
+                android:textColor="@color/black"
+                android:textSize="29dp"
+                android:id="@+id/textView" />
+
+            <!-- FROM -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:text="1600BC"
+                android:textColor="@color/black"
+                android:layout_margin="5dp"/>
+
+            <!-- TO -->
+        </RelativeLayout>
+
+        <!-- Paleo-Babylonian Empire -->
+        <RelativeLayout
+            android:id="@+id/pbe"
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:background="#0066cc"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/pbe"
+                android:textColor="@color/black"
+                android:textSize="29dp" />
+
+            <!-- FROM -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:text="1800BC"
+                android:textColor="@color/black"
+                android:layout_margin="5dp"/>
+
+            <!-- TO -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_margin="5dp"
+                android:text="1600BC"
+                android:textColor="@color/black" />
+        </RelativeLayout>
+
+        <!-- Amorite kingdoms -->
+        <RelativeLayout
+            android:id="@+id/ak"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#999966"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/ak"
+                android:textColor="@color/black"
+                android:textSize="29dp" />
+
+            <!-- FROM -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:text="2000BC"
+                android:textColor="@color/black"
+                android:layout_margin="5dp"/>
+
+            <!-- TO -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_margin="5dp"
+                android:text="1800BC"
+                android:textColor="@color/black" />
+        </RelativeLayout>
+
+        <!-- Sumerian Renaissance UR III -->
+        <RelativeLayout
+            android:id="@+id/u3"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="#33cc33"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/sru3"
+                android:textColor="@color/black"
+                android:textSize="29dp" />
+
+            <!-- FROM -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:text="2100BC"
+                android:textColor="@color/black"
+                android:layout_margin="5dp"/>
+
+            <!-- TO -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_margin="5dp"
+                android:text="2000BC"
+                android:textColor="@color/black" />
+        </RelativeLayout>
+
+        <!-- Guti -->
+        <RelativeLayout
+            android:id="@+id/g"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="#999966"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/guti"
+                android:textColor="@color/black"
+                android:textSize="29dp" />
+
+            <!-- FROM -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:text="2200BC"
+                android:textColor="@color/black"
+                android:layout_margin="5dp"/>
+
+            <!-- TO -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_margin="5dp"
+                android:text="2100BC"
+                android:textColor="@color/black" />
+        </RelativeLayout>
+
+        <!-- Akkadian Empire -->
+        <RelativeLayout
+            android:id="@+id/a"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#ff6600"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/akkadian_empire"
+                android:textColor="@color/black"
+                android:textSize="29dp" />
+
+            <!-- FROM -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:text="2350BC"
+                android:textColor="@color/black"
+                android:layout_margin="5dp"/>
+
+            <!-- TO -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_margin="5dp"
+                android:text="2200BC"
+                android:textColor="@color/black" />
+        </RelativeLayout>
+
+        <!-- Proto-dynastic -->
+        <RelativeLayout
+            android:id="@+id/pd"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="#00ff99"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/proto_dynastic"
+                android:textColor="@color/black"
+                android:textSize="29dp" />
+
+            <!-- FROM -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:text="2900BC"
+                android:textColor="@color/black"
+                android:layout_margin="5dp"/>
+
+            <!-- TO -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_margin="5dp"
+                android:text="2350BC"
+                android:textColor="@color/black" />
+        </RelativeLayout>
+
+        <!-- URUK -->
+        <RelativeLayout
+            android:id="@+id/u"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="#00cc00"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/uruk"
+                android:textColor="@color/black"
+                android:textSize="29dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:text="5000BC"
+                android:textColor="@color/black"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_margin="5dp"
+                android:text="2900BC"
+                android:textColor="@color/black" />
+        </RelativeLayout>
+
+    </LinearLayout>
+    </LinearLayout>
+
+
+</ScrollView>

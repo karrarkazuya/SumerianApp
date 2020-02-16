@@ -1,0 +1,9459 @@
+{
+  "cuneiform": [
+    {
+      "id": 0,
+      "tag": "AC",
+      "unicode": "&#x12038;"
+    },
+    {
+      "id": 1,
+      "tag": "AC.AC",
+      "unicode": "&#x12400;"
+    },
+    {
+      "id": 2,
+      "tag": "HAL",
+      "unicode": "&#x1212C;"
+    },
+    {
+      "id": 3,
+      "tag": "EC6",
+      "unicode": "&#x12401;"
+    },
+    {
+      "id": 4,
+      "tag": "BAL",
+      "unicode": "&#x12044;"
+    },
+    {
+      "id": 5,
+      "tag": "GIR2",
+      "unicode": "&#x12108;"
+    },
+    {
+      "id": 6,
+      "tag": "TAB2",
+      "unicode": "&#x12109;"
+    },
+    {
+      "id": 7,
+      "tag": "BUR2",
+      "unicode": "&#x12054;"
+    },
+    {
+      "id": 8,
+      "tag": "TAR",
+      "unicode": "&#x122FB;"
+    },
+    {
+      "id": 9,
+      "tag": "AN",
+      "unicode": "&#x1202D;"
+    },
+    {
+      "id": 10,
+      "tag": "AC+SUR",
+      "unicode": "&#x12038;&#x122E9;"
+    },
+    {
+      "id": 11,
+      "tag": "MUG",
+      "unicode": "&#x1222E;"
+    },
+    {
+      "id": 12,
+      "tag": "ZADIM",
+      "unicode": "&#x1222F;"
+    },
+    {
+      "id": 13,
+      "tag": "BA",
+      "unicode": "&#x12040;"
+    },
+    {
+      "id": 14,
+      "tag": "ZU",
+      "unicode": "&#x1236A;"
+    },
+    {
+      "id": 15,
+      "tag": "SU",
+      "unicode": "&#x122E2;"
+    },
+    {
+      "id": 16,
+      "tag": "SU/SU",
+      "unicode": "&#x122E2;"
+    },
+    {
+      "id": 17,
+      "tag": "CEN",
+      "unicode": "&#x122BF;"
+    },
+    {
+      "id": 18,
+      "tag": "ARAD",
+      "unicode": "&#x12034;"
+    },
+    {
+      "id": 19,
+      "tag": "ARAD2",
+      "unicode": "&#x12035;"
+    },
+    {
+      "id": 20,
+      "tag": "ITI",
+      "unicode": "&#x12317;"
+    },
+    {
+      "id": 21,
+      "tag": "ITI2",
+      "unicode": "&#x1231B;"
+    },
+    {
+      "id": 22,
+      "tag": "CUBUR",
+      "unicode": "&#x122DA;"
+    },
+    {
+      "id": 23,
+      "tag": "KA",
+      "unicode": "&#x12157;"
+    },
+    {
+      "id": 24,
+      "tag": "KA×GIR2",
+      "unicode": "&#x12168;"
+    },
+    {
+      "id": 25,
+      "tag": "TU6",
+      "unicode": "&#x12172;"
+    },
+    {
+      "id": 26,
+      "tag": "KA×RU",
+      "unicode": "&#x1217D;"
+    },
+    {
+      "id": 27,
+      "tag": "UC11",
+      "unicode": "&#x1215C;"
+    },
+    {
+      "id": 28,
+      "tag": "KA×MAC",
+      "unicode": "&#x1215E;"
+    },
+    {
+      "id": 29,
+      "tag": "NUNDUM",
+      "unicode": "&#x1217B;"
+    },
+    {
+      "id": 30,
+      "tag": "SU6",
+      "unicode": "&#x1217E;"
+    },
+    {
+      "id": 31,
+      "tag": "PU3",
+      "unicode": "&#x12164;"
+    },
+    {
+      "id": 32,
+      "tag": "KA× AD.KUG",
+      "unicode": "&#x1215A;"
+    },
+    {
+      "id": 33,
+      "tag": "KA×NE",
+      "unicode": "&#x1217A;"
+    },
+    {
+      "id": 34,
+      "tag": "KA×KIB",
+      "unicode": "&#x1216A;"
+    },
+    {
+      "id": 35,
+      "tag": "KA×GAG",
+      "unicode": "&#x1216F;"
+    },
+    {
+      "id": 36,
+      "tag": "KA×UC",
+      "unicode": "&#x1218B;"
+    },
+    {
+      "id": 37,
+      "tag": "KA×CID",
+      "unicode": "&#x12182;"
+    },
+    {
+      "id": 38,
+      "tag": "KA×U2",
+      "unicode": "&#x12188;"
+    },
+    {
+      "id": 39,
+      "tag": "KAxGA",
+      "unicode": "&#x12162;"
+    },
+    {
+      "id": 40,
+      "tag": "KA×SAR",
+      "unicode": "&#x1217F;"
+    },
+    {
+      "id": 41,
+      "tag": "KA×AC2",
+      "unicode": "&#x1215B;"
+    },
+    {
+      "id": 42,
+      "tag": "KA×DUB2",
+      "unicode": "&#x1215D;"
+    },
+    {
+      "id": 43,
+      "tag": "KA×CA",
+      "unicode": "&#x12180;"
+    },
+    {
+      "id": 44,
+      "tag": "CUDU3",
+      "unicode": "&#x12183;"
+    },
+    {
+      "id": 45,
+      "tag": "KA×CE",
+      "unicode": "&#x12181;"
+    },
+    {
+      "id": 46,
+      "tag": "KA×UD",
+      "unicode": "&#x12189;"
+    },
+    {
+      "id": 47,
+      "tag": "KA×PI",
+      "unicode": "&#x1217C;"
+    },
+    {
+      "id": 48,
+      "tag": "KA×ERIM",
+      "unicode": "&#x12160;"
+    },
+    {
+      "id": 49,
+      "tag": "BUN2",
+      "unicode": "&#x1216E;"
+    },
+    {
+      "id": 50,
+      "tag": "KA×U",
+      "unicode": "&#x12187;"
+    },
+    {
+      "id": 51,
+      "tag": "KA×MI",
+      "unicode": "&#x12178;"
+    },
+    {
+      "id": 52,
+      "tag": "KA×IGI",
+      "unicode": "&#x1216D;"
+    },
+    {
+      "id": 53,
+      "tag": "KA×KI",
+      "unicode": "&#x12170;"
+    },
+    {
+      "id": 54,
+      "tag": "EME",
+      "unicode": "&#x12174;"
+    },
+    {
+      "id": 55,
+      "tag": "KA× ME.GI",
+      "unicode": "&#x12176;"
+    },
+    {
+      "id": 56,
+      "tag": "KA× ME.DU",
+      "unicode": "&#x12175;"
+    },
+    {
+      "id": 57,
+      "tag": "KA× ME.TE",
+      "unicode": "&#x12177;"
+    },
+    {
+      "id": 58,
+      "tag": "MA5",
+      "unicode": "&#x12161;"
+    },
+    {
+      "id": 59,
+      "tag": "KA×GUR7",
+      "unicode": "&#x1216C;"
+    },
+    {
+      "id": 60,
+      "tag": "NAG",
+      "unicode": "&#x12158;"
+    },
+    {
+      "id": 61,
+      "tag": "GU7",
+      "unicode": "&#x12165;"
+    },
+    {
+      "id": 62,
+      "tag": "KA× KADRA",
+      "unicode": "&#x12166;"
+    },
+    {
+      "id": 63,
+      "tag": "KA×SIG",
+      "unicode": "&#x12184;"
+    },
+    {
+      "id": 64,
+      "tag": "KA×GU",
+      "unicode": "&#x1216B;"
+    },
+    {
+      "id": 65,
+      "tag": "URU",
+      "unicode": "&#x12337;"
+    },
+    {
+      "id": 66,
+      "tag": "URU×TU",
+      "unicode": "&#x1234B;"
+    },
+    {
+      "id": 67,
+      "tag": "UKKIN",
+      "unicode": "&#x1233A;"
+    },
+    {
+      "id": 68,
+      "tag": "URU×KAR2",
+      "unicode": "&#x1233E;"
+    },
+    {
+      "id": 69,
+      "tag": "BANCUR",
+      "unicode": "&#x1234E;"
+    },
+    {
+      "id": 70,
+      "tag": "CAKIR3",
+      "unicode": "&#x1233C;"
+    },
+    {
+      "id": 71,
+      "tag": "URU2",
+      "unicode": "&#x1234D;"
+    },
+    {
+      "id": 72,
+      "tag": "URU×UL",
+      "unicode": "&#x1234C;"
+    },
+    {
+      "id": 73,
+      "tag": "ASARI",
+      "unicode": "&#x12342;"
+    },
+    {
+      "id": 74,
+      "tag": "GICGAL",
+      "unicode": "&#x12347;"
+    },
+    {
+      "id": 75,
+      "tag": "URU×A",
+      "unicode": "&#x12338;"
+    },
+    {
+      "id": 76,
+      "tag": "URU×HA",
+      "unicode": "&#x12341;"
+    },
+    {
+      "id": 77,
+      "tag": "ERIM3",
+      "unicode": "&#x1233F;"
+    },
+    {
+      "id": 78,
+      "tag": "URU×GU",
+      "unicode": "&#x12340;"
+    },
+    {
+      "id": 79,
+      "tag": "LI",
+      "unicode": "&#x121F7;"
+    },
+    {
+      "id": 80,
+      "tag": "TU",
+      "unicode": "&#x12305;"
+    },
+    {
+      "id": 81,
+      "tag": "KU4",
+      "unicode": "&#x121AD;"
+    },
+    {
+      "id": 82,
+      "tag": "GUR8",
+      "unicode": "&#x122FD;"
+    },
+    {
+      "id": 83,
+      "tag": "LA",
+      "unicode": "&#x121B7;"
+    },
+    {
+      "id": 84,
+      "tag": "APIN",
+      "unicode": "&#x12033;"
+    },
+    {
+      "id": 85,
+      "tag": "MAH",
+      "unicode": "&#x12224;"
+    },
+    {
+      "id": 86,
+      "tag": "PAP",
+      "unicode": "&#x1227D;"
+    },
+    {
+      "id": 87,
+      "tag": "UTUKI",
+      "unicode": "&#x12359;"
+    },
+    {
+      "id": 88,
+      "tag": "PUC2",
+      "unicode": "&#x1227D;&#x1212C;"
+    },
+    {
+      "id": 89,
+      "tag": "BULUG3",
+      "unicode": "&#x1227D;&#x1227D;"
+    },
+    {
+      "id": 90,
+      "tag": "PAB.IC",
+      "unicode": "&#x1227D;&#x12156;"
+    },
+    {
+      "id": 91,
+      "tag": "PAB.E",
+      "unicode": "&#x1227D;&#x1208A;"
+    },
+    {
+      "id": 92,
+      "tag": "ExPAB",
+      "unicode": "&#x1208B;"
+    },
+    {
+      "id": 93,
+      "tag": "GAM3",
+      "unicode": "&#x1219B;"
+    },
+    {
+      "id": 94,
+      "tag": "MU",
+      "unicode": "&#x1222C;"
+    },
+    {
+      "id": 95,
+      "tag": "SILA3",
+      "unicode": "&#x122E1;"
+    },
+    {
+      "id": 96,
+      "tag": "CECLAM",
+      "unicode": "&#x122C2;"
+    },
+    {
+      "id": 97,
+      "tag": "ZI/ZI",
+      "unicode": "&#x12364;"
+    },
+    {
+      "id": 98,
+      "tag": "NUMUN2",
+      "unicode": "&#x12364;&#x121B8;"
+    },
+    {
+      "id": 99,
+      "tag": "ZI/ZI.CE3",
+      "unicode": "&#x12364;&#x120A0;"
+    },
+    {
+      "id": 100,
+      "tag": "ZI/ZI.A",
+      "unicode": "&#x12364;&#x12000;"
+    },
+    {
+      "id": 101,
+      "tag": "GIL",
+      "unicode": "&#x12103;"
+    },
+    {
+      "id": 102,
+      "tag": "KID2",
+      "unicode": "&#x122FA;"
+    },
+    {
+      "id": 103,
+      "tag": "NUNcrossingNUN",
+      "unicode": "&#x1226B;"
+    },
+    {
+      "id": 104,
+      "tag": "KAD2",
+      "unicode": "&#x12190;"
+    },
+    {
+      "id": 105,
+      "tag": "KAD3",
+      "unicode": "&#x12191;"
+    },
+    {
+      "id": 106,
+      "tag": "NA",
+      "unicode": "&#x1223E;"
+    },
+    {
+      "id": 107,
+      "tag": "RU",
+      "unicode": "&#x12292;"
+    },
+    {
+      "id": 108,
+      "tag": "NU",
+      "unicode": "&#x12261;"
+    },
+    {
+      "id": 109,
+      "tag": "BAD",
+      "unicode": "&#x12041;"
+    },
+    {
+      "id": 110,
+      "tag": "IDIM",
+      "unicode": "&#x12142;"
+    },
+    {
+      "id": 111,
+      "tag": "TIL",
+      "unicode": "&#x12300;"
+    },
+    {
+      "id": 112,
+      "tag": "UC2",
+      "unicode": "&#x12357;"
+    },
+    {
+      "id": 113,
+      "tag": "ECE3",
+      "unicode": "&#x12458;"
+    },
+    {
+      "id": 114,
+      "tag": "CIR",
+      "unicode": "&#x122D3;"
+    },
+    {
+      "id": 115,
+      "tag": "NU11",
+      "unicode": "&#x12262;"
+    },
+    {
+      "id": 116,
+      "tag": "CIR@t",
+      "unicode": "&#x122D4;"
+    },
+    {
+      "id": 117,
+      "tag": "NUMUN",
+      "unicode": "&#x121B0;"
+    },
+    {
+      "id": 118,
+      "tag": "NUMUN@g",
+      "unicode": "&#x121B1;"
+    },
+    {
+      "id": 119,
+      "tag": "TI",
+      "unicode": "&#x122FE;"
+    },
+    {
+      "id": 120,
+      "tag": "TI@t",
+      "unicode": "&#x122FE;"
+    },
+    {
+      "id": 121,
+      "tag": "DIN",
+      "unicode": "&#x12077;"
+    },
+    {
+      "id": 122,
+      "tag": "DIN.KASKAL.SIG7",
+      "unicode": "&#x12078;"
+    },
+    {
+      "id": 123,
+      "tag": "MAC",
+      "unicode": "&#x12226;"
+    },
+    {
+      "id": 124,
+      "tag": "BAR",
+      "unicode": "&#x12047;"
+    },
+    {
+      "id": 125,
+      "tag": "BAN2",
+      "unicode": "&#x1244F;"
+    },
+    {
+      "id": 126,
+      "tag": "KUNGA2",
+      "unicode": "&#x12047;&#x1202D;"
+    },
+    {
+      "id": 127,
+      "tag": "IDIGNA",
+      "unicode": "&#x12226;&#x12118;&#x120FC;"
+    },
+    {
+      "id": 128,
+      "tag": "GIDIM2",
+      "unicode": "&#x12226;&#x1230B;"
+    },
+    {
+      "id": 129,
+      "tag": "MAC.MAN",
+      "unicode": "&#x12226;&#x1230B;&#x1230B;"
+    },
+    {
+      "id": 130,
+      "tag": "AG",
+      "unicode": "&#x1201D;"
+    },
+    {
+      "id": 131,
+      "tag": "AG×CITA2",
+      "unicode": "&#x1201F;"
+    },
+    {
+      "id": 132,
+      "tag": "ME3",
+      "unicode": "&#x1201E;"
+    },
+    {
+      "id": 133,
+      "tag": "MAC2",
+      "unicode": "&#x12227;"
+    },
+    {
+      "id": 134,
+      "tag": "KUN",
+      "unicode": "&#x121B2;"
+    },
+    {
+      "id": 135,
+      "tag": "HU",
+      "unicode": "&#x12137;"
+    },
+    {
+      "id": 136,
+      "tag": "NAM",
+      "unicode": "&#x12246;"
+    },
+    {
+      "id": 137,
+      "tag": "BURU5",
+      "unicode": "&#x12246;&#x1209F;"
+    },
+    {
+      "id": 138,
+      "tag": "IG",
+      "unicode": "&#x12145;"
+    },
+    {
+      "id": 139,
+      "tag": "MUD",
+      "unicode": "&#x12137;&#x1212D;"
+    },
+    {
+      "id": 140,
+      "tag": "SA4",
+      "unicode": "&#x12137;&#x1223F;"
+    },
+    {
+      "id": 141,
+      "tag": "CITA3",
+      "unicode": "&#x122E5;"
+    },
+    {
+      "id": 142,
+      "tag": "ZI",
+      "unicode": "&#x12363;"
+    },
+    {
+      "id": 143,
+      "tag": "GI",
+      "unicode": "&#x12100;"
+    },
+    {
+      "id": 144,
+      "tag": "GI×E",
+      "unicode": "&#x12101;"
+    },
+    {
+      "id": 145,
+      "tag": "RI",
+      "unicode": "&#x12291;"
+    },
+    {
+      "id": 146,
+      "tag": "NUN",
+      "unicode": "&#x12263;"
+    },
+    {
+      "id": 147,
+      "tag": "NUN@t",
+      "unicode": "&#x12269;"
+    },
+    {
+      "id": 148,
+      "tag": "TUR3",
+      "unicode": "&#x12263;&#x121EC;"
+    },
+    {
+      "id": 149,
+      "tag": "NUNcrossingNUN. LAGAR/LAGAR",
+      "unicode": "&#x1226C;"
+    },
+    {
+      "id": 150,
+      "tag": "IMMAL",
+      "unicode": "&#x12265;"
+    },
+    {
+      "id": 151,
+      "tag": "TUR3×UC",
+      "unicode": "&#x12265;"
+    },
+    {
+      "id": 152,
+      "tag": "TUR3×NIG2",
+      "unicode": "&#x12264;"
+    },
+    {
+      "id": 153,
+      "tag": "CILAM",
+      "unicode": "&#x12266;"
+    },
+    {
+      "id": 154,
+      "tag": "CILAM/CILAM",
+      "unicode": "&#x12267;"
+    },
+    {
+      "id": 155,
+      "tag": "KAB",
+      "unicode": "&#x1218F;"
+    },
+    {
+      "id": 156,
+      "tag": "HUB2",
+      "unicode": "&#x12138;"
+    },
+    {
+      "id": 157,
+      "tag": "HUB",
+      "unicode": "&#x1213D;"
+    },
+    {
+      "id": 158,
+      "tag": "SUR",
+      "unicode": "&#x122E9;"
+    },
+    {
+      "id": 159,
+      "tag": "MUC2",
+      "unicode": "&#x1223D;"
+    },
+    {
+      "id": 160,
+      "tag": "MUC3",
+      "unicode": "&#x12239;"
+    },
+    {
+      "id": 161,
+      "tag": "MUC3-xA",
+      "unicode": "&#x1223A;"
+    },
+    {
+      "id": 162,
+      "tag": "SED",
+      "unicode": "&#x1223B;"
+    },
+    {
+      "id": 163,
+      "tag": "GAD",
+      "unicode": "&#x120F0;"
+    },
+    {
+      "id": 164,
+      "tag": "GAD.KID2",
+      "unicode": "&#x120F0;&#x122FA;"
+    },
+    {
+      "id": 165,
+      "tag": "AKKIL",
+      "unicode": "&#x120F0;&#x122FA;&#x122DB;"
+    },
+    {
+      "id": 166,
+      "tag": "UMBIN",
+      "unicode": "&#x12322;"
+    },
+    {
+      "id": 167,
+      "tag": "SIG8",
+      "unicode": "&#x120F0;&#x122FA;&#x12111;"
+    },
+    {
+      "id": 168,
+      "tag": "CINIG",
+      "unicode": "&#x122D2;"
+    },
+    {
+      "id": 169,
+      "tag": "KINDA",
+      "unicode": "&#x120F1;"
+    },
+    {
+      "id": 170,
+      "tag": "EN",
+      "unicode": "&#x12097;"
+    },
+    {
+      "id": 171,
+      "tag": "ENME",
+      "unicode": "&#x1209A;"
+    },
+    {
+      "id": 172,
+      "tag": "EN/ENcrossed",
+      "unicode": "&#x1209B;"
+    },
+    {
+      "id": 173,
+      "tag": "4×ENsquared",
+      "unicode": "&#x1209D;"
+    },
+    {
+      "id": 174,
+      "tag": "4×EN",
+      "unicode": "&#x121AB;"
+    },
+    {
+      "id": 175,
+      "tag": "AC.KU.KU/AC.KU.KU .KUR2",
+      "unicode": "&#x1203B;"
+    },
+    {
+      "id": 176,
+      "tag": "BURU14",
+      "unicode": "&#x12098;"
+    },
+    {
+      "id": 177,
+      "tag": "EN×KAR2",
+      "unicode": "&#x12099;"
+    },
+    {
+      "id": 178,
+      "tag": "DAR3",
+      "unicode": "&#x12070;"
+    },
+    {
+      "id": 179,
+      "tag": "DIM",
+      "unicode": "&#x12074;"
+    },
+    {
+      "id": 180,
+      "tag": "MUN",
+      "unicode": "&#x12075;"
+    },
+    {
+      "id": 181,
+      "tag": "BULUG",
+      "unicode": "&#x12051;"
+    },
+    {
+      "id": 182,
+      "tag": "MENBULUG2",
+      "unicode": "&#x12051;"
+    },
+    {
+      "id": 183,
+      "tag": "LAL3",
+      "unicode": "&#x122ED;"
+    },
+    {
+      "id": 184,
+      "tag": "KU7",
+      "unicode": "&#x121AF;"
+    },
+    {
+      "id": 185,
+      "tag": "SA",
+      "unicode": "&#x12293;"
+    },
+    {
+      "id": 186,
+      "tag": "ACGAB",
+      "unicode": "&#x1203F;"
+    },
+    {
+      "id": 187,
+      "tag": "GAN2",
+      "unicode": "&#x120F7;"
+    },
+    {
+      "id": 188,
+      "tag": "GAN2-/GAN2",
+      "unicode": "&#x120F9;"
+    },
+    {
+      "id": 189,
+      "tag": "KAR2",
+      "unicode": "&#x120F8;"
+    },
+    {
+      "id": 190,
+      "tag": "GU2",
+      "unicode": "&#x12118;"
+    },
+    {
+      "id": 191,
+      "tag": "USAN",
+      "unicode": "&#x1211B;"
+    },
+    {
+      "id": 192,
+      "tag": "DUR",
+      "unicode": "&#x12119;"
+    },
+    {
+      "id": 193,
+      "tag": "GUN",
+      "unicode": "&#x12118;&#x12327;"
+    },
+    {
+      "id": 194,
+      "tag": "GUR",
+      "unicode": "&#x12125;"
+    },
+    {
+      "id": 195,
+      "tag": "SI",
+      "unicode": "&#x122DB;"
+    },
+    {
+      "id": 196,
+      "tag": "SU4",
+      "unicode": "&#x122DC;"
+    },
+    {
+      "id": 197,
+      "tag": "DAR",
+      "unicode": "&#x1206F;"
+    },
+    {
+      "id": 198,
+      "tag": "SAG",
+      "unicode": "&#x12295;"
+    },
+    {
+      "id": 199,
+      "tag": "SAG/SAG",
+      "unicode": "&#x122A7;"
+    },
+    {
+      "id": 200,
+      "tag": "SAG×NUN",
+      "unicode": "&#x1229E;"
+    },
+    {
+      "id": 201,
+      "tag": "SAG×UM",
+      "unicode": "&#x122A4;"
+    },
+    {
+      "id": 202,
+      "tag": "SAG×DU",
+      "unicode": "&#x12297;"
+    },
+    {
+      "id": 203,
+      "tag": "SAG×GAG",
+      "unicode": "&#x1229A;"
+    },
+    {
+      "id": 204,
+      "tag": "SAG×UC",
+      "unicode": "&#x122A6;"
+    },
+    {
+      "id": 205,
+      "tag": "DILIB3",
+      "unicode": "&#x122A0;"
+    },
+    {
+      "id": 206,
+      "tag": "SAG×U2",
+      "unicode": "&#x122A2;"
+    },
+    {
+      "id": 207,
+      "tag": "SAG×UB",
+      "unicode": "&#x122A3;"
+    },
+    {
+      "id": 208,
+      "tag": "KAN3",
+      "unicode": "&#x1229D;"
+    },
+    {
+      "id": 209,
+      "tag": "SAG×UR",
+      "unicode": "&#x122A5;"
+    },
+    {
+      "id": 210,
+      "tag": "SAG×A",
+      "unicode": "&#x12296;"
+    },
+    {
+      "id": 211,
+      "tag": "SAG×HA",
+      "unicode": "&#x12299;"
+    },
+    {
+      "id": 212,
+      "tag": "SAG×MUNUS",
+      "unicode": "&#x1229F;"
+    },
+    {
+      "id": 213,
+      "tag": "SAG×LUM",
+      "unicode": "&#x1229C;"
+    },
+    {
+      "id": 214,
+      "tag": "MA2",
+      "unicode": "&#x12223;"
+    },
+    {
+      "id": 215,
+      "tag": "DIMGUL",
+      "unicode": "&#x12223;&#x1222E;"
+    },
+    {
+      "id": 216,
+      "tag": "UZ3",
+      "unicode": "&#x1235A;"
+    },
+    {
+      "id": 217,
+      "tag": "UZ3.KASKAL",
+      "unicode": "&#x1235B;"
+    },
+    {
+      "id": 218,
+      "tag": "SUR9",
+      "unicode": "&#x122EA;"
+    },
+    {
+      "id": 219,
+      "tag": "DIR",
+      "unicode": "&#x122DB;&#x12000;"
+    },
+    {
+      "id": 220,
+      "tag": "TAB",
+      "unicode": "&#x122F0;"
+    },
+    {
+      "id": 221,
+      "tag": "4×TAB forming a cross",
+      "unicode": "&#x122F2;"
+    },
+    {
+      "id": 222,
+      "tag": "TAB/TAB.NI/NI.DIC/DIC",
+      "unicode": "&#x122F1;"
+    },
+    {
+      "id": 223,
+      "tag": "EC21",
+      "unicode": "&#x1243B;"
+    },
+    {
+      "id": 224,
+      "tag": "MEGIDDA",
+      "unicode": "&#x122F0;&#x122FE;"
+    },
+    {
+      "id": 225,
+      "tag": "GECTIN",
+      "unicode": "&#x120FE;"
+    },
+    {
+      "id": 226,
+      "tag": "GECTIN×KUR",
+      "unicode": "&#x120FF;"
+    },
+    {
+      "id": 227,
+      "tag": "MEGIDDA2",
+      "unicode": "&#x122F0;&#x121B2;"
+    },
+    {
+      "id": 228,
+      "tag": "LIMMU2",
+      "unicode": "&#x121F9;"
+    },
+    {
+      "id": 229,
+      "tag": "IA7",
+      "unicode": "&#x12403;"
+    },
+    {
+      "id": 230,
+      "tag": "AC4",
+      "unicode": "&#x12404;"
+    },
+    {
+      "id": 231,
+      "tag": "IMIN2",
+      "unicode": "&#x12405;"
+    },
+    {
+      "id": 232,
+      "tag": "USSU2",
+      "unicode": "&#x12406;"
+    },
+    {
+      "id": 233,
+      "tag": "ILIMMU2",
+      "unicode": "&#x12407;"
+    },
+    {
+      "id": 234,
+      "tag": "TAG",
+      "unicode": "&#x122F3;"
+    },
+    {
+      "id": 235,
+      "tag": "TAG×GU4",
+      "unicode": "&#x122F5;"
+    },
+    {
+      "id": 236,
+      "tag": "TAG×CU",
+      "unicode": "&#x122F7;"
+    },
+    {
+      "id": 237,
+      "tag": "TAG×UD",
+      "unicode": "&#x122F9;"
+    },
+    {
+      "id": 238,
+      "tag": "TAG×TUG2",
+      "unicode": "&#x122F8;"
+    },
+    {
+      "id": 239,
+      "tag": "KA2",
+      "unicode": "&#x1218D;"
+    },
+    {
+      "id": 240,
+      "tag": "AB",
+      "unicode": "&#x1200A;"
+    },
+    {
+      "id": 241,
+      "tag": "AB×KAR2",
+      "unicode": "&#x1200E;"
+    },
+    {
+      "id": 242,
+      "tag": "AB×CEC",
+      "unicode": "&#x12013;"
+    },
+    {
+      "id": 243,
+      "tag": "AB×AC2",
+      "unicode": "&#x1200B;"
+    },
+    {
+      "id": 244,
+      "tag": "URUGAL",
+      "unicode": "&#x1200D;"
+    },
+    {
+      "id": 245,
+      "tag": "AB×SIG7",
+      "unicode": "&#x12010;"
+    },
+    {
+      "id": 246,
+      "tag": "URUDU",
+      "unicode": "&#x1234F;"
+    },
+    {
+      "id": 247,
+      "tag": "URUDA",
+      "unicode": "&#x1234F;"
+    },
+    {
+      "id": 248,
+      "tag": "UNUG",
+      "unicode": "&#x12015;"
+    },
+    {
+      "id": 249,
+      "tag": "AB×LAGAB",
+      "unicode": "&#x12012;"
+    },
+    {
+      "id": 250,
+      "tag": "AB×GIN2",
+      "unicode": "&#x1200C;"
+    },
+    {
+      "id": 251,
+      "tag": "NINA",
+      "unicode": "&#x1200F;"
+    },
+    {
+      "id": 252,
+      "tag": "AB×IMIN",
+      "unicode": "&#x12011;"
+    },
+    {
+      "id": 253,
+      "tag": "UM",
+      "unicode": "&#x1231D;"
+    },
+    {
+      "id": 254,
+      "tag": "UM×U",
+      "unicode": "&#x12321;"
+    },
+    {
+      "id": 255,
+      "tag": "URUDU×U",
+      "unicode": "&#x12350;"
+    },
+    {
+      "id": 256,
+      "tag": "UM× ME.DA",
+      "unicode": "&#x1231F;"
+    },
+    {
+      "id": 257,
+      "tag": "DUB",
+      "unicode": "&#x1207E;"
+    },
+    {
+      "id": 258,
+      "tag": "NAB",
+      "unicode": "&#x1202E;"
+    },
+    {
+      "id": 259,
+      "tag": "MUL",
+      "unicode": "&#x1202F;"
+    },
+    {
+      "id": 260,
+      "tag": "TA",
+      "unicode": "&#x122EB;"
+    },
+    {
+      "id": 261,
+      "tag": "TA*",
+      "unicode": "&#x122EC;"
+    },
+    {
+      "id": 262,
+      "tag": "TA@g",
+      "unicode": "&#x122EF;"
+    },
+    {
+      "id": 263,
+      "tag": "TA×HI",
+      "unicode": "&#x122ED;"
+    },
+    {
+      "id": 264,
+      "tag": "TA×MI",
+      "unicode": "&#x122EE;"
+    },
+    {
+      "id": 265,
+      "tag": "I",
+      "unicode": "&#x1213F;"
+    },
+    {
+      "id": 266,
+      "tag": "GAN",
+      "unicode": "&#x120F6;"
+    },
+    {
+      "id": 267,
+      "tag": "TUR",
+      "unicode": "&#x12309;"
+    },
+    {
+      "id": 268,
+      "tag": "TUR.DIC",
+      "unicode": "&#x12309;&#x12079;"
+    },
+    {
+      "id": 269,
+      "tag": "ZIZNA",
+      "unicode": "&#x1230A;"
+    },
+    {
+      "id": 270,
+      "tag": "AD",
+      "unicode": "&#x1201C;"
+    },
+    {
+      "id": 271,
+      "tag": "ZI2",
+      "unicode": "&#x12362;"
+    },
+    {
+      "id": 272,
+      "tag": "IA",
+      "unicode": "&#x12140;"
+    },
+    {
+      "id": 273,
+      "tag": "IN",
+      "unicode": "&#x12154;"
+    },
+    {
+      "id": 274,
+      "tag": "RAB",
+      "unicode": "&#x12290;"
+    },
+    {
+      "id": 275,
+      "tag": "DIM8",
+      "unicode": "&#x12290;&#x120F6;"
+    },
+    {
+      "id": 276,
+      "tag": "DIM3",
+      "unicode": "&#x12290;&#x120F5;"
+    },
+    {
+      "id": 277,
+      "tag": "LUGAL",
+      "unicode": "&#x12217;"
+    },
+    {
+      "id": 278,
+      "tag": "LUGAL/LUGAL",
+      "unicode": "&#x12218;"
+    },
+    {
+      "id": 279,
+      "tag": "DIM9",
+      "unicode": "&#x12217;&#x120F6;"
+    },
+    {
+      "id": 280,
+      "tag": "LUGAL.LUGALinversum",
+      "unicode": "&#x12219;"
+    },
+    {
+      "id": 281,
+      "tag": "HACHUR",
+      "unicode": "&#x12222;"
+    },
+    {
+      "id": 282,
+      "tag": "EZEN",
+      "unicode": "&#x120A1;"
+    },
+    {
+      "id": 283,
+      "tag": "KEC2",
+      "unicode": "&#x1219F;"
+    },
+    {
+      "id": 284,
+      "tag": "BAD3",
+      "unicode": "&#x120A1;"
+    },
+    {
+      "id": 285,
+      "tag": "EZEN×LI",
+      "unicode": "&#x120B1;"
+    },
+    {
+      "id": 286,
+      "tag": "EZEN×LA",
+      "unicode": "&#x120AF;"
+    },
+    {
+      "id": 287,
+      "tag": "UBARA",
+      "unicode": "&#x120AC;"
+    },
+    {
+      "id": 288,
+      "tag": "4×UBARA forming a cross",
+      "unicode": "&#x120AD;"
+    },
+    {
+      "id": 289,
+      "tag": "EZEN×U2",
+      "unicode": "&#x120B3;"
+    },
+    {
+      "id": 290,
+      "tag": "EZEN×SIG7",
+      "unicode": "&#x120AB;"
+    },
+    {
+      "id": 291,
+      "tag": "EZEN×UD",
+      "unicode": "&#x120B4;"
+    },
+    {
+      "id": 292,
+      "tag": "EZEN×KUG",
+      "unicode": "&#x120AE;"
+    },
+    {
+      "id": 293,
+      "tag": "ASILAL",
+      "unicode": "&#x120B0;"
+    },
+    {
+      "id": 294,
+      "tag": "EZEN×LU",
+      "unicode": "&#x120B2;"
+    },
+    {
+      "id": 295,
+      "tag": "ASILAL3",
+      "unicode": "&#x120A2;"
+    },
+    {
+      "id": 296,
+      "tag": "SIL7",
+      "unicode": "&#x120A3;"
+    },
+    {
+      "id": 297,
+      "tag": "ASILAL4",
+      "unicode": "&#x120A4;"
+    },
+    {
+      "id": 298,
+      "tag": "EZENxHA",
+      "unicode": "&#x120A9;"
+    },
+    {
+      "id": 299,
+      "tag": "SUM",
+      "unicode": "&#x122E7;"
+    },
+    {
+      "id": 300,
+      "tag": "NAGA",
+      "unicode": "&#x12240;"
+    },
+    {
+      "id": 301,
+      "tag": "AN.NAGA.AN.NAGAinversum",
+      "unicode": "&#x12030;"
+    },
+    {
+      "id": 302,
+      "tag": "4×AN.NAGA forming a cross",
+      "unicode": "&#x12031;"
+    },
+    {
+      "id": 303,
+      "tag": "NAGAinversum",
+      "unicode": "&#x12241;"
+    },
+    {
+      "id": 304,
+      "tag": "NAGA. NAGAinversum",
+      "unicode": "&#x12243;"
+    },
+    {
+      "id": 305,
+      "tag": "NAGA×CU@t",
+      "unicode": "&#x12242;"
+    },
+    {
+      "id": 306,
+      "tag": "NIB",
+      "unicode": "&#x1228B;"
+    },
+    {
+      "id": 307,
+      "tag": "UG",
+      "unicode": "&#x1228C;"
+    },
+    {
+      "id": 308,
+      "tag": "AZ",
+      "unicode": "&#x1228D;"
+    },
+    {
+      "id": 309,
+      "tag": "GAB",
+      "unicode": "&#x12083;"
+    },
+    {
+      "id": 310,
+      "tag": "EDIN",
+      "unicode": "&#x12094;"
+    },
+    {
+      "id": 311,
+      "tag": "TAH",
+      "unicode": "&#x1222D;"
+    },
+    {
+      "id": 312,
+      "tag": "KASKAL",
+      "unicode": "&#x1219C;"
+    },
+    {
+      "id": 313,
+      "tag": "ITI3",
+      "unicode": "&#x1219C;&#x1231A;"
+    },
+    {
+      "id": 314,
+      "tag": "ILLAT",
+      "unicode": "&#x1219C;&#x121B3;"
+    },
+    {
+      "id": 315,
+      "tag": "KASKAL.BU",
+      "unicode": "&#x1219C;&#x1204D;"
+    },
+    {
+      "id": 316,
+      "tag": "KASKAL.AH",
+      "unicode": "&#x1219C;&#x12134;"
+    },
+    {
+      "id": 317,
+      "tag": "KASKAL.LAGAB",
+      "unicode": "&#x1219C;&#x121B8;"
+    },
+    {
+      "id": 318,
+      "tag": "KASKAL.TUL2-/TUL2",
+      "unicode": "&#x1219D;"
+    },
+    {
+      "id": 319,
+      "tag": "KASKAL/KASKAL.TUL2-/TUL2",
+      "unicode": "&#x1219E;"
+    },
+    {
+      "id": 320,
+      "tag": "ZIKURA",
+      "unicode": "&#x1219C;&#x1240B;"
+    },
+    {
+      "id": 321,
+      "tag": "AM",
+      "unicode": "&#x12120;"
+    },
+    {
+      "id": 322,
+      "tag": "AM×A",
+      "unicode": "&#x1211F;"
+    },
+    {
+      "id": 323,
+      "tag": "UZU",
+      "unicode": "&#x1235C;"
+    },
+    {
+      "id": 324,
+      "tag": "BIL2",
+      "unicode": "&#x1224B;"
+    },
+    {
+      "id": 325,
+      "tag": "NE",
+      "unicode": "&#x12248;"
+    },
+    {
+      "id": 326,
+      "tag": "EMEC2",
+      "unicode": "&#x1224A;"
+    },
+    {
+      "id": 327,
+      "tag": "ENTEN",
+      "unicode": "&#x12249;"
+    },
+    {
+      "id": 328,
+      "tag": "NINDA2",
+      "unicode": "&#x12252;"
+    },
+    {
+      "id": 329,
+      "tag": "NINDA2×AC",
+      "unicode": "&#x12254;"
+    },
+    {
+      "id": 330,
+      "tag": "NINDA2× AC.AC",
+      "unicode": "&#x12255;"
+    },
+    {
+      "id": 331,
+      "tag": "CAM3",
+      "unicode": "&#x12253;"
+    },
+    {
+      "id": 332,
+      "tag": "SUMAC",
+      "unicode": "&#x122E8;"
+    },
+    {
+      "id": 333,
+      "tag": "AZU",
+      "unicode": "&#x12259;"
+    },
+    {
+      "id": 334,
+      "tag": "AZU×A",
+      "unicode": "&#x1236C;"
+    },
+    {
+      "id": 335,
+      "tag": "AG2",
+      "unicode": "&#x12258;"
+    },
+    {
+      "id": 336,
+      "tag": "NINDA2×GU4",
+      "unicode": "&#x12256;"
+    },
+    {
+      "id": 337,
+      "tag": "NINDA2× U2.AC",
+      "unicode": "&#x1225E;"
+    },
+    {
+      "id": 338,
+      "tag": "NINDA2× CE.AC",
+      "unicode": "&#x1225C;"
+    },
+    {
+      "id": 339,
+      "tag": "NINDA2× CE.AC.AC",
+      "unicode": "&#x1225D;"
+    },
+    {
+      "id": 340,
+      "tag": "NINDA2×CE",
+      "unicode": "&#x1225A;"
+    },
+    {
+      "id": 341,
+      "tag": "NINDA2× CE.A .AN",
+      "unicode": "&#x1225B;"
+    },
+    {
+      "id": 342,
+      "tag": "ZIG",
+      "unicode": "&#x12368;"
+    },
+    {
+      "id": 343,
+      "tag": "NINDA2× ME.KAR2",
+      "unicode": "&#x12257;"
+    },
+    {
+      "id": 344,
+      "tag": "GALAM",
+      "unicode": "&#x120F4;"
+    },
+    {
+      "id": 345,
+      "tag": "KUM",
+      "unicode": "&#x12123;"
+    },
+    {
+      "id": 346,
+      "tag": "GAZ",
+      "unicode": "&#x12124;"
+    },
+    {
+      "id": 347,
+      "tag": "UR2",
+      "unicode": "&#x1232B;"
+    },
+    {
+      "id": 348,
+      "tag": "UR2×NUN",
+      "unicode": "&#x12330;"
+    },
+    {
+      "id": 349,
+      "tag": "UR2×AL",
+      "unicode": "&#x1232E;"
+    },
+    {
+      "id": 350,
+      "tag": "UR2×U2",
+      "unicode": "&#x12331;"
+    },
+    {
+      "id": 351,
+      "tag": "UR2× U2.AC",
+      "unicode": "&#x12332;"
+    },
+    {
+      "id": 352,
+      "tag": "UR2× A.HA",
+      "unicode": "&#x1232C;"
+    },
+    {
+      "id": 353,
+      "tag": "UR2×HA",
+      "unicode": "&#x1232F;"
+    },
+    {
+      "id": 354,
+      "tag": "IL",
+      "unicode": "&#x1214B;"
+    },
+    {
+      "id": 355,
+      "tag": "IL×KAR2",
+      "unicode": "&#x1214C;"
+    },
+    {
+      "id": 356,
+      "tag": "DU",
+      "unicode": "&#x1207A;"
+    },
+    {
+      "id": 357,
+      "tag": "LAH4",
+      "unicode": "&#x1207B;"
+    },
+    {
+      "id": 358,
+      "tag": "SUHUC",
+      "unicode": "&#x1207C;"
+    },
+    {
+      "id": 359,
+      "tag": "IM2",
+      "unicode": "&#x1207D;"
+    },
+    {
+      "id": 360,
+      "tag": "ANCE",
+      "unicode": "&#x12032;"
+    },
+    {
+      "id": 361,
+      "tag": "TUM",
+      "unicode": "&#x12308;"
+    },
+    {
+      "id": 362,
+      "tag": "EGIR",
+      "unicode": "&#x12095;"
+    },
+    {
+      "id": 363,
+      "tag": "IC",
+      "unicode": "&#x12156;"
+    },
+    {
+      "id": 364,
+      "tag": "BI",
+      "unicode": "&#x12049;"
+    },
+    {
+      "id": 365,
+      "tag": "ECEMIN5",
+      "unicode": "&#x12459;"
+    },
+    {
+      "id": 366,
+      "tag": "BI×SIG7",
+      "unicode": "&#x1204C;"
+    },
+    {
+      "id": 367,
+      "tag": "BI×GAR",
+      "unicode": "&#x1204B;"
+    },
+    {
+      "id": 368,
+      "tag": "CIM",
+      "unicode": "&#x122C6;"
+    },
+    {
+      "id": 369,
+      "tag": "CIM×BAL",
+      "unicode": "&#x122C8;"
+    },
+    {
+      "id": 370,
+      "tag": "CIM×MUG",
+      "unicode": "&#x122D0;"
+    },
+    {
+      "id": 371,
+      "tag": "CIM×DIN",
+      "unicode": "&#x122CA;"
+    },
+    {
+      "id": 372,
+      "tag": "CIM×BULUG",
+      "unicode": "&#x122C9;"
+    },
+    {
+      "id": 373,
+      "tag": "CIMBI",
+      "unicode": "&#x122CD;"
+    },
+    {
+      "id": 374,
+      "tag": "CIM×LUL",
+      "unicode": "&#x122CF;"
+    },
+    {
+      "id": 375,
+      "tag": "CIM×IGI",
+      "unicode": "&#x122CC;"
+    },
+    {
+      "id": 376,
+      "tag": "CIM×A",
+      "unicode": "&#x122C7;"
+    },
+    {
+      "id": 377,
+      "tag": "CIM×NIG2",
+      "unicode": "&#x122CB;"
+    },
+    {
+      "id": 378,
+      "tag": "CIM×MUNUS",
+      "unicode": "&#x122D1;"
+    },
+    {
+      "id": 379,
+      "tag": "CIM×KUCU2",
+      "unicode": "&#x122CE;"
+    },
+    {
+      "id": 380,
+      "tag": "GISAL",
+      "unicode": "&#x12110;"
+    },
+    {
+      "id": 381,
+      "tag": "BANCUR2",
+      "unicode": "&#x12143;"
+    },
+    {
+      "id": 382,
+      "tag": "GAN2-/GAN2-crossed",
+      "unicode": "&#x120FA;"
+    },
+    {
+      "id": 383,
+      "tag": "GIC/GICcrossed",
+      "unicode": "&#x12112;"
+    },
+    {
+      "id": 384,
+      "tag": "GAG",
+      "unicode": "&#x12195;"
+    },
+    {
+      "id": 385,
+      "tag": "NI",
+      "unicode": "&#x1224C;"
+    },
+    {
+      "id": 386,
+      "tag": "NI×E",
+      "unicode": "&#x1224D;"
+    },
+    {
+      "id": 387,
+      "tag": "UC",
+      "unicode": "&#x12351;"
+    },
+    {
+      "id": 388,
+      "tag": "UC×KID2",
+      "unicode": "&#x12355;"
+    },
+    {
+      "id": 389,
+      "tag": "UC×KU",
+      "unicode": "&#x12353;"
+    },
+    {
+      "id": 390,
+      "tag": "KAC3",
+      "unicode": "&#x12352;"
+    },
+    {
+      "id": 391,
+      "tag": "NA4",
+      "unicode": "&#x1224C;&#x12313;"
+    },
+    {
+      "id": 392,
+      "tag": "#DAG3",
+      "unicode": "&#x1224C;&#x1209F;"
+    },
+    {
+      "id": 393,
+      "tag": "GA2",
+      "unicode": "&#x120B7;"
+    },
+    {
+      "id": 394,
+      "tag": "CITA",
+      "unicode": "&#x122D6;"
+    },
+    {
+      "id": 395,
+      "tag": "GA2×AC",
+      "unicode": "&#x120BD;"
+    },
+    {
+      "id": 396,
+      "tag": "GA2× HAL.LA",
+      "unicode": "&#x120D3;"
+    },
+    {
+      "id": 397,
+      "tag": "GA2× GIR2.SU",
+      "unicode": "&#x120D0;"
+    },
+    {
+      "id": 398,
+      "tag": "AMA",
+      "unicode": "&#x120BC;"
+    },
+    {
+      "id": 399,
+      "tag": "GA2×KID2",
+      "unicode": "&#x120E9;"
+    },
+    {
+      "id": 400,
+      "tag": "GA2×BAD",
+      "unicode": "&#x120BF;"
+    },
+    {
+      "id": 401,
+      "tag": "GA2×GI",
+      "unicode": "&#x120CD;"
+    },
+    {
+      "id": 402,
+      "tag": "GANUN",
+      "unicode": "&#x120E0;"
+    },
+    {
+      "id": 403,
+      "tag": "GA2×KAB",
+      "unicode": "&#x120D5;"
+    },
+    {
+      "id": 404,
+      "tag": "GA2×EN",
+      "unicode": "&#x120C9;"
+    },
+    {
+      "id": 405,
+      "tag": "GA2×BURU14",
+      "unicode": "&#x120CA;"
+    },
+    {
+      "id": 406,
+      "tag": "GA2× MUN",
+      "unicode": "&#x120C5;"
+    },
+    {
+      "id": 407,
+      "tag": "GA2×KAR2",
+      "unicode": "&#x120CB;"
+    },
+    {
+      "id": 408,
+      "tag": "GA2×DUB",
+      "unicode": "&#x120C6;"
+    },
+    {
+      "id": 409,
+      "tag": "GA2×SUM",
+      "unicode": "&#x120E8;"
+    },
+    {
+      "id": 410,
+      "tag": "GA2×KASKAL",
+      "unicode": "&#x120D9;"
+    },
+    {
+      "id": 411,
+      "tag": "GA2× IC.HU.AC",
+      "unicode": "&#x120D7;"
+    },
+    {
+      "id": 412,
+      "tag": "GA2×GAG",
+      "unicode": "&#x120D8;"
+    },
+    {
+      "id": 413,
+      "tag": "SILA4",
+      "unicode": "&#x120E2;"
+    },
+    {
+      "id": 414,
+      "tag": "GA2× KID.LAL",
+      "unicode": "&#x120DB;"
+    },
+    {
+      "id": 415,
+      "tag": "GA2×CID",
+      "unicode": "&#x120E7;"
+    },
+    {
+      "id": 416,
+      "tag": "UR3",
+      "unicode": "&#x120E1;"
+    },
+    {
+      "id": 417,
+      "tag": "GA2×GI4",
+      "unicode": "&#x120CE;"
+    },
+    {
+      "id": 418,
+      "tag": "GA2×SAR",
+      "unicode": "&#x120E4;"
+    },
+    {
+      "id": 419,
+      "tag": "GA2× AC2.GAL",
+      "unicode": "&#x120BE;"
+    },
+    {
+      "id": 420,
+      "tag": "GA2× BUR.RA",
+      "unicode": "&#x120C2;"
+    },
+    {
+      "id": 421,
+      "tag": "GA2×DA",
+      "unicode": "&#x120C3;"
+    },
+    {
+      "id": 422,
+      "tag": "GA2×SIG7",
+      "unicode": "&#x120D6;"
+    },
+    {
+      "id": 423,
+      "tag": "ESAG2",
+      "unicode": "&#x120E5;"
+    },
+    {
+      "id": 424,
+      "tag": "GA2× CE.TUR",
+      "unicode": "&#x120E6;"
+    },
+    {
+      "id": 425,
+      "tag": "GA2×UD",
+      "unicode": "&#x120EB;"
+    },
+    {
+      "id": 426,
+      "tag": "GA2-x HI.LI",
+      "unicode": "&#x120D4;"
+    },
+    {
+      "id": 427,
+      "tag": "GA2×U",
+      "unicode": "&#x120EA;"
+    },
+    {
+      "id": 428,
+      "tag": "ITIMA",
+      "unicode": "&#x120DF;"
+    },
+    {
+      "id": 429,
+      "tag": "GA2×DI",
+      "unicode": "&#x120C4;"
+    },
+    {
+      "id": 430,
+      "tag": "GA2× KUG.AN",
+      "unicode": "&#x120DC;"
+    },
+    {
+      "id": 431,
+      "tag": "MEN",
+      "unicode": "&#x120DE;"
+    },
+    {
+      "id": 432,
+      "tag": "GA2_",
+      "unicode": "&#x120B8;"
+    },
+    {
+      "id": 433,
+      "tag": "E2× A.DA.HA",
+      "unicode": "&#x120B8;"
+    },
+    {
+      "id": 434,
+      "tag": "GA2× A.IGI",
+      "unicode": "&#x120BA;"
+    },
+    {
+      "id": 435,
+      "tag": "GA2× HA.LU.CE3",
+      "unicode": "&#x120D1;"
+    },
+    {
+      "id": 436,
+      "tag": "GALGA",
+      "unicode": "&#x120CC;"
+    },
+    {
+      "id": 437,
+      "tag": "ARHUC",
+      "unicode": "&#x120E3;"
+    },
+    {
+      "id": 438,
+      "tag": "GA2× EL.LA",
+      "unicode": "&#x120C8;"
+    },
+    {
+      "id": 439,
+      "tag": "CITA2",
+      "unicode": "&#x122D6;&#x12111;"
+    },
+    {
+      "id": 440,
+      "tag": "KISAL",
+      "unicode": "&#x121A6;"
+    },
+    {
+      "id": 441,
+      "tag": "IR",
+      "unicode": "&#x12155;"
+    },
+    {
+      "id": 442,
+      "tag": "DAG",
+      "unicode": "&#x12056;"
+    },
+    {
+      "id": 443,
+      "tag": "KICI8",
+      "unicode": "&#x1205E;"
+    },
+    {
+      "id": 444,
+      "tag": "DAG.KISIM5×LA",
+      "unicode": "&#x12064;"
+    },
+    {
+      "id": 445,
+      "tag": "DAG.KISIM5×MUNU4",
+      "unicode": "&#x12069;"
+    },
+    {
+      "id": 446,
+      "tag": "DAG.KISIM5×KID2",
+      "unicode": "&#x1206B;"
+    },
+    {
+      "id": 447,
+      "tag": "DAG.KISIM5×GI",
+      "unicode": "&#x1205D;"
+    },
+    {
+      "id": 448,
+      "tag": "DAG.KISIM5×SI",
+      "unicode": "&#x1206A;"
+    },
+    {
+      "id": 449,
+      "tag": "DAG.KISIM5×NE",
+      "unicode": "&#x12068;"
+    },
+    {
+      "id": 450,
+      "tag": "DAG.KISIM5×BI",
+      "unicode": "&#x1205A;"
+    },
+    {
+      "id": 451,
+      "tag": "DAG.KISIM5×GAG",
+      "unicode": "&#x12063;"
+    },
+    {
+      "id": 452,
+      "tag": "UTUA",
+      "unicode": "&#x1206D;"
+    },
+    {
+      "id": 453,
+      "tag": "UBUR3",
+      "unicode": "&#x12061;"
+    },
+    {
+      "id": 454,
+      "tag": "UBUR4",
+      "unicode": "&#x12062;"
+    },
+    {
+      "id": 455,
+      "tag": "UTUL5",
+      "unicode": "&#x1205F;"
+    },
+    {
+      "id": 456,
+      "tag": "KICI9",
+      "unicode": "&#x1206C;"
+    },
+    {
+      "id": 457,
+      "tag": "UBUR",
+      "unicode": "&#x1205B;"
+    },
+    {
+      "id": 458,
+      "tag": "DAG.KISIM5×DUB2",
+      "unicode": "&#x12059;"
+    },
+    {
+      "id": 459,
+      "tag": "DAG.KISIM5×AMAR",
+      "unicode": "&#x12058;"
+    },
+    {
+      "id": 460,
+      "tag": "UBUR2",
+      "unicode": "&#x12065;"
+    },
+    {
+      "id": 461,
+      "tag": "AMAC",
+      "unicode": "&#x12066;"
+    },
+    {
+      "id": 462,
+      "tag": "DAG.KISIM5×A.MAC",
+      "unicode": "&#x12057;"
+    },
+    {
+      "id": 463,
+      "tag": "DAG.KISIM5×HA",
+      "unicode": "&#x12060;"
+    },
+    {
+      "id": 464,
+      "tag": "DAG.KISIM5×LUM",
+      "unicode": "&#x12067;"
+    },
+    {
+      "id": 465,
+      "tag": "PA",
+      "unicode": "&#x1227A;"
+    },
+    {
+      "id": 466,
+      "tag": "BANMIN",
+      "unicode": "&#x12450;"
+    },
+    {
+      "id": 467,
+      "tag": "CAB",
+      "unicode": "&#x1227A;&#x12141;"
+    },
+    {
+      "id": 468,
+      "tag": "NUSKA",
+      "unicode": "&#x1227A;&#x12306;"
+    },
+    {
+      "id": 469,
+      "tag": "SIPA",
+      "unicode": "&#x1227A;&#x121FB;"
+    },
+    {
+      "id": 470,
+      "tag": "GIC",
+      "unicode": "&#x12111;"
+    },
+    {
+      "id": 471,
+      "tag": "GIC@t",
+      "unicode": "&#x12115;"
+    },
+    {
+      "id": 472,
+      "tag": "GIC×BAD",
+      "unicode": "&#x12113;"
+    },
+    {
+      "id": 473,
+      "tag": "GU4",
+      "unicode": "&#x1211E;"
+    },
+    {
+      "id": 474,
+      "tag": "AL",
+      "unicode": "&#x12020;"
+    },
+    {
+      "id": 475,
+      "tag": "AL×KAD3",
+      "unicode": "&#x12025;"
+    },
+    {
+      "id": 476,
+      "tag": "AL×UC",
+      "unicode": "&#x12028;"
+    },
+    {
+      "id": 477,
+      "tag": "AL×GIC",
+      "unicode": "&#x12023;"
+    },
+    {
+      "id": 478,
+      "tag": "AL×AL",
+      "unicode": "&#x12021;"
+    },
+    {
+      "id": 479,
+      "tag": "AL×CE",
+      "unicode": "&#x12027;"
+    },
+    {
+      "id": 480,
+      "tag": "AL×GIM",
+      "unicode": "&#x12022;"
+    },
+    {
+      "id": 481,
+      "tag": "AL×KI",
+      "unicode": "&#x12026;"
+    },
+    {
+      "id": 482,
+      "tag": "AL×HA",
+      "unicode": "&#x12024;"
+    },
+    {
+      "id": 483,
+      "tag": "MAR",
+      "unicode": "&#x12225;"
+    },
+    {
+      "id": 484,
+      "tag": "KID",
+      "unicode": "&#x121A4;"
+    },
+    {
+      "id": 485,
+      "tag": "CID",
+      "unicode": "&#x122C3;"
+    },
+    {
+      "id": 486,
+      "tag": "#SAG5",
+      "unicode": "&#x12260;"
+    },
+    {
+      "id": 487,
+      "tag": "MES",
+      "unicode": "&#x12229;"
+    },
+    {
+      "id": 488,
+      "tag": "CID×IM",
+      "unicode": "&#x122C5;"
+    },
+    {
+      "id": 489,
+      "tag": "UMBISAG2",
+      "unicode": "&#x122C4;"
+    },
+    {
+      "id": 490,
+      "tag": "U2",
+      "unicode": "&#x12311;"
+    },
+    {
+      "id": 491,
+      "tag": "GA",
+      "unicode": "&#x120B5;"
+    },
+    {
+      "id": 492,
+      "tag": "GA@g",
+      "unicode": "&#x120B6;"
+    },
+    {
+      "id": 493,
+      "tag": "IL2",
+      "unicode": "&#x1214D;"
+    },
+    {
+      "id": 494,
+      "tag": "LUH",
+      "unicode": "&#x1221B;"
+    },
+    {
+      "id": 495,
+      "tag": "E2",
+      "unicode": "&#x1208D;"
+    },
+    {
+      "id": 496,
+      "tag": "KAL",
+      "unicode": "&#x12197;"
+    },
+    {
+      "id": 497,
+      "tag": "GURUC",
+      "unicode": "&#x12128;"
+    },
+    {
+      "id": 498,
+      "tag": "KAL/KALcrossed",
+      "unicode": "&#x12199;"
+    },
+    {
+      "id": 499,
+      "tag": "ALAD",
+      "unicode": "&#x12198;"
+    },
+    {
+      "id": 500,
+      "tag": "E",
+      "unicode": "&#x1208A;"
+    },
+    {
+      "id": 501,
+      "tag": "E/E.NUN/NUN",
+      "unicode": "&#x1208C;"
+    },
+    {
+      "id": 502,
+      "tag": "DUG",
+      "unicode": "&#x12081;"
+    },
+    {
+      "id": 503,
+      "tag": "NIR",
+      "unicode": "&#x1226A;"
+    },
+    {
+      "id": 504,
+      "tag": "GURUN",
+      "unicode": "&#x12127;"
+    },
+    {
+      "id": 505,
+      "tag": "UB",
+      "unicode": "&#x12312;"
+    },
+    {
+      "id": 506,
+      "tag": "EC16",
+      "unicode": "&#x1203C;"
+    },
+    {
+      "id": 507,
+      "tag": "LIMMU4",
+      "unicode": "&#x1243D;"
+    },
+    {
+      "id": 508,
+      "tag": "GI4",
+      "unicode": "&#x12104;"
+    },
+    {
+      "id": 509,
+      "tag": "GIGI",
+      "unicode": "&#x12106;"
+    },
+    {
+      "id": 510,
+      "tag": "USAN2",
+      "unicode": "&#x1211D;"
+    },
+    {
+      "id": 511,
+      "tag": "USAN2.GAG",
+      "unicode": "&#x1211D;&#x12195;"
+    },
+    {
+      "id": 512,
+      "tag": "RA",
+      "unicode": "&#x1228F;"
+    },
+    {
+      "id": 513,
+      "tag": "DUL3",
+      "unicode": "&#x122A8;"
+    },
+    {
+      "id": 514,
+      "tag": "IA9",
+      "unicode": "&#x1203C;&#x122F0;"
+    },
+    {
+      "id": 515,
+      "tag": "LU2",
+      "unicode": "&#x121FD;"
+    },
+    {
+      "id": 516,
+      "tag": "LU2-/LU2-crossed",
+      "unicode": "&#x12212;"
+    },
+    {
+      "id": 517,
+      "tag": "LU2.LU2inversum",
+      "unicode": "&#x12213;"
+    },
+    {
+      "id": 518,
+      "tag": "4×LU2 forming a cross",
+      "unicode": "&#x12214;"
+    },
+    {
+      "id": 519,
+      "tag": "LU2@t",
+      "unicode": "&#x12211;"
+    },
+    {
+      "id": 520,
+      "tag": "LU2-sessig",
+      "unicode": "&#x12215;"
+    },
+    {
+      "id": 521,
+      "tag": "LU2×BAD",
+      "unicode": "&#x121FF;"
+    },
+    {
+      "id": 522,
+      "tag": "LU2×KAD2",
+      "unicode": "&#x12205;"
+    },
+    {
+      "id": 523,
+      "tag": "LU2×KAD3 ?",
+      "unicode": "&#x12206;"
+    },
+    {
+      "id": 524,
+      "tag": "HEC5",
+      "unicode": "&#x12202;"
+    },
+    {
+      "id": 525,
+      "tag": "LU2×NE",
+      "unicode": "&#x1220C;"
+    },
+    {
+      "id": 526,
+      "tag": "LU2×AL",
+      "unicode": "&#x121FE;"
+    },
+    {
+      "id": 527,
+      "tag": "LU2×KAM*",
+      "unicode": "&#x12203;"
+    },
+    {
+      "id": 528,
+      "tag": "LU2×IM",
+      "unicode": "&#x12204;"
+    },
+    {
+      "id": 529,
+      "tag": "LU2×KI",
+      "unicode": "&#x12208;"
+    },
+    {
+      "id": 530,
+      "tag": "LU2× ME.EN",
+      "unicode": "&#x1220B;"
+    },
+    {
+      "id": 531,
+      "tag": "LU2×LAGAB",
+      "unicode": "&#x1220A;"
+    },
+    {
+      "id": 532,
+      "tag": "LU2×TUG2",
+      "unicode": "&#x12210;"
+    },
+    {
+      "id": 533,
+      "tag": "LU2×CE3",
+      "unicode": "&#x12200;"
+    },
+    {
+      "id": 534,
+      "tag": "LU2×CE3@t",
+      "unicode": "&#x12201;"
+    },
+    {
+      "id": 535,
+      "tag": "LU2× SIG2.BU",
+      "unicode": "&#x1220F;"
+    },
+    {
+      "id": 536,
+      "tag": "CEC",
+      "unicode": "&#x122C0;"
+    },
+    {
+      "id": 537,
+      "tag": "URI3",
+      "unicode": "&#x12336;"
+    },
+    {
+      "id": 538,
+      "tag": "AC9",
+      "unicode": "&#x12440;"
+    },
+    {
+      "id": 539,
+      "tag": "IMIN3",
+      "unicode": "&#x12441;"
+    },
+    {
+      "id": 540,
+      "tag": "USSU3",
+      "unicode": "&#x12445;"
+    },
+    {
+      "id": 541,
+      "tag": "ILIMMU3",
+      "unicode": "&#x12447;"
+    },
+    {
+      "id": 542,
+      "tag": "ZAG",
+      "unicode": "&#x12360;"
+    },
+    {
+      "id": 543,
+      "tag": "SAR",
+      "unicode": "&#x122AC;"
+    },
+    {
+      "id": 544,
+      "tag": "UD@g",
+      "unicode": "&#x12319;"
+    },
+    {
+      "id": 545,
+      "tag": "GAR3",
+      "unicode": "&#x120FC;"
+    },
+    {
+      "id": 546,
+      "tag": "LIL",
+      "unicode": "&#x121F8;"
+    },
+    {
+      "id": 547,
+      "tag": "MURU2",
+      "unicode": "&#x12318;"
+    },
+    {
+      "id": 548,
+      "tag": "UMUM",
+      "unicode": "&#x12323;"
+    },
+    {
+      "id": 549,
+      "tag": "DE2",
+      "unicode": "&#x12324;"
+    },
+    {
+      "id": 550,
+      "tag": "DE2×PA",
+      "unicode": "&#x12325;"
+    },
+    {
+      "id": 551,
+      "tag": "AC2",
+      "unicode": "&#x1203E;"
+    },
+    {
+      "id": 552,
+      "tag": "ZIZ2",
+      "unicode": "&#x12369;"
+    },
+    {
+      "id": 553,
+      "tag": "#BANEC",
+      "unicode": "&#x12451;"
+    },
+    {
+      "id": 554,
+      "tag": "BANLIMMU",
+      "unicode": "&#x12452;"
+    },
+    {
+      "id": 555,
+      "tag": "BANIA",
+      "unicode": "&#x12454;"
+    },
+    {
+      "id": 556,
+      "tag": "MA",
+      "unicode": "&#x12220;"
+    },
+    {
+      "id": 557,
+      "tag": "GAL",
+      "unicode": "&#x120F2;"
+    },
+    {
+      "id": 558,
+      "tag": "GAL.KINDA",
+      "unicode": "&#x120F3;"
+    },
+    {
+      "id": 559,
+      "tag": "BARA2",
+      "unicode": "&#x12048;"
+    },
+    {
+      "id": 560,
+      "tag": "GUG2",
+      "unicode": "&#x12216;"
+    },
+    {
+      "id": 561,
+      "tag": "MIR",
+      "unicode": "&#x12086;"
+    },
+    {
+      "id": 562,
+      "tag": "DUN4",
+      "unicode": "&#x12088;"
+    },
+    {
+      "id": 563,
+      "tag": "GIR",
+      "unicode": "&#x1212B;"
+    },
+    {
+      "id": 564,
+      "tag": "BUR",
+      "unicode": "&#x12053;"
+    },
+    {
+      "id": 565,
+      "tag": "A2",
+      "unicode": "&#x12009;"
+    },
+    {
+      "id": 566,
+      "tag": "DA",
+      "unicode": "&#x12055;"
+    },
+    {
+      "id": 567,
+      "tag": "GACAN",
+      "unicode": "&#x120FD;"
+    },
+    {
+      "id": 568,
+      "tag": "U@g",
+      "unicode": "&#x12434;"
+    },
+    {
+      "id": 569,
+      "tag": "BUR3@g",
+      "unicode": "&#x12434;"
+    },
+    {
+      "id": 570,
+      "tag": "SIG7",
+      "unicode": "&#x1214A;"
+    },
+    {
+      "id": 571,
+      "tag": "DUB2",
+      "unicode": "&#x12080;"
+    },
+    {
+      "id": 572,
+      "tag": "BALAG",
+      "unicode": "&#x12046;"
+    },
+    {
+      "id": 573,
+      "tag": "CA",
+      "unicode": "&#x122AD;"
+    },
+    {
+      "id": 574,
+      "tag": "CU",
+      "unicode": "&#x122D7;"
+    },
+    {
+      "id": 575,
+      "tag": "KAD4",
+      "unicode": "&#x12192;"
+    },
+    {
+      "id": 576,
+      "tag": "KAD5",
+      "unicode": "&#x12193;"
+    },
+    {
+      "id": 577,
+      "tag": "LUL",
+      "unicode": "&#x1221C;"
+    },
+    {
+      "id": 578,
+      "tag": "SA6",
+      "unicode": "&#x122B7;"
+    },
+    {
+      "id": 579,
+      "tag": "BICEBA3",
+      "unicode": "&#x12121;"
+    },
+    {
+      "id": 580,
+      "tag": "ALAM",
+      "unicode": "&#x12029;"
+    },
+    {
+      "id": 581,
+      "tag": "URI",
+      "unicode": "&#x12335;"
+    },
+    {
+      "id": 582,
+      "tag": "GE23",
+      "unicode": "&#x12039;"
+    },
+    {
+      "id": 583,
+      "tag": "GAM",
+      "unicode": "&#x120F5;"
+    },
+    {
+      "id": 584,
+      "tag": "ILIMMU4",
+      "unicode": "&#x12448;"
+    },
+    {
+      "id": 585,
+      "tag": "KUR",
+      "unicode": "&#x121B3;"
+    },
+    {
+      "id": 586,
+      "tag": "KUR.KURinversum",
+      "unicode": "&#x121B4;"
+    },
+    {
+      "id": 587,
+      "tag": "CE",
+      "unicode": "&#x122BA;"
+    },
+    {
+      "id": 588,
+      "tag": "BU",
+      "unicode": "&#x1204D;"
+    },
+    {
+      "id": 589,
+      "tag": "BU/BUcrossed",
+      "unicode": "&#x12050;"
+    },
+    {
+      "id": 590,
+      "tag": "SIRSIR",
+      "unicode": "&#x1204E;"
+    },
+    {
+      "id": 591,
+      "tag": "UZ",
+      "unicode": "&#x122BA;&#x12137;"
+    },
+    {
+      "id": 592,
+      "tag": "SUD",
+      "unicode": "&#x122E4;"
+    },
+    {
+      "id": 593,
+      "tag": "MUC",
+      "unicode": "&#x12232;"
+    },
+    {
+      "id": 594,
+      "tag": "RI8",
+      "unicode": "&#x12236;"
+    },
+    {
+      "id": 595,
+      "tag": "TIR",
+      "unicode": "&#x12301;"
+    },
+    {
+      "id": 596,
+      "tag": "NINNI5",
+      "unicode": "&#x12303;"
+    },
+    {
+      "id": 597,
+      "tag": "TIR/TIR.GAD/GAD.NIG2-/NIG2",
+      "unicode": "&#x12304;"
+    },
+    {
+      "id": 598,
+      "tag": "CE/CE.GAD/GAD.NIG2-/NIG2",
+      "unicode": "&#x122BC;"
+    },
+    {
+      "id": 599,
+      "tag": "CE/CE.TAB/TAB.NIG2-/NIG2",
+      "unicode": "&#x122BD;"
+    },
+    {
+      "id": 600,
+      "tag": "U/U.SUR/SUR",
+      "unicode": "&#x1230F;"
+    },
+    {
+      "id": 601,
+      "tag": "U/U.PA/PA.NIG2-/NIG2",
+      "unicode": "&#x1230E;"
+    },
+    {
+      "id": 602,
+      "tag": "TE",
+      "unicode": "&#x122FC;"
+    },
+    {
+      "id": 603,
+      "tag": "KAR",
+      "unicode": "&#x122FC;&#x12000;"
+    },
+    {
+      "id": 604,
+      "tag": "LIC",
+      "unicode": "&#x121FA;"
+    },
+    {
+      "id": 605,
+      "tag": ":",
+      "unicode": "&#x12471;"
+    },
+    {
+      "id": 606,
+      "tag": "TAB variant old",
+      "unicode": "&#x1244A;"
+    },
+    {
+      "id": 607,
+      "tag": "KAM",
+      "unicode": "&#x12130;"
+    },
+    {
+      "id": 608,
+      "tag": "UD",
+      "unicode": "&#x12313;"
+    },
+    {
+      "id": 609,
+      "tag": "ITIMA2",
+      "unicode": "&#x12316;"
+    },
+    {
+      "id": 610,
+      "tag": "PI",
+      "unicode": "&#x1227F;"
+    },
+    {
+      "id": 611,
+      "tag": "PI/PIcrossed",
+      "unicode": "&#x12289;"
+    },
+    {
+      "id": 612,
+      "tag": "TALTAL",
+      "unicode": "&#x12289;"
+    },
+    {
+      "id": 613,
+      "tag": "PI×AB",
+      "unicode": "&#x12281;"
+    },
+    {
+      "id": 614,
+      "tag": "PI×I",
+      "unicode": "&#x12285;"
+    },
+    {
+      "id": 615,
+      "tag": "PI×BI",
+      "unicode": "&#x12282;"
+    },
+    {
+      "id": 616,
+      "tag": "PI×U2",
+      "unicode": "&#x12289;"
+    },
+    {
+      "id": 617,
+      "tag": "PI×E",
+      "unicode": "&#x12284;"
+    },
+    {
+      "id": 618,
+      "tag": "PI×BU",
+      "unicode": "&#x12283;"
+    },
+    {
+      "id": 619,
+      "tag": "PI×U",
+      "unicode": "&#x12287;"
+    },
+    {
+      "id": 620,
+      "tag": "PI×IB",
+      "unicode": "&#x12286;"
+    },
+    {
+      "id": 621,
+      "tag": "PI×A",
+      "unicode": "&#x12280;"
+    },
+    {
+      "id": 622,
+      "tag": "CA3",
+      "unicode": "&#x122AE;"
+    },
+    {
+      "id": 623,
+      "tag": "CA3×BAD",
+      "unicode": "&#x122B0;"
+    },
+    {
+      "id": 624,
+      "tag": "CA3×TUR",
+      "unicode": "&#x122B4;"
+    },
+    {
+      "id": 625,
+      "tag": "CA3×NE",
+      "unicode": "&#x122B2;"
+    },
+    {
+      "id": 626,
+      "tag": "CA3×GIC",
+      "unicode": "&#x122B1;"
+    },
+    {
+      "id": 627,
+      "tag": "CA3×U",
+      "unicode": "&#x122B5;"
+    },
+    {
+      "id": 628,
+      "tag": "BIR6",
+      "unicode": "&#x122B6;"
+    },
+    {
+      "id": 629,
+      "tag": "PEC4",
+      "unicode": "&#x122AF;"
+    },
+    {
+      "id": 630,
+      "tag": "CA3×CU2",
+      "unicode": "&#x122B3;"
+    },
+    {
+      "id": 631,
+      "tag": "UD.MUNUS.HUB2",
+      "unicode": "&#x12313;&#x122A9;&#x12138;"
+    },
+    {
+      "id": 632,
+      "tag": "UH2",
+      "unicode": "&#x12314;"
+    },
+    {
+      "id": 633,
+      "tag": "ERIM",
+      "unicode": "&#x1209F;"
+    },
+    {
+      "id": 634,
+      "tag": "NUNUZ",
+      "unicode": "&#x1226D;"
+    },
+    {
+      "id": 635,
+      "tag": "LAHTAN",
+      "unicode": "&#x12274;"
+    },
+    {
+      "id": 636,
+      "tag": "LAHTAN2",
+      "unicode": "&#x12276;"
+    },
+    {
+      "id": 637,
+      "tag": "#NUNUZ.AB2",
+      "unicode": "&#x12273;"
+    },
+    {
+      "id": 638,
+      "tag": "#KISIM5×KAD3",
+      "unicode": "&#x12273;"
+    },
+    {
+      "id": 639,
+      "tag": "USAN3",
+      "unicode": "&#x1226E;"
+    },
+    {
+      "id": 640,
+      "tag": "NUNUZ.AB2",
+      "unicode": "&#x12275;"
+    },
+    {
+      "id": 641,
+      "tag": "#KISIM5×NE",
+      "unicode": "&#x12275;"
+    },
+    {
+      "id": 642,
+      "tag": "MUD3",
+      "unicode": "&#x1226F;"
+    },
+    {
+      "id": 643,
+      "tag": "##NUNUZ.AB2",
+      "unicode": "&#x12279;"
+    },
+    {
+      "id": 644,
+      "tag": "KISIM5×BI .U",
+      "unicode": "&#x12279;"
+    },
+    {
+      "id": 645,
+      "tag": "###NUNUZ.AB2",
+      "unicode": "&#x12271;"
+    },
+    {
+      "id": 646,
+      "tag": "ZIB",
+      "unicode": "&#x12366;"
+    },
+    {
+      "id": 647,
+      "tag": "ZIBinversum",
+      "unicode": "&#x12367;"
+    },
+    {
+      "id": 648,
+      "tag": "EC23",
+      "unicode": "&#x1244B;"
+    },
+    {
+      "id": 649,
+      "tag": "HI",
+      "unicode": "&#x1212D;"
+    },
+    {
+      "id": 650,
+      "tag": "CAR2",
+      "unicode": "&#x122B9;"
+    },
+    {
+      "id": 651,
+      "tag": "SUR3",
+      "unicode": "&#x1212E;"
+    },
+    {
+      "id": 652,
+      "tag": "A'",
+      "unicode": "&#x1202A;"
+    },
+    {
+      "id": 653,
+      "tag": "AH",
+      "unicode": "&#x12134;"
+    },
+    {
+      "id": 654,
+      "tag": "AH.KASKAL",
+      "unicode": "&#x12134;&#x1219C;"
+    },
+    {
+      "id": 655,
+      "tag": "AH.ME",
+      "unicode": "&#x12134;&#x12228;"
+    },
+    {
+      "id": 656,
+      "tag": "AH.ME.U",
+      "unicode": "&#x12134;&#x12228;1230B"
+    },
+    {
+      "id": 657,
+      "tag": "IM",
+      "unicode": "&#x1214E;"
+    },
+    {
+      "id": 658,
+      "tag": "NI2",
+      "unicode": "&#x1224E;"
+    },
+    {
+      "id": 659,
+      "tag": "IM/IMcrossed",
+      "unicode": "&#x12150;"
+    },
+    {
+      "id": 660,
+      "tag": "4×IM forming a cross",
+      "unicode": "&#x12152;"
+    },
+    {
+      "id": 661,
+      "tag": "IM×KID2",
+      "unicode": "&#x1214F;"
+    },
+    {
+      "id": 662,
+      "tag": "BIR",
+      "unicode": "&#x12135;"
+    },
+    {
+      "id": 663,
+      "tag": "HAR",
+      "unicode": "&#x1212F;"
+    },
+    {
+      "id": 664,
+      "tag": "HUS",
+      "unicode": "&#x1212D;&#x1210A;"
+    },
+    {
+      "id": 665,
+      "tag": "SUHUR",
+      "unicode": "&#x122E6;"
+    },
+    {
+      "id": 666,
+      "tag": "CUCUR2",
+      "unicode": "&#x1203D;"
+    },
+    {
+      "id": 667,
+      "tag": "CAR2×GAD",
+      "unicode": "&#x12132;"
+    },
+    {
+      "id": 668,
+      "tag": "CAR2× GAL.DIC",
+      "unicode": "&#x12432;"
+    },
+    {
+      "id": 669,
+      "tag": "CAR2× GAL.MIN",
+      "unicode": "&#x12433;"
+    },
+    {
+      "id": 670,
+      "tag": "CAR2×U",
+      "unicode": "&#x1242C;"
+    },
+    {
+      "id": 671,
+      "tag": "CAR2×MAN",
+      "unicode": "&#x1242D;"
+    },
+    {
+      "id": 672,
+      "tag": "CAR2×EC",
+      "unicode": "&#x1242E;"
+    },
+    {
+      "id": 673,
+      "tag": "CAR2×NIMIN",
+      "unicode": "&#x12430;"
+    },
+    {
+      "id": 674,
+      "tag": "CAR2×NINNU",
+      "unicode": "&#x12431;"
+    },
+    {
+      "id": 675,
+      "tag": "CAR2×DIC, also HI×DIC?",
+      "unicode": "&#x12131;"
+    },
+    {
+      "id": 676,
+      "tag": "HI×KIN",
+      "unicode": "&#x12133;"
+    },
+    {
+      "id": 677,
+      "tag": "U",
+      "unicode": "&#x1230B;"
+    },
+    {
+      "id": 678,
+      "tag": "U@g, BUR3@g",
+      "unicode": "&#x12434;"
+    },
+    {
+      "id": 679,
+      "tag": "UGU",
+      "unicode": "&#x1230B;&#x12157;"
+    },
+    {
+      "id": 680,
+      "tag": "UDUN",
+      "unicode": "&#x1230B;&#x1222C;"
+    },
+    {
+      "id": 681,
+      "tag": "CIBIR",
+      "unicode": "&#x1230B;&#x12098;"
+    },
+    {
+      "id": 682,
+      "tag": "GAKKUL3",
+      "unicode": "&#x1230B;&#x12074;"
+    },
+    {
+      "id": 683,
+      "tag": "GAKKUL",
+      "unicode": "&#x1230B;&#x12075;"
+    },
+    {
+      "id": 684,
+      "tag": "U.GUR",
+      "unicode": "&#x1230B;&#x12125;"
+    },
+    {
+      "id": 685,
+      "tag": "U.DAR",
+      "unicode": "&#x1230B;&#x1206F;"
+    },
+    {
+      "id": 686,
+      "tag": "SAGCU",
+      "unicode": "&#x1230B;&#x12295;"
+    },
+    {
+      "id": 687,
+      "tag": "AB2",
+      "unicode": "&#x12016;"
+    },
+    {
+      "id": 688,
+      "tag": "AB2×KID2",
+      "unicode": "&#x1201B;"
+    },
+    {
+      "id": 689,
+      "tag": "AB2×KAR2",
+      "unicode": "&#x12018;"
+    },
+    {
+      "id": 690,
+      "tag": "GIRI16",
+      "unicode": "&#x1210C;"
+    },
+    {
+      "id": 691,
+      "tag": "LILIZ",
+      "unicode": "&#x12017;"
+    },
+    {
+      "id": 692,
+      "tag": "LIBIC",
+      "unicode": "&#x1201A;"
+    },
+    {
+      "id": 693,
+      "tag": "KIC",
+      "unicode": "&#x121A7;"
+    },
+    {
+      "id": 694,
+      "tag": "MEZE",
+      "unicode": "&#x12019;"
+    },
+    {
+      "id": 695,
+      "tag": "MI",
+      "unicode": "&#x1222A;"
+    },
+    {
+      "id": 696,
+      "tag": "GUL",
+      "unicode": "&#x12122;"
+    },
+    {
+      "id": 697,
+      "tag": "GIR4",
+      "unicode": "&#x1230B;&#x1201C;"
+    },
+    {
+      "id": 698,
+      "tag": "CAGAN",
+      "unicode": "&#x1230B;&#x120F6;"
+    },
+    {
+      "id": 699,
+      "tag": "PAN",
+      "unicode": "&#x1227C;"
+    },
+    {
+      "id": 700,
+      "tag": "GIM",
+      "unicode": "&#x12076;"
+    },
+    {
+      "id": 701,
+      "tag": "KISIM5",
+      "unicode": "&#x121A8;"
+    },
+    {
+      "id": 702,
+      "tag": "Gingira",
+      "unicode": "&#x121A9;"
+    },
+    {
+      "id": 703,
+      "tag": "DUBUR2",
+      "unicode": "&#x12136;"
+    },
+    {
+      "id": 704,
+      "tag": "NA2",
+      "unicode": "&#x1223F;"
+    },
+    {
+      "id": 705,
+      "tag": "NIM",
+      "unicode": "&#x1224F;"
+    },
+    {
+      "id": 706,
+      "tag": "TUM3",
+      "unicode": "&#x12250;"
+    },
+    {
+      "id": 707,
+      "tag": "KIR7",
+      "unicode": "&#x12251;"
+    },
+    {
+      "id": 708,
+      "tag": "LAM",
+      "unicode": "&#x121F4;"
+    },
+    {
+      "id": 709,
+      "tag": "LAM×KUR",
+      "unicode": "&#x121F5;"
+    },
+    {
+      "id": 710,
+      "tag": "AMAR",
+      "unicode": "&#x1202B;"
+    },
+    {
+      "id": 711,
+      "tag": "SISKUR",
+      "unicode": "&#x1202C;"
+    },
+    {
+      "id": 712,
+      "tag": "UL",
+      "unicode": "&#x1230C;"
+    },
+    {
+      "id": 713,
+      "tag": "CITA4",
+      "unicode": "&#x1230B;&#x121A4;"
+    },
+    {
+      "id": 714,
+      "tag": "UTU2",
+      "unicode": "&#x1230B;&#x120B5;"
+    },
+    {
+      "id": 715,
+      "tag": "GIR3",
+      "unicode": "&#x1210A;"
+    },
+    {
+      "id": 716,
+      "tag": "PIRIG",
+      "unicode": "&#x1228A;"
+    },
+    {
+      "id": 717,
+      "tag": "GIR3.GIR3inversum",
+      "unicode": "&#x1228E;"
+    },
+    {
+      "id": 718,
+      "tag": "LULIM",
+      "unicode": "&#x1210E;"
+    },
+    {
+      "id": 719,
+      "tag": "ALIM",
+      "unicode": "&#x1210B;"
+    },
+    {
+      "id": 720,
+      "tag": "DUGUD",
+      "unicode": "&#x12082;"
+    },
+    {
+      "id": 721,
+      "tag": "GIG",
+      "unicode": "&#x1222A;&#x1226D;"
+    },
+    {
+      "id": 722,
+      "tag": "NIGIN4",
+      "unicode": "&#x1230B;&#x12313;"
+    },
+    {
+      "id": 723,
+      "tag": "NIGIN3",
+      "unicode": "&#x1230B;&#x12313;&#x121A4;"
+    },
+    {
+      "id": 724,
+      "tag": "MAN",
+      "unicode": "&#x1230B;&#x1230B;"
+    },
+    {
+      "id": 725,
+      "tag": "U.U@g",
+      "unicode": "&#x1230B;&#x12434;"
+    },
+    {
+      "id": 726,
+      "tag": "KUCU",
+      "unicode": "&#x1230B;&#x1210A;"
+    },
+    {
+      "id": 727,
+      "tag": "EC",
+      "unicode": "&#x1230D;"
+    },
+    {
+      "id": 728,
+      "tag": "NIMIN",
+      "unicode": "&#x1240F;"
+    },
+    {
+      "id": 729,
+      "tag": "MACGI",
+      "unicode": "&#x12310;"
+    },
+    {
+      "id": 730,
+      "tag": "BARGI",
+      "unicode": "&#x12310;"
+    },
+    {
+      "id": 731,
+      "tag": "NINNU",
+      "unicode": "&#x12410;"
+    },
+    {
+      "id": 732,
+      "tag": "LX",
+      "unicode": "&#x12411;"
+    },
+    {
+      "id": 733,
+      "tag": "7×U",
+      "unicode": "&#x12412;"
+    },
+    {
+      "id": 734,
+      "tag": "8×U",
+      "unicode": "&#x12413;"
+    },
+    {
+      "id": 735,
+      "tag": "9×U",
+      "unicode": "&#x12414;"
+    },
+    {
+      "id": 736,
+      "tag": "LAGAR",
+      "unicode": "&#x121EC;"
+    },
+    {
+      "id": 737,
+      "tag": "DUL",
+      "unicode": "&#x1230B;&#x12306;"
+    },
+    {
+      "id": 738,
+      "tag": "DU6",
+      "unicode": "&#x121EF;"
+    },
+    {
+      "id": 739,
+      "tag": "DU6-/DU6.CE",
+      "unicode": "&#x121F0;"
+    },
+    {
+      "id": 740,
+      "tag": "SU7",
+      "unicode": "&#x121ED;"
+    },
+    {
+      "id": 741,
+      "tag": "LAGAR× CE.SUM",
+      "unicode": "&#x121EE;"
+    },
+    {
+      "id": 742,
+      "tag": "IGI",
+      "unicode": "&#x12146;"
+    },
+    {
+      "id": 743,
+      "tag": "DIMSAR",
+      "unicode": "&#x12149;"
+    },
+    {
+      "id": 744,
+      "tag": "PAD3",
+      "unicode": "&#x12146;&#x12292;"
+    },
+    {
+      "id": 745,
+      "tag": "AR",
+      "unicode": "&#x12148;"
+    },
+    {
+      "id": 746,
+      "tag": "AGRIG",
+      "unicode": "&#x12146;&#x1207E;"
+    },
+    {
+      "id": 747,
+      "tag": "U6",
+      "unicode": "&#x12146;&#x1208D;"
+    },
+    {
+      "id": 748,
+      "tag": "SIG5",
+      "unicode": "&#x12146;&#x1209F;"
+    },
+    {
+      "id": 749,
+      "tag": "#KURUM7",
+      "unicode": "&#x12146;&#x1209F;"
+    },
+    {
+      "id": 750,
+      "tag": "U3",
+      "unicode": "&#x12147;"
+    },
+    {
+      "id": 751,
+      "tag": "LIBIR",
+      "unicode": "&#x12146;&#x120A0;"
+    },
+    {
+      "id": 752,
+      "tag": "HUL",
+      "unicode": "&#x12146;&#x12328;"
+    },
+    {
+      "id": 753,
+      "tag": "HUL4",
+      "unicode": "&#x12146;&#x1232A;"
+    },
+    {
+      "id": 754,
+      "tag": "DI",
+      "unicode": "&#x12072;"
+    },
+    {
+      "id": 755,
+      "tag": "KI",
+      "unicode": "&#x121A0;"
+    },
+    {
+      "id": 756,
+      "tag": "KI×BAD",
+      "unicode": "&#x121A1;"
+    },
+    {
+      "id": 757,
+      "tag": "KI×UD",
+      "unicode": "&#x121A3;"
+    },
+    {
+      "id": 758,
+      "tag": "KI×U",
+      "unicode": "&#x121A2;"
+    },
+    {
+      "id": 759,
+      "tag": "PEC2",
+      "unicode": "&#x1227E;"
+    },
+    {
+      "id": 760,
+      "tag": "KICI4",
+      "unicode": "&#x12294;"
+    },
+    {
+      "id": 761,
+      "tag": "CUL",
+      "unicode": "&#x12084;"
+    },
+    {
+      "id": 762,
+      "tag": "KUG",
+      "unicode": "&#x121AC;"
+    },
+    {
+      "id": 763,
+      "tag": "PAD",
+      "unicode": "&#x1227B;"
+    },
+    {
+      "id": 764,
+      "tag": "XV",
+      "unicode": "&#x1230B;1240A"
+    },
+    {
+      "id": 765,
+      "tag": "DIC",
+      "unicode": "&#x12079;"
+    },
+    {
+      "id": 766,
+      "tag": "LAL",
+      "unicode": "&#x121F2;"
+    },
+    {
+      "id": 767,
+      "tag": "LAL2",
+      "unicode": "&#x121F3;"
+    },
+    {
+      "id": 768,
+      "tag": "ME",
+      "unicode": "&#x12228;"
+    },
+    {
+      "id": 769,
+      "tag": "MEC",
+      "unicode": "&#x12228;&#x1230D;"
+    },
+    {
+      "id": 770,
+      "tag": "LAGAB",
+      "unicode": "&#x121B8;"
+    },
+    {
+      "id": 771,
+      "tag": "ENGUR",
+      "unicode": "&#x121C9;"
+    },
+    {
+      "id": 772,
+      "tag": "LAGAB×AN",
+      "unicode": "&#x121BE;"
+    },
+    {
+      "id": 773,
+      "tag": "LAGAB×KID2",
+      "unicode": "&#x121E3;"
+    },
+    {
+      "id": 774,
+      "tag": "GIGIR",
+      "unicode": "&#x121C0;"
+    },
+    {
+      "id": 775,
+      "tag": "ESIR2",
+      "unicode": "&#x121D2;"
+    },
+    {
+      "id": 776,
+      "tag": "LAGAB× NUMUN.HI.A",
+      "unicode": "&#x121D3;"
+    },
+    {
+      "id": 777,
+      "tag": "LAGAB×EN",
+      "unicode": "&#x121C3;"
+    },
+    {
+      "id": 778,
+      "tag": "LAGAB×DAR",
+      "unicode": "&#x121C2;"
+    },
+    {
+      "id": 779,
+      "tag": "U8",
+      "unicode": "&#x121C7;"
+    },
+    {
+      "id": 780,
+      "tag": "ZAR",
+      "unicode": "&#x121E1;"
+    },
+    {
+      "id": 781,
+      "tag": "UDUB",
+      "unicode": "&#x121DB;"
+    },
+    {
+      "id": 782,
+      "tag": "LAGAB×BI",
+      "unicode": "&#x121C1;"
+    },
+    {
+      "id": 783,
+      "tag": "LAGAB×UC",
+      "unicode": "&#x121EA;"
+    },
+    {
+      "id": 784,
+      "tag": "LAGAB×CITA2",
+      "unicode": "&#x121DE;"
+    },
+    {
+      "id": 785,
+      "tag": "LAGAB× CITA2.ERIM",
+      "unicode": "&#x121DD;"
+    },
+    {
+      "id": 786,
+      "tag": "LAGAB×GU4",
+      "unicode": "&#x121C6;"
+    },
+    {
+      "id": 787,
+      "tag": "LAGAB×AL",
+      "unicode": "&#x121BD;"
+    },
+    {
+      "id": 788,
+      "tag": "LAGAB× U2.AC",
+      "unicode": "&#x121E8;"
+    },
+    {
+      "id": 789,
+      "tag": "LAGAB×GA",
+      "unicode": "&#x121C4;"
+    },
+    {
+      "id": 790,
+      "tag": "CARA2",
+      "unicode": "&#x121CB;"
+    },
+    {
+      "id": 791,
+      "tag": "LAGAB×LUL",
+      "unicode": "&#x121D7;"
+    },
+    {
+      "id": 792,
+      "tag": "LAGAB×GE23",
+      "unicode": "&#x121BF;"
+    },
+    {
+      "id": 793,
+      "tag": "LAGAB× CE.SUM",
+      "unicode": "&#x121DC;"
+    },
+    {
+      "id": 794,
+      "tag": "LAGAB×MUC",
+      "unicode": "&#x121DA;"
+    },
+    {
+      "id": 795,
+      "tag": "LAGAB× KAR.SU.NA",
+      "unicode": "&#x121E4;"
+    },
+    {
+      "id": 796,
+      "tag": "LAGAB×LIC",
+      "unicode": "&#x121D5;"
+    },
+    {
+      "id": 797,
+      "tag": "LAGAB×UD",
+      "unicode": "&#x121E9;"
+    },
+    {
+      "id": 798,
+      "tag": "LAGAB×AH",
+      "unicode": "&#x121CA;"
+    },
+    {
+      "id": 799,
+      "tag": "LAGAB×IM",
+      "unicode": "&#x121CC;"
+    },
+    {
+      "id": 800,
+      "tag": "TUL2",
+      "unicode": "&#x121E5;"
+    },
+    {
+      "id": 801,
+      "tag": "LAGAB× U.A",
+      "unicode": "&#x121E6;"
+    },
+    {
+      "id": 802,
+      "tag": "BUL",
+      "unicode": "&#x121E7;"
+    },
+    {
+      "id": 803,
+      "tag": "LAGAB×KI",
+      "unicode": "&#x121CF;"
+    },
+    {
+      "id": 804,
+      "tag": "GARIM",
+      "unicode": "&#x121D1;"
+    },
+    {
+      "id": 805,
+      "tag": "LAGAB×ME",
+      "unicode": "&#x121D8;"
+    },
+    {
+      "id": 806,
+      "tag": "LAGAB× ME.EN",
+      "unicode": "&#x121D9;"
+    },
+    {
+      "id": 807,
+      "tag": "LAGAB×LU",
+      "unicode": "&#x121D6;"
+    },
+    {
+      "id": 808,
+      "tag": "LAGAB×KIN",
+      "unicode": "&#x121D0;"
+    },
+    {
+      "id": 809,
+      "tag": "SUG",
+      "unicode": "&#x121B9;"
+    },
+    {
+      "id": 810,
+      "tag": "LAGAB× A.DA.HA",
+      "unicode": "&#x121BA;"
+    },
+    {
+      "id": 811,
+      "tag": "LAGAB× A.LAL",
+      "unicode": "&#x121BC;"
+    },
+    {
+      "id": 812,
+      "tag": "LAGAB× A.NIG2",
+      "unicode": "&#x121BB;"
+    },
+    {
+      "id": 813,
+      "tag": "GAR",
+      "unicode": "&#x121BB;"
+    },
+    {
+      "id": 814,
+      "tag": "LAGAB×HA",
+      "unicode": "&#x121C8;"
+    },
+    {
+      "id": 815,
+      "tag": "LAGAB×NIG2",
+      "unicode": "&#x121C5;"
+    },
+    {
+      "id": 816,
+      "tag": "LAGAB×CU2",
+      "unicode": "&#x121DF;"
+    },
+    {
+      "id": 817,
+      "tag": "LAGAB× CU2.CU2",
+      "unicode": "&#x121E0;"
+    },
+    {
+      "id": 818,
+      "tag": "NIGIN",
+      "unicode": "&#x121B8;&#x121B8;"
+    },
+    {
+      "id": 819,
+      "tag": "4×LAGAB forming a cross",
+      "unicode": "&#x121EB;"
+    },
+    {
+      "id": 820,
+      "tag": "NENNI BUL.BUL",
+      "unicode": "&#x121E7;"
+    },
+    {
+      "id": 821,
+      "tag": "IB",
+      "unicode": "&#x12141;"
+    },
+    {
+      "id": 822,
+      "tag": "KU",
+      "unicode": "&#x121AA;"
+    },
+    {
+      "id": 823,
+      "tag": "DUR2",
+      "unicode": "&#x12089;"
+    },
+    {
+      "id": 824,
+      "tag": "TUG2",
+      "unicode": "&#x12306;"
+    },
+    {
+      "id": 825,
+      "tag": "CE3",
+      "unicode": "&#x120A0;"
+    },
+    {
+      "id": 826,
+      "tag": "ZI3",
+      "unicode": "&#x12365;"
+    },
+    {
+      "id": 827,
+      "tag": "LU",
+      "unicode": "&#x121FB;"
+    },
+    {
+      "id": 828,
+      "tag": "DIB",
+      "unicode": "&#x12073;"
+    },
+    {
+      "id": 829,
+      "tag": "AD3",
+      "unicode": "&#x121FC;"
+    },
+    {
+      "id": 830,
+      "tag": "KIN",
+      "unicode": "&#x121A5;"
+    },
+    {
+      "id": 831,
+      "tag": "SIG2",
+      "unicode": "&#x122E0;"
+    },
+    {
+      "id": 832,
+      "tag": "DARA4",
+      "unicode": "&#x12071;"
+    },
+    {
+      "id": 833,
+      "tag": "EREN",
+      "unicode": "&#x1209E;"
+    },
+    {
+      "id": 834,
+      "tag": "GUR7",
+      "unicode": "&#x12126;"
+    },
+    {
+      "id": 835,
+      "tag": "MUNCUB",
+      "unicode": "&#x12230;"
+    },
+    {
+      "id": 836,
+      "tag": "CEC2",
+      "unicode": "&#x122C1;"
+    },
+    {
+      "id": 837,
+      "tag": "MUNCUB2",
+      "unicode": "&#x122C1;&#x122E6;"
+    },
+    {
+      "id": 838,
+      "tag": "DIC.U",
+      "unicode": "&#x12079;&#x1230B;"
+    },
+    {
+      "id": 839,
+      "tag": "MIN",
+      "unicode": "&#x1222B;"
+    },
+    {
+      "id": 840,
+      "tag": "CUCANA",
+      "unicode": "&#x1245A;"
+    },
+    {
+      "id": 841,
+      "tag": "TUK",
+      "unicode": "&#x12307;"
+    },
+    {
+      "id": 842,
+      "tag": "UR",
+      "unicode": "&#x12328;"
+    },
+    {
+      "id": 843,
+      "tag": "URBINGU",
+      "unicode": "&#x12329;"
+    },
+    {
+      "id": 844,
+      "tag": "UR-sessig",
+      "unicode": "&#x1232A;"
+    },
+    {
+      "id": 845,
+      "tag": "GIDIM",
+      "unicode": "&#x12107;"
+    },
+    {
+      "id": 846,
+      "tag": "CANABI",
+      "unicode": "&#x1245B;"
+    },
+    {
+      "id": 847,
+      "tag": "UDUG",
+      "unicode": "&#x1231C;"
+    },
+    {
+      "id": 848,
+      "tag": "EC5",
+      "unicode": "&#x12408;"
+    },
+    {
+      "id": 849,
+      "tag": "UR4",
+      "unicode": "&#x12334;"
+    },
+    {
+      "id": 850,
+      "tag": "GIN2",
+      "unicode": "&#x12085;"
+    },
+    {
+      "id": 851,
+      "tag": "ICCEBU",
+      "unicode": "&#x12408;&#x1230B;&#x1230B;"
+    },
+    {
+      "id": 852,
+      "tag": "KINGUSILA",
+      "unicode": "&#x1245C;"
+    },
+    {
+      "id": 853,
+      "tag": "A",
+      "unicode": "&#x12000;"
+    },
+    {
+      "id": 854,
+      "tag": "A.TU.GAB.LIC",
+      "unicode": "&#x12037;"
+    },
+    {
+      "id": 855,
+      "tag": "AGAM",
+      "unicode": "&#x12002;"
+    },
+    {
+      "id": 856,
+      "tag": "A×SAG",
+      "unicode": "&#x12008;"
+    },
+    {
+      "id": 857,
+      "tag": "A×MUC",
+      "unicode": "&#x12007;"
+    },
+    {
+      "id": 858,
+      "tag": "A×DU6",
+      "unicode": "&#x12006;"
+    },
+    {
+      "id": 859,
+      "tag": "A×IGI",
+      "unicode": "&#x12005;"
+    },
+    {
+      "id": 860,
+      "tag": "EDURU",
+      "unicode": "&#x12001;"
+    },
+    {
+      "id": 861,
+      "tag": "ZAH3",
+      "unicode": "&#x12004;"
+    },
+    {
+      "id": 862,
+      "tag": "NIGIDAMIN",
+      "unicode": "&#x12456;"
+    },
+    {
+      "id": 863,
+      "tag": "LAL2 variant",
+      "unicode": "&#x12456;&#x1227D;"
+    },
+    {
+      "id": 864,
+      "tag": "NIGIDAEC",
+      "unicode": "&#x12457;"
+    },
+    {
+      "id": 865,
+      "tag": "ZA",
+      "unicode": "&#x1235D;"
+    },
+    {
+      "id": 866,
+      "tag": "LIMMU5",
+      "unicode": "&#x1235D;"
+    },
+    {
+      "id": 867,
+      "tag": "NIGIDALIMMU",
+      "unicode": "&#x1235D;"
+    },
+    {
+      "id": 868,
+      "tag": "AD4",
+      "unicode": "&#x1235E;"
+    },
+    {
+      "id": 869,
+      "tag": "GICTA'E",
+      "unicode": "&#x1235F;"
+    },
+    {
+      "id": 870,
+      "tag": "HA",
+      "unicode": "&#x12129;"
+    },
+    {
+      "id": 871,
+      "tag": "ZUBUD",
+      "unicode": "&#x1212A;"
+    },
+    {
+      "id": 872,
+      "tag": "GUG",
+      "unicode": "&#x1235D;&#x12122;"
+    },
+    {
+      "id": 873,
+      "tag": "NIG2",
+      "unicode": "&#x120FB;"
+    },
+    {
+      "id": 874,
+      "tag": "LIMMU",
+      "unicode": "&#x1243C;"
+    },
+    {
+      "id": 875,
+      "tag": "IA2",
+      "unicode": "&#x1240A;"
+    },
+    {
+      "id": 876,
+      "tag": "AC3",
+      "unicode": "&#x1240B;"
+    },
+    {
+      "id": 877,
+      "tag": "IMIN",
+      "unicode": "&#x12153;"
+    },
+    {
+      "id": 878,
+      "tag": "USSU",
+      "unicode": "&#x1240D;"
+    },
+    {
+      "id": 879,
+      "tag": "DIC/DIC/DIC",
+      "unicode": "&#x12449;"
+    },
+    {
+      "id": 880,
+      "tag": "ILIMMU",
+      "unicode": "&#x12446;"
+    },
+    {
+      "id": 881,
+      "tag": "CU2",
+      "unicode": "&#x122D9;"
+    },
+    {
+      "id": 882,
+      "tag": "EN2",
+      "unicode": "&#x122D9;&#x1202D;"
+    },
+    {
+      "id": 883,
+      "tag": "KEC3",
+      "unicode": "&#x122D9;&#x1202D;&#x12132;"
+    },
+    {
+      "id": 884,
+      "tag": "KUNGA",
+      "unicode": "&#x122D9;&#x1202F;"
+    },
+    {
+      "id": 885,
+      "tag": "CEG8",
+      "unicode": "&#x122D9;&#x12240;"
+    },
+    {
+      "id": 886,
+      "tag": "LIL5",
+      "unicode": "&#x122D9;&#x12248;"
+    },
+    {
+      "id": 887,
+      "tag": "GIBIL2",
+      "unicode": "&#x122D9;&#x1203E;"
+    },
+    {
+      "id": 888,
+      "tag": "CUDUN",
+      "unicode": "&#x122D9;&#x12088;"
+    },
+    {
+      "id": 889,
+      "tag": "HUL2",
+      "unicode": "&#x1213E;"
+    },
+    {
+      "id": 890,
+      "tag": "CEG9",
+      "unicode": "&#x122BE;"
+    },
+    {
+      "id": 891,
+      "tag": "LIL3",
+      "unicode": "&#x122D9;&#x1230D;"
+    },
+    {
+      "id": 892,
+      "tag": "CU2.UR-sessig",
+      "unicode": "&#x122D9;&#x1232A;"
+    },
+    {
+      "id": 893,
+      "tag": "SIG",
+      "unicode": "&#x122DD;"
+    },
+    {
+      "id": 894,
+      "tag": "MUNUS",
+      "unicode": "&#x122A9;"
+    },
+    {
+      "id": 895,
+      "tag": "ZUM",
+      "unicode": "&#x1236E;"
+    },
+    {
+      "id": 896,
+      "tag": "ZUM2",
+      "unicode": "&#x122AA;"
+    },
+    {
+      "id": 897,
+      "tag": "NIN9, old MUNUS.KU",
+      "unicode": "&#x122A9;&#x121AA;"
+    },
+    {
+      "id": 898,
+      "tag": "NIN, old MUNUS.TUG2",
+      "unicode": "&#x122A9;&#x12306;"
+    },
+    {
+      "id": 899,
+      "tag": "DAM",
+      "unicode": "&#x1206E;"
+    },
+    {
+      "id": 900,
+      "tag": "GEME2",
+      "unicode": "&#x122A9;&#x121B3;"
+    },
+    {
+      "id": 901,
+      "tag": "GU",
+      "unicode": "&#x12116;"
+    },
+    {
+      "id": 902,
+      "tag": "SUH3",
+      "unicode": "&#x12117;"
+    },
+    {
+      "id": 903,
+      "tag": "NAGAR",
+      "unicode": "&#x12244;"
+    },
+    {
+      "id": 904,
+      "tag": "TUGUL",
+      "unicode": "&#x12244;&#x1235E;"
+    },
+    {
+      "id": 905,
+      "tag": "MUNUS.LAGAR",
+      "unicode": "&#x122A9;&#x121EC;"
+    },
+    {
+      "id": 906,
+      "tag": "KUCU2",
+      "unicode": "&#x121B5;"
+    },
+    {
+      "id": 907,
+      "tag": "EGI2",
+      "unicode": "&#x122A9;&#x120A0;"
+    },
+    {
+      "id": 908,
+      "tag": "NIG",
+      "unicode": "&#x122A9;&#x12328;"
+    },
+    {
+      "id": 909,
+      "tag": "EL",
+      "unicode": "&#x12096;"
+    },
+    {
+      "id": 910,
+      "tag": "LUM",
+      "unicode": "&#x1221D;"
+    },
+    {
+      "id": 911,
+      "tag": "MURGU2",
+      "unicode": "&#x12231;"
+    },
+    {
+      "id": 912,
+      "tag": "LUM/LUM",
+      "unicode": "&#x1221E;"
+    },
+    {
+      "id": 913,
+      "tag": "LUM/LUM.CU2",
+      "unicode": "&#x1221E;&#x122D9;"
+    },
+    {
+      "id": 914,
+      "tag": "LUGUD3",
+      "unicode": "&#x1221F;"
+    },
+    {
+      "id": 915,
+      "tag": "SIG4",
+      "unicode": "&#x122DE;"
+    },
+    {
+      "id": 916,
+      "tag": "#MURGU",
+      "unicode": "&#x122DE;"
+    },
+    {
+      "id": 917,
+      "tag": "SIG4-/SIG4.CU2",
+      "unicode": "&#x122DF;"
+    },
+    {
+      "id": 918,
+      "tag": "UN",
+      "unicode": "&#x12327;"
+    },
+    {
+      "id": 919,
+      "tag": "A×BAD",
+      "unicode": "&#x12002;"
+    },
+    {
+      "id": 920,
+      "tag": "A×GAN2@t",
+      "unicode": "&#x12003;"
+    },
+    {
+      "id": 921,
+      "tag": "A×HA",
+      "unicode": "&#x12004;"
+    },
+    {
+      "id": 922,
+      "tag": "A×IGI",
+      "unicode": "&#x12005;"
+    },
+    {
+      "id": 923,
+      "tag": "A×LAGAR@t",
+      "unicode": "&#x12006;"
+    },
+    {
+      "id": 924,
+      "tag": "A×MUSH",
+      "unicode": "&#x12007;"
+    },
+    {
+      "id": 925,
+      "tag": "A×SAG",
+      "unicode": "&#x12008;"
+    },
+    {
+      "id": 926,
+      "tag": "A2",
+      "unicode": "&#x12009;"
+    },
+    {
+      "id": 927,
+      "tag": "AB",
+      "unicode": "&#x1200A;"
+    },
+    {
+      "id": 928,
+      "tag": "AB×ASH2",
+      "unicode": "&#x1200B;"
+    },
+    {
+      "id": 929,
+      "tag": "AB×DUN3@t",
+      "unicode": "&#x1200C;"
+    },
+    {
+      "id": 930,
+      "tag": "AB×GAL",
+      "unicode": "&#x1200D;"
+    },
+    {
+      "id": 931,
+      "tag": "AB×GAN2@t",
+      "unicode": "&#x1200E;"
+    },
+    {
+      "id": 932,
+      "tag": "AB×HA",
+      "unicode": "&#x1200F;"
+    },
+    {
+      "id": 933,
+      "tag": "AB×IGI@t",
+      "unicode": "&#x12010;"
+    },
+    {
+      "id": 934,
+      "tag": "AB×IMIN",
+      "unicode": "&#x12011;"
+    },
+    {
+      "id": 935,
+      "tag": "AB×LAGAB",
+      "unicode": "&#x12012;"
+    },
+    {
+      "id": 936,
+      "tag": "AB×SHESH",
+      "unicode": "&#x12013;"
+    },
+    {
+      "id": 937,
+      "tag": "AB×U+U+U",
+      "unicode": "&#x12014;"
+    },
+    {
+      "id": 938,
+      "tag": "AB@t",
+      "unicode": "&#x12015;"
+    },
+    {
+      "id": 939,
+      "tag": "AB2",
+      "unicode": "&#x12016;"
+    },
+    {
+      "id": 940,
+      "tag": "AB2×BALAG",
+      "unicode": "&#x12017;"
+    },
+    {
+      "id": 941,
+      "tag": "AB2×GAN2@t",
+      "unicode": "&#x12018;"
+    },
+    {
+      "id": 942,
+      "tag": "AB2×ME+EN",
+      "unicode": "&#x12019;"
+    },
+    {
+      "id": 943,
+      "tag": "AB2×SHA3",
+      "unicode": "&#x1201A;"
+    },
+    {
+      "id": 944,
+      "tag": "AB2×TAK4",
+      "unicode": "&#x1201B;"
+    },
+    {
+      "id": 945,
+      "tag": "AD",
+      "unicode": "&#x1201C;"
+    },
+    {
+      "id": 946,
+      "tag": "AK",
+      "unicode": "&#x1201D;"
+    },
+    {
+      "id": 947,
+      "tag": "AK×ERIN2",
+      "unicode": "&#x1201E;"
+    },
+    {
+      "id": 948,
+      "tag": "AK×SHITA+GISH",
+      "unicode": "&#x1201F;"
+    },
+    {
+      "id": 949,
+      "tag": "AL",
+      "unicode": "&#x12020;"
+    },
+    {
+      "id": 950,
+      "tag": "AL×AL",
+      "unicode": "&#x12021;"
+    },
+    {
+      "id": 951,
+      "tag": "AL×DIM2",
+      "unicode": "&#x12022;"
+    },
+    {
+      "id": 952,
+      "tag": "AL×GISH",
+      "unicode": "&#x12023;"
+    },
+    {
+      "id": 953,
+      "tag": "AL×HA",
+      "unicode": "&#x12024;"
+    },
+    {
+      "id": 954,
+      "tag": "AL×KAD3",
+      "unicode": "&#x12025;"
+    },
+    {
+      "id": 955,
+      "tag": "AL×KI",
+      "unicode": "&#x12026;"
+    },
+    {
+      "id": 956,
+      "tag": "AL×SHE",
+      "unicode": "&#x12027;"
+    },
+    {
+      "id": 957,
+      "tag": "AL×USH",
+      "unicode": "&#x12028;"
+    },
+    {
+      "id": 958,
+      "tag": "ALAN",
+      "unicode": "&#x12029;"
+    },
+    {
+      "id": 959,
+      "tag": "ALEPH",
+      "unicode": "&#x1202A;"
+    },
+    {
+      "id": 960,
+      "tag": "AMAR",
+      "unicode": "&#x1202B;"
+    },
+    {
+      "id": 961,
+      "tag": "AMAR×SHE",
+      "unicode": "&#x1202C;"
+    },
+    {
+      "id": 962,
+      "tag": "AN",
+      "unicode": "&#x1202D;"
+    },
+    {
+      "id": 963,
+      "tag": "AN/AN",
+      "unicode": "&#x1202E;"
+    },
+    {
+      "id": 964,
+      "tag": "AN THREE TIMES",
+      "unicode": "&#x1202F;"
+    },
+    {
+      "id": 965,
+      "tag": "AN+NAGA_opposing_AN+NAGA",
+      "unicode": "&#x12030;"
+    },
+    {
+      "id": 966,
+      "tag": "AN+NAGA SQUARED",
+      "unicode": "&#x12031;"
+    },
+    {
+      "id": 967,
+      "tag": "ANSHE",
+      "unicode": "&#x12032;"
+    },
+    {
+      "id": 968,
+      "tag": "APIN",
+      "unicode": "&#x12033;"
+    },
+    {
+      "id": 969,
+      "tag": "ARAD",
+      "unicode": "&#x12034;"
+    },
+    {
+      "id": 970,
+      "tag": "ARAD×KUR",
+      "unicode": "&#x12035;"
+    },
+    {
+      "id": 971,
+      "tag": "ARKAB",
+      "unicode": "&#x12036;"
+    },
+    {
+      "id": 972,
+      "tag": "ASAL2",
+      "unicode": "&#x12037;"
+    },
+    {
+      "id": 973,
+      "tag": "ASH",
+      "unicode": "&#x12038;"
+    },
+    {
+      "id": 974,
+      "tag": "ASH ZIDA@t",
+      "unicode": "&#x12039;"
+    },
+    {
+      "id": 975,
+      "tag": "ASH KABA@t",
+      "unicode": "&#x1203A;"
+    },
+    {
+      "id": 976,
+      "tag": "EZEN×KU3",
+      "unicode": "&#x120AE;"
+    },
+    {
+      "id": 977,
+      "tag": "EZEN×LA",
+      "unicode": "&#x120AF;"
+    },
+    {
+      "id": 978,
+      "tag": "EZEN×LAL×LAL",
+      "unicode": "&#x120B0;"
+    },
+    {
+      "id": 979,
+      "tag": "EZEN×LI",
+      "unicode": "&#x120B1;"
+    },
+    {
+      "id": 980,
+      "tag": "EZEN×LU",
+      "unicode": "&#x120B2;"
+    },
+    {
+      "id": 981,
+      "tag": "EZEN×U2",
+      "unicode": "&#x120B3;"
+    },
+    {
+      "id": 982,
+      "tag": "EZEN×UD",
+      "unicode": "&#x120B4;"
+    },
+    {
+      "id": 983,
+      "tag": "GA",
+      "unicode": "&#x120B5;"
+    },
+    {
+      "id": 984,
+      "tag": "GA@t",
+      "unicode": "&#x120B6;"
+    },
+    {
+      "id": 985,
+      "tag": "GA2",
+      "unicode": "&#x120B7;"
+    },
+    {
+      "id": 986,
+      "tag": "GA2×A+DA+HA",
+      "unicode": "&#x120B8;"
+    },
+    {
+      "id": 987,
+      "tag": "GA2×A+HA",
+      "unicode": "&#x120B9;"
+    },
+    {
+      "id": 988,
+      "tag": "GA2×A+IGI",
+      "unicode": "&#x120BA;"
+    },
+    {
+      "id": 989,
+      "tag": "GA2×AB2@t+TAB",
+      "unicode": "&#x120BB;"
+    },
+    {
+      "id": 990,
+      "tag": "GA2×AN",
+      "unicode": "&#x120BC;"
+    },
+    {
+      "id": 991,
+      "tag": "GA2×ASH",
+      "unicode": "&#x120BD;"
+    },
+    {
+      "id": 992,
+      "tag": "GA2×ASH2+GAL",
+      "unicode": "&#x120BE;"
+    },
+    {
+      "id": 993,
+      "tag": "GA2×BAD",
+      "unicode": "&#x120BF;"
+    },
+    {
+      "id": 994,
+      "tag": "GA2×BAR+RA",
+      "unicode": "&#x120C0;"
+    },
+    {
+      "id": 995,
+      "tag": "GA2×BUR",
+      "unicode": "&#x120C1;"
+    },
+    {
+      "id": 996,
+      "tag": "GA2×BUR+RA",
+      "unicode": "&#x120C2;"
+    },
+    {
+      "id": 997,
+      "tag": "GA2×DA",
+      "unicode": "&#x120C3;"
+    },
+    {
+      "id": 998,
+      "tag": "GA2×DI",
+      "unicode": "&#x120C4;"
+    },
+    {
+      "id": 999,
+      "tag": "GA2×DIM×SHE",
+      "unicode": "&#x120C5;"
+    },
+    {
+      "id": 1000,
+      "tag": "GA2×DUB",
+      "unicode": "&#x120C6;"
+    },
+    {
+      "id": 1001,
+      "tag": "GA2×EL",
+      "unicode": "&#x120C7;"
+    },
+    {
+      "id": 1002,
+      "tag": "GA2×EL+LA",
+      "unicode": "&#x120C8;"
+    },
+    {
+      "id": 1003,
+      "tag": "GA2×EN",
+      "unicode": "&#x120C9;"
+    },
+    {
+      "id": 1004,
+      "tag": "GA2×EN×GAN2@t",
+      "unicode": "&#x120CA;"
+    },
+    {
+      "id": 1005,
+      "tag": "GA2×GAN2@t",
+      "unicode": "&#x120CB;"
+    },
+    {
+      "id": 1006,
+      "tag": "GA2×GAR",
+      "unicode": "&#x120CC;"
+    },
+    {
+      "id": 1007,
+      "tag": "GA2×GI",
+      "unicode": "&#x120CD;"
+    },
+    {
+      "id": 1008,
+      "tag": "GA2×GI4",
+      "unicode": "&#x120CE;"
+    },
+    {
+      "id": 1009,
+      "tag": "GA2×GI4+A",
+      "unicode": "&#x120CF;"
+    },
+    {
+      "id": 1010,
+      "tag": "GA2×GIR2+SU",
+      "unicode": "&#x120D0;"
+    },
+    {
+      "id": 1011,
+      "tag": "GA2×HA+LU+ESH2",
+      "unicode": "&#x120D1;"
+    },
+    {
+      "id": 1012,
+      "tag": "GA2×HAL",
+      "unicode": "&#x120D2;"
+    },
+    {
+      "id": 1013,
+      "tag": "GA2×HAL+LA",
+      "unicode": "&#x120D3;"
+    },
+    {
+      "id": 1014,
+      "tag": "GA2×HI+LI",
+      "unicode": "&#x120D4;"
+    },
+    {
+      "id": 1015,
+      "tag": "GA2×HUB2",
+      "unicode": "&#x120D5;"
+    },
+    {
+      "id": 1016,
+      "tag": "GA2×IGI@t",
+      "unicode": "&#x120D6;"
+    },
+    {
+      "id": 1017,
+      "tag": "GA2×ISH+HU+ASH",
+      "unicode": "&#x120D7;"
+    },
+    {
+      "id": 1018,
+      "tag": "GA2×KAK",
+      "unicode": "&#x120D8;"
+    },
+    {
+      "id": 1019,
+      "tag": "GA2×KASKAL",
+      "unicode": "&#x120D9;"
+    },
+    {
+      "id": 1020,
+      "tag": "GA2×KID",
+      "unicode": "&#x120DA;"
+    },
+    {
+      "id": 1021,
+      "tag": "GA2×KID+LAL",
+      "unicode": "&#x120DB;"
+    },
+    {
+      "id": 1022,
+      "tag": "GA2×KU3+AN",
+      "unicode": "&#x120DC;"
+    },
+    {
+      "id": 1023,
+      "tag": "GA2×LA",
+      "unicode": "&#x120DD;"
+    },
+    {
+      "id": 1024,
+      "tag": "GA2×ME+EN",
+      "unicode": "&#x120DE;"
+    },
+    {
+      "id": 1025,
+      "tag": "GA2×MI",
+      "unicode": "&#x120DF;"
+    },
+    {
+      "id": 1026,
+      "tag": "GA2×NUN",
+      "unicode": "&#x120E0;"
+    },
+    {
+      "id": 1027,
+      "tag": "GA2×NUN/NUN",
+      "unicode": "&#x120E1;"
+    },
+    {
+      "id": 1028,
+      "tag": "GA2×PA",
+      "unicode": "&#x120E2;"
+    },
+    {
+      "id": 1029,
+      "tag": "GA2×SAL",
+      "unicode": "&#x120E3;"
+    },
+    {
+      "id": 1030,
+      "tag": "GA2×SAR",
+      "unicode": "&#x120E4;"
+    },
+    {
+      "id": 1031,
+      "tag": "DIB",
+      "unicode": "&#x12073;"
+    },
+    {
+      "id": 1032,
+      "tag": "DIM",
+      "unicode": "&#x12074;"
+    },
+    {
+      "id": 1033,
+      "tag": "DIM×SHE",
+      "unicode": "&#x12075;"
+    },
+    {
+      "id": 1034,
+      "tag": "DIM2",
+      "unicode": "&#x12076;"
+    },
+    {
+      "id": 1035,
+      "tag": "DIN",
+      "unicode": "&#x12077;"
+    },
+    {
+      "id": 1036,
+      "tag": "DIN KASKAL U@tDISH",
+      "unicode": "&#x12078;"
+    },
+    {
+      "id": 1037,
+      "tag": "DISH",
+      "unicode": "&#x12079;"
+    },
+    {
+      "id": 1038,
+      "tag": "DU",
+      "unicode": "&#x1207A;"
+    },
+    {
+      "id": 1039,
+      "tag": "DU/DU",
+      "unicode": "&#x1207B;"
+    },
+    {
+      "id": 1040,
+      "tag": "DU@t",
+      "unicode": "&#x1207C;"
+    },
+    {
+      "id": 1041,
+      "tag": "DU SHESHIG",
+      "unicode": "&#x1207D;"
+    },
+    {
+      "id": 1042,
+      "tag": "DUB",
+      "unicode": "&#x1207E;"
+    },
+    {
+      "id": 1043,
+      "tag": "DUB×ESH2",
+      "unicode": "&#x1207F;"
+    },
+    {
+      "id": 1044,
+      "tag": "DUB2",
+      "unicode": "&#x12080;"
+    },
+    {
+      "id": 1045,
+      "tag": "DUG",
+      "unicode": "&#x12081;"
+    },
+    {
+      "id": 1046,
+      "tag": "DUGUD",
+      "unicode": "&#x12082;"
+    },
+    {
+      "id": 1047,
+      "tag": "DUH",
+      "unicode": "&#x12083;"
+    },
+    {
+      "id": 1048,
+      "tag": "DUN",
+      "unicode": "&#x12084;"
+    },
+    {
+      "id": 1049,
+      "tag": "DUN3",
+      "unicode": "&#x12085;"
+    },
+    {
+      "id": 1050,
+      "tag": "DUN3@t",
+      "unicode": "&#x12086;"
+    },
+    {
+      "id": 1051,
+      "tag": "DUN3@g",
+      "unicode": "&#x12087;"
+    },
+    {
+      "id": 1052,
+      "tag": "DUN4",
+      "unicode": "&#x12088;"
+    },
+    {
+      "id": 1053,
+      "tag": "DUR2",
+      "unicode": "&#x12089;"
+    },
+    {
+      "id": 1054,
+      "tag": "E",
+      "unicode": "&#x1208A;"
+    },
+    {
+      "id": 1055,
+      "tag": "E×PAP",
+      "unicode": "&#x1208B;"
+    },
+    {
+      "id": 1056,
+      "tag": "E/E NUN/NUN",
+      "unicode": "&#x1208C;"
+    },
+    {
+      "id": 1057,
+      "tag": "E2",
+      "unicode": "&#x1208D;"
+    },
+    {
+      "id": 1058,
+      "tag": "E2×A+HA+DA",
+      "unicode": "&#x1208E;"
+    },
+    {
+      "id": 1059,
+      "tag": "E2×GAR",
+      "unicode": "&#x1208F;"
+    },
+    {
+      "id": 1060,
+      "tag": "E2×MI",
+      "unicode": "&#x12090;"
+    },
+    {
+      "id": 1061,
+      "tag": "E2×SAL",
+      "unicode": "&#x12091;"
+    },
+    {
+      "id": 1062,
+      "tag": "E2×SHE",
+      "unicode": "&#x12092;"
+    },
+    {
+      "id": 1063,
+      "tag": "E2×U",
+      "unicode": "&#x12093;"
+    },
+    {
+      "id": 1064,
+      "tag": "EDIN",
+      "unicode": "&#x12094;"
+    },
+    {
+      "id": 1065,
+      "tag": "EGIR",
+      "unicode": "&#x12095;"
+    },
+    {
+      "id": 1066,
+      "tag": "EL",
+      "unicode": "&#x12096;"
+    },
+    {
+      "id": 1067,
+      "tag": "EN",
+      "unicode": "&#x12097;"
+    },
+    {
+      "id": 1068,
+      "tag": "EN×GAN2",
+      "unicode": "&#x12098;"
+    },
+    {
+      "id": 1069,
+      "tag": "EN×GAN2@t",
+      "unicode": "&#x12099;"
+    },
+    {
+      "id": 1070,
+      "tag": "EN×ME",
+      "unicode": "&#x1209A;"
+    },
+    {
+      "id": 1071,
+      "tag": "EN%EN",
+      "unicode": "&#x1209B;"
+    },
+    {
+      "id": 1072,
+      "tag": "EN_opposing_EN",
+      "unicode": "&#x1209C;"
+    },
+    {
+      "id": 1073,
+      "tag": "EN SQUARED",
+      "unicode": "&#x1209D;"
+    },
+    {
+      "id": 1074,
+      "tag": "EREN",
+      "unicode": "&#x1209E;"
+    },
+    {
+      "id": 1075,
+      "tag": "ERIN2",
+      "unicode": "&#x1209F;"
+    },
+    {
+      "id": 1076,
+      "tag": "ESH2",
+      "unicode": "&#x120A0;"
+    },
+    {
+      "id": 1077,
+      "tag": "EZEN",
+      "unicode": "&#x120A1;"
+    },
+    {
+      "id": 1078,
+      "tag": "EZEN×A",
+      "unicode": "&#x120A2;"
+    },
+    {
+      "id": 1079,
+      "tag": "EZEN×A+LAL",
+      "unicode": "&#x120A3;"
+    },
+    {
+      "id": 1080,
+      "tag": "EZEN×A+LAL×LAL",
+      "unicode": "&#x120A4;"
+    },
+    {
+      "id": 1081,
+      "tag": "EZEN×AN",
+      "unicode": "&#x120A5;"
+    },
+    {
+      "id": 1082,
+      "tag": "EZEN×BAD",
+      "unicode": "&#x120A6;"
+    },
+    {
+      "id": 1083,
+      "tag": "EZEN×DUN3@t",
+      "unicode": "&#x120A7;"
+    },
+    {
+      "id": 1084,
+      "tag": "EZEN×DUN3@g",
+      "unicode": "&#x120A8;"
+    },
+    {
+      "id": 1085,
+      "tag": "EZEN×HA",
+      "unicode": "&#x120A9;"
+    },
+    {
+      "id": 1086,
+      "tag": "EZEN×HA@t",
+      "unicode": "&#x120AA;"
+    },
+    {
+      "id": 1087,
+      "tag": "EZEN×IGI@t",
+      "unicode": "&#x120AB;"
+    },
+    {
+      "id": 1088,
+      "tag": "EZEN×KASKAL",
+      "unicode": "&#x120AC;"
+    },
+    {
+      "id": 1089,
+      "tag": "GUD/GUD LUGAL",
+      "unicode": "&#x12121;"
+    },
+    {
+      "id": 1090,
+      "tag": "GUL",
+      "unicode": "&#x12122;"
+    },
+    {
+      "id": 1091,
+      "tag": "GUM",
+      "unicode": "&#x12123;"
+    },
+    {
+      "id": 1092,
+      "tag": "GUM×SHE",
+      "unicode": "&#x12124;"
+    },
+    {
+      "id": 1093,
+      "tag": "GUR",
+      "unicode": "&#x12125;"
+    },
+    {
+      "id": 1094,
+      "tag": "GUR7",
+      "unicode": "&#x12126;"
+    },
+    {
+      "id": 1095,
+      "tag": "GURUN",
+      "unicode": "&#x12127;"
+    },
+    {
+      "id": 1096,
+      "tag": "GURUSH",
+      "unicode": "&#x12128;"
+    },
+    {
+      "id": 1097,
+      "tag": "HA",
+      "unicode": "&#x12129;"
+    },
+    {
+      "id": 1098,
+      "tag": "HA@t",
+      "unicode": "&#x1212A;"
+    },
+    {
+      "id": 1099,
+      "tag": "HA@t",
+      "unicode": "&#x1212B;"
+    },
+    {
+      "id": 1100,
+      "tag": "HAL",
+      "unicode": "&#x1212C;"
+    },
+    {
+      "id": 1101,
+      "tag": "HI",
+      "unicode": "&#x1212D;"
+    },
+    {
+      "id": 1102,
+      "tag": "HI×ASH",
+      "unicode": "&#x1212E;"
+    },
+    {
+      "id": 1103,
+      "tag": "HI×ASH2",
+      "unicode": "&#x1212F;"
+    },
+    {
+      "id": 1104,
+      "tag": "HI×BAD",
+      "unicode": "&#x12130;"
+    },
+    {
+      "id": 1105,
+      "tag": "HI×DISH",
+      "unicode": "&#x12131;"
+    },
+    {
+      "id": 1106,
+      "tag": "HI×GAD",
+      "unicode": "&#x12132;"
+    },
+    {
+      "id": 1107,
+      "tag": "HI×KIN",
+      "unicode": "&#x12133;"
+    },
+    {
+      "id": 1108,
+      "tag": "HI×NUN",
+      "unicode": "&#x12134;"
+    },
+    {
+      "id": 1109,
+      "tag": "HI×SHE",
+      "unicode": "&#x12135;"
+    },
+    {
+      "id": 1110,
+      "tag": "HI×U",
+      "unicode": "&#x12136;"
+    },
+    {
+      "id": 1111,
+      "tag": "HU",
+      "unicode": "&#x12137;"
+    },
+    {
+      "id": 1112,
+      "tag": "HUB2",
+      "unicode": "&#x12138;"
+    },
+    {
+      "id": 1113,
+      "tag": "HUB2×AN",
+      "unicode": "&#x12139;"
+    },
+    {
+      "id": 1114,
+      "tag": "HUB2×HAL",
+      "unicode": "&#x1213A;"
+    },
+    {
+      "id": 1115,
+      "tag": "HUB2×KASKAL",
+      "unicode": "&#x1213B;"
+    },
+    {
+      "id": 1116,
+      "tag": "HUB2×LISH",
+      "unicode": "&#x1213C;"
+    },
+    {
+      "id": 1117,
+      "tag": "HUB2×UD",
+      "unicode": "&#x1213D;"
+    },
+    {
+      "id": 1118,
+      "tag": "HUL2",
+      "unicode": "&#x1213E;"
+    },
+    {
+      "id": 1119,
+      "tag": "I",
+      "unicode": "&#x1213F;"
+    },
+    {
+      "id": 1120,
+      "tag": "I A",
+      "unicode": "&#x12140;"
+    },
+    {
+      "id": 1121,
+      "tag": "IB",
+      "unicode": "&#x12141;"
+    },
+    {
+      "id": 1122,
+      "tag": "IDIM",
+      "unicode": "&#x12142;"
+    },
+    {
+      "id": 1123,
+      "tag": "IDIM/IDIM BUR",
+      "unicode": "&#x12143;"
+    },
+    {
+      "id": 1124,
+      "tag": "IDIM/IDIM SQUARED",
+      "unicode": "&#x12144;"
+    },
+    {
+      "id": 1125,
+      "tag": "IG",
+      "unicode": "&#x12145;"
+    },
+    {
+      "id": 1126,
+      "tag": "IGI",
+      "unicode": "&#x12146;"
+    },
+    {
+      "id": 1127,
+      "tag": "IGI DIB",
+      "unicode": "&#x12147;"
+    },
+    {
+      "id": 1128,
+      "tag": "IGI RI",
+      "unicode": "&#x12148;"
+    },
+    {
+      "id": 1129,
+      "tag": "IGI/IGI SHIR/SHIR UD/UD",
+      "unicode": "&#x12149;"
+    },
+    {
+      "id": 1130,
+      "tag": "IGI@t",
+      "unicode": "&#x1214A;"
+    },
+    {
+      "id": 1131,
+      "tag": "IL",
+      "unicode": "&#x1214B;"
+    },
+    {
+      "id": 1132,
+      "tag": "IL×GAN2@t",
+      "unicode": "&#x1214C;"
+    },
+    {
+      "id": 1133,
+      "tag": "IL2",
+      "unicode": "&#x1214D;"
+    },
+    {
+      "id": 1134,
+      "tag": "IM",
+      "unicode": "&#x1214E;"
+    },
+    {
+      "id": 1135,
+      "tag": "IM×TAK4",
+      "unicode": "&#x1214F;"
+    },
+    {
+      "id": 1136,
+      "tag": "IM%IM",
+      "unicode": "&#x12150;"
+    },
+    {
+      "id": 1137,
+      "tag": "IM_opposing_IM",
+      "unicode": "&#x12151;"
+    },
+    {
+      "id": 1138,
+      "tag": "IM SQUARED",
+      "unicode": "&#x12152;"
+    },
+    {
+      "id": 1139,
+      "tag": "IMIN",
+      "unicode": "&#x12153;"
+    },
+    {
+      "id": 1140,
+      "tag": "IN",
+      "unicode": "&#x12154;"
+    },
+    {
+      "id": 1141,
+      "tag": "IR",
+      "unicode": "&#x12155;"
+    },
+    {
+      "id": 1142,
+      "tag": "ISH",
+      "unicode": "&#x12156;"
+    },
+    {
+      "id": 1143,
+      "tag": "KA",
+      "unicode": "&#x12157;"
+    },
+    {
+      "id": 1144,
+      "tag": "KA×A",
+      "unicode": "&#x12158;"
+    },
+    {
+      "id": 1145,
+      "tag": "KA×AD",
+      "unicode": "&#x12159;"
+    },
+    {
+      "id": 1146,
+      "tag": "KA×AD+KU3",
+      "unicode": "&#x1215A;"
+    },
+    {
+      "id": 1147,
+      "tag": "KA×ASH2",
+      "unicode": "&#x1215B;"
+    },
+    {
+      "id": 1148,
+      "tag": "KA×BAD",
+      "unicode": "&#x1215C;"
+    },
+    {
+      "id": 1149,
+      "tag": "GA2×SHE+TUR",
+      "unicode": "&#x120E6;"
+    },
+    {
+      "id": 1150,
+      "tag": "GA2×SHID",
+      "unicode": "&#x120E7;"
+    },
+    {
+      "id": 1151,
+      "tag": "GA2×SUM",
+      "unicode": "&#x120E8;"
+    },
+    {
+      "id": 1152,
+      "tag": "GA2×TAK4",
+      "unicode": "&#x120E9;"
+    },
+    {
+      "id": 1153,
+      "tag": "GA2×U",
+      "unicode": "&#x120EA;"
+    },
+    {
+      "id": 1154,
+      "tag": "GA2×UD",
+      "unicode": "&#x120EB;"
+    },
+    {
+      "id": 1155,
+      "tag": "GA2×UD+DU",
+      "unicode": "&#x120EC;"
+    },
+    {
+      "id": 1156,
+      "tag": "GA2/GA2",
+      "unicode": "&#x120ED;"
+    },
+    {
+      "id": 1157,
+      "tag": "GABA",
+      "unicode": "&#x120EE;"
+    },
+    {
+      "id": 1158,
+      "tag": "GABA%GABA",
+      "unicode": "&#x120EF;"
+    },
+    {
+      "id": 1159,
+      "tag": "GAD",
+      "unicode": "&#x120F0;"
+    },
+    {
+      "id": 1160,
+      "tag": "GAD/GAD GAR/GAR",
+      "unicode": "&#x120F1;"
+    },
+    {
+      "id": 1161,
+      "tag": "GAL",
+      "unicode": "&#x120F2;"
+    },
+    {
+      "id": 1162,
+      "tag": "GAL GAD/GAD GAR/GAR",
+      "unicode": "&#x120F3;"
+    },
+    {
+      "id": 1163,
+      "tag": "GALAM",
+      "unicode": "&#x120F4;"
+    },
+    {
+      "id": 1164,
+      "tag": "GAM",
+      "unicode": "&#x120F5;"
+    },
+    {
+      "id": 1165,
+      "tag": "GAN",
+      "unicode": "&#x120F6;"
+    },
+    {
+      "id": 1166,
+      "tag": "GAN2",
+      "unicode": "&#x120F7;"
+    },
+    {
+      "id": 1167,
+      "tag": "GAN2@t",
+      "unicode": "&#x120F8;"
+    },
+    {
+      "id": 1168,
+      "tag": "GAN2/GAN2",
+      "unicode": "&#x120F9;"
+    },
+    {
+      "id": 1169,
+      "tag": "GAN2%GAN2",
+      "unicode": "&#x120FA;"
+    },
+    {
+      "id": 1170,
+      "tag": "GAR",
+      "unicode": "&#x120FB;"
+    },
+    {
+      "id": 1171,
+      "tag": "GAR3",
+      "unicode": "&#x120FC;"
+    },
+    {
+      "id": 1172,
+      "tag": "GASHAN",
+      "unicode": "&#x120FD;"
+    },
+    {
+      "id": 1173,
+      "tag": "GESHTIN",
+      "unicode": "&#x120FE;"
+    },
+    {
+      "id": 1174,
+      "tag": "GESHTIN×KUR",
+      "unicode": "&#x120FF;"
+    },
+    {
+      "id": 1175,
+      "tag": "GI",
+      "unicode": "&#x12100;"
+    },
+    {
+      "id": 1176,
+      "tag": "GI×E",
+      "unicode": "&#x12101;"
+    },
+    {
+      "id": 1177,
+      "tag": "GI×U",
+      "unicode": "&#x12102;"
+    },
+    {
+      "id": 1178,
+      "tag": "GI%GI",
+      "unicode": "&#x12103;"
+    },
+    {
+      "id": 1179,
+      "tag": "GI4",
+      "unicode": "&#x12104;"
+    },
+    {
+      "id": 1180,
+      "tag": "GI4/GI4",
+      "unicode": "&#x12105;"
+    },
+    {
+      "id": 1181,
+      "tag": "GI4%GI4",
+      "unicode": "&#x12106;"
+    },
+    {
+      "id": 1182,
+      "tag": "GIDIM",
+      "unicode": "&#x12107;"
+    },
+    {
+      "id": 1183,
+      "tag": "GIR2",
+      "unicode": "&#x12108;"
+    },
+    {
+      "id": 1184,
+      "tag": "GIR2@t",
+      "unicode": "&#x12109;"
+    },
+    {
+      "id": 1185,
+      "tag": "GIR3",
+      "unicode": "&#x1210A;"
+    },
+    {
+      "id": 1186,
+      "tag": "GIR3×A+IGI",
+      "unicode": "&#x1210B;"
+    },
+    {
+      "id": 1187,
+      "tag": "GIR3×GAN2@t",
+      "unicode": "&#x1210C;"
+    },
+    {
+      "id": 1188,
+      "tag": "GIR3×IGI",
+      "unicode": "&#x1210D;"
+    },
+    {
+      "id": 1189,
+      "tag": "GIR3×LU+IGI",
+      "unicode": "&#x1210E;"
+    },
+    {
+      "id": 1190,
+      "tag": "GIR3×PA",
+      "unicode": "&#x1210F;"
+    },
+    {
+      "id": 1191,
+      "tag": "GISAL",
+      "unicode": "&#x12110;"
+    },
+    {
+      "id": 1192,
+      "tag": "GISH",
+      "unicode": "&#x12111;"
+    },
+    {
+      "id": 1193,
+      "tag": "GISH%GISH",
+      "unicode": "&#x12112;"
+    },
+    {
+      "id": 1194,
+      "tag": "GISH×BAD",
+      "unicode": "&#x12113;"
+    },
+    {
+      "id": 1195,
+      "tag": "GISH×TAK4",
+      "unicode": "&#x12114;"
+    },
+    {
+      "id": 1196,
+      "tag": "GISH@t",
+      "unicode": "&#x12115;"
+    },
+    {
+      "id": 1197,
+      "tag": "GU",
+      "unicode": "&#x12116;"
+    },
+    {
+      "id": 1198,
+      "tag": "GU%GU",
+      "unicode": "&#x12117;"
+    },
+    {
+      "id": 1199,
+      "tag": "GU2",
+      "unicode": "&#x12118;"
+    },
+    {
+      "id": 1200,
+      "tag": "GU2×KAK",
+      "unicode": "&#x12119;"
+    },
+    {
+      "id": 1201,
+      "tag": "GU2×KAK×IGI@t",
+      "unicode": "&#x1211A;"
+    },
+    {
+      "id": 1202,
+      "tag": "GU2×NUN",
+      "unicode": "&#x1211B;"
+    },
+    {
+      "id": 1203,
+      "tag": "GU2×SAL+TUG2",
+      "unicode": "&#x1211C;"
+    },
+    {
+      "id": 1204,
+      "tag": "GU2@t",
+      "unicode": "&#x1211D;"
+    },
+    {
+      "id": 1205,
+      "tag": "GUD",
+      "unicode": "&#x1211E;"
+    },
+    {
+      "id": 1206,
+      "tag": "GUD×A+KUR",
+      "unicode": "&#x1211F;;"
+    },
+    {
+      "id": 1207,
+      "tag": "KAM2",
+      "unicode": "&#x1219A;"
+    },
+    {
+      "id": 1208,
+      "tag": "KAM4",
+      "unicode": "&#x1219B;"
+    },
+    {
+      "id": 1209,
+      "tag": "KASKAL",
+      "unicode": "&#x1219C;"
+    },
+    {
+      "id": 1210,
+      "tag": "KASKAL LAGAB×U/LAGAB×U",
+      "unicode": "&#x1219D;"
+    },
+    {
+      "id": 1211,
+      "tag": "KASKAL/KASKAL LAGAB×U/LAGAB×U",
+      "unicode": "&#x1219E;"
+    },
+    {
+      "id": 1212,
+      "tag": "KESH2",
+      "unicode": "&#x1219F;"
+    },
+    {
+      "id": 1213,
+      "tag": "KI",
+      "unicode": "&#x121A0;"
+    },
+    {
+      "id": 1214,
+      "tag": "KI×BAD",
+      "unicode": "&#x121A1;"
+    },
+    {
+      "id": 1215,
+      "tag": "KI×U",
+      "unicode": "&#x121A2;"
+    },
+    {
+      "id": 1216,
+      "tag": "KI×UD",
+      "unicode": "&#x121A3;"
+    },
+    {
+      "id": 1217,
+      "tag": "KID",
+      "unicode": "&#x121A4;"
+    },
+    {
+      "id": 1218,
+      "tag": "KIN",
+      "unicode": "&#x121A5;"
+    },
+    {
+      "id": 1219,
+      "tag": "KISAL",
+      "unicode": "&#x121A6;"
+    },
+    {
+      "id": 1220,
+      "tag": "KISH",
+      "unicode": "&#x121A7;"
+    },
+    {
+      "id": 1221,
+      "tag": "KISIM5",
+      "unicode": "&#x121A8;"
+    },
+    {
+      "id": 1222,
+      "tag": "KISIM5/KISIM5",
+      "unicode": "&#x121A9;"
+    },
+    {
+      "id": 1223,
+      "tag": "KU",
+      "unicode": "&#x121AA;"
+    },
+    {
+      "id": 1224,
+      "tag": "KU/HI×ASH2 KU/HI×ASH2",
+      "unicode": "&#x121AB;"
+    },
+    {
+      "id": 1225,
+      "tag": "KU3",
+      "unicode": "&#x121AC;"
+    },
+    {
+      "id": 1226,
+      "tag": "KU4",
+      "unicode": "&#x121AD;"
+    },
+    {
+      "id": 1227,
+      "tag": "KU4 VARIANT FORM",
+      "unicode": "&#x121AE;"
+    },
+    {
+      "id": 1228,
+      "tag": "KU7",
+      "unicode": "&#x121AF;"
+    },
+    {
+      "id": 1229,
+      "tag": "KUL",
+      "unicode": "&#x121B0;"
+    },
+    {
+      "id": 1230,
+      "tag": "KUL@t",
+      "unicode": "&#x121B1;"
+    },
+    {
+      "id": 1231,
+      "tag": "KUN",
+      "unicode": "&#x121B2;"
+    },
+    {
+      "id": 1232,
+      "tag": "KUR",
+      "unicode": "&#x121B3;"
+    },
+    {
+      "id": 1233,
+      "tag": "KUR_opposing_KUR",
+      "unicode": "&#x121B4;"
+    },
+    {
+      "id": 1234,
+      "tag": "KUSHU2",
+      "unicode": "&#x121B5;"
+    },
+    {
+      "id": 1235,
+      "tag": "KWU318",
+      "unicode": "&#x121B6;"
+    },
+    {
+      "id": 1236,
+      "tag": "LA",
+      "unicode": "&#x121B7;"
+    },
+    {
+      "id": 1237,
+      "tag": "LAGAB",
+      "unicode": "&#x121B8;"
+    },
+    {
+      "id": 1238,
+      "tag": "LAGAB×A",
+      "unicode": "&#x121B9;"
+    },
+    {
+      "id": 1239,
+      "tag": "LAGAB×A+DA+HA",
+      "unicode": "&#x121BA;"
+    },
+    {
+      "id": 1240,
+      "tag": "LAGAB×A+GAR",
+      "unicode": "&#x121BB;"
+    },
+    {
+      "id": 1241,
+      "tag": "LAGAB×A+LAL",
+      "unicode": "&#x121BC;"
+    },
+    {
+      "id": 1242,
+      "tag": "LAGAB×AL",
+      "unicode": "&#x121BD;"
+    },
+    {
+      "id": 1243,
+      "tag": "LAGAB×AN",
+      "unicode": "&#x121BE;"
+    },
+    {
+      "id": 1244,
+      "tag": "LAGAB×ASH ZIDA@t",
+      "unicode": "&#x121BF;"
+    },
+    {
+      "id": 1245,
+      "tag": "LAGAB×BAD",
+      "unicode": "&#x121C0;"
+    },
+    {
+      "id": 1246,
+      "tag": "LAGAB×BI",
+      "unicode": "&#x121C1;"
+    },
+    {
+      "id": 1247,
+      "tag": "LAGAB×DAR",
+      "unicode": "&#x121C2;"
+    },
+    {
+      "id": 1248,
+      "tag": "LAGAB×EN",
+      "unicode": "&#x121C3;"
+    },
+    {
+      "id": 1249,
+      "tag": "LAGAB×GA",
+      "unicode": "&#x121C4;"
+    },
+    {
+      "id": 1250,
+      "tag": "LAGAB×GAR",
+      "unicode": "&#x121C5;"
+    },
+    {
+      "id": 1251,
+      "tag": "LAGAB×GUD",
+      "unicode": "&#x121C6;"
+    },
+    {
+      "id": 1252,
+      "tag": "LAGAB×GUD+GUD",
+      "unicode": "&#x121C7;"
+    },
+    {
+      "id": 1253,
+      "tag": "LAGAB×HA",
+      "unicode": "&#x121C8;"
+    },
+    {
+      "id": 1254,
+      "tag": "LAGAB×HAL",
+      "unicode": "&#x121C9;"
+    },
+    {
+      "id": 1255,
+      "tag": "LAGAB×HI×NUN",
+      "unicode": "&#x121CA;"
+    },
+    {
+      "id": 1256,
+      "tag": "LAGAB×IGI@t",
+      "unicode": "&#x121CB;"
+    },
+    {
+      "id": 1257,
+      "tag": "LAGAB×IM",
+      "unicode": "&#x121CC;"
+    },
+    {
+      "id": 1258,
+      "tag": "LAGAB×IM+HA",
+      "unicode": "&#x121CD;"
+    },
+    {
+      "id": 1259,
+      "tag": "LAGAB×IM+LU",
+      "unicode": "&#x121CE;"
+    },
+    {
+      "id": 1260,
+      "tag": "LAGAB×KI",
+      "unicode": "&#x121CF;"
+    },
+    {
+      "id": 1261,
+      "tag": "LAGAB×KIN",
+      "unicode": "&#x121D0;"
+    },
+    {
+      "id": 1262,
+      "tag": "KA×BAR",
+      "unicode": "&#x1215E;"
+    },
+    {
+      "id": 1263,
+      "tag": "KA×BI",
+      "unicode": "&#x1215F;"
+    },
+    {
+      "id": 1264,
+      "tag": "KA×ERIN2",
+      "unicode": "&#x12160;"
+    },
+    {
+      "id": 1265,
+      "tag": "KA×ESH2",
+      "unicode": "&#x12161;"
+    },
+    {
+      "id": 1266,
+      "tag": "KA×GA",
+      "unicode": "&#x12162;"
+    },
+    {
+      "id": 1267,
+      "tag": "KA×GAL",
+      "unicode": "&#x12163;"
+    },
+    {
+      "id": 1268,
+      "tag": "KA×GAN2@t",
+      "unicode": "&#x12164;"
+    },
+    {
+      "id": 1269,
+      "tag": "KA×GAR",
+      "unicode": "&#x12165;"
+    },
+    {
+      "id": 1270,
+      "tag": "KA×GAR+SHA3+A",
+      "unicode": "&#x12166;"
+    },
+    {
+      "id": 1271,
+      "tag": "KA×GI",
+      "unicode": "&#x12167;"
+    },
+    {
+      "id": 1272,
+      "tag": "KA×GIR2",
+      "unicode": "&#x12168;"
+    },
+    {
+      "id": 1273,
+      "tag": "KA×GISH+SAR",
+      "unicode": "&#x12169;"
+    },
+    {
+      "id": 1274,
+      "tag": "KA×GISH%GISH",
+      "unicode": "&#x1216A;"
+    },
+    {
+      "id": 1275,
+      "tag": "KA×GU",
+      "unicode": "&#x1216B;"
+    },
+    {
+      "id": 1276,
+      "tag": "KA×GUR7",
+      "unicode": "&#x1216C;"
+    },
+    {
+      "id": 1277,
+      "tag": "KA×IGI",
+      "unicode": "&#x1216D;"
+    },
+    {
+      "id": 1278,
+      "tag": "KA×IM",
+      "unicode": "&#x1216E;"
+    },
+    {
+      "id": 1279,
+      "tag": "KA×KAK",
+      "unicode": "&#x1216F;"
+    },
+    {
+      "id": 1280,
+      "tag": "KA×KI",
+      "unicode": "&#x12170;"
+    },
+    {
+      "id": 1281,
+      "tag": "KA×KID",
+      "unicode": "&#x12171;"
+    },
+    {
+      "id": 1282,
+      "tag": "KA×LI",
+      "unicode": "&#x12172;"
+    },
+    {
+      "id": 1283,
+      "tag": "KA×LU",
+      "unicode": "&#x12173;"
+    },
+    {
+      "id": 1284,
+      "tag": "KA×ME",
+      "unicode": "&#x12174;"
+    },
+    {
+      "id": 1285,
+      "tag": "KA×ME+DU",
+      "unicode": "&#x12175;"
+    },
+    {
+      "id": 1286,
+      "tag": "KA×ME+GI",
+      "unicode": "&#x12176;"
+    },
+    {
+      "id": 1287,
+      "tag": "KA×ME+TE",
+      "unicode": "&#x12177;"
+    },
+    {
+      "id": 1288,
+      "tag": "KA×MI",
+      "unicode": "&#x12178;"
+    },
+    {
+      "id": 1289,
+      "tag": "KA×MI+NUNUZ",
+      "unicode": "&#x12179;"
+    },
+    {
+      "id": 1290,
+      "tag": "KA×NE",
+      "unicode": "&#x1217A;"
+    },
+    {
+      "id": 1291,
+      "tag": "KA×NUN",
+      "unicode": "&#x1217B;"
+    },
+    {
+      "id": 1292,
+      "tag": "KA×PI",
+      "unicode": "&#x1217C;"
+    },
+    {
+      "id": 1293,
+      "tag": "KA×RU",
+      "unicode": "&#x1217D;"
+    },
+    {
+      "id": 1294,
+      "tag": "KA×SA",
+      "unicode": "&#x1217E;"
+    },
+    {
+      "id": 1295,
+      "tag": "KA×SAR",
+      "unicode": "&#x1217F;"
+    },
+    {
+      "id": 1296,
+      "tag": "KA×SHA",
+      "unicode": "&#x12180;"
+    },
+    {
+      "id": 1297,
+      "tag": "KA×SHE",
+      "unicode": "&#x12181;"
+    },
+    {
+      "id": 1298,
+      "tag": "KA×SHID",
+      "unicode": "&#x12182;"
+    },
+    {
+      "id": 1299,
+      "tag": "KA×SHU",
+      "unicode": "&#x12183;"
+    },
+    {
+      "id": 1300,
+      "tag": "KA×SIG",
+      "unicode": "&#x12184;"
+    },
+    {
+      "id": 1301,
+      "tag": "KA×SUHUR",
+      "unicode": "&#x12185;"
+    },
+    {
+      "id": 1302,
+      "tag": "KA×TAR",
+      "unicode": "&#x12186;"
+    },
+    {
+      "id": 1303,
+      "tag": "KA×U",
+      "unicode": "&#x12187;"
+    },
+    {
+      "id": 1304,
+      "tag": "KA×U2",
+      "unicode": "&#x12188;"
+    },
+    {
+      "id": 1305,
+      "tag": "KA×UD",
+      "unicode": "&#x12189;"
+    },
+    {
+      "id": 1306,
+      "tag": "KA×UMUM×PA",
+      "unicode": "&#x1218A;"
+    },
+    {
+      "id": 1307,
+      "tag": "KA×USH",
+      "unicode": "&#x1218B;"
+    },
+    {
+      "id": 1308,
+      "tag": "KA×ZI",
+      "unicode": "&#x1218C;"
+    },
+    {
+      "id": 1309,
+      "tag": "KA2",
+      "unicode": "&#x1218D;"
+    },
+    {
+      "id": 1310,
+      "tag": "KA2%KA2",
+      "unicode": "&#x1218E;"
+    },
+    {
+      "id": 1311,
+      "tag": "KAB",
+      "unicode": "&#x1218F;"
+    },
+    {
+      "id": 1312,
+      "tag": "KAD2",
+      "unicode": "&#x12190;"
+    },
+    {
+      "id": 1313,
+      "tag": "KAD3",
+      "unicode": "&#x12191;"
+    },
+    {
+      "id": 1314,
+      "tag": "KAD4",
+      "unicode": "&#x12192;"
+    },
+    {
+      "id": 1315,
+      "tag": "KAD5",
+      "unicode": "&#x12193;"
+    },
+    {
+      "id": 1316,
+      "tag": "KAD5/KAD5",
+      "unicode": "&#x12194;"
+    },
+    {
+      "id": 1317,
+      "tag": "KAK",
+      "unicode": "&#x12195;"
+    },
+    {
+      "id": 1318,
+      "tag": "KAK×IGI@t",
+      "unicode": "&#x12196;"
+    },
+    {
+      "id": 1319,
+      "tag": "KAL",
+      "unicode": "&#x12197;"
+    },
+    {
+      "id": 1320,
+      "tag": "KAL×BAD",
+      "unicode": "&#x12209;"
+    },
+    {
+      "id": 1321,
+      "tag": "LU2×LA+ASH",
+      "unicode": "&#x12198;"
+    },
+    {
+      "id": 1322,
+      "tag": "LU2×LAGAB",
+      "unicode": "&#x1220A;"
+    },
+    {
+      "id": 1323,
+      "tag": "LU2×ME+EN",
+      "unicode": "&#x1220B;"
+    },
+    {
+      "id": 1324,
+      "tag": "LU2×NE",
+      "unicode": "&#x1220C;"
+    },
+    {
+      "id": 1325,
+      "tag": "LU2×NU",
+      "unicode": "&#x1220D;"
+    },
+    {
+      "id": 1326,
+      "tag": "LU2×SI+ASH",
+      "unicode": "&#x1220E;"
+    },
+    {
+      "id": 1327,
+      "tag": "LU2×SIK2+BU",
+      "unicode": "&#x1220F;"
+    },
+    {
+      "id": 1328,
+      "tag": "LU2×TUG2",
+      "unicode": "&#x12210;"
+    },
+    {
+      "id": 1329,
+      "tag": "LU2@t",
+      "unicode": "&#x12211;"
+    },
+    {
+      "id": 1330,
+      "tag": "LU2%LU2",
+      "unicode": "&#x12212;"
+    },
+    {
+      "id": 1331,
+      "tag": "LU2_opposing_LU2",
+      "unicode": "&#x12213;"
+    },
+    {
+      "id": 1332,
+      "tag": "LU2 SQUARED",
+      "unicode": "&#x12214;"
+    },
+    {
+      "id": 1333,
+      "tag": "LU2 SHESHIG",
+      "unicode": "&#x12215;"
+    },
+    {
+      "id": 1334,
+      "tag": "LU3",
+      "unicode": "&#x12216;"
+    },
+    {
+      "id": 1335,
+      "tag": "LUGAL",
+      "unicode": "&#x12217;"
+    },
+    {
+      "id": 1336,
+      "tag": "LUGAL/LUGAL",
+      "unicode": "&#x12218;"
+    },
+    {
+      "id": 1337,
+      "tag": "LUGAL_opposing_LUGAL",
+      "unicode": "&#x12219;"
+    },
+    {
+      "id": 1338,
+      "tag": "LUGAL SHESHIG",
+      "unicode": "&#x1221A;"
+    },
+    {
+      "id": 1339,
+      "tag": "LUH",
+      "unicode": "&#x1221B;"
+    },
+    {
+      "id": 1340,
+      "tag": "LUL",
+      "unicode": "&#x1221C;"
+    },
+    {
+      "id": 1341,
+      "tag": "LUM",
+      "unicode": "&#x1221D;"
+    },
+    {
+      "id": 1342,
+      "tag": "LUM/LUM",
+      "unicode": "&#x1221E;"
+    },
+    {
+      "id": 1343,
+      "tag": "LUM/LUM GAR/GAR",
+      "unicode": "&#x1221F;"
+    },
+    {
+      "id": 1344,
+      "tag": "MA",
+      "unicode": "&#x12220;"
+    },
+    {
+      "id": 1345,
+      "tag": "MA×TAK4",
+      "unicode": "&#x12221;"
+    },
+    {
+      "id": 1346,
+      "tag": "MA@t",
+      "unicode": "&#x12222;"
+    },
+    {
+      "id": 1347,
+      "tag": "MA2",
+      "unicode": "&#x12223;"
+    },
+    {
+      "id": 1348,
+      "tag": "MAH",
+      "unicode": "&#x12224;"
+    },
+    {
+      "id": 1349,
+      "tag": "MAR",
+      "unicode": "&#x12225;"
+    },
+    {
+      "id": 1350,
+      "tag": "MASH",
+      "unicode": "&#x12226;"
+    },
+    {
+      "id": 1351,
+      "tag": "MASH2",
+      "unicode": "&#x12227;"
+    },
+    {
+      "id": 1352,
+      "tag": "ME",
+      "unicode": "&#x12228;"
+    },
+    {
+      "id": 1353,
+      "tag": "MES",
+      "unicode": "&#x12229;"
+    },
+    {
+      "id": 1354,
+      "tag": "MI",
+      "unicode": "&#x1222A;"
+    },
+    {
+      "id": 1355,
+      "tag": "MIN",
+      "unicode": "&#x1222B;"
+    },
+    {
+      "id": 1356,
+      "tag": "MU",
+      "unicode": "&#x1222C;"
+    },
+    {
+      "id": 1357,
+      "tag": "MU/MU",
+      "unicode": "&#x1222D;"
+    },
+    {
+      "id": 1358,
+      "tag": "MUG",
+      "unicode": "&#x1222E;"
+    },
+    {
+      "id": 1359,
+      "tag": "MUG@t",
+      "unicode": "&#x1222F;"
+    },
+    {
+      "id": 1360,
+      "tag": "MUNSUB",
+      "unicode": "&#x12230;"
+    },
+    {
+      "id": 1361,
+      "tag": "MURGU2",
+      "unicode": "&#x12231;"
+    },
+    {
+      "id": 1362,
+      "tag": "MUSH",
+      "unicode": "&#x12232;"
+    },
+    {
+      "id": 1363,
+      "tag": "MUSH×A",
+      "unicode": "&#x12233;"
+    },
+    {
+      "id": 1364,
+      "tag": "MUSH×KUR",
+      "unicode": "&#x12234;"
+    },
+    {
+      "id": 1365,
+      "tag": "MUSH×ZA",
+      "unicode": "&#x12235;"
+    },
+    {
+      "id": 1366,
+      "tag": "MUSH/MUSH",
+      "unicode": "&#x12236;"
+    },
+    {
+      "id": 1367,
+      "tag": "MUSH/MUSH×A+NA",
+      "unicode": "&#x12237;"
+    },
+    {
+      "id": 1368,
+      "tag": "MUSH%MUSH",
+      "unicode": "&#x12238;"
+    },
+    {
+      "id": 1369,
+      "tag": "MUSH3",
+      "unicode": "&#x12239;"
+    },
+    {
+      "id": 1370,
+      "tag": "MUSH3×A",
+      "unicode": "&#x1223A;"
+    },
+    {
+      "id": 1371,
+      "tag": "MUSH3×A+DI",
+      "unicode": "&#x1223B;"
+    },
+    {
+      "id": 1372,
+      "tag": "MUSH3×DI",
+      "unicode": "&#x1223C;"
+    },
+    {
+      "id": 1373,
+      "tag": "MUSH3@t",
+      "unicode": "&#x1223D;"
+    },
+    {
+      "id": 1374,
+      "tag": "NA",
+      "unicode": "&#x1223E;"
+    },
+    {
+      "id": 1375,
+      "tag": "NA2",
+      "unicode": "&#x1223F;"
+    },
+    {
+      "id": 1376,
+      "tag": "NAGA",
+      "unicode": "&#x12240;"
+    },
+    {
+      "id": 1377,
+      "tag": "NAGA INVERTED",
+      "unicode": "&#x12241;"
+    },
+    {
+      "id": 1378,
+      "tag": "NAGA×SHU@t",
+      "unicode": "&#x12242;"
+    },
+    {
+      "id": 1379,
+      "tag": "NAGA_opposing_NAGA",
+      "unicode": "&#x12243;"
+    },
+    {
+      "id": 1380,
+      "tag": "NAGAR",
+      "unicode": "&#x12244;"
+    },
+    {
+      "id": 1381,
+      "tag": "LAGAB×KUL",
+      "unicode": "&#x121D2;"
+    },
+    {
+      "id": 1382,
+      "tag": "LAGAB×KUL+HI+A",
+      "unicode": "&#x121D3;"
+    },
+    {
+      "id": 1383,
+      "tag": "LAGAB×LAGAB",
+      "unicode": "&#x121D4;"
+    },
+    {
+      "id": 1384,
+      "tag": "LAGAB×LISH",
+      "unicode": "&#x121D5;"
+    },
+    {
+      "id": 1385,
+      "tag": "LAGAB×LU",
+      "unicode": "&#x121D6;"
+    },
+    {
+      "id": 1386,
+      "tag": "LAGAB×LUL",
+      "unicode": "&#x121D7;"
+    },
+    {
+      "id": 1387,
+      "tag": "LAGAB×ME",
+      "unicode": "&#x121D8;"
+    },
+    {
+      "id": 1388,
+      "tag": "LAGAB×ME+EN",
+      "unicode": "&#x121D9;"
+    },
+    {
+      "id": 1389,
+      "tag": "LAGAB×MUSH",
+      "unicode": "&#x121DA;"
+    },
+    {
+      "id": 1390,
+      "tag": "LAGAB×NE",
+      "unicode": "&#x121DB;"
+    },
+    {
+      "id": 1391,
+      "tag": "LAGAB×SHE+SUM",
+      "unicode": "&#x121DC;"
+    },
+    {
+      "id": 1392,
+      "tag": "LAGAB×SHITA+GISH+ERIN2",
+      "unicode": "&#x121DD;"
+    },
+    {
+      "id": 1393,
+      "tag": "LAGAB×SHITA+GISH@t",
+      "unicode": "&#x121DE;"
+    },
+    {
+      "id": 1394,
+      "tag": "LAGAB×SHU2",
+      "unicode": "&#x121DF;"
+    },
+    {
+      "id": 1395,
+      "tag": "LAGAB×SHU2+SHU2",
+      "unicode": "&#x121E0;"
+    },
+    {
+      "id": 1396,
+      "tag": "LAGAB×SUM",
+      "unicode": "&#x121E1;"
+    },
+    {
+      "id": 1397,
+      "tag": "LAGAB×TAG",
+      "unicode": "&#x121E2;"
+    },
+    {
+      "id": 1398,
+      "tag": "LAGAB×TAK4",
+      "unicode": "&#x121E3;"
+    },
+    {
+      "id": 1399,
+      "tag": "LAGAB×TE+A+SU+NA",
+      "unicode": "&#x121E4;"
+    },
+    {
+      "id": 1400,
+      "tag": "LAGAB×U",
+      "unicode": "&#x121E5;"
+    },
+    {
+      "id": 1401,
+      "tag": "LAGAB×U+A",
+      "unicode": "&#x121E6;"
+    },
+    {
+      "id": 1402,
+      "tag": "LAGAB×U+U+U",
+      "unicode": "&#x121E7;"
+    },
+    {
+      "id": 1403,
+      "tag": "LAGAB×U2+ASH",
+      "unicode": "&#x121E8;"
+    },
+    {
+      "id": 1404,
+      "tag": "LAGAB×UD",
+      "unicode": "&#x121E9;"
+    },
+    {
+      "id": 1405,
+      "tag": "LAGAB×USH",
+      "unicode": "&#x121EA;"
+    },
+    {
+      "id": 1406,
+      "tag": "LAGAB SQUARED",
+      "unicode": "&#x121EB;"
+    },
+    {
+      "id": 1407,
+      "tag": "LAGAR",
+      "unicode": "&#x121EC;"
+    },
+    {
+      "id": 1408,
+      "tag": "LAGAR×SHE",
+      "unicode": "&#x121ED;"
+    },
+    {
+      "id": 1409,
+      "tag": "LAGAR×SHE+SUM",
+      "unicode": "&#x121EE;"
+    },
+    {
+      "id": 1410,
+      "tag": "LAGAR@t",
+      "unicode": "&#x121EF;"
+    },
+    {
+      "id": 1411,
+      "tag": "LAGAR@t/LAGAR@tSHE",
+      "unicode": "&#x121F0;"
+    },
+    {
+      "id": 1412,
+      "tag": "LAHSHU",
+      "unicode": "&#x121F1;"
+    },
+    {
+      "id": 1413,
+      "tag": "LAL",
+      "unicode": "&#x121F2;"
+    },
+    {
+      "id": 1414,
+      "tag": "LAL×LAL",
+      "unicode": "&#x121F3;"
+    },
+    {
+      "id": 1415,
+      "tag": "LAM",
+      "unicode": "&#x121F4;"
+    },
+    {
+      "id": 1416,
+      "tag": "LAM×KUR",
+      "unicode": "&#x121F5;"
+    },
+    {
+      "id": 1417,
+      "tag": "LAM×KUR+RU",
+      "unicode": "&#x121F6;"
+    },
+    {
+      "id": 1418,
+      "tag": "LI",
+      "unicode": "&#x121F7;"
+    },
+    {
+      "id": 1419,
+      "tag": "LIL",
+      "unicode": "&#x121F8;"
+    },
+    {
+      "id": 1420,
+      "tag": "LIMMU2",
+      "unicode": "&#x121F9;"
+    },
+    {
+      "id": 1421,
+      "tag": "LISH",
+      "unicode": "&#x121FA;"
+    },
+    {
+      "id": 1422,
+      "tag": "LU",
+      "unicode": "&#x121FB;"
+    },
+    {
+      "id": 1423,
+      "tag": "LU×BAD",
+      "unicode": "&#x121FC;"
+    },
+    {
+      "id": 1424,
+      "tag": "LU2",
+      "unicode": "&#x121FD;"
+    },
+    {
+      "id": 1425,
+      "tag": "LU2×AL",
+      "unicode": "&#x121FE;"
+    },
+    {
+      "id": 1426,
+      "tag": "LU2×BAD",
+      "unicode": "&#x121FF;"
+    },
+    {
+      "id": 1427,
+      "tag": "LU2×ESH2",
+      "unicode": "&#x12200;"
+    },
+    {
+      "id": 1428,
+      "tag": "LU2×ESH2@t",
+      "unicode": "&#x12201;"
+    },
+    {
+      "id": 1429,
+      "tag": "LU2×GAN2@t",
+      "unicode": "&#x12202;"
+    },
+    {
+      "id": 1430,
+      "tag": "LU2×HI×BAD",
+      "unicode": "&#x12203;"
+    },
+    {
+      "id": 1431,
+      "tag": "LU2×IM",
+      "unicode": "&#x12204;"
+    },
+    {
+      "id": 1432,
+      "tag": "LU2×KAD2",
+      "unicode": "&#x12205;"
+    },
+    {
+      "id": 1433,
+      "tag": "LU2×KAD3",
+      "unicode": "&#x12206;"
+    },
+    {
+      "id": 1434,
+      "tag": "LU2×KAD3+ASH",
+      "unicode": "&#x12207;"
+    },
+    {
+      "id": 1435,
+      "tag": "LU2×KI",
+      "unicode": "&#x12208;"
+    },
+    {
+      "id": 1436,
+      "tag": "PAP",
+      "unicode": "&#x1227D;"
+    },
+    {
+      "id": 1437,
+      "tag": "PESH2",
+      "unicode": "&#x1227E;"
+    },
+    {
+      "id": 1438,
+      "tag": "PI",
+      "unicode": "&#x1227F;"
+    },
+    {
+      "id": 1439,
+      "tag": "PI×A",
+      "unicode": "&#x12280;"
+    },
+    {
+      "id": 1440,
+      "tag": "PI×AB",
+      "unicode": "&#x12281;"
+    },
+    {
+      "id": 1441,
+      "tag": "PI×BI",
+      "unicode": "&#x12282;"
+    },
+    {
+      "id": 1442,
+      "tag": "PI×BU",
+      "unicode": "&#x12283;"
+    },
+    {
+      "id": 1443,
+      "tag": "PI×E",
+      "unicode": "&#x12284;"
+    },
+    {
+      "id": 1444,
+      "tag": "PI×I",
+      "unicode": "&#x12285;"
+    },
+    {
+      "id": 1445,
+      "tag": "PI×IB",
+      "unicode": "&#x12286;"
+    },
+    {
+      "id": 1446,
+      "tag": "PI×U",
+      "unicode": "&#x12287;"
+    },
+    {
+      "id": 1447,
+      "tag": "PI×U2",
+      "unicode": "&#x12288;"
+    },
+    {
+      "id": 1448,
+      "tag": "PI%PI",
+      "unicode": "&#x12289;"
+    },
+    {
+      "id": 1449,
+      "tag": "PIRIG",
+      "unicode": "&#x1228A;"
+    },
+    {
+      "id": 1450,
+      "tag": "PIRIG×KAL",
+      "unicode": "&#x1228B;"
+    },
+    {
+      "id": 1451,
+      "tag": "PIRIG×UD",
+      "unicode": "&#x1228C;"
+    },
+    {
+      "id": 1452,
+      "tag": "PIRIG×ZA",
+      "unicode": "&#x1228D;"
+    },
+    {
+      "id": 1453,
+      "tag": "PIRIG_opposing_PIRIG",
+      "unicode": "&#x1228E;"
+    },
+    {
+      "id": 1454,
+      "tag": "RA",
+      "unicode": "&#x1228F;"
+    },
+    {
+      "id": 1455,
+      "tag": "RAB",
+      "unicode": "&#x12290;"
+    },
+    {
+      "id": 1456,
+      "tag": "RI",
+      "unicode": "&#x12291;"
+    },
+    {
+      "id": 1457,
+      "tag": "RU",
+      "unicode": "&#x12292;"
+    },
+    {
+      "id": 1458,
+      "tag": "SA",
+      "unicode": "&#x12293;"
+    },
+    {
+      "id": 1459,
+      "tag": "SAG NUTILLU",
+      "unicode": "&#x12294;"
+    },
+    {
+      "id": 1460,
+      "tag": "SAG",
+      "unicode": "&#x12295;"
+    },
+    {
+      "id": 1461,
+      "tag": "SAG×A",
+      "unicode": "&#x12296;"
+    },
+    {
+      "id": 1462,
+      "tag": "SAG×DU",
+      "unicode": "&#x12297;"
+    },
+    {
+      "id": 1463,
+      "tag": "SAG×DUB",
+      "unicode": "&#x12298;"
+    },
+    {
+      "id": 1464,
+      "tag": "SAG×HA",
+      "unicode": "&#x12299;"
+    },
+    {
+      "id": 1465,
+      "tag": "SAG×KAK",
+      "unicode": "&#x1229A;"
+    },
+    {
+      "id": 1466,
+      "tag": "SAG×KUR",
+      "unicode": "&#x1229B;"
+    },
+    {
+      "id": 1467,
+      "tag": "SAG×LUM",
+      "unicode": "&#x1229C;"
+    },
+    {
+      "id": 1468,
+      "tag": "SAG×MI",
+      "unicode": "&#x1229D;"
+    },
+    {
+      "id": 1469,
+      "tag": "SAG×NUN",
+      "unicode": "&#x1229E;"
+    },
+    {
+      "id": 1470,
+      "tag": "SAG×SAL",
+      "unicode": "&#x1229F;"
+    },
+    {
+      "id": 1471,
+      "tag": "SAG×SHID",
+      "unicode": "&#x122A0;"
+    },
+    {
+      "id": 1472,
+      "tag": "SAG×TAB",
+      "unicode": "&#x122A1;"
+    },
+    {
+      "id": 1473,
+      "tag": "SAG×U2",
+      "unicode": "&#x122A2;"
+    },
+    {
+      "id": 1474,
+      "tag": "SAG×UB",
+      "unicode": "&#x122A3;"
+    },
+    {
+      "id": 1475,
+      "tag": "SAG×UM",
+      "unicode": "&#x122A4;"
+    },
+    {
+      "id": 1476,
+      "tag": "SAG×UR",
+      "unicode": "&#x122A5;"
+    },
+    {
+      "id": 1477,
+      "tag": "SAG×USH",
+      "unicode": "&#x122A6;"
+    },
+    {
+      "id": 1478,
+      "tag": "SAG/SAG",
+      "unicode": "&#x122A7;"
+    },
+    {
+      "id": 1479,
+      "tag": "SAG@t",
+      "unicode": "&#x122A8;"
+    },
+    {
+      "id": 1480,
+      "tag": "SAL",
+      "unicode": "&#x122A9;"
+    },
+    {
+      "id": 1481,
+      "tag": "SAL LAGAB×ASH2",
+      "unicode": "&#x122AA;"
+    },
+    {
+      "id": 1482,
+      "tag": "SANGA2",
+      "unicode": "&#x122AB;"
+    },
+    {
+      "id": 1483,
+      "tag": "SAR",
+      "unicode": "&#x122AC;"
+    },
+    {
+      "id": 1484,
+      "tag": "SHA",
+      "unicode": "&#x122AD;"
+    },
+    {
+      "id": 1485,
+      "tag": "SHA3",
+      "unicode": "&#x122AE;"
+    },
+    {
+      "id": 1486,
+      "tag": "SHA3×A",
+      "unicode": "&#x122AF;"
+    },
+    {
+      "id": 1487,
+      "tag": "SHA3×BAD",
+      "unicode": "&#x122B0;"
+    },
+    {
+      "id": 1488,
+      "tag": "SHA3×GISH",
+      "unicode": "&#x122B1;"
+    },
+    {
+      "id": 1489,
+      "tag": "SHA3×NE",
+      "unicode": "&#x122B2;"
+    },
+    {
+      "id": 1490,
+      "tag": "SHA3×SHU2",
+      "unicode": "&#x122B3;"
+    },
+    {
+      "id": 1491,
+      "tag": "SHA3×TUR",
+      "unicode": "&#x122B4;"
+    },
+    {
+      "id": 1492,
+      "tag": "SHA3×U",
+      "unicode": "&#x122B5;"
+    },
+    {
+      "id": 1493,
+      "tag": "SHA3×U+A",
+      "unicode": "&#x122B6;"
+    },
+    {
+      "id": 1494,
+      "tag": "SHA6",
+      "unicode": "&#x122B7;"
+    },
+    {
+      "id": 1495,
+      "tag": "SHAB6",
+      "unicode": "&#x122B8;"
+    },
+    {
+      "id": 1496,
+      "tag": "NAM",
+      "unicode": "&#x12246;"
+    },
+    {
+      "id": 1497,
+      "tag": "NAM2",
+      "unicode": "&#x12247;"
+    },
+    {
+      "id": 1498,
+      "tag": "NE",
+      "unicode": "&#x12248;"
+    },
+    {
+      "id": 1499,
+      "tag": "NE×A",
+      "unicode": "&#x12249;"
+    },
+    {
+      "id": 1500,
+      "tag": "NE×UD",
+      "unicode": "&#x1224A;"
+    },
+    {
+      "id": 1501,
+      "tag": "NE SHESHIG",
+      "unicode": "&#x1224B;"
+    },
+    {
+      "id": 1502,
+      "tag": "NI",
+      "unicode": "&#x1224C;"
+    },
+    {
+      "id": 1503,
+      "tag": "NI×E",
+      "unicode": "&#x1224D;"
+    },
+    {
+      "id": 1504,
+      "tag": "NI2",
+      "unicode": "&#x1224E;"
+    },
+    {
+      "id": 1505,
+      "tag": "NIM",
+      "unicode": "&#x1224F;"
+    },
+    {
+      "id": 1506,
+      "tag": "NIM×GAN2@t",
+      "unicode": "&#x12250;"
+    },
+    {
+      "id": 1507,
+      "tag": "NIM×GAR+GAN2@t",
+      "unicode": "&#x12251;"
+    },
+    {
+      "id": 1508,
+      "tag": "NINDA2",
+      "unicode": "&#x12252;"
+    },
+    {
+      "id": 1509,
+      "tag": "NINDA2×AN",
+      "unicode": "&#x12253;"
+    },
+    {
+      "id": 1510,
+      "tag": "NINDA2×ASH",
+      "unicode": "&#x12254;"
+    },
+    {
+      "id": 1511,
+      "tag": "NINDA2×ASH+ASH",
+      "unicode": "&#x12255;"
+    },
+    {
+      "id": 1512,
+      "tag": "NINDA2×GUD",
+      "unicode": "&#x12256;"
+    },
+    {
+      "id": 1513,
+      "tag": "NINDA2×ME+GAN2@t",
+      "unicode": "&#x12257;"
+    },
+    {
+      "id": 1514,
+      "tag": "NINDA2×NE",
+      "unicode": "&#x12258;"
+    },
+    {
+      "id": 1515,
+      "tag": "NINDA2×NUN",
+      "unicode": "&#x12259;"
+    },
+    {
+      "id": 1516,
+      "tag": "NINDA2×SHE",
+      "unicode": "&#x1225A;"
+    },
+    {
+      "id": 1517,
+      "tag": "NINDA2×SHE+A AN",
+      "unicode": "&#x1225B;"
+    },
+    {
+      "id": 1518,
+      "tag": "NINDA2×SHE+ASH",
+      "unicode": "&#x1225C;"
+    },
+    {
+      "id": 1519,
+      "tag": "NINDA2×SHE+ASH+ASH",
+      "unicode": "&#x1225D;"
+    },
+    {
+      "id": 1520,
+      "tag": "NINDA2×U2+ASH",
+      "unicode": "&#x1225E;"
+    },
+    {
+      "id": 1521,
+      "tag": "NINDA2×USH",
+      "unicode": "&#x1225F;"
+    },
+    {
+      "id": 1522,
+      "tag": "NISAG",
+      "unicode": "&#x12260;"
+    },
+    {
+      "id": 1523,
+      "tag": "NU",
+      "unicode": "&#x12261;"
+    },
+    {
+      "id": 1524,
+      "tag": "NU11",
+      "unicode": "&#x12262;"
+    },
+    {
+      "id": 1525,
+      "tag": "NUN",
+      "unicode": "&#x12263;"
+    },
+    {
+      "id": 1526,
+      "tag": "NUN LAGAR×GAR",
+      "unicode": "&#x12264;"
+    },
+    {
+      "id": 1527,
+      "tag": "NUN LAGAR×MASH",
+      "unicode": "&#x12265;"
+    },
+    {
+      "id": 1528,
+      "tag": "NUN LAGAR×SAL",
+      "unicode": "&#x12266;"
+    },
+    {
+      "id": 1529,
+      "tag": "NUN LAGAR×SAL/NUN LAGAR×SAL",
+      "unicode": "&#x12267;"
+    },
+    {
+      "id": 1530,
+      "tag": "NUN LAGAR×USH",
+      "unicode": "&#x12268;"
+    },
+    {
+      "id": 1531,
+      "tag": "NUN@t",
+      "unicode": "&#x12269;"
+    },
+    {
+      "id": 1532,
+      "tag": "NUN/NUN",
+      "unicode": "&#x1226A;"
+    },
+    {
+      "id": 1533,
+      "tag": "NUN%NUN",
+      "unicode": "&#x1226B;"
+    },
+    {
+      "id": 1534,
+      "tag": "NUN%NUN LAGAR/LAGAR",
+      "unicode": "&#x1226C;"
+    },
+    {
+      "id": 1535,
+      "tag": "NUNUZ",
+      "unicode": "&#x1226D;"
+    },
+    {
+      "id": 1536,
+      "tag": "NUNUZ AB2×ASHGAB",
+      "unicode": "&#x1226E;"
+    },
+    {
+      "id": 1537,
+      "tag": "NUNUZ AB2×BI",
+      "unicode": "&#x1226F;"
+    },
+    {
+      "id": 1538,
+      "tag": "NUNUZ AB2×DUG",
+      "unicode": "&#x12270;"
+    },
+    {
+      "id": 1539,
+      "tag": "NUNUZ AB2×GUD",
+      "unicode": "&#x12271;"
+    },
+    {
+      "id": 1540,
+      "tag": "NUNUZ AB2×IGI@t",
+      "unicode": "&#x12272;"
+    },
+    {
+      "id": 1541,
+      "tag": "NUNUZ AB2×KAD3",
+      "unicode": "&#x12273;"
+    },
+    {
+      "id": 1542,
+      "tag": "NUNUZ AB2×LA",
+      "unicode": "&#x12274;"
+    },
+    {
+      "id": 1543,
+      "tag": "NUNUZ AB2×NE",
+      "unicode": "&#x12275;"
+    },
+    {
+      "id": 1544,
+      "tag": "NUNUZ AB2×SILA3",
+      "unicode": "&#x12276;"
+    },
+    {
+      "id": 1545,
+      "tag": "NUNUZ AB2×U2",
+      "unicode": "&#x12277;"
+    },
+    {
+      "id": 1546,
+      "tag": "NUNUZ KISIM5×BI",
+      "unicode": "&#x12278;"
+    },
+    {
+      "id": 1547,
+      "tag": "NUNUZ KISIM5×BI U",
+      "unicode": "&#x12279;"
+    },
+    {
+      "id": 1548,
+      "tag": "PA",
+      "unicode": "&#x1227A;"
+    },
+    {
+      "id": 1549,
+      "tag": "PAD",
+      "unicode": "&#x1227B;"
+    },
+    {
+      "id": 1550,
+      "tag": "TAB",
+      "unicode": "&#x122F0;"
+    },
+    {
+      "id": 1551,
+      "tag": "TAB/TAB NI/NI DISH/DISH",
+      "unicode": "&#x122F1;"
+    },
+    {
+      "id": 1552,
+      "tag": "TAB SQUARED",
+      "unicode": "&#x122F2;"
+    },
+    {
+      "id": 1553,
+      "tag": "TAG",
+      "unicode": "&#x122F3;"
+    },
+    {
+      "id": 1554,
+      "tag": "TAG×BI",
+      "unicode": "&#x122F4;"
+    },
+    {
+      "id": 1555,
+      "tag": "TAG×GUD",
+      "unicode": "&#x122F5;"
+    },
+    {
+      "id": 1556,
+      "tag": "TAG×SHE",
+      "unicode": "&#x122F6;"
+    },
+    {
+      "id": 1557,
+      "tag": "TAG×SHU",
+      "unicode": "&#x122F7;"
+    },
+    {
+      "id": 1558,
+      "tag": "TAG×TUG2",
+      "unicode": "&#x122F8;"
+    },
+    {
+      "id": 1559,
+      "tag": "TAG×UD",
+      "unicode": "&#x122F9;"
+    },
+    {
+      "id": 1560,
+      "tag": "TAK4",
+      "unicode": "&#x122FA;"
+    },
+    {
+      "id": 1561,
+      "tag": "TAR",
+      "unicode": "&#x122FB;"
+    },
+    {
+      "id": 1562,
+      "tag": "TE",
+      "unicode": "&#x122FC;"
+    },
+    {
+      "id": 1563,
+      "tag": "TE@t",
+      "unicode": "&#x122FD;"
+    },
+    {
+      "id": 1564,
+      "tag": "TI",
+      "unicode": "&#x122FE;"
+    },
+    {
+      "id": 1565,
+      "tag": "TI@t",
+      "unicode": "&#x122FF;"
+    },
+    {
+      "id": 1566,
+      "tag": "TIL",
+      "unicode": "&#x12300;"
+    },
+    {
+      "id": 1567,
+      "tag": "TIR",
+      "unicode": "&#x12301;"
+    },
+    {
+      "id": 1568,
+      "tag": "TIR×TAK4",
+      "unicode": "&#x12302;"
+    },
+    {
+      "id": 1569,
+      "tag": "TIR/TIR",
+      "unicode": "&#x12303;"
+    },
+    {
+      "id": 1570,
+      "tag": "TIR/TIR GAD/GAD GAR/GAR",
+      "unicode": "&#x12304;"
+    },
+    {
+      "id": 1571,
+      "tag": "TU",
+      "unicode": "&#x12305;"
+    },
+    {
+      "id": 1572,
+      "tag": "TUG2",
+      "unicode": "&#x12306;"
+    },
+    {
+      "id": 1573,
+      "tag": "TUK",
+      "unicode": "&#x12307;"
+    },
+    {
+      "id": 1574,
+      "tag": "TUM",
+      "unicode": "&#x12308;"
+    },
+    {
+      "id": 1575,
+      "tag": "TUR",
+      "unicode": "&#x12309;"
+    },
+    {
+      "id": 1576,
+      "tag": "TUR/TUR ZA/ZA",
+      "unicode": "&#x1230A;"
+    },
+    {
+      "id": 1577,
+      "tag": "U",
+      "unicode": "&#x1230B;"
+    },
+    {
+      "id": 1578,
+      "tag": "U GUD",
+      "unicode": "&#x1230C;"
+    },
+    {
+      "id": 1579,
+      "tag": "U U U",
+      "unicode": "&#x1230D;"
+    },
+    {
+      "id": 1580,
+      "tag": "U/U PA/PA GAR/GAR",
+      "unicode": "&#x1230E;"
+    },
+    {
+      "id": 1581,
+      "tag": "U/U SUR/SUR",
+      "unicode": "&#x1230F;"
+    },
+    {
+      "id": 1582,
+      "tag": "U/U U REVERSED/U REVERSED",
+      "unicode": "&#x12310;"
+    },
+    {
+      "id": 1583,
+      "tag": "U2",
+      "unicode": "&#x12311;"
+    },
+    {
+      "id": 1584,
+      "tag": "UB",
+      "unicode": "&#x12312;"
+    },
+    {
+      "id": 1585,
+      "tag": "UD",
+      "unicode": "&#x12313;"
+    },
+    {
+      "id": 1586,
+      "tag": "UD KUSHU2",
+      "unicode": "&#x12314;"
+    },
+    {
+      "id": 1587,
+      "tag": "UD×BAD",
+      "unicode": "&#x12315;"
+    },
+    {
+      "id": 1588,
+      "tag": "UD×MI",
+      "unicode": "&#x12316;"
+    },
+    {
+      "id": 1589,
+      "tag": "UD×U+U+U",
+      "unicode": "&#x12317;"
+    },
+    {
+      "id": 1590,
+      "tag": "UD×U+U+U@t",
+      "unicode": "&#x12318;"
+    },
+    {
+      "id": 1591,
+      "tag": "UD@t",
+      "unicode": "&#x12319;"
+    },
+    {
+      "id": 1592,
+      "tag": "UD SHESHIG",
+      "unicode": "&#x1231A;"
+    },
+    {
+      "id": 1593,
+      "tag": "UD SHESHIG×BAD",
+      "unicode": "&#x1231B;"
+    },
+    {
+      "id": 1594,
+      "tag": "UDUG",
+      "unicode": "&#x1231C;"
+    },
+    {
+      "id": 1595,
+      "tag": "UM",
+      "unicode": "&#x1231D;"
+    },
+    {
+      "id": 1596,
+      "tag": "UM×LAGAB",
+      "unicode": "&#x1231E;"
+    },
+    {
+      "id": 1597,
+      "tag": "UM×ME+DA",
+      "unicode": "&#x1231F;"
+    },
+    {
+      "id": 1598,
+      "tag": "UM×SHA3",
+      "unicode": "&#x12320;"
+    },
+    {
+      "id": 1599,
+      "tag": "UM×U",
+      "unicode": "&#x12321;"
+    },
+    {
+      "id": 1600,
+      "tag": "UMBIN",
+      "unicode": "&#x12322;"
+    },
+    {
+      "id": 1601,
+      "tag": "UMUM",
+      "unicode": "&#x12323;"
+    },
+    {
+      "id": 1602,
+      "tag": "UMUM×KASKAL",
+      "unicode": "&#x12324;"
+    },
+    {
+      "id": 1603,
+      "tag": "UMUM×PA",
+      "unicode": "&#x12325;"
+    },
+    {
+      "id": 1604,
+      "tag": "UN",
+      "unicode": "&#x12326;"
+    },
+    {
+      "id": 1605,
+      "tag": "SHE",
+      "unicode": "&#x122BA;"
+    },
+    {
+      "id": 1606,
+      "tag": "SHE HU",
+      "unicode": "&#x122BB;"
+    },
+    {
+      "id": 1607,
+      "tag": "SHE/SHE GAD/GAD GAR/GAR",
+      "unicode": "&#x122BC;"
+    },
+    {
+      "id": 1608,
+      "tag": "SHE/SHE TAB/TAB GAR/GAR",
+      "unicode": "&#x122BD;"
+    },
+    {
+      "id": 1609,
+      "tag": "SHEG9",
+      "unicode": "&#x122BE;"
+    },
+    {
+      "id": 1610,
+      "tag": "SHEN",
+      "unicode": "&#x122BF;"
+    },
+    {
+      "id": 1611,
+      "tag": "SHESH",
+      "unicode": "&#x122C0;"
+    },
+    {
+      "id": 1612,
+      "tag": "SHESH2",
+      "unicode": "&#x122C1;"
+    },
+    {
+      "id": 1613,
+      "tag": "SHESHLAM",
+      "unicode": "&#x122C2;"
+    },
+    {
+      "id": 1614,
+      "tag": "SHID",
+      "unicode": "&#x122C3;"
+    },
+    {
+      "id": 1615,
+      "tag": "SHID×A",
+      "unicode": "&#x122C4;"
+    },
+    {
+      "id": 1616,
+      "tag": "SHID×IM",
+      "unicode": "&#x122C5;"
+    },
+    {
+      "id": 1617,
+      "tag": "SHIM",
+      "unicode": "&#x122C6;"
+    },
+    {
+      "id": 1618,
+      "tag": "SHIM×A",
+      "unicode": "&#x122C7;"
+    },
+    {
+      "id": 1619,
+      "tag": "SHIM×BAL",
+      "unicode": "&#x122C8;"
+    },
+    {
+      "id": 1620,
+      "tag": "SHIM×BULUG",
+      "unicode": "&#x122C9;"
+    },
+    {
+      "id": 1621,
+      "tag": "SHIM×DIN",
+      "unicode": "&#x122CA;"
+    },
+    {
+      "id": 1622,
+      "tag": "SHIM×GAR",
+      "unicode": "&#x122CB;"
+    },
+    {
+      "id": 1623,
+      "tag": "SHIM×IGI",
+      "unicode": "&#x122CC;"
+    },
+    {
+      "id": 1624,
+      "tag": "SHIM×IGI@t",
+      "unicode": "&#x122CD;"
+    },
+    {
+      "id": 1625,
+      "tag": "SHIM×KUSHU2",
+      "unicode": "&#x122CE;"
+    },
+    {
+      "id": 1626,
+      "tag": "SHIM×LUL",
+      "unicode": "&#x122CF;"
+    },
+    {
+      "id": 1627,
+      "tag": "SHIM×MUG",
+      "unicode": "&#x122D0;"
+    },
+    {
+      "id": 1628,
+      "tag": "SHIM×SAL",
+      "unicode": "&#x122D1;"
+    },
+    {
+      "id": 1629,
+      "tag": "SHINIG",
+      "unicode": "&#x122D2;"
+    },
+    {
+      "id": 1630,
+      "tag": "SHIR",
+      "unicode": "&#x122D3;"
+    },
+    {
+      "id": 1631,
+      "tag": "SHIR@t※ =NU11@t",
+      "unicode": "&#x122D4;"
+    },
+    {
+      "id": 1632,
+      "tag": "SHIR/SHIR BUR/BUR ※ =NU11/NU11 BUR/BUR",
+      "unicode": "&#x122D5;"
+    },
+    {
+      "id": 1633,
+      "tag": "SHITA",
+      "unicode": "&#x122D6;"
+    },
+    {
+      "id": 1634,
+      "tag": "SHU",
+      "unicode": "&#x122D7;"
+    },
+    {
+      "id": 1635,
+      "tag": "SHU/INVERTED SHU",
+      "unicode": "&#x122D8;"
+    },
+    {
+      "id": 1636,
+      "tag": "SHU2",
+      "unicode": "&#x122D9;"
+    },
+    {
+      "id": 1637,
+      "tag": "SHUBUR",
+      "unicode": "&#x122DA;"
+    },
+    {
+      "id": 1638,
+      "tag": "SI",
+      "unicode": "&#x122DB;"
+    },
+    {
+      "id": 1639,
+      "tag": "SI@t",
+      "unicode": "&#x122DC;"
+    },
+    {
+      "id": 1640,
+      "tag": "SIG",
+      "unicode": "&#x122DD;"
+    },
+    {
+      "id": 1641,
+      "tag": "SIG4",
+      "unicode": "&#x122DE;"
+    },
+    {
+      "id": 1642,
+      "tag": "SIG4/SIG4 SHU2",
+      "unicode": "&#x122DF;"
+    },
+    {
+      "id": 1643,
+      "tag": "SIK2",
+      "unicode": "&#x122E0;"
+    },
+    {
+      "id": 1644,
+      "tag": "SILA3",
+      "unicode": "&#x122E1;"
+    },
+    {
+      "id": 1645,
+      "tag": "SU",
+      "unicode": "&#x122E2;"
+    },
+    {
+      "id": 1646,
+      "tag": "SU/SU",
+      "unicode": "&#x122E3;"
+    },
+    {
+      "id": 1647,
+      "tag": "SUD",
+      "unicode": "&#x122E4;"
+    },
+    {
+      "id": 1648,
+      "tag": "SUD2",
+      "unicode": "&#x122E5;"
+    },
+    {
+      "id": 1649,
+      "tag": "SUHUR",
+      "unicode": "&#x122E6;"
+    },
+    {
+      "id": 1650,
+      "tag": "SUM",
+      "unicode": "&#x122E7;"
+    },
+    {
+      "id": 1651,
+      "tag": "SUMASH",
+      "unicode": "&#x122E8;"
+    },
+    {
+      "id": 1652,
+      "tag": "SUR",
+      "unicode": "&#x122E9;"
+    },
+    {
+      "id": 1653,
+      "tag": "SUR9",
+      "unicode": "&#x122EA;"
+    },
+    {
+      "id": 1654,
+      "tag": "TA",
+      "unicode": "&#x122EB;"
+    },
+    {
+      "id": 1655,
+      "tag": "TA*",
+      "unicode": "&#x122EC;"
+    },
+    {
+      "id": 1656,
+      "tag": "TA×HI",
+      "unicode": "&#x122ED;"
+    },
+    {
+      "id": 1657,
+      "tag": "TA×MI",
+      "unicode": "&#x122EE;"
+    },
+    {
+      "id": 1658,
+      "tag": "ZIB KABA@t",
+      "unicode": "&#x12367;"
+    },
+    {
+      "id": 1659,
+      "tag": "ZIG",
+      "unicode": "&#x12368;"
+    },
+    {
+      "id": 1660,
+      "tag": "ZIZ2",
+      "unicode": "&#x12369;"
+    },
+    {
+      "id": 1661,
+      "tag": "ZU",
+      "unicode": "&#x1236A;"
+    },
+    {
+      "id": 1662,
+      "tag": "ZU5",
+      "unicode": "&#x1236B;"
+    },
+    {
+      "id": 1663,
+      "tag": "ZU5×A",
+      "unicode": "&#x1236C;"
+    },
+    {
+      "id": 1664,
+      "tag": "ZUBUR",
+      "unicode": "&#x1236D;"
+    },
+    {
+      "id": 1665,
+      "tag": "ZUM Elamite sign",
+      "unicode": "&#x1236E;"
+    },
+    {
+      "id": 1666,
+      "tag": "KAP ELAMITE Signs",
+      "unicode": "&#x1236F;"
+    },
+    {
+      "id": 1667,
+      "tag": "AB×NUN",
+      "unicode": "&#x12370;"
+    },
+    {
+      "id": 1668,
+      "tag": "AB2×A",
+      "unicode": "&#x12371;"
+    },
+    {
+      "id": 1669,
+      "tag": "AMAR×KUG",
+      "unicode": "&#x12372;"
+    },
+    {
+      "id": 1670,
+      "tag": "DAG KISIM5×U2+MASH",
+      "unicode": "&#x12373;"
+    },
+    {
+      "id": 1671,
+      "tag": "DAG3",
+      "unicode": "&#x12374;"
+    },
+    {
+      "id": 1672,
+      "tag": "DISH+SHU",
+      "unicode": "&#x12375;"
+    },
+    {
+      "id": 1673,
+      "tag": "DUB×SHE",
+      "unicode": "&#x12376;"
+    },
+    {
+      "id": 1674,
+      "tag": "EZEN×GUD",
+      "unicode": "&#x12377;"
+    },
+    {
+      "id": 1675,
+      "tag": "EZEN×SHE",
+      "unicode": "&#x12378;"
+    },
+    {
+      "id": 1676,
+      "tag": "GA2×AN+KAK+A",
+      "unicode": "&#x12379;"
+    },
+    {
+      "id": 1677,
+      "tag": "GA2×ASH2",
+      "unicode": "&#x1237A;"
+    },
+    {
+      "id": 1678,
+      "tag": "GE22",
+      "unicode": "&#x1237B;"
+    },
+    {
+      "id": 1679,
+      "tag": "GIG",
+      "unicode": "&#x1237C;"
+    },
+    {
+      "id": 1680,
+      "tag": "HUSH",
+      "unicode": "&#x1237D;"
+    },
+    {
+      "id": 1681,
+      "tag": "KA×ANSHE",
+      "unicode": "&#x1237E;"
+    },
+    {
+      "id": 1682,
+      "tag": "KA×ASH3",
+      "unicode": "&#x1237F;"
+    },
+    {
+      "id": 1683,
+      "tag": "KA×GISH",
+      "unicode": "&#x12380;"
+    },
+    {
+      "id": 1684,
+      "tag": "KA×GUD",
+      "unicode": "&#x12381;"
+    },
+    {
+      "id": 1685,
+      "tag": "KA×HI×ASH2",
+      "unicode": "&#x12382;"
+    },
+    {
+      "id": 1686,
+      "tag": "KA×LUM",
+      "unicode": "&#x12383;"
+    },
+    {
+      "id": 1687,
+      "tag": "KA×PA",
+      "unicode": "&#x12384;"
+    },
+    {
+      "id": 1688,
+      "tag": "KA×SHUL",
+      "unicode": "&#x12385;"
+    },
+    {
+      "id": 1689,
+      "tag": "KA×TU",
+      "unicode": "&#x12386;"
+    },
+    {
+      "id": 1690,
+      "tag": "KA×UR2",
+      "unicode": "&#x12387;"
+    },
+    {
+      "id": 1691,
+      "tag": "LAGAB×GI",
+      "unicode": "&#x12388;"
+    },
+    {
+      "id": 1692,
+      "tag": "LU2 SHESHIG×BAD",
+      "unicode": "&#x12389;"
+    },
+    {
+      "id": 1693,
+      "tag": "LU2×ESH2+LAL",
+      "unicode": "&#x1238A;"
+    },
+    {
+      "id": 1694,
+      "tag": "LU2×SHU",
+      "unicode": "&#x1238B;"
+    },
+    {
+      "id": 1695,
+      "tag": "MESH",
+      "unicode": "&#x1238C;"
+    },
+    {
+      "id": 1696,
+      "tag": "MUSH3×ZA",
+      "unicode": "&#x1238D;"
+    },
+    {
+      "id": 1697,
+      "tag": "NIN9",
+      "unicode": "&#x12390;"
+    },
+    {
+      "id": 1698,
+      "tag": "NINDA2×BAL",
+      "unicode": "&#x12391;"
+    },
+    {
+      "id": 1699,
+      "tag": "NINDA2×GI",
+      "unicode": "&#x12392;"
+    },
+    {
+      "id": 1700,
+      "tag": "NU11 ROTATED NINETY DEGREES",
+      "unicode": "&#x12393;"
+    },
+    {
+      "id": 1701,
+      "tag": "PESH2*",
+      "unicode": "&#x12394;"
+    },
+    {
+      "id": 1702,
+      "tag": "PIR2",
+      "unicode": "&#x12395;"
+    },
+    {
+      "id": 1703,
+      "tag": "SAG×IGI@t",
+      "unicode": "&#x12396;"
+    },
+    {
+      "id": 1704,
+      "tag": "TI2",
+      "unicode": "&#x12397;"
+    },
+    {
+      "id": 1705,
+      "tag": "UM×ME",
+      "unicode": "&#x12398;"
+    },
+    {
+      "id": 1706,
+      "tag": "U U",
+      "unicode": "&#x12399;"
+    },
+    {
+      "id": 1707,
+      "tag": "UR%UR",
+      "unicode": "&#x12329;"
+    },
+    {
+      "id": 1708,
+      "tag": "UR SHESHIG",
+      "unicode": "&#x1232A;"
+    },
+    {
+      "id": 1709,
+      "tag": "UR2",
+      "unicode": "&#x1232B;"
+    },
+    {
+      "id": 1710,
+      "tag": "UR2×A+HA",
+      "unicode": "&#x1232C;"
+    },
+    {
+      "id": 1711,
+      "tag": "UR2×A+NA",
+      "unicode": "&#x1232D;"
+    },
+    {
+      "id": 1712,
+      "tag": "UR2×AL",
+      "unicode": "&#x1232E;"
+    },
+    {
+      "id": 1713,
+      "tag": "UR2×HA",
+      "unicode": "&#x1232F;"
+    },
+    {
+      "id": 1714,
+      "tag": "UR2×NUN",
+      "unicode": "&#x12330;"
+    },
+    {
+      "id": 1715,
+      "tag": "UR2×U2",
+      "unicode": "&#x12331;"
+    },
+    {
+      "id": 1716,
+      "tag": "UR2×U2+ASH",
+      "unicode": "&#x12332;"
+    },
+    {
+      "id": 1717,
+      "tag": "UR2×U2+BI",
+      "unicode": "&#x12333;"
+    },
+    {
+      "id": 1718,
+      "tag": "UR4",
+      "unicode": "&#x12334;"
+    },
+    {
+      "id": 1719,
+      "tag": "URI",
+      "unicode": "&#x12335;"
+    },
+    {
+      "id": 1720,
+      "tag": "URI3",
+      "unicode": "&#x12336;"
+    },
+    {
+      "id": 1721,
+      "tag": "URU",
+      "unicode": "&#x12337;"
+    },
+    {
+      "id": 1722,
+      "tag": "URU×A",
+      "unicode": "&#x12338;"
+    },
+    {
+      "id": 1723,
+      "tag": "URU×ASHGAB",
+      "unicode": "&#x12339;"
+    },
+    {
+      "id": 1724,
+      "tag": "URU×BAR",
+      "unicode": "&#x1233A;"
+    },
+    {
+      "id": 1725,
+      "tag": "URU×DUN",
+      "unicode": "&#x1233B;"
+    },
+    {
+      "id": 1726,
+      "tag": "URU×GA",
+      "unicode": "&#x1233C;"
+    },
+    {
+      "id": 1727,
+      "tag": "URU×GAL",
+      "unicode": "&#x1233D;"
+    },
+    {
+      "id": 1728,
+      "tag": "URU×GAN2@t",
+      "unicode": "&#x1233E;"
+    },
+    {
+      "id": 1729,
+      "tag": "URU×GAR",
+      "unicode": "&#x1233F;"
+    },
+    {
+      "id": 1730,
+      "tag": "URU×GU",
+      "unicode": "&#x12340;"
+    },
+    {
+      "id": 1731,
+      "tag": "URU×HA",
+      "unicode": "&#x12341;"
+    },
+    {
+      "id": 1732,
+      "tag": "URU×IGI",
+      "unicode": "&#x12342;"
+    },
+    {
+      "id": 1733,
+      "tag": "URU×IM",
+      "unicode": "&#x12343;"
+    },
+    {
+      "id": 1734,
+      "tag": "URU×ISH",
+      "unicode": "&#x12344;"
+    },
+    {
+      "id": 1735,
+      "tag": "URU×KI",
+      "unicode": "&#x12345;"
+    },
+    {
+      "id": 1736,
+      "tag": "URU×LUM",
+      "unicode": "&#x12346;"
+    },
+    {
+      "id": 1737,
+      "tag": "URU×MIN",
+      "unicode": "&#x12347;"
+    },
+    {
+      "id": 1738,
+      "tag": "URU×PA",
+      "unicode": "&#x12348;"
+    },
+    {
+      "id": 1739,
+      "tag": "URU×SHE",
+      "unicode": "&#x12349;"
+    },
+    {
+      "id": 1740,
+      "tag": "URU×SIG4",
+      "unicode": "&#x1234A;"
+    },
+    {
+      "id": 1741,
+      "tag": "URU×TU",
+      "unicode": "&#x1234B;"
+    },
+    {
+      "id": 1742,
+      "tag": "URU×U+GUD",
+      "unicode": "&#x1234C;"
+    },
+    {
+      "id": 1743,
+      "tag": "URU×UD",
+      "unicode": "&#x1234D;"
+    },
+    {
+      "id": 1744,
+      "tag": "URU×URUDA",
+      "unicode": "&#x1234E;"
+    },
+    {
+      "id": 1745,
+      "tag": "URUDA",
+      "unicode": "&#x1234F;"
+    },
+    {
+      "id": 1746,
+      "tag": "URUDA×U",
+      "unicode": "&#x12350;"
+    },
+    {
+      "id": 1747,
+      "tag": "USH",
+      "unicode": "&#x12351;"
+    },
+    {
+      "id": 1748,
+      "tag": "USH×A",
+      "unicode": "&#x12352;"
+    },
+    {
+      "id": 1749,
+      "tag": "USH×KU",
+      "unicode": "&#x12353;"
+    },
+    {
+      "id": 1750,
+      "tag": "USH×KUR",
+      "unicode": "&#x12354;"
+    },
+    {
+      "id": 1751,
+      "tag": "USH×TAK4",
+      "unicode": "&#x12355;"
+    },
+    {
+      "id": 1752,
+      "tag": "USHX",
+      "unicode": "&#x12356;"
+    },
+    {
+      "id": 1753,
+      "tag": "USH2",
+      "unicode": "&#x12357;"
+    },
+    {
+      "id": 1754,
+      "tag": "USHUMX",
+      "unicode": "&#x12358;"
+    },
+    {
+      "id": 1755,
+      "tag": "UTUKI",
+      "unicode": "&#x12359;"
+    },
+    {
+      "id": 1756,
+      "tag": "UZ3",
+      "unicode": "&#x1235A;"
+    },
+    {
+      "id": 1757,
+      "tag": "UZ3×KASKAL",
+      "unicode": "&#x1235B;"
+    },
+    {
+      "id": 1758,
+      "tag": "UZU",
+      "unicode": "&#x1235C;"
+    },
+    {
+      "id": 1759,
+      "tag": "ZA",
+      "unicode": "&#x1235D;"
+    },
+    {
+      "id": 1760,
+      "tag": "ZA@t",
+      "unicode": "&#x1235E;"
+    },
+    {
+      "id": 1761,
+      "tag": "ZA SQUARED×KUR",
+      "unicode": "&#x1235F;"
+    },
+    {
+      "id": 1762,
+      "tag": "ZAG",
+      "unicode": "&#x12360;"
+    },
+    {
+      "id": 1763,
+      "tag": "ZAMX",
+      "unicode": "&#x12361;"
+    },
+    {
+      "id": 1764,
+      "tag": "ZE2",
+      "unicode": "&#x12362;"
+    },
+    {
+      "id": 1765,
+      "tag": "ZI",
+      "unicode": "&#x12363;"
+    },
+    {
+      "id": 1766,
+      "tag": "ZI/ZI",
+      "unicode": "&#x12364;"
+    },
+    {
+      "id": 1767,
+      "tag": "ZI3",
+      "unicode": "&#x12365;"
+    },
+    {
+      "id": 1768,
+      "tag": "KA×BALAG",
+      "unicode": "&#x1215D;"
+    },
+    {
+      "id": 1769,
+      "tag": "ONE GESH2",
+      "unicode": "&#x12415;"
+    },
+    {
+      "id": 1770,
+      "tag": "TWO GESH2",
+      "unicode": "&#x12416;"
+    },
+    {
+      "id": 1771,
+      "tag": "THREE GESH2",
+      "unicode": "&#x12417;"
+    },
+    {
+      "id": 1772,
+      "tag": "FOUR GESH2",
+      "unicode": "&#x12418;"
+    },
+    {
+      "id": 1773,
+      "tag": "FIVE GESH2",
+      "unicode": "&#x12419;"
+    },
+    {
+      "id": 1774,
+      "tag": "SIX GESH2",
+      "unicode": "&#x1241a;"
+    },
+    {
+      "id": 1775,
+      "tag": "SEVEN GESH2",
+      "unicode": "&#x1241b;"
+    },
+    {
+      "id": 1776,
+      "tag": "EIGHT GESH2",
+      "unicode": "&#x1241c;"
+    },
+    {
+      "id": 1777,
+      "tag": "NINE GESH2",
+      "unicode": "&#x1241d;"
+    },
+    {
+      "id": 1778,
+      "tag": "ONE GESHU",
+      "unicode": "&#x1241e;"
+    },
+    {
+      "id": 1779,
+      "tag": "TWO GESHU",
+      "unicode": "&#x1241f;"
+    },
+    {
+      "id": 1780,
+      "tag": "THREE GESHU",
+      "unicode": "&#x12420;"
+    },
+    {
+      "id": 1781,
+      "tag": "FOUR GESHU",
+      "unicode": "&#x12421;"
+    },
+    {
+      "id": 1782,
+      "tag": "FIVE GESHU",
+      "unicode": "&#x12422;"
+    },
+    {
+      "id": 1783,
+      "tag": "TWO SHAR2",
+      "unicode": "&#x12423;"
+    },
+    {
+      "id": 1784,
+      "unicode": "&#x12424;",
+      "tag": "THREE SHAR2"
+    },
+    {
+      "id": 1785,
+      "unicode": "&#x12425;",
+      "tag": "THREE SHAR2 VARIANT FORM"
+    },
+    {
+      "id": 1786,
+      "unicode": "&#x12426;",
+      "tag": "FOUR SHAR2"
+    },
+    {
+      "id": 1787,
+      "unicode": "&#x12427;",
+      "tag": "FIVE SHAR2"
+    },
+    {
+      "id": 1788,
+      "unicode": "&#x12428;",
+      "tag": "SIX SHAR2"
+    },
+    {
+      "id": 1789,
+      "unicode": "&#x12429;",
+      "tag": "SEVEN SHAR2"
+    },
+    {
+      "id": 1790,
+      "unicode": "&#x1242A;",
+      "tag": "EIGHT SHAR2"
+    },
+    {
+      "id": 1791,
+      "unicode": "&#x1242B;",
+      "tag": "NINE SHAR2"
+    },
+    {
+      "id": 1792,
+      "unicode": "&#x1242C;",
+      "tag": "ONE SHARU"
+    },
+    {
+      "id": 1793,
+      "unicode": "&#x1242D;",
+      "tag": "TWO SHARU"
+    },
+    {
+      "id": 1794,
+      "unicode": "&#x1242E;",
+      "tag": "THREE SHARU"
+    },
+    {
+      "id": 1795,
+      "unicode": "&#x1242F;",
+      "tag": "THREE SHARU VARIANT FORM"
+    },
+    {
+      "id": 1796,
+      "unicode": "&#x12430;",
+      "tag": "FOUR SHARU"
+    },
+    {
+      "id": 1797,
+      "unicode": "&#x12431;",
+      "tag": "FIVE SHARU"
+    },
+    {
+      "id": 1798,
+      "unicode": "&#x12432;",
+      "tag": "SHAR2×GAL+DISH"
+    },
+    {
+      "id": 1799,
+      "unicode": "&#x12433;",
+      "tag": "SHAR2×GAL+MIN"
+    },
+    {
+      "id": 1800,
+      "unicode": "&#x12434;",
+      "tag": "ONE BURU"
+    },
+    {
+      "id": 1801,
+      "unicode": "&#x12435;",
+      "tag": "TWO BURU"
+    },
+    {
+      "id": 1802,
+      "unicode": "&#x12436;",
+      "tag": "THREE BURU"
+    },
+    {
+      "id": 1803,
+      "unicode": "&#x12437;",
+      "tag": "THREE BURU VARIANT FORM"
+    },
+    {
+      "id": 1804,
+      "unicode": "&#x12438;",
+      "tag": "FOUR BURU"
+    },
+    {
+      "id": 1805,
+      "unicode": "&#x12439;",
+      "tag": "FIVE BURU"
+    },
+    {
+      "id": 1806,
+      "unicode": "&#x1243A;",
+      "tag": "THREE VARIANT FORM ESH16"
+    },
+    {
+      "id": 1807,
+      "unicode": "&#x1243B;",
+      "tag": "THREE VARIANT FORM ESH21"
+    },
+    {
+      "id": 1808,
+      "unicode": "&#x1243C;",
+      "tag": "FOUR VARIANT FORM LIMMU"
+    },
+    {
+      "id": 1809,
+      "unicode": "&#x1243D;",
+      "tag": "FOUR VARIANT FORM LIMMU4"
+    },
+    {
+      "id": 1810,
+      "unicode": "&#x1243E;",
+      "tag": "FOUR VARIANT FORM LIMMU A"
+    },
+    {
+      "id": 1811,
+      "unicode": "&#x1243F;",
+      "tag": "FOUR VARIANT FORM LIMMU B"
+    },
+    {
+      "id": 1812,
+      "unicode": "&#x12440;",
+      "tag": "SIX VARIANT FORM ASH9"
+    },
+    {
+      "id": 1813,
+      "unicode": "&#x12441;",
+      "tag": "SEVEN VARIANT FORM IMIN3"
+    },
+    {
+      "id": 1814,
+      "unicode": "&#x12442;",
+      "tag": "SEVEN VARIANT FORM IMIN A"
+    },
+    {
+      "id": 1815,
+      "unicode": "&#x12443;",
+      "tag": "SEVEN VARIANT FORM IMIN B"
+    },
+    {
+      "id": 1816,
+      "unicode": "&#x12444;",
+      "tag": "EIGHT VARIANT FORM USSU"
+    },
+    {
+      "id": 1817,
+      "unicode": "&#x12445;",
+      "tag": "EIGHT VARIANT FORM USSU3"
+    },
+    {
+      "id": 1818,
+      "unicode": "&#x12446;",
+      "tag": "NINE VARIANT FORM ILIMMU"
+    },
+    {
+      "id": 1819,
+      "unicode": "&#x12447;",
+      "tag": "NINE VARIANT FORM ILIMMU3"
+    },
+    {
+      "id": 1820,
+      "unicode": "&#x12448;",
+      "tag": "NINE VARIANT FORM ILIMMU4"
+    },
+    {
+      "id": 1821,
+      "unicode": "&#x12449;",
+      "tag": "NINE VARIANT FORM ILIMMU A"
+    },
+    {
+      "id": 1822,
+      "unicode": "&#x1244A;",
+      "tag": "TWO ASH@t"
+    },
+    {
+      "id": 1823,
+      "unicode": "&#x1244B;",
+      "tag": "THREE ASH@t"
+    },
+    {
+      "id": 1824,
+      "unicode": "&#x1244C;",
+      "tag": "FOUR ASH@t"
+    },
+    {
+      "id": 1825,
+      "unicode": "&#x1244D;",
+      "tag": "FIVE ASH@t"
+    },
+    {
+      "id": 1826,
+      "unicode": "&#x1244E;",
+      "tag": "SIX ASH@t"
+    },
+    {
+      "id": 1827,
+      "unicode": "&#x1244F;",
+      "tag": "ONE BAN2"
+    },
+    {
+      "id": 1828,
+      "unicode": "&#x12450;",
+      "tag": "TWO BAN2"
+    },
+    {
+      "id": 1829,
+      "unicode": "&#x12451;",
+      "tag": "THREE BAN2"
+    },
+    {
+      "id": 1830,
+      "unicode": "&#x12452;",
+      "tag": "FOUR BAN2"
+    },
+    {
+      "id": 1831,
+      "unicode": "&#x12453;",
+      "tag": "FOUR BAN2 VARIANT FORM"
+    },
+    {
+      "id": 1832,
+      "unicode": "&#x12454;",
+      "tag": "FIVE BAN2"
+    },
+    {
+      "id": 1833,
+      "unicode": "&#x12455;",
+      "tag": "FIVE BAN2 VARIANT FORM"
+    },
+    {
+      "id": 1834,
+      "unicode": "&#x12456;",
+      "tag": "NIGIDAMIN"
+    },
+    {
+      "id": 1835,
+      "unicode": "&#x12457;",
+      "tag": "NIGIDAESH"
+    },
+    {
+      "id": 1836,
+      "unicode": "&#x12458;",
+      "tag": "ONE ESHE3"
+    },
+    {
+      "id": 1837,
+      "unicode": "&#x12459;",
+      "tag": "TWO ESHE3"
+    },
+    {
+      "id": 1838,
+      "unicode": "&#x1245A;",
+      "tag": "ONE THIRD DISH"
+    },
+    {
+      "id": 1839,
+      "unicode": "&#x1245B;",
+      "tag": "TWO THIRDS DISH"
+    },
+    {
+      "id": 1840,
+      "unicode": "&#x1245C;",
+      "tag": "FIVE SIXTHS DISH"
+    },
+    {
+      "id": 1841,
+      "unicode": "&#x1245D;",
+      "tag": "ONE THIRD VARIANT FORM A"
+    },
+    {
+      "id": 1842,
+      "unicode": "&#x1245E;",
+      "tag": "TWO THIRDS VARIANT FORM A"
+    },
+    {
+      "id": 1843,
+      "unicode": "&#x1245F;",
+      "tag": "ONE EIGHTH ASH"
+    },
+    {
+      "id": 1844,
+      "unicode": "&#x12460;",
+      "tag": "ONE QUARTER ASH"
+    },
+    {
+      "id": 1845,
+      "unicode": "&#x12461;",
+      "tag": "OLD ASSYRIAN ONE SIXTH"
+    },
+    {
+      "id": 1846,
+      "unicode": "&#x12462;",
+      "tag": "OLD ASSYRIAN ONE QUARTER"
+    },
+    {
+      "id": 1847,
+      "unicode": "&#x12463;",
+      "tag": "ONE QUARTER GUR"
+    },
+    {
+      "id": 1848,
+      "unicode": "&#x12464;",
+      "tag": "ONE HALF GUR"
+    },
+    {
+      "id": 1849,
+      "unicode": "&#x12465;",
+      "tag": "ELAMITE ONE THIRD"
+    },
+    {
+      "id": 1850,
+      "unicode": "&#x12466;",
+      "tag": "ELAMITE TWO THIRDS"
+    },
+    {
+      "id": 1851,
+      "unicode": "&#x12467;",
+      "tag": "ELAMITE FORTY"
+    },
+    {
+      "id": 1852,
+      "unicode": "&#x12468;",
+      "tag": "ELAMITE FIFTY"
+    },
+    {
+      "id": 1853,
+      "unicode": "&#x12469;",
+      "tag": "FOUR U VARIANT FORM"
+    },
+    {
+      "id": 1854,
+      "unicode": "&#x1246A;",
+      "tag": "FIVE U VARIANT FORM"
+    },
+    {
+      "id": 1855,
+      "unicode": "&#x1246B;",
+      "tag": "SIX U VARIANT FORM"
+    },
+    {
+      "id": 1856,
+      "unicode": "&#x1246C;",
+      "tag": "SEVEN U VARIANT FORM"
+    },
+    {
+      "id": 1867,
+      "unicode": "&#x1246D;",
+      "tag": "EIGHT U VARIANT FORM"
+    },
+    {
+      "id": 1868,
+      "unicode": "&#x1246E;",
+      "tag": "NINE U VARIANT FORM"
+    },
+    {
+      "id": 1869,
+      "tag": "GI.LI",
+      "unicode": "&#x12100;&#x121F7;"
+    },
+    {
+      "id": 1870,
+      "tag": "BAHAR2",
+      "unicode": "&#x12043;"
+    },
+    {
+      "id": 1871,
+      "tag": "EZEN×KASKAL SQUARED",
+      "unicode": "&#x120AD;"
+    },
+    {
+      "id": 1872,
+      "tag": "GUD×KUR",
+      "unicode": "&#x12120;"
+    },
+    {
+      "id": 1873,
+      "tag": "GA2×SHE",
+      "unicode": "&#x120E5;"
+    },
+    {
+      "id": 1874,
+      "tag": "KAL%KAL",
+      "unicode": "&#x12199;"
+    },
+    {
+      "id": 1875,
+      "tag": "LAGAB×KU3",
+      "unicode": "&#x121D1;"
+    },
+    {
+      "id": 1876,
+      "tag": "LAGAB×KU3",
+      "unicode": "&#x121D1;"
+    },
+    {
+      "id": 1877,
+      "tag": "NAM NUTILLU",
+      "unicode": "&#x12245;"
+    },
+    {
+      "id": 1878,
+      "tag": "NAM NUTILLU",
+      "unicode": "&#x12245;"
+    },
+    {
+      "id": 1879,
+      "tag": "BAG3",
+      "unicode": "&#x12042;"
+    },
+    {
+      "id": 1880,
+      "tag": "BAL/BAL",
+      "unicode": "&#x12045;"
+    },
+    {
+      "id": 1881,
+      "tag": "BI×A",
+      "unicode": "&#x1204A;"
+    },
+    {
+      "id": 1882,
+      "tag": "BU/BU UN",
+      "unicode": "&#x1204F;"
+    },
+    {
+      "id": 1883,
+      "tag": "BULUG/BULUG",
+      "unicode": "&#x12052;"
+    },
+    {
+      "id": 1884,
+      "tag": "DAG KISIM5×GA+MASH",
+      "unicode": "&#x1205C;"
+    },
+    {
+      "id": 1885,
+      "tag": "NA4",
+      "unicode": "&#x1238E;"
+    },
+    {
+      "id": 1886,
+      "tag": "NIN",
+      "unicode": "&#x1238F;"
+    },
+    {
+      "id": 1887,
+      "tag": "FOUR ASH",
+      "unicode": "&#x12402;"
+    },
+    {
+      "id": 1888,
+      "tag": "FOUR DISH",
+      "unicode": "&#x12409;"
+    },
+    {
+      "id": 1889,
+      "tag": "SEVEN DISH",
+      "unicode": "&#x1240C;"
+    },
+    {
+      "id": 1890,
+      "tag": "NINE DISH",
+      "unicode": "&#x1240E;"
+    },
+    {
+      "id": 1891,
+      "tag": "SIX GESH2",
+      "unicode": "&#x1241A;"
+    },
+    {
+      "id": 1892,
+      "tag": "SEVEN GESH2",
+      "unicode": "&#x1241B;"
+    },
+    {
+      "id": 1893,
+      "tag": "EIGHT GESH2",
+      "unicode": "&#x1241C;"
+    },
+    {
+      "id": 1894,
+      "tag": "NINE GESH2",
+      "unicode": "&#x1241D;"
+    },
+    {
+      "id": 1895,
+      "tag": "ONE GESHU",
+      "unicode": "&#x1241E;"
+    },
+    {
+      "id": 1896,
+      "tag": "TWO GESHU",
+      "unicode": "&#x1241F;"
+    },
+    {
+      "id": 1897,
+      "tag": "OLD ASSYRIAN WORD DIVIDER",
+      "unicode": "&#x12470;"
+    },
+    {
+      "id": 1898,
+      "tag": "DIAGONAL COLON",
+      "unicode": "&#x12472;"
+    },
+    {
+      "id": 1899,
+      "tag": "DIAGONAL TRICOLON",
+      "unicode": "&#x12473;"
+    },
+    {
+      "id": 1900,
+      "tag": "DIAGONAL QUADCOLON",
+      "unicode": "&#x12474;"
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:fillViewport="true"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".ui.CitiesViewer"
+android:background="#ffff">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- BAR -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#ffffff" >
+
+        <TextView
+            android:id="@+id/title2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="@string/cities"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primary" />
+
+        <RelativeLayout
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true" >
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:text="@string/back"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/primary" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/info"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:padding="5dp"
+            android:layout_alignParentRight="true" >
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:text="@string/references"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/primary" />
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@drawable/shadowt">
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:background="#ffff">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="300dp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="30dp"
+                android:id="@+id/title"
+                android:text="dddd"
+                android:textColor="@color/black"/>
+        </RelativeLayout>
+
+
+        <!-- type -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:id="@+id/type"
+                android:text="dddd"
+                android:textColor="@color/primarypressed" />
+        </LinearLayout>
+
+        <!-- alternate_name -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/alternate_name"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/alternate_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:text="alternate_name"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- prominence -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/prominence"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/prominence"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:text="prominence"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- location -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/location"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:text="location"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- coordinates -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/coordinates"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/coordinates"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:text="coordinates"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- founded -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/founded"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/founded"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:text="founded"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- abandoned -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/abandoned"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/abandoned"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:text="abandoned"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- city_info -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/city_info"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/city_info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:text="city_info"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- area -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/area"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/area"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:text="area"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- excavation dates -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/excavation_dates"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/excavation_dates"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:text="excavation_dates"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- architecture -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/architecture"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/architecture"
+                android:text="architecture"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- archaeologists -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/archaeologists"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/archaeologists"
+                android:text="archaeologists"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- Archaeology -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/archaeology"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/archaeology"
+                android:text="archaeology"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- research -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/research"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/research"
+                android:text="research"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- environment -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/environment"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/environment"
+                android:text="environment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- occupation -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/occupation"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/occupation"
+                android:text="occupation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- part_of -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/part_of"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/part_of"
+                android:text="part_of"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- criteria -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/criteria"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/criteria"
+                android:text="criteria"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- inscription -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/inscription"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/inscription"
+                android:text="inscription"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- buffer_zone -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/buffer_zone"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/buffer_zone"
+                android:text="buffer_zone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <!-- history -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/history"
+                android:textSize="20dp"
+                android:textColor="@color/primary" />
+
+            <TextView
+                android:id="@+id/history"
+                android:text="history"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:textSize="20dp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) 2013, Redsolution LTD. All rights reserved.
+
+     This file is part of Jabify project; you can redistribute it and/or
+     modify it under the terms of the GNU General Public License, Version 3.
+
+     Jabify is distributed in the hope that it will be useful, but
+     WITHOUT ANY WARRANTY; without even the implied warranty of
+     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+     See the GNU General Public License for more details.
+
+     You should have received a copy of the GNU General Public License,
+     along with this program. If not, see http://www.gnu.org/licenses/.
+-->
+<resources>
+    
+    <color name="text_field_grey">#ffdbdbdb</color>
+    <color name="bg_grey">#dbdbdb</color>
+    <color name="bright_foreground_dark">#ffffffff</color>
+    <color name="realblue">#15C1F1</color>
+    <color name="bright_foreground_light">#ffffff</color>
+    <color name="primary" type="color">#15C1F1</color>
+    <color name="halfprimary" type="color">#8015C1F1</color>
+    <color name="primarypressed" type="color">#0987aa</color>
+    <color name="primarydark" type="color">#8015C1F1</color>
+    <color name="light" type="color">#de000000</color>
+    <color name="secondarytext" type="color">#8a000000</color>
+    <color name="ondarktext" type="color">#fffafafa</color>
+    <color name="primarybackground" type="color">#80fafafa</color>
+    <color name="secondarybackground" type="color">#80eeeeee</color>
+    <color name="darkbackground" type="color">#80323232</color>
+    <color name="divider">#1f000000</color>
+    <color name="red">#ff0066</color>
+    <color name="yellow">#ffff00</color>
+    <color name="orange">#80ff9800</color>
+    <color name="blue">#8015C1F1</color>
+    <color name="black">#000000</color>
+    <color name="green">#009900</color>
+    <color name="azrag">#0033cc</color>
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="text_color">#575757</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+    
+
+</resources>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:fillViewport="true"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".ui.ReferencesActivity"
+android:background="#ffff">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- BAR -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#ffffff" >
+
+        <TextView
+            android:id="@+id/title2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="@string/references_and_about"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primary" />
+
+        <RelativeLayout
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true" >
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:text="@string/back"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/primary" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@drawable/shadowt">
+    </RelativeLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:text="
+The developer of this app does not claim the discoveries mentioned or anything of the info provided within this app as all the respective sources mentioned and thanked for their great achievements.
+\n\n
+Also we mention of
+\n\n
+Dictionary:\n
+http://psd.museum.upenn.edu\n
+http://www.sumerian.org/sumerlex.htm\n
+\n\n
+Proverbs:\n
+http://etcsl.orinst.ox.ac.uk\n
+\n\n
+Cuneiform fonts:\n
+http://oracc.museum.upenn.edu\n
+https://www.hethport.uni-wuerzburg.de/cuneifont/\n
+\n\n
+Also great Thanks to 'Sumerian Proverb of the Day' Developer cs.veg@weaveworld.org.\n
+\n\n
+This app is provided as it is with no guarantee or warranty given of any kind.\n\n
+Made by Sumerian Apps at\n
+https://www.facebook.com/Sumerian.Apps/\n
+By Karrar S. Honi at\n
+https://www.facebook.com/karrar.sattar.5\n
+
+"/>
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>

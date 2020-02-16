@@ -1,0 +1,4451 @@
+{"proverbs": [
+{"id": 0,
+"source": "cf. 6.2.3: UET 6/2 291 ll. 1-2, 6.2.5: YBC 8713 ll. 1-2",
+"english": "Who can compete with righteousness? It creates life.",
+"sumerian": "niĝ2-gen6-na-da a-ba in-da-sa2 nam-til3 i3-u3-tud"}
+,
+{"id": 1,
+"source": "cf. 6.2.3: UET 6/2 291 l. 3, 6.2.5: YBC 8713 l. 3",
+"english": "If wickedness exerts itself, how will Utu succeed?",
+"sumerian": "niĝ2-erim2-e a2-bi ḫe2-bi2-ib2-kuš2-u3 d-utu me-da tum3"}
+,
+{"id": 2,
+"source": "",
+"english": "You should not cut the throat of that which has already had its throat cut.",
+"sumerian": "niĝ2 gu2 kud-ku5-ra2 gu2 nam-ba-e-ku5-re6"}
+,
+{"id": 3,
+"source": "",
+"english": "You should not say to Nin-ĝiš-zi-da: 'Let me live!'",
+"sumerian": "d-nin-ĝiš-zid-da-ra ga-til3 na-an-na-ab-be2-en"}
+,
+{"id": 4,
+"source": "",
+"english": "Do not make me pass through the gate!",
+"sumerian": "/kan4\\-na nam-mu-e-ni-dib-be2"}
+,
+{"id": 5,
+"source": "cf. 6.2.3: UET 6/2 265 l. 1",
+"english": "What has submitted will exhibit resistance.",
+"sumerian": "niĝ2 gu2 ĝar-ra niĝ2 gaba ĝar-ra"}
+,
+{"id": 6,
+"source": "cf. 6.2.5: YBC 4677 ll. 6-7",
+"english": "What has been destroyed belongs to a god. No one is able to take it away.",
+"sumerian": "niĝ2 ḫa-lam-ma diĝir-ra-kam šu tu-tu nu-ub-zu"}
+,
+{"id": 7,
+"source": "",
+"english": "'Though I still have bread left over, I will eat your bread!' Will this endear a man to the household of his friend?",
+"sumerian": "ninda-ĝu10 ḫe2-ĝal2 ninda-zu ga-gu7[line] e2 dub3-sa-na-ka lu2 ba-ni-ib-kal-le"}
+,
+{"id": 8,
+"source": "cf. 6.1.22: ll. 140-145, 6.2.3: UET 6/2 239, 6.2.3: UET 6/2 320, 6.2.3: UET 6/2 339 + UET 6/3 235 Seg. B l. 2",
+"english": "If bread is left over, the mongoose eats it. If I have any bread left over, then a stranger will eat it.",
+"sumerian": "ninda ḫe2-ĝal2-e d-nin-kilim ib2-gu7[line] ninda ḫa-ma-ĝal2-e lu2-kur2-ra ib2-gu7"}
+,
+{"id": 9,
+"source": "",
+"english": "My things changed things.",
+"sumerian": "niĝ2-ĝu10 niĝ2 am3-kur2"}
+,
+{"id": 10,
+"source": "",
+"english": "You don't speak of that which you have found. You talk only about what you have lost.",
+"sumerian": "niĝ2 i3-pad3-da-zu nu-ub-be2-en[line] niĝ2 u2-gu de2-a-zu ab-be2-en"}
+,
+{"id": 11,
+"source": "",
+"english": "Something which has never occurred since time immemorial: a young woman did not fart in her husband's embrace.",
+"sumerian": "niĝ2 ud-bi-ta la-ba-ĝal2-la[line] ki-sikil tur ur2 dam-ma-na-ka še10 nu-ub-dur2-re"}
+,
+{"id": 12,
+"source": "",
+"english": "It is a thing of short duration.",
+"sumerian": "niĝ2 ud tur-ra-kam"}
+,
+{"id": 13,
+"source": "",
+"english": "Whatever it is that hurts you, don't talk to anyone about it.",
+"sumerian": "niĝ2-ḫul dim2-ma-zu a-na-am3 na-an-na-ab-be2-en"}
+,
+{"id": 14,
+"source": "",
+"english": "Wealth is far away, poverty is close at hand.",
+"sumerian": "/niĝ2-tuku\\-tuku al-su3-ud[line] nam-ukur3-ra al-ku-nu"}
+,
+{"id": 15,
+"source": "cf. 6.2.5: YBC 4677 l. 5",
+"english": "He who possesses many things is constantly on guard.",
+"sumerian": "niĝ2 am3-da-tuku-tuku igi am3-da-uru3-e"}
+,
+{"id": 16,
+"source": "",
+"english": "Possessions make trust of crucial importance.",
+"sumerian": "[niĝ2]-/gur11 niĝ2\\-ĝiš-kim-/til3? ši-dugud-dugud\\"}
+,
+{"id": 17,
+"source": "",
+"english": "Possessions are flying birds -- they never find a place to settle.",
+"sumerian": "niĝ2-gur11 buru5-mušen dal-dal[line] ki-tuš nu-pad3-de3-dam"}
+,
+{"id": 18,
+"source": "3 mss. have instead:",
+"english": "Good fortune (is embedded in) ( reinforces) organisation and wisdom.",
+"sumerian": "da-ga nam-kug-zu d.lamma (ib2-da-nu2) ( a2 bi2-ib-ĝar)"}
+,
+{"id": 19,
+"source": "?",
+"english": "What is eaten for today was put there by the dog. What is eaten by the dog was put there for today .",
+"sumerian": "niĝ2 ud-de3 gu7 ur-re ba-an-ĝar[line] niĝ2 ur-re gu7 ud-de3 ba-an-ĝar"}
+,
+{"id": 20,
+"source": "",
+"english": "(One shouldn't) ( I will not) scorn bread which has turned bad.",
+"sumerian": "ninda ḫul ba-ĝal2-la (gu2-zu) ( gu2-ĝu10) la-ba-ši-šub"}
+,
+{"id": 21,
+"source": "",
+"english": "Give out only half a loaf voluntarily!",
+"sumerian": "ninda MAŠ šag4-da zig3-ga-ab"}
+,
+{"id": 22,
+"source": "cf. 6.2.3: UET 6/2 261 and UET 6/2 262, 6.2.3: UET 6/2 339 + UET 6/3 235 Seg. B l. 3, 4.14.1: l. 144",
+"english": "To be wealthy and insist (?) on demanding more is abominable.",
+"sumerian": "niĝ2-tuku al di keše2-re niĝ2-gig-ga-am3"}
+,
+{"id": 23,
+"source": "",
+"english": "[line] line unclear",
+"sumerian": "/niĝ2\\-ḫul? /kuš2?\\-kuš2? nid.ba tag-/ga\\"}
+,
+{"id": 24,
+"source": "",
+"english": "Let him decree the fates while consuming what you have made.",
+"sumerian": "niĝ2 ak-zu? gu7 nam ḫe2-eb-tar"}
+,
+{"id": 25,
+"source": "",
+"english": "I always seem to be speaking about unpleasant things.",
+"sumerian": "niĝ2 nu-dug3 ga-dug4-dug4"}
+,
+{"id": 26,
+"source": "",
+"english": "When a purchase is settled it is soon out of mind.",
+"sumerian": "niĝ2-sam2-ma sig10-ga šag4-ta ib2-ta-e3"}
+,
+{"id": 27,
+"source": "",
+"english": "He did something never seen before.",
+"sumerian": "niĝ2 igi nu-du8-a-gin7 mu-un-ak"}
+,
+{"id": 28,
+"source": "cf. 6.1.07.82",
+"english": "That which does not eat grass is a wild bull of the mountains. That which does not drink water is a gazelle of the mountains.",
+"sumerian": "[niĝ2] /u2\\ nu-gu7 am kur-ra-ka[line] [niĝ2] a nu-naĝ maš-da3 kur-ra-ka"}
+,
+{"id": 29,
+"source": "cf. 6.1.07.37",
+"english": "One does not return borrowed bread.",
+"sumerian": "[ninda] šu-a ti-a /li-bi2\\-in-gur-ra"}
+,
+{"id": 30,
+"source": "",
+"english": "The herald rejoices when the estate makes expenditures.",
+"sumerian": "niĝ2 /e2\\ zig3-ga niĝir-e an-ḫul2"}
+,
+{"id": 31,
+"source": "",
+"english": "The steward rejoices when the estate increases its income.",
+"sumerian": "[niĝ2] /e2\\ de5-/de5-ga aĝrig\\-e an-ḫul2"}
+,
+{"id": 32,
+"source": "",
+"english": "Don't pick things now; they will bear fruit later.",
+"sumerian": "niĝ2 nam-til-til-de3-en eĝer-bi ga-ra-an-da-am3"}
+,
+{"id": 33,
+"source": "",
+"english": "Who will listen to your translations?",
+"sumerian": "niĝ2 inim bal-e-en-na-zu[line] a-ba-am3 ĝiš mu-ra-an-tuku-tuku"}
+,
+{"id": 34,
+"source": "",
+"english": "What you are doing is a small accomplishment. That man is not doing a man's work.",
+"sumerian": "niĝ2 ab-ak-ak-na-zu niĝ2 ak tur lu2 ne in-nu"}
+,
+{"id": 35,
+"source": "",
+"english": "Bread is served but it is not used for wiping. Water is poured out, and then drunk by the ground. In the nether world, the most honoured place, since it is water and food, it is called a water libation.",
+"sumerian": "ninda i3-sig10 šu nu-un-gur[line] a ib2-ta-de2 ki-in-du ba-ab-naĝ[line] kur-ra ki kal-la-kal-la-ba[line] a-am3 u2-am3 a-de2-da mu-pad3-de3-dam"}
+,
+{"id": 36,
+"source": "cf. 6.1.19.f4, 6.2.1: Ni 4469 Seg. A ll. 1-4",
+"english": "Let his bread be foul food; no man should eat it.",
+"sumerian": "ninda-ni niĝ2-u2-zug4 ḫe2-a[line] lu2 nam-bi2-in-šu2-šu2"}
+,
+{"id": 37,
+"source": "cf. 6.1.19.f6",
+"english": "Barley flour, in the fields, is meat fat.",
+"sumerian": "dab.in a-šag4-ga uzu.suš2-am3"}
+,
+{"id": 38,
+"source": "",
+"english": "Whatever food is available in the fields is to be eaten alone.",
+"sumerian": "a-šag4-ga ninda ĝal2-la dili-e-eš gu7-u3-da"}
+,
+{"id": 39,
+"source": "",
+"english": "Chickpea-flour is appropriate for every woman in the palace.",
+"sumerian": "zid2-gu munus-munus-e e2-gal-e ba-ab-du7"}
+,
+{"id": 40,
+"source": "",
+"english": "His bread is finished.",
+"sumerian": "ninda in-na-til-la-am3"}
+,
+{"id": 41,
+"source": "cf. 6.1.26.c4",
+"english": "There is no baked cake in the middle of the dough.",
+"sumerian": "ninda-gug2 du8 šag4 niĝ2-silaĝ-ĝa2 in-nu-u3"}
+,
+{"id": 42,
+"source": "cf. 6.1.26.c5",
+"english": "My heart urged me to bake two loaves out of a half. My hands were unable to take them out of the oven.[line] Bread is the boat, water is the punt-pole.",
+"sumerian": "ninda 2(MIN) /MAŠ\\-ta-am3 du8-u3-de3 šag4-ĝu10 am3-tum3-de3[line] šu-ĝu10 im.šu-rin-na-ta nu-ub-ta-ed2-de3[line] ninda ĝiš-ma2-am3 a ĝiš-gi-muš-am3"}
+,
+{"id": 43,
+"source": "",
+"english": "Give me my tools and I will launch my boat.",
+"sumerian": "ĝiš-šu-kar2-ĝu10 šum2-ma-ab[line] ĝiš-ma2-ĝu10 zag ga-ab-tag"}
+,
+{"id": 44,
+"source": "2 mss. add:",
+"english": "Let the poor man die, let him not live. When he finds bread, he finds no salt. When he finds salt, he finds no bread. When he finds meat, he finds no condiments. When he finds condiments, he finds no meat. ( When he finds oil, he finds no jar. When he finds a jar, he finds no oil.)",
+"sumerian": "ukur3 ḫa-ba-ug7 nam-ba-da-til3-i[line] ninda i3-pad3 mun nu-pad3 mun i3-pad3 ninda nu-pad3[line] uzu i3-pad3 gazi nu-pad3 gazi i3-pad3 uzu nu-pad3 ( i3 i3-pad3 šaĝan nu-pad3 šaĝan i3-pad3 i3 nu-pad3)"}
+,
+{"id": 45,
+"source": "",
+"english": "When he walks on the streets no one greets him. And when he comes home to his wife, 'Bad Name' is what he is called.",
+"sumerian": "e-sir2-ra ḫe2-du silim-eš2 gu3 nu-um-de2[line] e2-a i-ni-in-kur9 /nita.lam\\-ma-ni-še3 mu ḫul mu-bi-/im\\"}
+,
+{"id": 46,
+"source": "cf. 6.1.25.5",
+"english": "The lives of the poor do not survive their deaths.",
+"sumerian": "ukur3 nam-til3-bi nam-uš2-da /nu?\\-[ub-dirig]"}
+,
+{"id": 47,
+"source": "cf. 6.1.19.f5",
+"english": "For morsels of bread and fine onions, the food of the school (?).",
+"sumerian": "ninda pax(PAD)-ra2 šum2-sikil zil2-la2-še3[line] ninda e2-dub?-/ba\\-[a-kam]"}
+,
+{"id": 48,
+"source": "cf. 6.1.02.118, 6.2.3: UET 6/2 221",
+"english": "In the city where there are no dogs, the fox is boss.",
+"sumerian": "iri-ki nu ur-gir15-ra ka5-a nu-banda3"}
+,
+{"id": 49,
+"source": "cf. 6.1.02.119, 6.2.5: UIOM 1999",
+"english": "In the city of the lame, a cripple is the courier.",
+"sumerian": "iri-ki ad4-ne-ka ba-za lu2-kaš4-e"}
+,
+{"id": 50,
+"source": "",
+"english": "The city's fate cannot be determined; its book-keeper is a merchant.",
+"sumerian": "iri-ki nam-bi nu-tar-re[line] saĝ-tun3-bi dam-gar3-ra"}
+,
+{"id": 51,
+"source": "cf. 6.1.14.15, 6.1.25.6",
+"english": "You should drive them like pack-asses into a death-stricken city.",
+"sumerian": "iri-ki nam-uš2 ĝal2-la-še3 anše-bal-gin7 ḫe2-ni-ib-sar-re"}
+,
+{"id": 52,
+"source": "",
+"english": "When you are expelled from a city, that city and its king are carried off.",
+"sumerian": "iri-ki-da nam-da-ĝar-re-en-na iri-ki-bi[line] lugal-bi ba-ra-an-de6-a"}
+,
+{"id": 53,
+"source": "cf. 6.1.07.121",
+"english": "The songs of a city are its diviners.",
+"sumerian": "iri-ki en3-du-bi maš2-šu-gid2-gid2-bi-im"}
+,
+{"id": 54,
+"source": "",
+"english": "When I enter a sleeping city, the city will be filled with blood. When I board a deep-draught boat, it will go aground.",
+"sumerian": "iri-ki u3 ku-a ga-am3-kur9 iri-ki mud ba-e-si[line] /ĝiš\\ma2-su3-a ga-ab-u5[line] [peš10] /mu\\-un-tag-tag-ge-de3"}
+,
+{"id": 55,
+"source": "",
+"english": "The merchant left the city and the market broke up.",
+"sumerian": "dam-gara3 iri-ta ba-ra-e3 ganba ba-ra-an-du8"}
+,
+{"id": 56,
+"source": "",
+"english": "Things may be traded in the city but it is the fisherman who brings in the food supply.",
+"sumerian": "iri-a niĝ2 bal-bal ba-an-ĝar šu-KU6-de3 šukur2 ba-an-dab5-be2-eš"}
+,
+{"id": 57,
+"source": "",
+"english": "The name of the city is Idibi. Its king's name is Didibi. Its queen's name is No-good-at-all.",
+"sumerian": "iri i-di-bi mu-bi-im[line] lugal-bi di-di-bi mu-bi-im[line] nin-bi nu-dug3-dug3-ga mu-bi-im"}
+,
+{"id": 58,
+"source": "cf. 6.1.07.12",
+"english": "Like a clod thrown into the water, may it be destroyed as it disintegrates.",
+"sumerian": "lag a-a gurud-da-gin7 bi-iz-za-a-na ḫe2-gul"}
+,
+{"id": 59,
+"source": "",
+"english": "Beer is a bull. The mouth is its stairway.",
+"sumerian": "kaš gud-dam ka kun4-bi-im"}
+,
+{"id": 60,
+"source": "",
+"english": "He hurled his insult. He laid his curse.",
+"sumerian": "in-a-ni mu-un-dub2 aš2-a-ni mu-un-ĝal2"}
+,
+{"id": 61,
+"source": "cf. 6.1.26.a13",
+"english": "To a curse that is uttered, a curse is not reciprocated. (A curse which is reciprocated will be retaliated against with yet another curse.) ((1 ms. has instead:) The curse with which I would respond would cause another curse to be uttered.)",
+"sumerian": "aš2 dug4-dug4-ge aš2 nu-mu-ni-in-gi4[line] (aš2-e gi4-a aš2-a ba-ni-in-gi4) ((1 ms. has instead:) aš2 šu gi4-a-ĝu10 aš2 mu-un-dug4)"}
+,
+{"id": 62,
+"source": "cf. 6.1.26.c11",
+"english": "It is an insult resulting from an insult. It is a curse resulting from a curse. It is the constant renewal of destiny.",
+"sumerian": "in-na in-bi-im aš2-e aš2-bi-im[line] nam-tar-ra ki gibil-gibil-la2-bi"}
+,
+{"id": 63,
+"source": "cf. 6.1.07.28",
+"english": "To accept a verdict is possible. To accept a curse is impossible.",
+"sumerian": "di gid2-i al-ĝal2 aš2 gid2-i nu-ĝal2"}
+,
+{"id": 64,
+"source": "",
+"english": "What has been spoken in secret will be revealed in the women's quarters.",
+"sumerian": "puzur5 u3-bi2-dug4 ama5-e ḫe2-bur2-re"}
+,
+{"id": 65,
+"source": "cf. 6.1.26.a11, 6.2.3: UET 6/2 302, 6.2.5: YBC 8713 ll. 4-5",
+"english": "When a trustworthy boat is sailing, Utu seeks out a trustworthy harbour for it.",
+"sumerian": "ĝiš-ma2 niĝ2-gen6-na ni2 ba-ra-ab-dirig[line] d-utu kar gen6-na mu-un-na-ab-ši-kiĝ2-kiĝ2"}
+,
+{"id": 66,
+"source": "",
+"english": "When a dishonest boat is sailing, it runs aground.",
+"sumerian": "ĝiš-ma2 niĝ2-erim2-e ni2 ba-ra-ab-dirig[line] peš10-peš10-e im-ta-/tag\\-[tag]-e"}
+,
+{"id": 67,
+"source": "",
+"english": "A ferryboat sank at Zabalam. 'Oh Utu of Larsam, who pulled out the mooring stake?'",
+"sumerian": "[ĝiš]ma2-/addir\\ zab.alam.ki-a ba-su[line] d-utu lar.sam.ki-ma a-ba-a ĝiš ba-da-an-zig3"}
+,
+{"id": 68,
+"source": "",
+"english": "A boatman -- belligerence.",
+"sumerian": "[ĝiš]ma2-laḫ5 niĝ2 kur2"}
+,
+{"id": 69,
+"source": "cf. 6.1.07.21",
+"english": "If the boat sinks, I will pull out the cargo.",
+"sumerian": "ĝiš-ma2 ḫa-ba-su-su [barag] ḫa-ba-/ra-ur3\\"}
+,
+{"id": 70,
+"source": "cf. 6.1.07.42",
+"english": "Like a boat, he always floats up in the water.",
+"sumerian": "ĝiš-ma2-gin7 a-/a\\ [am3-zig3-zig3]"}
+,
+{"id": 71,
+"source": "",
+"english": "My girlfriend's heart is a heart made for me.",
+"sumerian": "šag4 ma-la-ĝa2 šag4 ma-dim2-/ma\\"}
+,
+{"id": 72,
+"source": "cf. 6.2.1: Ni 13186 Seg. B l. 2",
+"english": "In my heart you are a human being, but in my eyes you are not a man.",
+"sumerian": "šag4-ĝa2 lu2-ulu3-me-en igi-ĝa2 lu2 nu-me-en"}
+,
+{"id": 73,
+"source": "cf. 6.1.22: ll. 201-202",
+"english": "When the heart overflows, it is lamentable. (He who can keep it in his heart is a prince.) ((1 ms. has instead:) I am a prince who can keep it in the heart.)",
+"sumerian": "šag4-ga ub-dirig a-nir-ra[line] (šag4-ga sig10-ga dumu lugal-la-ka) ((1 ms. has instead:) /šag4\\-ga sig10-ga dumu /lugal-la-me\\-[en])"}
+,
+{"id": 74,
+"source": "cf. 6.1.07.104, 6.1.11.53",
+"english": "Those who get excited should not become foremen. A shepherd should not become a farmer.",
+"sumerian": "šag4-bi zig3-ga ugula nam-me[line] sipad engar nam-me"}
+,
+{"id": 75,
+"source": "",
+"english": "What comes out from the heart of the tree is known by the heart of the tree.",
+"sumerian": "šag4 ĝiš-a-ta e3-a[line] šag4 ĝiš-a-ta zu-am3"}
+,
+{"id": 76,
+"source": "",
+"english": "He is at ease, he is pleased, he makes a living, he offers a prayer.",
+"sumerian": "šag4-ge ba-dug3 bar-re ba-sag9[line] gu7-e ba-te šudu3?-e ba-gid2-i"}
+,
+{"id": 77,
+"source": "cf. 6.1.07.51",
+"english": "Whether he ate it or not, the seed was good.",
+"sumerian": "in-gu7 nu-un-gu7 numun sag9-ga-am3"}
+,
+{"id": 78,
+"source": "",
+"english": "He broke it into pieces and sated his hunger. He licked his hands and belched.",
+"sumerian": "in-pad šag4 an-dirig šu bi2-in-/sub!\\[line] bu-lu-uḫ2 mu-un-si-il-si-il-e"}
+,
+{"id": 79,
+"source": "",
+"english": "He who drinks beer drinks water.",
+"sumerian": "kaš naĝ-naĝ-e a ba-naĝ-naĝ"}
+,
+{"id": 80,
+"source": "cf. 1.44",
+"english": "He who eats too much cannot sleep.",
+"sumerian": "niĝ2 maḫ gu7-gu7-e u3 nu-um-ši-ku-ku"}
+,
+{"id": 81,
+"source": "cf. 6.1.11.54, 6.1.15.c3, 6.1.26.b4, 6.1.28.8",
+"english": "If one pours oil into the inside of a sceptre ((2 mss. add:) nobody will know.)",
+"sumerian": "šag4 ĝidru-ka i3 ḫe2-en-de2 ((2 mss. add:) lu2 na-me nu-/zu\\)"}
+,
+{"id": 82,
+"source": "",
+"english": "A heart never created hatred; speech created hatred.",
+"sumerian": "šag4-ge šag4 ḫul gig nu-ub-tu-ud[line] dug4-ge šag4 ḫul gig ib2-tu-ud"}
+,
+{"id": 83,
+"source": "",
+"english": "Let it be plentiful, so that it is not deficient. Let it be excessive, so that it does not have to be supplemented. Let it be piping hot, so that it does not become cold.",
+"sumerian": "ḫe2-lu-a nam-ba-la2[line] ḫe2-dirig na-an-su-su[line] ḫe2-eb-šeĝ6 na-an-te-en-te-en"}
+,
+{"id": 84,
+"source": "",
+"english": "Inwardly a ewe, outwardly a ewe, a most fecund spouse: 'Let the shepherd perish, but may you not perish.'",
+"sumerian": "šag4 u8 bar u8 mu-ud-na lum-ma-lum-ma[line] sipad ḫe2-en-ḫa-lam za-e na-an-ḫa-lam-e-de3"}
+,
+{"id": 85,
+"source": "cf. 6.1.11.39",
+"english": "You cannot butt me with your horns! Who is it that you are butting? You cannot kill me -- I am running away!",
+"sumerian": "si nu-mu-e-da-a-il2-/i\\[line] a-ba-/am3\\ si il2-i-de3-nam[line] ĝe26-e nu-mu-e-da-gaz i-ni-du-du-[de3-en]"}
+,
+{"id": 86,
+"source": "an bal",
+"english": "Across the heavens , across the earth, litter (anba) is distributed (anba) over the earth.(based on puns)",
+"sumerian": "an bal ki bal an-ba ki an-ba"}
+,
+{"id": 87,
+"source": "",
+"english": "[line] line unclear",
+"sumerian": "BU-UD-bar MA ad u3-su3-/ud\\"}
+,
+{"id": 88,
+"source": "",
+"english": "[line] line fragmentary",
+"sumerian": "BU-UD-bar U3 BA MA X [X] X X"}
+,
+{"id": 89,
+"source": "SUG",
+"english": "A trough for kneading dough, not kept clean.",
+"sumerian": "ĝiš-buniĝ niĝ2-/silaĝ-ĝa2\\ nu-luḫ-/ḫa\\"}
+,
+{"id": 90,
+"source": "SUG",
+"english": "A trough from which the pigs eat.",
+"sumerian": "ĝiš-buniĝ šaḫ2 /gu7-gu7\\"}
+,
+{"id": 91,
+"source": "cf. 6.1.14.41, 6.1.22: l. 33, 6.1.23.2",
+"english": "My husband heaps up for me, my child measures out for me; let my lover pick the bones from the fish for me.",
+"sumerian": "[dam]-ĝu10 ma-an-dub-be2[line] [dumu]-ĝu10 ma-an-aĝ2-[e][line] [mu-ud]-na-ĝu10 ku6-ta ĝiri3-pax(PAD)-ra2 [ḫe2]-eb-de5-de5-ge"}
+,
+{"id": 92,
+"source": "cf. 6.1.14.42, 6.1.19.c6, 6.1.22: l. 34, 6.2.3: UET 6/2 284",
+"english": "A plant as sweet as a husband does not grow in the steppe.",
+"sumerian": "u2 dam-gin7 ze2-ba edin-na nu-un-mu2"}
+,
+{"id": 93,
+"source": "cf. 6.2.3: UET 6/2 306",
+"english": "Oh my sister, if there were no outdoor shrines, and, oh my mother, if there were no river as well, I would be dying of hunger.",
+"sumerian": "nin9-ĝu10 ub-lil2-la2 nam-me-a[line] ama-ĝu10 id2-da nam-ga-me-am3[line] šaĝar-da ba-ug7-e-de3-en-e-še"}
+,
+{"id": 94,
+"source": "",
+"english": "You are not one who stays in one place, you are one who is everywhere.",
+"sumerian": "aĝ2 ki di-ta nu-/ĝen\\ aĝ2 ki šar2-ra-ĝen"}
+,
+{"id": 95,
+"source": "cf. 6.1.19.c3, 6.1.22: ll. 87-88, 6.1.28.4",
+"english": "Accept your lot and make your mother happy. Run fast and make your god happy.",
+"sumerian": "ĝiš-šub us2-sa-ab ama-zu ḫul2-la-ab[line] kaš4 dug4-ga-ab diĝir-zu ḫul2-la-ab"}
+,
+{"id": 96,
+"source": "cf. 6.1.19.c4",
+"english": "Marry a wife according to your choice. Have children to your heart's content.",
+"sumerian": "igi il2-la-zu dam tuku-ba-ni-ib[line] šag4-ge guru7-zu dumu tuku-ba-ni-ib"}
+,
+{"id": 97,
+"source": "cf. 6.1.19.c5",
+"english": "May Inana make a hot-limbed wife lie with you! May she bestow upon you broad-shouldered sons! May she seek out for you a happy place!",
+"sumerian": "din.an.a-ke4 dam ur2 kum2-ma ḫa-ra-nu2-a[line] dumu a2 tal2-tal2-la ḫa-ra-an-ba-e[line] ki niĝ2 sag9-ga ḫa-ra-an-kiĝ2-kiĝ2-/e\\"}
+,
+{"id": 98,
+"source": "",
+"english": "Girl, your brother cannot choose for you; whom do you choose?",
+"sumerian": "ki-sikil šeš-zu saĝ nu-mu-re-eb-kal-le[line] a-ba-am3 saĝ mu-e-kal-le-en"}
+,
+{"id": 99,
+"source": "",
+"english": "Girl, your brother is like me. A brother should let you live as would I.",
+"sumerian": "ki-sikil šeš-zu ĝe26-e-gin7-nam[line] šeš ĝe26-gin7 ḫe2-til3-le"}
+,
+{"id": 100,
+"source": "cf. 6.1.14.40, 6.1.28.17",
+"english": "When I married a malicious husband, when I bore a malicious son, an unhappy heart was assigned to me.",
+"sumerian": "dam nu-ĝar-ra tuku-a-ĝu10-ne[line] dumu nu-ĝar-ra tud-da-ĝu10-ne[line] šag4 nu-dug3-ga ma-a-še3? ma-an-ĝar"}
+,
+{"id": 101,
+"source": "cf. 6.1.03.9, 6.1.16.b5, 6.1.22: ll. 26-27, 6.1.23.7",
+"english": "He who does not support a wife, he who does not support a child, has no cause for celebration.",
+"sumerian": "dam nu-il2 dumu nu-il2[line] giri17-zal-še3 nu-il2"}
+,
+{"id": 102,
+"source": "cf. 6.1.14.44",
+"english": "A malicious wife living in the house is worse than all diseases.",
+"sumerian": "dam nu-ĝar-ra e2-a til3-la-am3[line] a2-sag3-a2-sag3-e dirig-ga-am3"}
+,
+{"id": 103,
+"source": "cf. 6.1.07.93",
+"english": "Conceived by no father, conceived by no mother, the enbar reed came out of the eye of the storm.",
+"sumerian": "ad-da-a a ḫur nu-ri[line] ama-a a ḫur nu-ri[line] gien3-bar gaba ud-da-ka e3-a"}
+,
+{"id": 104,
+"source": "?",
+"english": "A male aroused eats salt. A female aroused is dragged in the mud .",
+"sumerian": "nitaḫ zig3-ga-am3 mun al-gu7-e[line] munus zig3-ga-am3 im-ma al-gid2-gid2-de3"}
+,
+{"id": 105,
+"source": "",
+"english": "A disorderly son -- his mother should not have given birth to him. His god should not have created him.",
+"sumerian": "dumu si nu-sa2 ama-a-ni na-an-u3-tud[line] diĝir-ra-ni na-an-dim2-dim2-e"}
+,
+{"id": 106,
+"source": "",
+"english": "My wife said 'Unfaithful!' to me -- shall I go chasing after women's genitals?",
+"sumerian": "[dam]-ĝu10 /lu2-lul\\-la ma-an-dug4[line] [gal4-la]-e ba-ab-us2-e-en"}
+,
+{"id": 107,
+"source": "cf. 6.1.23.7",
+"english": "An unfaithful penis matches (?) an unfaithful vagina.",
+"sumerian": "ĝiš3 lul-la gal4-la lul-la-ke4 ba-ni-in-sig10"}
+,
+{"id": 108,
+"source": "cf. 6.1.14.39",
+"english": "Marrying is human. Having children is divine.",
+"sumerian": "dam tuku-tuku lu2-ulu3-/ka?\\[line] dumu tuku-tuku diĝir-ra-/ka?\\"}
+,
+{"id": 109,
+"source": "cf. 6.1.03.65, 6.1.17.b8, 6.1.22: ll. 194-196",
+"english": "Oh merchant, how you use up silver! And how you use up barley!",
+"sumerian": "dam-gar3-re kug ta ba-an-ir[line] u3 še ta ba-an-ir"}
+,
+{"id": 110,
+"source": "",
+"english": "At the top it is a wild cow, at the bottom it is a fish. At the top it is shattered potsherds, at the bottom it is half a cubit.",
+"sumerian": "an sumun2?-am3 ki ku6-am3[line] an šika de5 ki MAŠ kuš3"}
+,
+{"id": 111,
+"source": "cf. 6.1.07.22",
+"english": "I visit it by day, I visit it at nightfall. I always stand by the lamentation drum!",
+"sumerian": "ud i3-di-di-in ud šu2-uš i3-di-di-in[line] balaĝ er2-ra im-ma-gub-gub-bu-de3-en"}
+,
+{"id": 112,
+"source": "cf. 6.1.14.46-a",
+"english": "Sons-in-law -- what have they brought? Fathers-in-law -- what have they disposed of?",
+"sumerian": "mi2-sa2-tur ta mu-un-ir-ra-bi[line] ušbar-e ta bi2-in-bur2-ra-bi"}
+,
+{"id": 113,
+"source": "cf. 6.2.3: UET 6/2 334",
+"english": "She who says 'My expense' is her girl friend. An interfering neighbour is the one with whom she quarrels.",
+"sumerian": "zig3-ga-ĝu10 dug4-ga ma-la-ga-ni[line] ušur na de5-ga lu2 du14-da-ka-ni"}
+,
+{"id": 114,
+"source": "?",
+"english": "In the seventh month he did not slaughter a pig. In the sixth month he did not put on a new turban.",
+"sumerian": "itid du6-kug-ga-ka šaḫ2 nu-un-X[line] itid kiĝ2-ga-ša-an-an-na-ka aga? gibil! nu-um-mur10"}
+,
+{"id": 115,
+"source": "cf. 6.1.07.47",
+"english": "I walk about, I don't get tired. I keep moving, I don't sleep.",
+"sumerian": "[al-di-di-de3]-/en\\ nu-kuš2-u3-me-en[line] [i3-di-di]-de3-en u3 nu-ku-ku-me-en"}
+,
+{"id": 116,
+"source": "cf. 6.1.07.49",
+"english": "When the rags have been cut up, when the barley is lying in the dust, what is there left to get?",
+"sumerian": "tug2-me-ze2-er-ra ba-da-ab-bir7-ra[line] še saḫar-ra ba-da-an-til3-la[line] ta-a šu ba-ni-ti"}
+,
+{"id": 117,
+"source": "cf. 6.1.07.52",
+"english": "I am a lady who wears large garments. Let me cut my loincloth!",
+"sumerian": "[ga-ša]-/an\\ tug2 gal-gal-la-ĝen[line] tug2-niĝ2-dara2-ĝu10 da-an-kud"}
+,
+{"id": 118,
+"source": "",
+"english": "When you are eating, may nothing lack. When you are in need of water, may things not dry up.",
+"sumerian": "aĝ2 gu7-gu7-ĝen aĝ2 nam-la2-e[line] /tur?-ra?\\-ĝen aĝ2 nam-ba-ša-ra-ge-«en»"}
+,
+{"id": 119,
+"source": "",
+"english": "A chattering girl is silenced by her mother. A chattering boy is not silenced by his mother.",
+"sumerian": "ki-sikil gu3 ra-aḫ ama-ni mu-un-sig9[line] ĝuruš lu2 gu3 ra-aḫ ama-ni nu-mu-un-da-an-sig9"}
+,
+{"id": 120,
+"source": "",
+"english": "His gathered brushwood will be carried off. His destroyed parapet (will) ( will not) be plundered.",
+"sumerian": "u2 il2-la-a-ni ba-da-ab-il2-e[line] bad3-si gul-la-ni (šu mu-un-ak-e) ( šu? nu-mu-na-ab-ak?-e?)"}
+,
+{"id": 121,
+"source": "",
+"english": "Food is the matter, water is the matter.",
+"sumerian": "u2-um inim-ma-am3 a inim-ma-am3"}
+,
+{"id": 122,
+"source": "cf. 6.1.19.c9",
+"english": "Fatty meat is good. Fatty mutton is good. -- What shall (I) ((1 ms. has instead:) we) give the slave girl?",
+"sumerian": "uzu.suš2 al-/ze2-eb\\[line] uzui3-udu al-/ze2\\-eb[line] ta-am3 gi4-in-na ( ga-an-na-ab-ze2-eĝ3-ĝen ) ((1 ms. has instead:) ga-ma-ze2-ĝe26-e-en-de3-en )"}
+,
+{"id": 123,
+"source": "cf. 6.1.21.c3",
+"english": "Let her eat the ham of a pig!",
+"sumerian": "dur2 šaḫ2 ḫe2-gu7-e"}
+,
+{"id": 124,
+"source": "",
+"english": "You are pouring the fat from the meat, you are pulling out the roasted barley -- when you carry the cooking pot, watch out for your feet!",
+"sumerian": "uzu i3 ab-ta-/ab\\-bal-e-en[line] še sa-a bi2-ib-ze2-re-/en\\[line] lu2 utul2 da-il2-la me-ri-za en-nu-uĝ3 ak-ab-e-še"}
+,
+{"id": 125,
+"source": "cf. 6.2.3: UET 6/2 303",
+"english": "To be sick is acceptable; to be pregnant is painful; but to be pregnant and sick is just too much.",
+"sumerian": "tur5-ra dug3-ga-am3[line] peš13 gig-ga-am3[line] /peš13\\ tur5-ra [im-ma]-/dirig\\-ga-bi"}
+,
+{"id": 126,
+"source": "",
+"english": "She has risen high, but cannot go on. She is low, but cannot rise.",
+"sumerian": "an-še3 i3-zig3 nu-mu-un-da-ma-ma[line] ki-še3 i3-ma-al nu-mu-un-da-zi-zi-i"}
+,
+{"id": 127,
+"source": "?",
+"english": "A brewing trough not previously tried is put to the test by means of salt. A mixing jar not previously tried is put to the test by means of water. A son-in-law whose behaviour is unknown is put to the test by means of quarrels.",
+"sumerian": "utul2 du-bu-ul nu-zu mun?-ta um?-/ta?\\-sig10[line] dug sur-ra nu-zu a-ta al-/sig10\\[line] mi2-sa2 niĝ2-DI nu-un-zu-a du14 mu2-mu2 al-sig10"}
+,
+{"id": 128,
+"source": "Alster 1997 12 Sec. B 4",
+"english": "The master knows. The steward does not know.",
+"sumerian": "lugal-e mu-un-/zu\\[line] aĝrig-e nu-mu-un-/zu\\"}
+,
+{"id": 129,
+"source": "Alster 1997 12 Sec. B 5",
+"english": "May the master sleep at your side, and may the mistress slap your face.",
+"sumerian": "lugal-e da ḫa-ra-/nu2\\ u3 nin-e muš3-me-zu ḫe2-eb-ra"}
+,
+{"id": 130,
+"source": "Alster 1997 12 Sec. B 7",
+"english": "The lord and lady of the house touch the figurine.",
+"sumerian": "lugal e2-e u3 nin e2-e-ke4 ĝiš-za-na mi-ni-ib-tag-ge-ne"}
+,
+{"id": 131,
+"source": "Alster 1997 12 Sec. B 8",
+"english": "The granary collects.",
+"sumerian": "esaĝ2-e šu bi2-ib-de5-de5"}
+,
+{"id": 132,
+"source": "Alster 1997 12 Sec. B 9",
+"english": "Outgoings are a matter for both, and now I also am one of them.",
+"sumerian": "niĝ2 e3 2(MAN)-na-ne-ne-ka[line] /ĝe26\\-e in-ga-me-en-na-e-še"}
+,
+{"id": 133,
+"source": "Alster 1997 12 Sec. B 11",
+"english": "[line] lines unclear",
+"sumerian": "/AB?\\ šag4? ĝiš-ur3?-bi DE2-a-ka[line] lu2 usu-bi? e2-a-na-ka"}
+,
+{"id": 134,
+"source": "Alster 1997 12 Sec. C 3",
+"english": "Their masters have changed. They are dressed in mourning (?) clothes.",
+"sumerian": "lugal-be2-ne bi2-in-kur2-ru-uš[line] tug2-ku-ru-um am3-mur10-re-eš"}
+,
+{"id": 135,
+"source": "Alster 1997 12 Sec. C 4",
+"english": "Thus says the man whose clothes are torn: 'Precious things are strong.'",
+"sumerian": "lu2 tug2 bir7-bir7-ra na-ab-be2-a[line] kal-kal-la al-kal-la-ge-e-še"}
+,
+{"id": 136,
+"source": "Alster 1997 12 Sec. C 5",
+"english": "A man who can lift the heavens -- and he does not fart.",
+"sumerian": "lu2 an il2-la še10 nu-ub-dur2-re"}
+,
+{"id": 137,
+"source": "Alster 1997 12 Sec. C 6",
+"english": "A man who behaves like a damp reed towards his fellow men does not tell the truth either.",
+"sumerian": "lu2 gi duru5 ak-gin7 lu2-lu2-u3-ra[line] niĝ2-gen6-na inim nu-mu-un-da-ab-bal-e"}
+,
+{"id": 138,
+"source": "Alster 1997 12 Sec. C 9",
+"english": "The man whose knees are paralysed has not prayed devoutly to Nintur.",
+"sumerian": "lu2 dug3 dab5-ba d-nin-tur5-re[line] inim-ma nu-[mu]-/na\\-an-sig10-e-še"}
+,
+{"id": 139,
+"source": "Alster 1997 12 Sec. D 2A",
+"english": "He whose barley sprouts weeps. He who is pouring out water cannot converse.",
+"sumerian": "lu2 še lum-lum er2 al-še8-še8[line] lu2 a de2-a ka-bi nu-ba-e"}
+,
+{"id": 140,
+"source": "Alster 1997 12 Sec. D 3; cf. 6.2.5: YBC 9916",
+"english": "A man who didn't tie up his leather sack made his friend angry.",
+"sumerian": "lu2 kuš.a2-ĝa2-la2-ni nu-keše2-da gu5-li-ni-da šag4 bi2-in-dab5"}
+,
+{"id": 141,
+"source": "Alster 1997 12 Sec. D 4; cf. 6.2.5: YBC 9906",
+"english": "Even a millstone will float in the river for a righteous man.",
+"sumerian": "lu2 si sa2-ra na4-kinkin(ḪAR) id2-da mu-na-ab-dirig-dirig"}
+,
+{"id": 142,
+"source": "",
+"english": "The thief, out of fear of facing a lion, becomes a man driven by fear of facing a lion cub.",
+"sumerian": "lu2-zuḫ-a ni2 igi piriĝ-ĝa2-ka[line] lu2 [ḫub2] sar-re ni2 igi piriĝ-tur-[ra]-ka"}
+,
+{"id": 143,
+"source": "",
+"english": "The thief extends winter to the beginning of summer.",
+"sumerian": "lu2-zuḫ-a en-te-na-ka zag e2-me-eš-a-ka mu-ni-in-bur2"}
+,
+{"id": 144,
+"source": "",
+"english": "When a burglar makes a hole, he makes it narrow.",
+"sumerian": "lu2-zuḫ-a buru3-buru3-da i3-in-sal-e"}
+,
+{"id": 145,
+"source": "",
+"english": "The owner of a house should reinforce the windows against burglars.",
+"sumerian": "lu2-zuḫ-zuḫ-a ab lugal [e2]-e-ke4 ḫe2-eb-kal-la-ge-e-še"}
+,
+{"id": 146,
+"source": "",
+"english": "Even the strongest labourer gets beaten by the owner of the barley.",
+"sumerian": "a2-il2 kalag-ga lugal še-ke4 bi2-ib-ra-ra-e-[še]"}
+,
+{"id": 147,
+"source": "?",
+"english": "A crafty man does not transgress against his mother.",
+"sumerian": "galam-e /azag?\\-še3 ama-ni nu-un-/gu7?\\"}
+,
+{"id": 148,
+"source": "",
+"english": "A crafty man lays on a party for his neighbour.",
+"sumerian": "galam-e ušur kaš-de2 ak-/ak\\"}
+,
+{"id": 149,
+"source": "",
+"english": "A crafty man exhorts the crowd: 'Seize him! Drive him away!'",
+"sumerian": "galam-e dab5-ba-an-ze2-en uĝ3-/bi\\-še3 /sar-re\\-en-ze2-[en]"}
+,
+{"id": 150,
+"source": "?",
+"english": "The crafty one hung whatever precious metal there was about herself .",
+"sumerian": "galam-e niĝ2-nam kug /nam\\-bi2-la2-e-[še]"}
+,
+{"id": 151,
+"source": "",
+"english": "A stone to a crafty man is two halves of a shekel.",
+"sumerian": "na4 galam-e MAŠ-MAŠ giĝ4 [X]"}
+,
+{"id": 152,
+"source": "PAD",
+"english": "A lame man spoke to his mother: 'Where a man reclines in a chair, it is really comfortable!' His mother replied: 'What is he afraid of? When did we last see you run away anywhere?'",
+"sumerian": "kud-ku5-ra2 ama-/ni\\ na-ab-be2-a[line] ki gu-za lu2 i3-nu2 ĝiri3-pax-ra2-ni na-ab-/sag9\\[line] /ama-ni\\ na-ab-be2-[a][line] [a]-na-am3 ni2 te-ni-gin7[line] ḫub2 sar-re-zu igi u3-bi2-in-du8-un-de3-en-e-še"}
+,
+{"id": 153,
+"source": "",
+"english": "A lame man saw some runners: 'The people who disappeared, where did they go?' he asked.",
+"sumerian": "kud-ku5-ra2 lu2-kaš4-e igi u3-bi2-in-du8[line] erin2 u2-gu de2-a me-še3-am3 i3-re7-eš-am3-e-/še\\"}
+,
+{"id": 154,
+"source": "",
+"english": "A lame man spoke: 'Oh feet of mine, walk!'",
+"sumerian": "kud-ku5-ra2 na-ab-be2-a ĝiri3-ĝu10 ĝen-na-ab-ze2-en-e-še"}
+,
+{"id": 155,
+"source": "?",
+"english": "A lame man came running to the New Year festival and a man said to him: 'Insofar as you were lame, you wouldn't be able to do that!'",
+"sumerian": "kud-ku5-ra2 a2-ki-te-a kaš4 di bi2-e3 lu2 na-ab-/be2\\-[a][line] en-na nam-kud-ku5-ra2-/zu\\ nu-ub-da-ak-e-[še]"}
+,
+{"id": 156,
+"source": "",
+"english": "Just as if you were concerning yourself with a reed mat on a hillside.",
+"sumerian": "[gi.kid]-/ma2?\\-šu2-a-gin7 du6-da en3 ab-tar-tar-re-en"}
+,
+{"id": 157,
+"source": "",
+"english": "You subject yourself to rules -- as a thief does.",
+"sumerian": "/lu2\\-zuḫ-a-gin7 ni2-zu ĝarza2-še3 i3-ĝa2-ĝa2-an"}
+,
+{"id": 158,
+"source": "",
+"english": "When the ecstatic had taken up position at Inana's gate, his daughter addressed the crowd: 'My mother's word is absolutely true.'",
+"sumerian": "lu2-gub-ba kan4 din.an.a-ka u3-bi2-in-gub[line] dumu-munus-a-ni erin2-na an-na-ab-be2[line] /inim?\\ ama-ĝu10 lul-aš gen6-na-/am3\\-e-še"}
+,
+{"id": 159,
+"source": "?",
+"english": "As the gardeners chased some boys away, one stayed where he was while another ate at his pleasure . The one who was hiding in the trees could not be encouraged to come out. Afraid, the one who stood where he was and who had been caught said: 'I will come down to you; and let the others here join me in coming down to you.' (The gardener replied:) 'Your collaboration is pleasing; I will not have you castigated in your father's house.'",
+"sumerian": "/dumu lu2\\nu-ĝiš-kiri6-ke4-ne u3-mu-un-sar-re-eš[line] 1(DIŠ)-am3 ki ba-an-gub 1(DIŠ)-am3 sag9-sag9-da? /gu7\\[line] lu2 ĝiš-a ba-da-an-gub-ba ḫuĝ-ĝa2 nu-e3[line] ni2-ta en-/na\\ ĝe26-e im-ši-ed3-de3[line] lu2 igi-za-ke4-ne u3 ĝe26-e ga-mu-e-ši-ed3-de3[line] lu2 gub dab5-/ba\\ an-na-ab-be2[line] nam-giri17-šu-du3-/a sag9\\[line] e2 ad-da-za-ka nu-šub-be2-en-e-še"}
+,
+{"id": 160,
+"source": "",
+"english": "A house of debt is a house in whose interior no light shines.",
+"sumerian": "e2 ur5-ra e2 šag4-ga nu-un-zalag"}
+,
+{"id": 161,
+"source": "",
+"english": "Let the house of debts go up with the smoke.",
+"sumerian": "e2 ur5-ra i-bi2 ḫe2-em-ed3-de3"}
+,
+{"id": 162,
+"source": "",
+"english": "The dishonest man stole silver; the honest man will earn his pay.",
+"sumerian": "lu2-IM kug ba-an-zuḫ lu2 gen6-na giĝ4 mu-ni-in-ak-de3"}
+,
+{"id": 163,
+"source": "?",
+"english": "When dishonest men come to your banquet, they are troubled and try to hide it .",
+"sumerian": "lu2-IM banšur-zu-uš /kur9\\-re-eš zi ba-an-ir-eš šu bi2-ib-ur3-ru-ne"}
+,
+{"id": 164,
+"source": "?",
+"english": "When the dishonest man is ill , he says: 'The whole country will be destroyed!'",
+"sumerian": "[lu2]-IM im-gig /al\\-DU ma-da ḫa-lam-e-de3 /an-na\\-[ab-be2]"}
+,
+{"id": 165,
+"source": "cf. 6.2.5: UM 29-16-519 Seg. B l. 1",
+"english": "Let the favour be repaid to him who repays a favour.",
+"sumerian": "[šu gi4-gi4]-/ra\\ šu ḫe2-en-na-gi4"}
+,
+{"id": 166,
+"source": "cf. 6.2.5: NBC 8072",
+"english": "May Luma grant prosperity to him (who speaks well of others) ((1 ms. has instead:) who has good things).",
+"sumerian": "[d.lum-ma] /lu2\\ (inim-ĝar sag9-ga-ra) ((1 ms. has instead:) niĝ2 sag9-ga-ra) [sag9]-/ga\\ ḫe2-en-na-ĝal2"}
+,
+{"id": 167,
+"source": "cf. 6.1.16.c1, 6.2.5: UM 29-16-519 Seg. A ll. 7-8",
+"english": "The farmer lifts his gaze to you (i.e. Enlil) : 'May Enlil look upon the city that he cursed.'",
+"sumerian": "[igi engar-e] /mu\\-e-ši-in-/il2-la\\[line] [den-lil2]-/le\\ iri nam ku5-/ra2-ni ḫa\\-ba-ši-ib2-il2-la"}
+,
+{"id": 168,
+"source": "cf. 6.1.15.b1, 6.1.16.c2, 6.2.5: UM 29-16-519 Seg. A ll. 9-10",
+"english": "The herdsman lifts his gaze to you: 'May Enlil look upon the city that he cursed.'",
+"sumerian": "[igi sipad-tur]-e-«ne» mu-e-ši-in-il2-la[line] [den-lil2]-le iri nam ku5-ra2-ni [ḫa]-ba-ši-ib2-il2-la"}
+,
+{"id": 169,
+"source": "cf. 6.1.15.b2, 6.1.16.c3, 6.2.5: UM 29-16-519 Seg. A ll. 11-12",
+"english": "The potter lifts his gaze to you: 'May Enlil look upon the city that he cursed.'",
+"sumerian": "[igi baḫar2]-e mu-e-ši-in-il2-la[line] [den-lil2]-le iri nam ku5-ra2-ni [ḫa]-ba-ši-ib2-il2-la"}
+,
+{"id": 170,
+"source": "cf. 6.1.03.149, 6.1.16.c5, 6.1.22: ll. 172-175, 6.1.25.1",
+"english": "The day became cloudy but it did not rain. It rained, but not enough for people to undo their sandals. The Tigris was not surging at its inlet, so water did not fill the arable lands.",
+"sumerian": "[ud al-šu2-šu2]-/ru im\\ nu-šeĝ3-am3[line] [im al-šeĝ3] /kuš\\e-sir2 nu-du8-a[line] [id2-idigna ka-ba] /mu-un-zur-re\\ [a-gar3-re nu-si]-/si\\"}
+,
+{"id": 171,
+"source": "cf. 6.1.01.68, 6.1.25.6",
+"english": "You should drive them like pack-asses into a death-stricken city.",
+"sumerian": "iri nam-uš2 ĝal2-la-še3 anše-bal-a-ke4 ḫe2-ni-ib2-sar-re"}
+,
+{"id": 172,
+"source": "",
+"english": "The temple E-babbar, which Me-silim had built, was destroyed by Nanni, whose posterity had been cut off.",
+"sumerian": "e2-babbar me-silim-e mu-un-du3-a[line] d-na-ni lu2 numun til-til-la šu ḫul mu-un-du3-e"}
+,
+{"id": 173,
+"source": "cf. 6.1.02.143",
+"english": "If a household has harmed an acquaintance, the matter should be investigated.",
+"sumerian": "e2-e lu2 zu-bi mu-un-gul en3-bi-a tar-re"}
+,
+{"id": 174,
+"source": "cf. 6.1.03.92, 4.05.1: ll. 54-55",
+"english": "Enlil's temple is a collecting (?) of wages (?); yet to reach out, to look with greedy eyes and to seize should be abominations there.",
+"sumerian": "e2 den-lil2-la2 pa-ḫar /addir\\ [(X)][line] šu gid2 igi-tum3 la2 šu sumur niĝ2-gig-ga-kam"}
+,
+{"id": 175,
+"source": "",
+"english": "Both the palace and the nether world require obedience from their inhabitants.",
+"sumerian": "e2-gal iri11-gal šag4-bi teš2-a ab-sig10-ge5"}
+,
+{"id": 176,
+"source": "cf. 6.1.02.157, 6.1.25.11, 6.2.3: UET 6/2 317",
+"english": "A palace cannot ignore waste land. A barge cannot ignore straw. A freeborn man cannot ignore toil.",
+"sumerian": "e2-gal a-ri-a nu-da13-da13[line] ĝiš-ma2-gur8 in-nu-da nu-[da13-da13][line] /dumu\\-gir15 du-lum-ma nu-da13-/da13\\"}
+,
+{"id": 177,
+"source": "cf. 6.1.02.153",
+"english": "The palace is an ox; you should catch it by the tail. Utu is lord; you should fix your gaze on him.",
+"sumerian": "e2-gal gud-dam kun-bi ḫe2-/dab5\\[line] d-utu lugal-am3 igi-zu ḫe2-en-ši-ni-ĝal2"}
+,
+{"id": 178,
+"source": "cf. 6.1.02.158, 6.1.17.b9, 6.1.25.10",
+"english": "The palace: one day a mother giving birth, the next day a mother in mourning.",
+"sumerian": "e2-gal ud 1(DIŠ) ama tud-da-am3[line] ud 1(DIŠ) ama a-/nir-ra-am3\\"}
+,
+{"id": 179,
+"source": "cf. 6.1.01.160",
+"english": "Having wives is human. Having children is from the gods.",
+"sumerian": "/dam tuku-tuku\\ lu2-[ulu3-kam][line] dumu /tuku-tuku\\ diĝir-ra-kam"}
+,
+{"id": 180,
+"source": "cf. 6.1.01.151, 6.1.28.17",
+"english": "When I married a malicious husband -- when I bore a malicious son.",
+"sumerian": "/dam\\ nu-/ĝar-ra tuku\\-a-ĝu10-ne[line] dumu nu-ĝar-ra tud-da-ĝu10-ne"}
+,
+{"id": 181,
+"source": "cf. 6.1.01.125, 6.1.22: l. 33, 6.1.23.2",
+"english": "My husband heaps up for me, my child measures out for me; my lover picks the bones from the fish for me.",
+"sumerian": "dam-ĝu10 ma-dub-be2[line] dumu-ĝu10 ma-an-aĝ2-e[line] [mu]-ud-na-ĝu10 ku6-ta ĝiri3-pax(PAD)-ra2 ma-ni-ib2-de5-de5-ge"}
+,
+{"id": 182,
+"source": "cf. 6.1.01.126, 6.1.19.c6, 6.1.22: l. 34, 6.2.3: UET 6/2 284",
+"english": "A plant as sweet as a husband does not grow in the desert.",
+"sumerian": "u2 dam-/gin7\\ /ze2-ba\\ edin-ta nu-un-mu2"}
+,
+{"id": 183,
+"source": "idiom: sense unclear",
+"english": "My husband needn't bring me grass; it will not make a decoration for my genitals .",
+"sumerian": "u2 dam-ĝu10 na-ma-ab-/il2\\-[i-(X)] pe-en-ze2-er-ĝu10 u-gun3 /la\\-ba-ak-e"}
+,
+{"id": 184,
+"source": "cf. 6.1.01.154",
+"english": "A malicious wife living in a house is the worst of all afflictions.",
+"sumerian": "dam nu-ĝar-ra e2-a til3-la a2-sag3-a2-sag3-a dirig-ga"}
+,
+{"id": 185,
+"source": "cf. 6.1.22: ll. 35-37, 6.2.5: UM 29-15-748 ll. 6-7",
+"english": "A pig was carrying something (?): 'Where is my sow?' it said. As it neared its fate, it said: 'It is my dung-spattered (?) food!'",
+"sumerian": "šaḫ2-e niĝ2 mu-un-la2 me-a dam-ĝu10 im-me[line] nam-tar u3-mu-un-na-te u2 šurum-ma-ĝu10 im-me"}
+,
+{"id": 186,
+"source": "",
+"english": "As for a daughter-in-law -- what about making a reed mat?",
+"sumerian": "e2-gi4-a /ta?\\ /gi.kid\\-ma2-šu2-a ak"}
+,
+{"id": 187,
+"source": "cf. 6.1.01.169",
+"english": "As for the fiancé, what has he brought? And as for the father-in-law, what has he sorted out?",
+"sumerian": "mi2-sa2-tur ta mu-un-i-ra-bi[line] ušbar7-e ta am3-bur2-ra-bi"}
+,
+{"id": 188,
+"source": "cf. 6.1.15.c4",
+"english": "A stranger is leader in a foreign city.",
+"sumerian": "[gir5 iri kur2-ra-am3] saĝ-ĝa2-am3"}
+,
+{"id": 189,
+"source": "Alster 1997 15 Sec. A 4",
+"english": "The well-wisher is the mother of the refugee.",
+"sumerian": "in-ga-ḫul2-e ama lu2-kar-ra-kam"}
+,
+{"id": 190,
+"source": "Alster 1997 15 Sec. A 5",
+"english": "May the people wish you well. May your god grant what you are in agreement with (?).",
+"sumerian": "/in\\-ga-ḫul2-zu uĝ3-e ḫe2-em-me[line] [ḫe2]-am3-zu diĝir-zu ḫe2-em-me"}
+,
+{"id": 191,
+"source": "Alster 1997 15 Sec. A 6",
+"english": "[line] lines unclear",
+"sumerian": "[in]-/ga\\-ḫul2-e sed-da-ka[line] [X X] E? NE ban3?-da"}
+,
+{"id": 192,
+"source": "Alster 1997 15 Sec. A 7",
+"english": "[line] line unclear",
+"sumerian": "X in-ga-ḫul2-a-kam [X X] X-am3 al-KU"}
+,
+{"id": 193,
+"source": "cf. 6.1.14.4, 6.1.16.c2, 6.2.5: UM 29-16-519 Seg. A ll. 9-10",
+"english": "The shepherd boy lifts his gaze to you (i.e. Enlil) : 'May Enlil look upon the city he has cursed.'",
+"sumerian": "/igi\\ sipad-tur-re mu-e-ši-in-il2-e[line] den-lil2-le iri-ki nam ku5-ra2-ni ḫa-ba-ši-in-il2-e"}
+,
+{"id": 194,
+"source": "cf. 6.1.14.5, 6.1.16.c3, 6.2.5: UM 29-16-519 Seg. A ll. 11-12",
+"english": "The potter lifts his gaze to you: 'May Enlil look upon the city he has cursed.'",
+"sumerian": "igi baḫar2-e mu-un-ši-in-il2-e[line] den-lil2 iri nam ku5-ra2-ni ḫa-ba-ši-in-il2-e"}
+,
+{"id": 195,
+"source": "cf. 6.2.5: UM 29-16-519 Seg. A ll. 13-14",
+"english": "The gardener lifts his gaze to you: 'May Enlil look upon the city he has cursed.'",
+"sumerian": "/igi\\ nu-ĝiš(source: /ĜIŠ-NU\\)kiri6-e mu-un-ši-in-il2-e[line] den-lil2-le iri nam [ku5]-ra2-ni ḫa-ba-/ši\\-in-il2-e"}
+,
+{"id": 196,
+"source": "cf. 6.1.16.c4",
+"english": "What will the farmer with his vigilant eye do?",
+"sumerian": "engar /igi\\ [uru3-a a-na]-/am3? ak\\-X"}
+,
+{"id": 197,
+"source": "cf. 6.1.25.1",
+"english": "It rained on the river banks but the dry land did not get a drop.",
+"sumerian": "peš10-/a\\ [im al]-/šeĝ3\\-am3[line] bar-rim4-/ma im?\\ nu-um-bi-iz"}
+,
+{"id": 198,
+"source": "cf. 6.1.25.2",
+"english": "The high priest rejected fish, he rejected leeks, and he should also reject the zagḫili plant.",
+"sumerian": "en-e ku6 an-gi4 ga-rašsar an-gi4[line] u3 za3-ḫi-/li\\-a ḫe2-da-an-gi4"}
+,
+{"id": 199,
+"source": "cf. 6.1.26.b3, 6.1.28.7",
+"english": "Let the herdsman whip the ox. Let the shepherd slaughter the sheep. Where there is no toughness, no man can go about his business.",
+"sumerian": "kuš.a2-/si\\ unud(UNU3)(source: KU) gud? ḫa-[ba-šum2-X][line] sipad /udu?\\ ḫa-ba-šum-[X][line] ki! saĝ!-ki nu-ĝal2-/la\\ lu2 na-an-ni-dib2-/be2\\"}
+,
+{"id": 200,
+"source": "cf. 6.1.01.104, 6.1.11.54, 6.1.26.b4, 6.1.28.8",
+"english": "If oil is poured inside the shaft of a sceptre, no one would know.",
+"sumerian": "šag4 ĝidru-ka i3 ḫe2-en-de2 [lu2] /na\\-me nu-zu"}
+,
+{"id": 201,
+"source": "cf. 6.1.14.55",
+"english": "The stranger is leader in a foreign city.",
+"sumerian": "[gir5] iri kur2-ra-am3 saĝ-ĝa2-am3"}
+,
+{"id": 202,
+"source": "cf. 6.1.03.10",
+"english": "You should get rid of the shepherd, so his sheep will not come back into his charge.",
+"sumerian": "sipad ḫe2-em-ta-ed3-de3-e-en[line] udu-ni šu-a li-bi2-in-gi4"}
+,
+{"id": 203,
+"source": "cf. 6.1.03.11",
+"english": "The wise shepherd has become confused, and his sheep will not come back into his charge.",
+"sumerian": "sipad kug-zu /mu?-un?-na\\-bir-am3[line] udu-ni šu-a li-bi2-in-gi4"}
+,
+{"id": 204,
+"source": "cf. 6.1.03.9, 6.1.23.7",
+"english": "A shepherd's sex appeal is his penis; a gardener's sex appeal is his hair.",
+"sumerian": "sipad(source: TUR3) ĝiš3-a-ni[line] nu-ĝiš-kiri6 suḫur-ni"}
+,
+{"id": 205,
+"source": "cf. 6.1.01.153, 6.1.03.9, 6.1.22: ll. 26-27, 6.1.23.7",
+"english": "An unjust heir who does not support a wife, who does not support a child, has no cause for celebration.",
+"sumerian": "ibila nu-gen6-na dam nu-il2 dumu nu-il2 giri17-zal-še3 nu-il2"}
+,
+{"id": 206,
+"source": "cf. 6.1.14.3, 6.2.5: UM 29-16-519 Seg. A ll. 7-8",
+"english": "The farmer lifts his gaze to you (i.e. Enlil) : 'May Enlil look upon the city that he cursed.'",
+"sumerian": "[igi engar-e mu-e-ši-in-il2-e][line] [den-lil2-le iri nam ku5-ra2-ni ḫa-ba]-ši-[in-il2-e]"}
+,
+{"id": 207,
+"source": "cf. 6.1.14.4, 6.1.15.b1, 6.2.5: UM 29-16-519 Seg. A ll. 9-10",
+"english": "The shepherd boy lifts his gaze to you: 'May Enlil look upon the city that he cursed.'",
+"sumerian": "igi sipad-tur-re [mu-e-ši-in-il2-e][line] den-lil2-le iri /nam\\ [ku5-ra2-ni] ḫa-ba-ši-in-/il2\\-[e]"}
+,
+{"id": 208,
+"source": "cf. 6.1.14.5, 6.1.15.b2, 6.2.5: UM 29-16-519 Seg. A ll. 11-12",
+"english": "The potter lifts his gaze to you: 'May Enlil look upon the city that he cursed.'",
+"sumerian": "igi baḫar2-e mu-e-ši-[in-il2-e][line] den-lil2-le iri nam [ku5-ra2-ni] ḫa-ba-ši-in-[il2-e]"}
+,
+{"id": 209,
+"source": "cf. 6.1.03.17",
+"english": "'My friend' might last just one day. 'My colleague' lasts forever.",
+"sumerian": "gu5-li-/ĝu10\\ [niĝ2 ud 1(DIŠ)-kam][line] gi-me-[a-aš-ĝu10 niĝ2 ud da-ri2-kam]"}
+,
+{"id": 210,
+"source": "Alster 1997 16 Sec. E 3",
+"english": "He enters (?) through the slavegirl's window; he is indeed a merchant!",
+"sumerian": "ab geme2-ta na-ab-/ku4?-ku4?\\-[X][line] dam-gara3 e-ne"}
+,
+{"id": 211,
+"source": "Alster 1997 16 Sec. F 1 = 21 Sec. C 4; cf. 6.1.09.g5",
+"english": "Like a mountain mined for precious metals, he is a man whose judgment is unsound (i.e. full of holes) .",
+"sumerian": "kur kug ba-al-[gin7][line] lu2 dim2-ma nu-sag9"}
+,
+{"id": 212,
+"source": "Alster 1997 16 Sec. F 6",
+"english": "After becoming a thief, one becomes an outcast.",
+"sumerian": "/eĝer\\ ni2-zuḫ ti-ri2-da mu-/deḫi2\\"}
+,
+{"id": 213,
+"source": "cf. 6.1.22: ll. 203-206, 1.8.1.5: ll. 28-29, 1.8.1.5.1: ll. 12-13, 6.3.a: ll. 17-18",
+"english": "No one is tall enough to reach up and touch the heavens. No one is broad enough to lift his gaze over the whole earth. No one is strong enough even to stretch himself fully in his bed. But you (?), who roar like a storm -- may you establish yourself like a lion. [line] line unclear# No man can bring about your demise.",
+"sumerian": "/sukud\\-de3 an-na šu nu-um-[da-la2][line] /daĝal\\-e ki-a <igi> nu-um-ma-an-il2-il2[line] /kalag\\-ga ki-nu2 ni2 nu-mu-un-gid2-de3[line] [za]-/e\\-me-en ud-gin7 dug4-dug4-ga[line] /piriĝ\\-gin7 ne ḫe2-gub[line] X-zu ĝiš-kiri6 a ḫe2-eb?-de6[line] lu2 nam-bi2-ib-til-e"}
+,
+{"id": 214,
+"source": "cf. 6.1.02.23",
+"english": "The poor man does not strike his son a single blow; he treasures him highly forever.",
+"sumerian": "ukur3-re dumu-na tibir2 1(DIŠ)-am3 šu nu-um-ma-ni-dug4-/ge\\[line] gi16-sa da-ri2-še3 mu-un-[na]-ni-ak-[e]"}
+,
+{"id": 215,
+"source": "",
+"english": "A poor man staring into the soup.",
+"sumerian": "ukur3 tu7-a igi bar-ra"}
+,
+{"id": 216,
+"source": "cf. 6.1.03.64",
+"english": "Scales made with a net are a pit contrived of dishonesty; should a man then take a merchant for his friend?",
+"sumerian": "ĝiš-erin2 sa ak-am3 ĝiš !pu2 niĝ2-lul ak-a[line] dam-gar3-ra gu5-li-ni(source: GAN2)-/še3\\ lu2 ši-in-ga-an-tuku-tuku"}
+,
+{"id": 217,
+"source": "cf. 6.1.01.165, 6.1.03.65, 6.1.22: ll. 194-196",
+"english": "You, merchant, how small you made the amount of silver! And how small you made the amount of barley!",
+"sumerian": "dam-gar3-ra kug-babbar ta ba-an-tur-re-en[line] [u3] /še\\ ta ba-an-tur-re-en"}
+,
+{"id": 218,
+"source": "cf. 6.1.02.158, 6.1.14.22, 6.1.25.10",
+"english": "The palace: one day a mother giving birth, the next day a mother in mourning.",
+"sumerian": "[e2-gal][line] [ud] /1(DIŠ)\\ ama tud-da-/am3\\[line] [ud 1(DIŠ) ama a-nir]-ra-am3"}
+,
+{"id": 219,
+"source": "?",
+"english": "The idleness of a low-life causes losses; his shying away from work is perpetual.",
+"sumerian": "da-ra-an-šub a-ḫur-rum i-bi2-za[line] /gur?-da?\\ niĝ2 ud da-ri2-kam"}
+,
+{"id": 220,
+"source": "",
+"english": "Employ a low-life -- fire him after half a day!",
+"sumerian": "[a]-/ḫur\\-rum keše2-ra-ab[line] ud MAŠ-a du8-du8-a-ab"}
+,
+{"id": 221,
+"source": "cf. 6.1.26.c2",
+"english": "He who pays with high-valued silver negotiates a favourable position.",
+"sumerian": "kug kalag-ga la2 ka kalag-ga sam2"}
+,
+{"id": 222,
+"source": "",
+"english": "Your worthiness is the result of chance.",
+"sumerian": "/za\\-e ĝiš-šub-e ni2 bi2-ib-kal"}
+,
+{"id": 223,
+"source": "cf. 6.2.3: UET 6/2 281",
+"english": "The quick one hid, the strong one fled; the talker got into the palace.",
+"sumerian": "[dub3-tuku bar] in-dab5[line] usu-tuku ba-da-an!-kar[line] [ka tuku] e2-gal-la ba-ni-in-kur9"}
+,
+{"id": 224,
+"source": "",
+"english": "Whenever there is excess, an axe remedies it!",
+"sumerian": "/ḫe2\\-em-dirig urudḫa-zi-in al-su-su"}
+,
+{"id": 225,
+"source": "",
+"english": "The hills and the depths will be levelled.",
+"sumerian": "du6-la2 dul2-bi bi2-ib-sig9-sig9"}
+,
+{"id": 226,
+"source": "",
+"english": "A slave entrusted with a burial will be negligent.",
+"sumerian": "/saĝ\\ ki-tum3 a2 aĝ2-ĝa2 še-ba-e-da-e-/še?\\"}
+,
+{"id": 227,
+"source": "cf. 6.1.03.88, 6.1.24.7",
+"english": "He who tosses his head will cross the river.",
+"sumerian": "saĝ bul-e id2-da bal-/e\\"}
+,
+{"id": 228,
+"source": "Alster 1997 21 Sec. A 1; cf. 6.1.19.c7, 6.1.23.18, 6.1.24.8",
+"english": "A man's daughter-in-law is his policeman.",
+"sumerian": "[e2]-/gi4-a gal4-la\\ [lu2-kam]"}
+,
+{"id": 229,
+"source": "Alster 1997 21 Sec. A 4; cf. 6.1.24.10",
+"english": "I would make the beer sweet but my neighbour would not appreciate it.",
+"sumerian": "kaš ga-/ze2-ze2-eb?\\ ušur nu-kal-/e\\"}
+,
+{"id": 231,
+"source": "Alster 1997 21 Sec. A 6",
+"english": "The slave girl roams around when it grows dark as if it were midnight.",
+"sumerian": "/gi4\\-in ud šu2-šu2-/ru\\ ĝi6 MAŠ-a-gin7 an-na-di-/di\\-[(X)]"}
+,
+{"id": 232,
+"source": "Alster 1997 21 Sec. A 8; cf. 6.2.5: IM 62823 Seg. B l. 5",
+"english": "Dusk means joy for a daughter-in-law.",
+"sumerian": "ud šu2-šu2-ru šag4 ḫul2-la e2-gi4-a-/kam\\"}
+,
+{"id": 233,
+"source": "Alster 1997 21 Sec. A 11; cf. 6.1.03.37",
+"english": "The slave girl from the palace offers advice (?) continually.",
+"sumerian": "geme2 e2-gal-la /za\\-ra dug4-[dug4]"}
+,
+{"id": 234,
+"source": "Alster 1997 21 Sec. A 12; cf. 6.1.03.37",
+"english": "The slave from the palace eats the ex-voto offering (perhaps an idiom) .",
+"sumerian": "/arad\\ e2-gal-la ga-til3-bi [gu7-gu7]"}
+,
+{"id": 235,
+"source": "cf. 6.1.01.126, 6.1.14.42, 6.1.19.c6, 6.2.3: UET 6/2 284",
+"english": "A plant as sweet as a husband does not grow in the desert.",
+"sumerian": "[u2 dam]-/gin7?\\ ze2-ba [edin-na nu]-/un\\-mu2"}
+,
+{"id": 236,
+"source": "cf. 6.1.26.a4, 6.2.3: UET 6/2 259, 6.2.5: UM 29-16-519 Seg. B ll. 4-5, 6.2.5: YBC 7351",
+"english": "The chasing away of a younger son from the house of his father is an abomination to Ninurta.",
+"sumerian": "[dumu-nitaḫ tur]-/ra?\\-am3 [e2 ad]-da-ni [sar]-ra[line] /niĝ2-gig\\ /d\\nin-urta-kam"}
+,
+{"id": 237,
+"source": "",
+"english": "'Speak!' is spoken. 'Rise!' is risen.",
+"sumerian": "/dug4-ga\\-ab dug4-ga[line] /zig3\\-ga-ab zig3-ga"}
+,
+{"id": 238,
+"source": "cf. 6.2.3: UET 6/3 31 l. 7, 5.6.1: l. 195",
+"english": "Good is in the hands. Evil is also in the hands.",
+"sumerian": "sag9-ga /šu-am3\\[line] ḫul šu am3-ga-am3"}
+,
+{"id": 239,
+"source": "cf. 5.6.1: ll. 196-198",
+"english": "The heart does not let go of the good; but the heart cannot let go of the evil either. As if it were a fertile spot, the heart does not abandon the good.",
+"sumerian": "[sag9-ga] šag4-ge [šu nu-bar]-re[line] [ḫul šag4-ge šu nu-di-ni-bar-re][line] [sag9-ge ki dur5-ru-am3 šag4-ge nu-da13-da13]"}
+,
+{"id": 240,
+"source": "cf. 6.2.3: UET 6/3 31 l. 8, 5.6.1: l. 199",
+"english": "The evil does not feed a storehouse with interest.",
+"sumerian": "[ḫul] e2 /niĝ2\\-[gur11-ra ur5-e la]-/ba\\-an-/gu7\\-[e]"}
+,
+{"id": 241,
+"source": "cf. 5.6.1: l. 200",
+"english": "Let the boat sink in the river along with the evil.",
+"sumerian": "ḫul-da id2-da ma2 ḫe2-en-da-an-su"}
+,
+{"id": 242,
+"source": "cf. 6.1.01.145, 6.1.19.c3, 6.1.28.4",
+"english": "Accept your lot and make your mother happy! Run fast and make your god happy!",
+"sumerian": "/ĝiš-šub?\\ u3-/us2\\-[sa-ab] /ama\\-zu ḫul2-[la-ab][line] /kaš4\\ dug4-ga-[ab] diĝir-zu ḫul2-[la-ab]"}
+,
+{"id": 243,
+"source": "cf. 6.1.03.158",
+"english": "The figure is good. The father-in-law rejoices over it: 'It is just like a real person!'",
+"sumerian": "alan [mu-sag9][line] ušbar7 mu-[un-da-ḫul2][line] i-/gi4\\-[in-zu lu2-ulu3-am3]"}
+,
+{"id": 244,
+"source": "cf. 6.1.03.149, 6.1.14.6, 6.1.16.c5, 6.1.25.1",
+"english": "It became cloudy, but it did not rain. It rained, but not enough for people to undo their sandals. The Tigris was not surging at its inlet, so water did not fill the arable lands.",
+"sumerian": "an al-šu2-šu2-[ru] im nu-šeĝ3-[am3][line] im al-/šeĝ3\\ kuš-e-sir2 [nu-du8-e][line] id2-idigna [ka-ba] nu-un-[zur-re][line] a-/gar3\\-[re nu-si-si]"}
+,
+{"id": 245,
+"source": "",
+"english": "'Carry it!' -- 'I will carry it.' 'Add more!' -- 'I will speak.'",
+"sumerian": "il2-mu-ub[line] ga-ba-ab-il2[line] taḫ-mu-ub[line] ga-ba-ab-dug4"}
+,
+{"id": 246,
+"source": "cf. 5.4.01: l. 99",
+"english": "He builds himself up in the manner of a liar -- but he cannot raise himself up while carrying a waterskin in his hand.",
+"sumerian": "lu2-lul-la-še3 ni2 buluĝ5[line] ni2 nu-il2 kuš.a2-ĝa2-la2 šu-še3 la2"}
+,
+{"id": 247,
+"source": "cf. 6.1.03.167, 6.1.04.4, 6.2.4: VAT 21604 (+21605 Seg. B l. 2)",
+"english": "He holds up the sky, letting the earth dangle from his hands.",
+"sumerian": "an i3-gur3-ru ki šu-ni-še3 la2"}
+,
+{"id": 248,
+"source": "cf. 6.1.09.a4, 6.1.10.5, 6.2.3: UET 6/3 80 l. 18",
+"english": "The mighty man is the ruler of the earth.",
+"sumerian": "usu-tuku lugal ki-in-du-ke4"}
+,
+{"id": 249,
+"source": "cf. 6.1.03.148, 6.1.28.27",
+"english": "'You should serve me' is what the purification priests say. 'I bow over your hips' is what the leather-workers say. 'I swear by Enki that your garments will take no time in this house' is what the fullers say.",
+"sumerian": "ḫa-ma-da-gub-be2-en gudug-e-ne[line] ib2-a gam-me-en ašgab!-e-ne[line] zi den-/ki\\ e2-a ba-ra-zal-zal-[e] lu2-azlag2!-e-[ne]"}
+,
+{"id": 250,
+"source": "cf. 6.1.01.165, 6.1.03.65, 6.1.17.b8",
+"english": "Children and wives and trading agents! How they use up silver! And how they use up barley!",
+"sumerian": "dumu dam-/e\\-[ne] šaĝan-la2-[e]-/ne\\[line] kug ta /ba-an\\-de6[line] u3 še /ta\\ [ba]-/an\\-de6"}
+,
+{"id": 251,
+"source": "cf. 6.1.03.66",
+"english": "No matter how small they are, they are still blocks of lapis lazuli.",
+"sumerian": "tur-[tur (X)]-ra lagab /na4-za\\-gin3-na"}
+,
+{"id": 252,
+"source": "cf. 6.1.01.96",
+"english": "When a feeding belly becomes bloated, it is lamentable -- a belly made obedient by the prince.",
+"sumerian": "[šag4] /gu7\\ ub-dirig [a]-nir-ra[line] šag4 gu3 sig10-ga dumu lugal-la-ke4"}
+,
+{"id": 253,
+"source": "cf. 6.1.17.b2, 1.8.1.5: ll. 28-29, 1.8.1.5.1: ll. 12-13, 6.3.a: ll. 17-18",
+"english": "No one is tall enough to reach up and touch the heavens. No one is broad enough to encompass the whole earth. No one is strong enough even to stretch himself fully in his bed. But you who roar like a storm -- may you establish yourself like a lion.",
+"sumerian": "sukux(SUKUD)-ra2 an-na šu nu-um-la2[line] daĝal-e ki-in-du /la?\\-[ba]-an-šu2-šu2[line] [kalag]-/ga\\ ki-nu2 /ni2 nu\\-mu-un-gid2-de3[line] [za-e]-me-en [ud]-/gin7\\ dug4-dug4-ga /piriĝ\\-gin7 ni2 ḫe2-gub"}
+,
+{"id": 254,
+"source": "cf. 1.4.3: l. 121",
+"english": "His hand is on the table; his tongue is in the palace.",
+"sumerian": "šu-ni ĝiš-banšur-ra[line] eme-ni e2-gal-la"}
+,
+{"id": 255,
+"source": "cf. 6.1.03.15",
+"english": "To eat a little is to live splendidly. When you walk about, keep your feet on the ground!",
+"sumerian": "tur-bi gu7-a maḫ-bi til3-/la\\[line] di4-di4-/ba? ĝen\\-na ĝiri3-zu /ki?\\-[a] /gub\\-ba"}
+,
+{"id": 256,
+"source": "?",
+"english": "He who was seized by anger poured it out : 'I will glare ! In my enraged state I will destroy a boundary wall for you! My anger will be malign!' He who was seized by anger poured it out -- it did not matter to him.",
+"sumerian": "ib2 dab ba-an-de2[line] igi bar-ra ga-ba-ab-il2[line] šag4 si-ĝu10 im-du3-a ga-ra-a-gul[line] ib2 ḫe2-ḫul[line] ib2 dab ba-an-de2[line] nu-mu-un-kal-la"}
+,
+{"id": 257,
+"source": "MIN",
+"english": "Whatever I say, I will say it twice, and then I will repeat it again.",
+"sumerian": "a-na ga-ab-dug4[line] 2 ga-ab-dug4[line] 2 ga-ab-taḫ"}
+,
+{"id": 258,
+"source": "",
+"english": "The liar is arrogant. He always lies. He always slanders.",
+"sumerian": "lul i3-sun7[line] lul dug4-dug4[line] eme sig dug4-dug4"}
+,
+{"id": 259,
+"source": "",
+"english": "Treacherous! Malicious! Shifty-eyed!",
+"sumerian": "an-kur2[line] an-kur2-kur2[line] igi an-kur2-kur2"}
+,
+{"id": 260,
+"source": "cf. 6.1.02.120",
+"english": "How can the frog stand up? How can he even sit down?",
+"sumerian": "bi2-za-za[line] a-na-am3 gub-ba-ni[line] a-na-am3 tuš-a-ni"}
+,
+{"id": 261,
+"source": "cf. 6.1.02.28, 6.1.02.34A, 6.2.3: UET 6/2 260 l. 1",
+"english": "Moving about facilitates being an immigrant.",
+"sumerian": "du-du nam-gir5-re a2-bi in-ĝal2"}
+,
+{"id": 262,
+"source": "cf. 6.1.09.a12-13, 6.1.19.b1-2, 6.1.21.b4-5, 6.2.5: YBC 4677 ll. 1-4",
+"english": "When a fattened pig is about to be slaughtered, one says 'I must replace what I eat.' As the piglet snuffles around, it says 'I can no longer take pleasure in eating.'",
+"sumerian": "/šaḫ2\\ [niga] /ab\\-šum-de3 /niĝ2!\\ [i3-gu7-a-ĝu10 ga-ab-sug6-e-še][line] /šaḫ2-ze2\\-eḫ tur-e /šu\\ [al-gu4-ud-gu4-ud-de3] sag9-ga-aš-am3 ĝe26-/e\\ [nu-gu7-e-še]"}
+,
+{"id": 263,
+"source": "cf. 6.1.02.135, 6.1.19.b4",
+"english": "He who annihilates a house destroys silver. He who destroys a house destroys gold.",
+"sumerian": "e2 gul-gul-e [kug i3-gul-e][line] e2 gul-e kug-/sig17\\ [i3-gul-e]"}
+,
+{"id": 264,
+"source": "cf. 6.1.09.a14, 6.1.19.b5",
+"english": "The lord's wife kneels, the slave girl dies. The lord kneels, the slave dies.",
+"sumerian": "dam /u3\\-mu-/un-si\\ gam-[am3 geme2 ug5-ga-am3][line] u3-mu-un-/si\\ gam-[am3 arad ug5-ga-am3]"}
+,
+{"id": 265,
+"source": "cf. 6.1.03.88, 6.1.18.14",
+"english": "He who tosses his head succeeds in crossing the river.",
+"sumerian": "saĝ bul-e /id2\\-[da bal-e]"}
+,
+{"id": 266,
+"source": "cf. 6.1.19.c7, 6.1.21.c1, 6.1.23.18",
+"english": "A man's waterskin is his life. A man's sandals are his eyes. A man's wife is his supervisor (?). A man's son is his protective shade. A man's daughter is his eager servant (?). A man's daughter-in-law is his policeman.",
+"sumerian": "kuš-um-mud /zi\\ [lu2-kam] kuš-e-sir2 [igi lu2-kam][line] dam dim4-ma /lu2\\-[kam] /dumu-nitaḫ\\ ĝissu /lu2\\-[kam][line] dumu-munus saĝ šu ĝar lu2-kam e2-gi4-a gal5-la2 /lu2\\-[kam]"}
+,
+{"id": 267,
+"source": "cf. 6.1.03.26, 6.1.19.c2",
+"english": "When the sun is setting outside so that you cannot see a hand in front of you, go inside!",
+"sumerian": "d-utu bar-ra šu ḫe2-/en-ne\\-[šu2] ni2-zu šu nu-zu-a /kur9\\-ni-[ib]"}
+,
+{"id": 268,
+"source": "cf. 6.1.21.c4",
+"english": "I would make the beer sweet but my neighbour would not appreciate it.",
+"sumerian": "kaš ga-an-ze2-eb-ba ušur(source: UKUR3) [nu]-/mu\\-un-kal-[e]"}
+,
+{"id": 269,
+"source": "cf. 6.1.03.149, 6.1.14.6, 6.1.15.b5, 6.1.16.c5, 6.1.22: ll. 172-175",
+"english": "It became cloudy, but it did not rain. It rained, but no one undid their belt. Although the Tigris was on its high tide, no water reached the arable lands. It rained on the riverbank, but the dry land did not get any of it.",
+"sumerian": "ud šu2-uš-ru im nu-šeĝ3-ĝe26[line] im al-šeĝ3-ĝe26 kušgur21-ra nu-du8-e[line] id2-idigna a-u5-ba ĝal2-la a-gar3-ra nu-si-sa2[line] peš10 im al-šeĝ3-ĝe26 bar-rim4-ma im nu-ba(source: ZU)-e"}
+,
+{"id": 270,
+"source": "cf. 6.1.15.b7",
+"english": "The en priest eats fish and eats leeks; but cress makes him ill.",
+"sumerian": "en-e ku6 an-gu7 ga-rašsar mu-un-gu7[line] za3-ḫi-li-asar mu-un-da-an-gig "}
+,
+{"id": 271,
+"source": "cf. 6.1.03.59",
+"english": "The lord (i.e. An (?)) cursed Unug, but he himself was cursed by the lady of E-ana (i.e. Inana) .",
+"sumerian": "en-e unug-ki-ga nam ba-e-kud-de3[line] e-ne-ra nin e2-an-na-ke4 nam mu-un-na-kud-de3"}
+,
+{"id": 272,
+"source": "cf. 6.1.01.68, 6.1.14.15",
+"english": "Into a plague-stricken city one has to be driven like a pack-ass.",
+"sumerian": "[iri-ki nam-uš2 ĝal2]-/la\\-še3[line] [anše-bal-a-gin7 ḫe2-ni]-/ib2\\-sar-re-X"}
+,
+{"id": 273,
+"source": "Alster 1997 25.8; cf. 6.1.02.142, 6.1.23.7",
+"english": "A house built by a righteous man is destroyed by a treacherous man.",
+"sumerian": "e2 /lu2 zid-da mu\\-un-du3-a[line] lu2-lul-la mu-un-gul"}
+,
+{"id": 274,
+"source": "Alster 1997 25.7; cf. 6.1.02.156, 6.1.02.161, 6.1.03.165, 6.1.14.23",
+"english": "The palace is a slippery place, where one slips. Watch your step when you decide to go home!",
+"sumerian": "e2-/gal ki-ma-an-ze-er\\ ma-an-/ze2-ra\\[line] e2!-še3! ga-ĝen-na /ĝiri3-zu\\ en-nu-uĝ3 ak-ab"}
+,
+{"id": 275,
+"source": "cf. 6.1.11.56, 6.1.26.a2, 6.2.5: UM 29-16-519 Seg. B l. 2",
+"english": "The palace bows down, but only of its own accord.",
+"sumerian": "e2-/gal ni2-bi-ta gam\\-e-de3"}
+,
+{"id": 276,
+"source": "cf. 6.1.02.158, 6.1.14.22, 6.1.17.b9",
+"english": "The palace -- one day a lamenting mother, the next day a mother giving birth.",
+"sumerian": "e2-gal ud 1(DIŠ)-/e ama! nir\\-ra ud 1(DIŠ)-e ama! u3-tud-da"}
+,
+{"id": 277,
+"source": "cf. 6.1.02.157, 6.1.14.20, 6.2.3: UET 6/2 317",
+"english": "Even the palace cannot avoid the wasteland. Even a barge cannot avoid straw. Even a nobleman cannot avoid corvée work.",
+"sumerian": "e2-gal a-ri-a nu-da13-da13 ĝiš-ma2-/gur8\\ in-nu(source: /NU-IN\\) nu-da13-da13[line] dumu-gir15 du-lum-ma nu-da13-da13"}
+,
+{"id": 278,
+"source": "cf. 6.1.26.a3, 6.2.5: YBC 9908, 5.6.1: ll. 95-96",
+"english": "What flows in is never enough to fill it, and what flows out can never be stopped -- don't envy the king's property!",
+"sumerian": "an-ku4-ku4 nu-si-si[line] ib2-ta-e3 nu-silig-ge[line] niĝ2-gur11 lugal-la-ke4[line] igi-zu na-an-il2-en"}
+,
+{"id": 279,
+"source": "cf. 6.1.11.56, 6.1.25.9, 6.2.5: UM 29-16-519 Seg. B l. 2",
+"english": "The palace bows down, but only of its own accord.",
+"sumerian": "/e2\\-gal ni2-bi-/še3\\ [gam-e-dam]"}
+,
+{"id": 280,
+"source": "cf. 6.1.22: ll. 49-50, 6.2.3: UET 6/2 259, 6.2.5: UM 29-16-519 Seg. B ll. 4-5, 6.2.5: YBC 7351, 5.6.1: l. 50",
+"english": "Violent cursing and chasing away a son from his father's house are abominations to Ninurta.",
+"sumerian": "aš2 a2 zig3-ga bal-e di X [X] dumu-nitaḫ e2 ad-da-[na-ta] sar-ra niĝ2-gig d-nin-urta-[ke4]"}
+,
+{"id": 281,
+"source": "cf. 6.1.03.8, 6.2.1: Ni 4122 ll. 2-5",
+"english": "To spit without covering it up with dust and to use the tongue at midday without protection are abominations to Utu.",
+"sumerian": "uš7 dug4-ga saḫar nu-gi-[a] eme ak an-bar7 an-dul3 nu-ĝal2-la niĝ2-gig d-utu-ke4"}
+,
+{"id": 282,
+"source": "cf. 6.1.11.66, 6.2.5: UM 29-16-519 Seg. B l. 6",
+"english": "To take revenge is an abomination to Ninurta.",
+"sumerian": "šu gi4-gi4 niĝ2-gig d-nin-urta-ke4"}
+,
+{"id": 283,
+"source": "",
+"english": "Refusing to talk is an abomination to Ninurta.",
+"sumerian": "nu-dug4-ga niĝ2-gig d-nin-urta-ke4"}
+,
+{"id": 284,
+"source": "cf. 6.1.03.118",
+"english": "When a man comes forward as a witness, saying: 'Let me tell you what I know,' but does not know the relevant information, it is an abomination to Utu.",
+"sumerian": "niĝ2 zu a-na-am3 ga-ra-ad-da-/be2\\ niĝ2 nu-zu a-na-am3 lu2-ki-inim ba-ab-e3 niĝ2-gig d-utu-ke4"}
+,
+{"id": 285,
+"source": "",
+"english": "To remove something from its proper place is an abomination to Ninurta.",
+"sumerian": "ki-ta kur2 niĝ2-gig d-nin-urta-ke4"}
+,
+{"id": 286,
+"source": "cf. 6.1.03.170, 6.1.25.13, 6.2.5: BM 57994 Seg. A ll. 1-3",
+"english": "When a man sailing downstream encounters a man whose boat is travelling upstream, to demand an inspection is an abomination to Suen.",
+"sumerian": "lu2 ĝiš-ma2 dirig-ga lu2 ĝiš-ma2 ru-ru-/gu2\\ niĝ2 kab2 di-dam niĝ2-gig d.suen-na-ke4"}
+,
+{"id": 287,
+"source": "cf. 6.1.01.83, 6.2.3: UET 6/2 302, 6.2.5: YBC 8713 ll. 4-5",
+"english": "When a trustworthy boat sets sail, Utu seeks out a trustworthy harbour for it.",
+"sumerian": "ĝiš-ma2 niĝ2-gen6-na ni2 ba-ab-dirig /d\\utu kar gen6-na mu-un-na-ši-kiĝ2-kiĝ2"}
+,
+{"id": 288,
+"source": "",
+"english": "Fear of god creates good fortune. Lamentation absolves sin. Offerings extend life.",
+"sumerian": "ni2 teĝ3-ĝe26 nam-sag9-ga in-tu-ud[line] er2 nam-tag al-/du8-am3\\[line] sizkur nam-til3 ba-ab-taḫ-e"}
+,
+{"id": 289,
+"source": "cf. 6.1.01.104, 6.1.11.54, 6.1.15.c3, 6.1.28.8",
+"english": "If oil is poured inside the shaft of a sceptre, no one would know.",
+"sumerian": "šag4 ĝiš-ĝidru-kam i3 /ḫe2?\\-[en-de2] lu2 na-me [nu-zu]"}
+,
+{"id": 290,
+"source": "cf. 6.1.18.6",
+"english": "He who pays with high-valued silver negotiates a favourable position.",
+"sumerian": "kug kalag-ga /la2\\ [ka kalag-ga sam2]"}
+,
+{"id": 291,
+"source": "cf. 6.1.01.52",
+"english": "There is no baked cake in the middle of the dough.",
+"sumerian": "ninda-gug2 du8 šag4 niĝ2-silaĝ-ĝa2 /in\\-[nu-u3]"}
+,
+{"id": 292,
+"source": "cf. 6.1.01.53",
+"english": "My heart urged me to bake two loaves out of a half. My hands were unable to take them out of the oven.",
+"sumerian": "ninda 2(MIN) MAŠ-/ta\\-am3 du8-/de3?\\ šag4-ĝu10 ba-ab-tu2?tum2-«ŠE»-tum2-am3[line] im.šu-rin-na-ta šu-ĝu10 nu-ub-ta-e3"}
+,
+{"id": 293,
+"source": "",
+"english": "I am not dear to the man I hold dear. He has profited at my expense while I was flapping my arms like a bird.",
+"sumerian": "lu2 kal-la-ĝu10 la-ba-an-na-kal-e[line] a2 dub2-ĝu10-ta mušen ku-dun mu-un-dug4"}
+,
+{"id": 294,
+"source": "",
+"english": "He is fearful, like a man unacquainted with beer.",
+"sumerian": "lu2 kaš nu-zu-gin7 ni2 dar-dar-ra-/am3\\"}
+,
+{"id": 295,
+"source": "cf. 6.1.03.142",
+"english": "The south wind has filled my eyes with dust; why (?) does it kiss me backwards (?)?",
+"sumerian": "tum9-u18-lu igi-ĝa2 saḫar-ra bi2-/in\\-[sig9][line] a-na-am3 eĝer-ra-[ĝa2] ne mu-un-su-ub-su-ub-[be2-en ]"}
+,
+{"id": 296,
+"source": "cf. 6.1.02.2, 6.2.3: UET 6/2 292 ll. 1-2",
+"english": "'Let me tell you about my fate': it will be abuse. 'Let me reveal it to you': it will be an insult.",
+"sumerian": "nam-tar-ĝu10 ga-am3-/dug4\\ [in-na-am3][line] pa ga-ab-/e3\\ [su-lum mar-am3]"}
+,
+{"id": 297,
+"source": "cf. 6.1.02.133, 6.1.11.6, 6.1.22: l. 80",
+"english": "To collect firewood is a job for the strong man. The weak man sits waiting for him on dry land.",
+"sumerian": "u2 de5-de5-ga kalag(source: /SIG9\\)-[ga-še3][line] sig9(source: KALAG)-ga bar-rim4-ma ba-e-[tuš]"}
+,
+{"id": 298,
+"source": "cf. 6.1.02.20",
+"english": "He didn't plough the field in the cool season, and at harvest time he turned his attention to carding wool.",
+"sumerian": "en-te-en-na-ka a-šag4 nu-ur11-/ru\\[line] /ud?\\ buru14-a-ka šu-ni ga-rig2 an-du3-du3-e"}
+,
+{"id": 299,
+"source": "cf. 6.1.02.87-88",
+"english": "Low-quality oxen do not plant seed. He who eats during the harvest is not removing clods.",
+"sumerian": "gud uš-ša numun nu-ĝa2-ĝa2[line] buru14-ta gu3-e lag nu-bur12-re"}
+,
+{"id": 300,
+"source": "cf. 6.1.02.86, 6.1.05.17",
+"english": "Furrows are pleasant to a threshing ox.",
+"sumerian": "gud sur12-ra ab-sin2-bi ab-sag9-sag9"}
+,
+{"id": 301,
+"source": "",
+"english": "A stake, my lord; 'hero' is its name.",
+"sumerian": "ga-zi-in-bu lugal-ĝu10 ur-saĝ mu-bi-im"}
+,
+{"id": 302,
+"source": "cf. 6.1.02.84",
+"english": "Salted meat lying on a stake.",
+"sumerian": "ga-zi-in-bu su la2-a nu2-nu2"}
+,
+{"id": 303,
+"source": "",
+"english": "The bellowing ox does not remove the clods.",
+"sumerian": "gud gu3 ra-aḫ lag-bi nu-bur12-re"}
+,
+{"id": 304,
+"source": "cf. 6.1.02.90",
+"english": "The ox which has sunk into the ground -- in its own eyes it was still making flour.",
+"sumerian": "gud sig9-ga saḫar-ra igi-bi zid2 ak-a"}
+,
+{"id": 305,
+"source": "",
+"english": "These rushes, these old reeds -- when set on fire, they come down from the sky.",
+"sumerian": "u2-numun2-bi gien3-bar sumun2-bi niĝ2 izi sag3-ge niĝ2 an-ta ed2-de3"}
+,
+{"id": 306,
+"source": "",
+"english": "Let the river expand when there is something in it.",
+"sumerian": "id2 niĝ2 ĝal2-la ḫe2-gid2-i"}
+,
+{"id": 307,
+"source": "cf. 6.1.02.131",
+"english": "A farmer should not widen the field. A god (?) should not increase for mankind his food demands.",
+"sumerian": "/engar\\-e a-šag4 na-ab-daĝal-la[line] /diĝir?\\ lu2-u18-lu šag4-gal-la-ni /nam\\-ba-ab-taḫ-e"}
+,
+{"id": 308,
+"source": "cf. 6.1.14.62",
+"english": "The nights are fifty, the days are fifty; but the days (?) of lies (?) are fifty-five.",
+"sumerian": "/ĝi6\\ 50-am3 ud 50-/am3 ud?\\ lul 55-[am3]"}
+,
+{"id": 309,
+"source": "Alster 1997 27.2",
+"english": "'Why are the interest payments so small?'",
+"sumerian": "a-na-aš-am3 ur5-ur5-ra di4-di4-/la2\\-[X]"}
+,
+{"id": 310,
+"source": "Alster 1997 27.3",
+"english": "He who carries a light burden can dance.",
+"sumerian": "gu2-un sig gu2 i3-il2-la i3-gu4-ud-gu4-ud-dam"}
+,
+{"id": 311,
+"source": "Alster 1997 27.4",
+"english": "The conmen (?) are having their say.",
+"sumerian": "di-bi-ri inim mu-ni-in-ne-eš"}
+,
+{"id": 312,
+"source": "Alster 1997 27.5",
+"english": "People whose houses have been lost turn to their storehouses.",
+"sumerian": "lu2 e2-a-ne-ne u2-gu de2-a erim3-bi an-gur-ru-uš"}
+,
+{"id": 313,
+"source": "Alster 1997 27.6",
+"english": "To eat is good. When it comes up again, it is bad.",
+"sumerian": "gu7-u3-de3 al-dug3 gur-ru-da-bi /al-gig\\"}
+,
+{"id": 314,
+"source": "Alster 1997 27.7",
+"english": "A troubled (?) mind makes you sick.",
+"sumerian": "šag4 dirig-ga šag4 a-ab-gig"}
+,
+{"id": 315,
+"source": "Alster 1997 27.8",
+"english": "On the battlefield plants are torn out.",
+"sumerian": "ki-ĝiš-ĝiš-la2-a u2 bur12-bur12-re"}
+,
+{"id": 316,
+"source": "Alster 1997 27.9; cf. 6.2.3: UET 6/2 250",
+"english": "(One city does not greet another, but one man greets another.) ((1 ms. has instead:) One city does not salute another, but one person salutes another.)",
+"sumerian": "iri-ki iri-ki silim (nu-ub-dug4 lu2 lu2-a /silim\\ ab-be2) ((1 ms. has instead:) nu-tag-ga lu2-ulu3 lu2-ulu3 silim bi2-tag-ga)"}
+,
+{"id": 317,
+"source": "cf. 6.1.03.84",
+"english": "The battle-club does not find out his name, it just finds his flesh.",
+"sumerian": "/ĝiš\\tukul! mu-ni nu-pad3-da su-ni i3-pad3-da"}
+,
+{"id": 318,
+"source": "",
+"english": "The city may change its name, but let my name stand!",
+"sumerian": "iri-ki mu ḫu-mu-kur2-kur2 mu-ĝu10 ḫu-mu-/gen6\\-na"}
+,
+{"id": 319,
+"source": "",
+"english": "The mongoose does not know fear of god.",
+"sumerian": "d-nin-kilim ni2 diĝir-/ra\\ nu-zu"}
+,
+{"id": 320,
+"source": "cf. 6.1.01.145, 6.1.19.c3, 6.1.22: ll. 87-88",
+"english": "Accept your lot and make your mother happy! Run fast and make your god happy!",
+"sumerian": "ĝiš-šub us2-sa ama-zu ḫul2-/la\\[line] kaš4 tuku-ma diĝir-zu ḫul2-/la\\"}
+,
+{"id": 321,
+"source": "?",
+"english": "An eagle enters a man's mouth.",
+"sumerian": "/te8-mušen ka lu2?\\-kam ba-an-/kur9\\"}
+,
+{"id": 322,
+"source": "lit. fly",
+"english": "When a fly enters, your mouth will buzz .",
+"sumerian": "nim kur9-ra-am3 ka-zu ba-/nim\\-am3"}
+,
+{"id": 323,
+"source": "cf. 6.1.15.c2, 6.1.26.b3",
+"english": "Let the ox be struck with a stick and let the sheep be given the whip. Where there is no toughness, no one can go about their business, not even a plenipotentiary.",
+"sumerian": "ĝiš-ĝidru gud ḫa-pa-gaz kuš.a2-si udu ḫa-pa-šum2[line] ki saĝ-ki nu-ĝal2-ta lu2 nu-dib2 e-ne sukkal-a"}
+,
+{"id": 324,
+"source": "cf. 6.1.01.104, 6.1.11.54, 6.1.15.c3, 6.1.26.b4",
+"english": "If oil is poured into the inside of a sceptre (-- nobody will know) .",
+"sumerian": "šag4 ĝiš-ĝidru-kam i3 ḫe2-en-de2"}
+,
+{"id": 325,
+"source": "cf. 6.1.01.151, 6.1.14.40",
+"english": "In marrying (?) a malicious husband (-- in bearing a malicious son, an unhappy heart was assigned to me) .",
+"sumerian": "/dam\\ nu-ĝar-ra tu-[ku-a-ĝu10-ne]"}
+,
+{"id": 326,
+"source": "GUL",
+"english": "When a man walks about, he finds something. When a woman walks about, she loses something.",
+"sumerian": "nitaḫ du-du niĝ2 pad3-da[line] munus du-du niĝ2 ugu bi2-ib-de2"}
+,
+{"id": 327,
+"source": "",
+"english": "A slave wafting smoke.",
+"sumerian": "saĝ i-bi2 dug4-ga"}
+,
+{"id": 328,
+"source": "cf. 6.1.02.155, 6.2.3: UET 6/2 209 ll. 1-3, 1.8.1.5: ll. 193-199",
+"english": "The palace is a forest. The king, the lion, subdues men with a huge net like Nungal.",
+"sumerian": "e2-gal ĝiš-tir-ra!-am3[line] lugal ur-maḫ-e d.nun-/gal\\ ĝiš-sa-uš-gal! ĝuruš-e gam?-gam?"}
+,
+{"id": 329,
+"source": "cf. 6.1.03.41, 6.1.19.d9",
+"english": "When the mistress left the house and the slave girl came in from the street, away from her mistress the slave girl set up her own banquet.",
+"sumerian": "e2-ta e3 sila-ta kur9-ra geme2 nin-a-ni-ta ĝiš-bun-ni bi2-in-ĝar"}
+,
+{"id": 330,
+"source": "cf. 6.1.03.106",
+"english": "Where there is no grain, this is a sign of vengeance turned toward a city. Where there are no reeds, it is the worst of all poverty.",
+"sumerian": "še nu-ĝal2 šu? iri-ki-kam[line] gi [nu]-/ĝal2\\ nam-ukur3(source: USAR?) nam-ukur3(source: USAR)ur2 dirig-ga"}
+,
+{"id": 331,
+"source": "cf. 6.1.03.148, 6.1.22: ll. 191-193",
+"english": "'I bow over your thighs' is what the leather-workers say. 'I swear by Enki that it will take no time at all' is what the fullers say.",
+"sumerian": "ḫu-su ga-me-en ašgab(source: LU2)-e-ne[line] zi den-ki-a u2! za3-le lu2-azlag2-e-ne"}
+,
+{"id": 332,
+"source": "cf. 6.1.07.1, 6.2.1: Ni 9824 Seg. A ll. 1-2, 6.2.3: UET 6/2 356 ll. 3-8",
+"english": "'In those places which have been destroyed, let more places be destroyed. And in those places which have not been destroyed, let a breach be made there. Let his place become like chopped-up turnips!' -- Their rituals were alienated. Where there were bonds, that place was destroyed. Their place in the universe was eradicated. -- You should not alienate their rituals! Where there are bonds, you should not destroy the place! You should not eradicate their place in the universe. You should not move the oxen from their places!",
+"sumerian": "ki gul-la-ba ki ḫe2-en-gul[line]-ki nu-gul-la-ba gu2-ĝiri3 ḫe2-en-ĝal2[line] ki-ni ki lu-ub2-sar kud-da ḫe2-a[line] ĝarza-bi ĝiri3 ba-da-kur2[line] di-ir-ga-a ki ba-e-gul[line] me-bi ba-da-ḫa-lam[line] ĝarza-bi ĝiri3 na-ab-ta-ab-kur2-ru-de3-en-ze2-en[line] di-ir-ga-a ki nam-ba-e-gul-lu-de3-en-ze2-en[line] me-bi na-ab-ta-ab-ḫa-lam-e-en-ze2-en[line] gud-de3 ki-gub-ba na-ab-ta-ab-kur2-ru-de3-en-ze2-en"}
+,
+{"id": 333,
+"source": "cf. 6.1.26.c10, 6.2.3: UET 6/2 292 ll. 1-2",
+"english": "Let me tell you about my fate: it is an insult. Let me explain it to you: it is a disgrace.",
+"sumerian": "nam-tar-ĝu10 ga-am3-dug4 in-na-am3[line] pa ga-am3-e3 su-lum mar-am3"}
+,
+{"id": 334,
+"source": "",
+"english": "Were I to tell my neighbour about my fate, he would heap insults upon me.",
+"sumerian": "nam-tar-ĝu10 ušur-ĝa2 ga-na-ab-dug4[line] in-na ma-ĝa2-ĝa2"}
+,
+{"id": 335,
+"source": "cf. 6.2.1: Ni 9824 Seg. A l. 4",
+"english": "I looked into the water. My destiny was drifting past.",
+"sumerian": "a-a igi i-ni-in-bar nam-tar-ĝu10 ba-dib-ba"}
+,
+{"id": 336,
+"source": "",
+"english": "I was born on an ill-fated day.",
+"sumerian": "ud nam-tar gig-ga-ka ba-tu-ud-de3-en"}
+,
+{"id": 337,
+"source": "cf. 6.2.1: Ni 4300 Seg. A l. 4",
+"english": "My fate is her voice: my mother can change it.",
+"sumerian": "nam-tar-ĝu10 gu3-nam ama-ĝu10 mu-da-an-kur2"}
+,
+{"id": 338,
+"source": "",
+"english": "An acquaintance has gone up onto the roof to them.",
+"sumerian": "zu-a ur3-ra mu-un-ne-e-ed3"}
+,
+{"id": 339,
+"source": "",
+"english": "The neighbour is on friendly terms with my mother in her house.",
+"sumerian": "ušur ama-ĝu10 e2-a-na zi mu-un-di-ni-gi4"}
+,
+{"id": 340,
+"source": "",
+"english": "I am one whose fate has not been determined, confronted by a waif. 'I will be the one who knows how to settle the account; let me take my position in front of you,' she said to me.",
+"sumerian": "nam nu-tar-re ki-gul-la gaba ba-an-/ri\\-[me-en][line] lu2 kug la2 zu-me-en igi-za ga-gub ma-an-dug4-e-še"}
+,
+{"id": 341,
+"source": "",
+"english": "I am one whose fate has not been determined, confronted by a sickness demon. 'I am one who knows wealth and possessions; let me take my position in front of you,' he said to me.",
+"sumerian": "nam nu-tar-re a2-sag3-e gaba ba-an-ri-me-en[line] kug niĝ2-gur11 zu-me-en igi-za ga-gub ma-an-dug4-e-še"}
+,
+{"id": 342,
+"source": "cf. 6.1.07.70",
+"english": "Fate is a dog -- well able to bite. Like dirty rags, it clings, saying: 'Who is my man? Let him know it.'",
+"sumerian": "nam-tar ur-ra-am3 zu2 mu-un-da-an-kud[line] tug2-mu-dur7-ra-gin7 im-ma-tab-tab[line] a-ba-am3 lu2-ĝu10 ḫu-mu-un-da-an-zu"}
+,
+{"id": 343,
+"source": "",
+"english": "Fate is a cloth stretched out in the desert for a man.",
+"sumerian": "nam-tar tug2-ga-am3 edin-na mu-un-na-an-la2"}
+,
+{"id": 344,
+"source": "",
+"english": "Fate is a raging storm blowing over the Land.",
+"sumerian": "nam-tar ud ḫuš kalam-ma ri-a"}
+,
+{"id": 345,
+"source": "",
+"english": "(Hard work) ( Fate) is a dog walking always behind a man.",
+"sumerian": "(du-lum) ( nam-tar) ur-gir15-ra-am3 eĝer-ra-na mu-un-DU"}
+,
+{"id": 346,
+"source": "",
+"english": "The poor man must always look to his next meal.",
+"sumerian": "ukur3-re niĝ2 gu7-u3-da-ni-še3 igi an-ši-du3-du3"}
+,
+{"id": 347,
+"source": "",
+"english": "The belching poor man should not look scornfully at the rich man.",
+"sumerian": "ukur3 bu-lu-uḫ2 si-il-/le?\\ lu2 niĝ2-tuku-e igi tur nam-ba-e-gid2-i"}
+,
+{"id": 348,
+"source": "",
+"english": "How can a poor man who doesn't know how to cultivate barley manage to cultivate wheat?",
+"sumerian": "ukur3-re še ur11-ru nu-mu-un-zu-a ziz2 a-na ba-ur11-ru"}
+,
+{"id": 349,
+"source": "",
+"english": "The poor man is not appreciated.",
+"sumerian": "ukur3 nu-kal"}
+,
+{"id": 350,
+"source": "",
+"english": "The poor man chews whatever he is given.",
+"sumerian": "ukur3-re niĝ2 šu ti-a-ni zu2 an-ur5"}
+,
+{"id": 351,
+"source": "cf. 6.1.26.d4",
+"english": "He didn't plough the field during winter. And at harvest time he turned his hand to carding.",
+"sumerian": "en-te-na-ka a-šag4 nu-ur11-ru[line] /ud? buru14\\-ka šu ga-rig2 am3-du3-du3-e"}
+,
+{"id": 352,
+"source": "",
+"english": "Not all the households of the poor will bow down together.",
+"sumerian": "e2-e2? /ukur3?\\-ukur3!-ra? teš2-e la-ba-gam-e"}
+,
+{"id": 353,
+"source": "",
+"english": "The word of a poor man is not accepted.",
+"sumerian": "inim ukur3-ra-še3 šu la-ba-ši-in-ti"}
+,
+{"id": 354,
+"source": "cf. 2.34A, 6.1.22: l. 236, 6.2.3: UET 6/2 260 l. 1",
+"english": "Moving about defeats poverty. He who knows how to move around becomes strong. He will live longer than the sedentary man.",
+"sumerian": "du-du nam-ukur3-ra a2 bi2-ib-ĝar[line] lu2 du-du zu in-kalag ugu lu2 tuš-a nam-til3 bi2-ib-taḫ-e"}
+,
+{"id": 355,
+"source": "ḪAR",
+"english": "How lowly is the poor man! The area around the oven is a mill-house to him. His torn clothes will not be repaired. That which he has lost will not be searched for.",
+"sumerian": "ukur3 a-na-am3 al-tur-re[line] e2-na4-kinkin-na gu2 im.šu-rin-na-ka[line] tug2 bir7-ra-ni nu-kalag-ge-dam[line] niĝ2 u2-gu de2-a-ni nu-mu-un-kiĝ2-kiĝ2-dam"}
+,
+{"id": 356,
+"source": "",
+"english": "The poor man is this lowly: his debts are paid off with what is taken from his mouth.",
+"sumerian": "ukur3 ur5-ra-am3 al-tur-re[line] ka-ta kar-ra ur5-ra ab-su-su"}
+,
+{"id": 357,
+"source": "",
+"english": "A poor man chewing at silver.",
+"sumerian": "ukur3 kug tukur2"}
+,
+{"id": 358,
+"source": "",
+"english": "The poor are the weak in the Land.",
+"sumerian": "ukur3 si-ig kalam-ma-ka"}
+,
+{"id": 359,
+"source": "",
+"english": "It is the companion of the poor. It is the weakness of the widows.",
+"sumerian": "gu5-li ukur3-ra-ka[line] niĝ2 ḫu-ḫu-nu nu-mu-un-su-a-ka"}
+,
+{"id": 360,
+"source": "cf. 2.28, 6.1.22: l. 236, 6.2.3: UET 6/2 260 l. 1",
+"english": "The face of the poor man is set as though he were having to sit in the face of the storm.[line] Moving about defeats poverty.",
+"sumerian": "muš3-me ukur3-ra-ka[line] gaba ud-da-kam i3?-tuš-tuš-u3-de3 i-ni-in-ĝar#[line] du-du nam-ukur3-re a2 bi2-ib2-ĝar"}
+,
+{"id": 361,
+"source": "A man speaks:",
+"english": "Were I to give food to the man who roves about, how could I bring it to him who does not rove about? (A woman speaks:) Were I to give food to the man who roves about, how could I bring it to him who does not rove about?",
+"sumerian": "lu2 du-du-ra ninda? ga?-na-/šum2\\[line] lu2 nu-du-du-/ra\\ me-ta ga-mu-na-ab-tum3[line] lu2 di-di-ra ninda ga-na-ab-šum2[line] lu2 nu-di-di-ra me-ta [da]-mu-na-i-ir"}
+,
+{"id": 362,
+"source": "cf. 6.1.11.146, 6.2.3: UET 6/2 267 ll. 1-2",
+"english": "You are a scribe and you do not know your own name? Shame (?) on you!",
+"sumerian": "[dub-sar-me]-en mu ni2-za nu-zu [igi ni2-za] X-ge"}
+,
+{"id": 363,
+"source": "cf. 6.2.3: UET 6/2 268 ll. 1-2",
+"english": "If a scribe knows only a single line but his handwriting is good, he is indeed a scribe!",
+"sumerian": "[dub]-sar-re mu 1(DIŠ)-am3 ḫe2-en-zu[line] [šu]-ni ḫe2-sag9-sag9 e-ne-am3 dub-sar-re"}
+,
+{"id": 364,
+"source": "cf. 6.2.3: UET 6/2 268 ll. 3-4, 6.2.3: UET 6/2 290, 6.2.3: UET 6/3 452 ll. 1-2",
+"english": "If a singer knows only one song but makes the sound pleasant, he is indeed a singer!",
+"sumerian": "nar-re en3-du 1(DIŠ)-am3 ḫe2-en-zu[line] ad ša4-am3 ḫe2-en-sag9 e-ne-am3 nar-ra"}
+,
+{"id": 365,
+"source": "cf. 6.2.3: UET 6/3 452 l. 3",
+"english": "A scribe whose hand can follow dictation is indeed a scribe!",
+"sumerian": "dub-sar šu ka-ta sa2-a e-ne-am3 dub-sar-ra-am3"}
+,
+{"id": 366,
+"source": "",
+"english": "A singer whose voice is not sweet is a wretch among singers!",
+"sumerian": "nar za-pa-aĝ2 nu-dug3-ga ḫu-ru-um nar-e-ne"}
+,
+{"id": 367,
+"source": "cf. 5.4.02: l. 95, 5.4.03: l. 9",
+"english": "A wretched scribe, the most backward in the school!",
+"sumerian": "dub-sar ḫu-ru a-[ga-aš gi4] e2-dub-ba-X"}
+,
+{"id": 368,
+"source": "",
+"english": "A scribe without a hand. A singer without a throat.",
+"sumerian": "dub-sar šu nu-a nar ĝili3 nu-a"}
+,
+{"id": 369,
+"source": "",
+"english": "You are an outstanding scribe; you are no lowly man.",
+"sumerian": "dub-sar an-ta-me-en lu2 ki-ta nu-me-en"}
+,
+{"id": 370,
+"source": "",
+"english": "The pupil of a master, like cornelian pierced through its side. He is indeed a scribe!",
+"sumerian": "dumu um-mi-a na4-gug-gin7 ti-ba un-buru3[line] e-ne dub-sar-ra-am3"}
+,
+{"id": 371,
+"source": "",
+"english": "That which is pierced through its side is indeed lapis lazuli!",
+"sumerian": "ti-ba un-buru3 na4-za-gin3-na-am3"}
+,
+{"id": 372,
+"source": "",
+"english": "What kind of a scribe is a scribe who does not know Sumerian?",
+"sumerian": "dub-sar eme-gir15 nu-mu-un-zu-a a-na-am3 nam-dub-sar-ra-ni"}
+,
+{"id": 373,
+"source": "",
+"english": "Someone who cannot produce 'a-a' -- from where will he achieve fluent speech?",
+"sumerian": "lu2 a-a nu-mu-un-da-ak-da-am3 eme kaš4-kaš4 me-da ḫe2-en-tum3"}
+,
+{"id": 374,
+"source": "cf. 6.2.3: UET 6/2 269",
+"english": "A scribe who does not know Sumerian -- from where will he produce a translation?",
+"sumerian": "dub-sar eme-gir15 nu-mu-un-zu-a inim bal-e me-da ḫe2-en-tum3"}
+,
+{"id": 375,
+"source": "",
+"english": "The scribe trained in counting is deficient on clay. The scribe skilled with clay is deficient in counting.",
+"sumerian": "dub-sar šudum-ma im-ma ba-an-lal[line] dub-sar [im]-/ma\\ šudum-e ba-an-lal"}
+,
+{"id": 376,
+"source": "",
+"english": "A chattering scribe's guilt is great.",
+"sumerian": "dub-sar lu2 gu3 ra-aḫ nam-tag-ga-ni ab-gu-/ul\\"}
+,
+{"id": 377,
+"source": "",
+"english": "A junior scribe is too concerned with feeding his hunger; he does not pay attention to the scribal art.",
+"sumerian": "dub-sar-tur ninda šag4-gal-/la\\-ni-še3 bi2-ib2-dirig-dirig-ge[line] nam-dub-sar-ra-še3 ĝeštug2 nu-ub-ši-ĝa2-ĝa2"}
+,
+{"id": 378,
+"source": "cf. 6.2.3: UET 6/2 267 ll. 5-7",
+"english": "A disgraced scribe becomes an incantation priest. A disgraced singer becomes a flute-player. A disgraced lamentation priest becomes a piper. A disgraced merchant becomes a con-man. A disgraced carpenter becomes a man of the spindle. A disgraced smith becomes a man of the sickle. A disgraced mason becomes a hod-carrier.",
+"sumerian": "dub-sar pe-el-la2 lu2-mu7-mu7-ma-kam[line] nar pe-el-la2 lu2-gi-di-da-kam[line] gala pe-el-/la2\\ lu2-<gi>-/gid2\\-a-kam[line] dam-gara3 pe-el-la2 da-ba-ri-ri-a-kam[line] nagar pe-el-la2 lu2-ĝiš-bal-a-kam[line] simug pe-el-la2 lu2-urud.gur10-a-kam[line] šidim pe-el-la2 im-BU-BU-kam"}
+,
+{"id": 379,
+"source": "",
+"english": "A scribe who does not know how to grasp the meaning -- from where will he produce a translation?",
+"sumerian": "dub-sar šag4 dab5-ba nu-un-zu-a inim bal-e me-da ḫe2-em-tum3"}
+,
+{"id": 380,
+"source": "",
+"english": "When a singer's voice is sweet, he is indeed a singer.",
+"sumerian": "nar za-pa-aĝ2 ḫe2-en-dug3 e-ne-am3 nar-am3"}
+,
+{"id": 381,
+"source": "cf. 6.2.1: Ni 3318 ll. 2-3",
+"english": "The vixen quenched her thirst but still her (teats) ((1 ms. has instead:) motherly teats) were dry of milk.",
+"sumerian": "ka5-a-a šag4 ba-ab-si (ubur-bi) ((1 ms. has instead:) ubur ama-bi) ga ba-an-ḫad2"}
+,
+{"id": 382,
+"source": "cf. 6.2.1: Ni 3318 ll. 4-5",
+"english": "Each fox is even more of a fox than its mother.",
+"sumerian": "/ka5\\-a-a ama-a-bi ka5-a ab-dirig"}
+,
+{"id": 383,
+"source": "cf. 6.2.1: Ni 3318 l. 6, 6.2.5: P 374",
+"english": "If the hearing of the fox is bad, its foot will be crippled.[line]-106. (cf. 6.1.08.b26) The fox's tail is heavy: it carries a harrow.[line] (cf. 6.1.08.b27) The fox's door-bolt is a wooden beam.",
+"sumerian": "ka5-a-a ĝeštug2-bi al-gig ĝiri3-bi al-guz-e#(cf. 6.1.08.b26)[line] ka5-a kun-bi al-dugud[line] ĝiš-gana2-ur3 la2-am3-me-e-[še]#(cf. 6.1.08.b27)[line] ka5-a ĝiš-si-ĝar-bi ĝiš-ur3-am3"}
+,
+{"id": 384,
+"source": "cf. 6.1.23.7",
+"english": "The fox could not build his own house, so he got a job at his friend's house as a construction worker.",
+"sumerian": "ka5-a-a e2-a-ni nu-mu-da-an-/du3\\[line] e2 gu5-li-na-še3 al-tar-re ba-gub"}
+,
+{"id": 385,
+"source": "?",
+"english": "The fox watered the barley with rush water: 'Nature has changed its mind.'",
+"sumerian": "ka5-a-a a-numun2 še šu bi2-in-dug4[line] niĝ2 nam tar-ra umuš-bi kur2-ra-am3-e-še"}
+,
+{"id": 386,
+"source": "?",
+"english": "A fox trod on the hoof of a wild bull: 'It didn't hurt !'",
+"sumerian": "ka5-a ĝiri3-suḫub2 am-ma-ke4 ĝiri3-ni bi2-in-gub nu-ub-sig10-e-še"}
+,
+{"id": 387,
+"source": "",
+"english": "The fox had a stick: 'Whom shall I hit?' He carried a seal: 'What can I challenge?'",
+"sumerian": "ka5-a-a ĝidru an-da-ĝal2 a-ba-am3 an-tud2-de3-en[line] kišib an-ši-la2 a-na-am3 ab-gur-re-en"}
+,
+{"id": 388,
+"source": "cf. 6.2.3: UET 6/2 216",
+"english": "The fox, having urinated into the sea, said: 'The depths of the sea are my urine!'",
+"sumerian": "ka5-a-a a-ab-ba-še3 ĝiš3-a-ni u3-bi2-in-sur[line] a-ab-ba du5-bi kaš3-ĝu10-um-e-še"}
+,
+{"id": 389,
+"source": "cf. 6.2.3: UET 6/2 214",
+"english": "He has not yet caught the fox but he is already making a neck-stock for it.",
+"sumerian": "ka5-a-a nu-un-dab5! ĝiš-az-gu2-bi al-ak-e"}
+,
+{"id": 390,
+"source": "",
+"english": "The fox said to his wife: 'Come! Let us crush Unug between our teeth like a leek; let us strap Kulaba on our feet like sandals!' Before they had yet come within a distance of 600 uš from the city, the dogs began to howl from the city. -- 'Geme-Tummal! Geme-Tummal! Come with me to your place! Wicked things are howling at us from the city!'",
+"sumerian": "ka5-a-a dam-a-ni an-na-ab-be2[line] ĝa2-nu unug-ki ga-rašsar-gin7 zu2 ga-am3-gaz-e-en-de3-en[line] kul-aba.ki kuš-e-sir2-gin7 ĝiri3-me-a ga-am3-ma-ab-sig9-ge4-en-de3-en[line] iri-še3 600 uš nu-te-a-ba[line] iri-da ur-re šeg11 am3-da-gi4-gi4[line] geme2-tum-ma-al.ki geme2-tum-ma-al.ki[line] dur2-zu-še3 ĝa2-nam-ma-da[line] iri-ki-da niĝ2-ḫul-e šeg11 am3-da-gi4-gi4"}
+,
+{"id": 391,
+"source": "?",
+"english": "How clever the fox is! He hoots like the šulu bird.",
+"sumerian": "kug-zu ka5-a šu-lu2-mušen šeg11? ba-an-[gi4]"}
+,
+{"id": 392,
+"source": "cf. 6.1.07.89",
+"english": "Tell a lie and then tell the truth: it will be considered a lie.",
+"sumerian": "lul dug4-ga-ab zid dug4-ga-ab lul ba-e-sig10-ge5"}
+,
+{"id": 393,
+"source": "cf. 5.4.01: l. 66, 5.4.02: l. 69",
+"english": "He who always lies is a messenger from distant places.",
+"sumerian": "lul dug4-dug4 ra-gaba ki ba9-ra2"}
+,
+{"id": 394,
+"source": "",
+"english": "Donkeys are being ordered; sacks are being hired.",
+"sumerian": "anše al-dug4-dug4-ge barag al-ḫuĝ-ḫuĝ-e"}
+,
+{"id": 395,
+"source": "",
+"english": "Your helpless donkey's speed has left him. O Enlil, your helpless man's strength has left him.",
+"sumerian": "anše ḫu-nu-zu kaš4-ta e3-a[line] den-lil2 lu2 ḫu-nu-zu lirum-ta e3-a"}
+,
+{"id": 396,
+"source": "",
+"english": "My donkey was not destined to run quickly; he was destined to bray!",
+"sumerian": "anše-ĝu10 kaš4 kar-re-de3 nu-mu-un-tum2[line] eme ak-da mu-un-tum2"}
+,
+{"id": 397,
+"source": "?",
+"english": "The donkey roared ; its owner pierced its nostrils : 'We must get up and away from here! Quickly! Come!'",
+"sumerian": "anše gu3 an-mur lugal anše-ke4 pa-aĝ2 an-ze2[line] ba-da-ra-ab-ed3-de3-en-de3-en kaš4-a ĝen-na-e-še"}
+,
+{"id": 398,
+"source": "cf. 5.1.2: l. 162, 5.4.02: l. 127",
+"english": "A donkey eating its own bedding.",
+"sumerian": "anše ki-nu2 ni2-ba-a gu7-gu7"}
+,
+{"id": 399,
+"source": "",
+"english": "A donkey beating its penis against its belly.",
+"sumerian": "anše ĝiš3-a-ni šag4-ga-ni ra-ra"}
+,
+{"id": 400,
+"source": "",
+"english": "For a donkey there is no stench. For a donkey there is no washing with soap.",
+"sumerian": "anše ze2 nu-a anše naĝa dub2 nu-a"}
+,
+{"id": 401,
+"source": "",
+"english": "A widow donkey distinguishes itself by breaking wind.",
+"sumerian": "anše nu-mu-un-su-a še10 dur2-re pad3-da"}
+,
+{"id": 402,
+"source": "",
+"english": "One does not marry a three-year-old wife, as a donkey does.",
+"sumerian": "anše-gin7 dam mu 3-am3 nu-mu-un-tuku-tuku"}
+,
+{"id": 403,
+"source": "",
+"english": "Two Akkadians lost a donkey. One went after it while the other wasted the day. The one who just sat around -- the fault was his.",
+"sumerian": "anše lu2 a-ga-de3-ki 2-am3 u2-gu ba-an-de2[line] al-ĝen ud za-ḫa-al ak-e ul-tuš šer7-da-am3"}
+,
+{"id": 404,
+"source": "cf. 6.1.26.d8",
+"english": "Lying next to each other on a stake.",
+"sumerian": "gu4-zi-in-bu saĝ us2-sa nu2-nu2"}
+,
+{"id": 405,
+"source": "",
+"english": "He is deceitful, like an ox fleeing the threshing-floor.",
+"sumerian": "gud sur12-ta kar-ra-gin7 lul ab-sig9-ge"}
+,
+{"id": 406,
+"source": "cf. 6.1.05.17, 6.1.26.d6",
+"english": "Furrows are pleasant to a threshing ox.",
+"sumerian": "gud sur12-ra ab-sin2-bi al-sag9-sag9"}
+,
+{"id": 407,
+"source": "cf. 6.1.26.d5",
+"english": "An ox following round the threshing-floor is not planting seed.",
+"sumerian": "gud sur12 us2-sa numun nu-ĝa2-ĝa2"}
+,
+{"id": 408,
+"source": "cf. 6.1.26.d5",
+"english": "He who eats during the harvest is not removing clods. He who tears out weeds (?) is not sowing seed.",
+"sumerian": "buru14-da gu7-e lag nu-bur12-re[line] šu i3-bur12-ra numun nu-ĝa2-ĝa2"}
+,
+{"id": 409,
+"source": "cf. 6.1.26.d10",
+"english": "If the ox kicks up dust, it gets flour in its own eyes.",
+"sumerian": "gud-de3 saḫar ub-ak igi ni2-ba zid2-am3"}
+,
+{"id": 410,
+"source": "",
+"english": "While the ox is ploughing, the dog is spoiling the deep furrows.",
+"sumerian": "gud-de3 al-ur11-ru ur-re sur3 an-tag"}
+,
+{"id": 411,
+"source": "",
+"english": "An ox with diarrhoea -- its dung is a long trail!",
+"sumerian": "gud šag4 sur še10 sila sud-/am3\\"}
+,
+{"id": 412,
+"source": "cf. 6.1.07.81, 6.2.3: UET 6/3 31 ll. 5-6",
+"english": "A stranger's ox eats grass, while my ox lies hungry.",
+"sumerian": "gud kur2-ra u2 gu7-gu7[line] gud ni2-ĝa2 u2-šim-e ba-nu2"}
+,
+{"id": 413,
+"source": "",
+"english": "Once I had escaped the wild bull, the wild cow confronted me.",
+"sumerian": "am-da kar-ra-ĝu10-ne immal-e gaba ba-an-ri-en"}
+,
+{"id": 414,
+"source": "",
+"english": "To the lamentation priest the field lies adjacent to the house.",
+"sumerian": "gala-e gana2 e2-e us2-sa"}
+,
+{"id": 415,
+"source": "",
+"english": "The lamentation priest is the depths of the boat.",
+"sumerian": "gala du5 ĝiš-ma2-kam"}
+,
+{"id": 416,
+"source": "",
+"english": "The lamentation priest (hurled his son into the water) ( gave his son to the water): 'May the city build like me! May the Land live like me!'",
+"sumerian": "gala-e (dumu-ni a ḫa-ba-an-da-ra-ra) ( dumu-na a-a ba-da-ze2-eĝ3 )[line] iri-ki ĝe26-gin7 ḫe2-du3 kalam ĝe26-gin7 ḫe2-en-til3"}
+,
+{"id": 417,
+"source": "",
+"english": "The lamentation priest wipes his bottom: 'One should not remove what belongs to my mistress Inana.'",
+"sumerian": "gala-e bid3-da-ni ḫa-ba-an-da-ze2-er[line] aĝ2 ga-ša-an-an-na ga-ša-an-ĝu10 ba-ra-zi-zi-de3-en-e-še"}
+,
+{"id": 418,
+"source": "",
+"english": "It is the food of a lamentation priest: the pieces are big but the weight is small.",
+"sumerian": "ninda gala-kam lag-ga ab-gu-ul ki-la2-bi al-tur"}
+,
+{"id": 419,
+"source": "",
+"english": "The slave of the lamentation priest wails constantly in the town square: 'My food ration is big in size but small in weight. Let me tell you about the size of my food ration -- a lance strikes it constantly throughout the city quarter.'",
+"sumerian": "arad gala-a-ke4 tilla2 šeg11 al-gi4-gi4[line] kurum6-ma-ĝu10 lag-ga ab-gu-ul ki-la2-bi al-tur[line] lag kurum6-ma-ĝu10 ga-ab-dug4[line] dag-gi4-a ĝiš.šukur mu-te-te"}
+,
+{"id": 420,
+"source": "",
+"english": "A lamentation priest whose incantations do not sound sweet is highly regarded among lamentation priests!",
+"sumerian": "gala mu7-mu7 nu-dug3-ga un3 gala-e-ne"}
+,
+{"id": 421,
+"source": "?",
+"english": "Unruly , scowling dogs belong to the shameless man.",
+"sumerian": "ur galam-galam igi-kal lu2 teš2 nu-tuku-am3"}
+,
+{"id": 422,
+"source": "",
+"english": "A sniffing dog entering all the houses.",
+"sumerian": "ur si-im-si-im e2-e2-a ku4-ku4"}
+,
+{"id": 423,
+"source": "?",
+"english": "A dog eating unclean food is a dog which leaves nothing for the next day.",
+"sumerian": "ur niĝ2-u2-zug4 gu7-a[line] ur niĝ2 ud zal-le nu-taka4-a"}
+,
+{"id": 424,
+"source": "",
+"english": "The smith's dog could not overturn the anvil, so it overturned the basket and pot.",
+"sumerian": "ur simug-ke4 na4.šu-min3-e nu-mu-un-zig3 pisaĝ2 dug-a i-im-zig3"}
+,
+{"id": 425,
+"source": "",
+"english": "Patting the neck of a treacherous dog -- patting from the back of the neck.",
+"sumerian": "ur lul-la gu2 sag9-sag9 gu2-tar sag9"}
+,
+{"id": 426,
+"source": "",
+"english": "A dog which knows no home.",
+"sumerian": "ur ki-tuš-bi nu-mu-zu-a"}
+,
+{"id": 427,
+"source": "?",
+"english": "A dog descends, a lance descends -- each does damage .",
+"sumerian": "ur al-ed3-de3 ĝiš.šukur al-ed3-/de3\\ ba-ni-ib-sig10-ge"}
+,
+{"id": 428,
+"source": "cf. 5.1.2: l. 161",
+"english": "The dog licks its shrivelled penis with its tongue.",
+"sumerian": "ur-gir15 ĝiš3 bir2-bi eme šub6-be2"}
+,
+{"id": 429,
+"source": "cf. 6.1.01.65, 6.2.3: UET 6/2 221",
+"english": "In the city with no dogs, the fox is boss.",
+"sumerian": "/iri\\ nu /ur-gir15\\ ka5-a nu-banda3-am3"}
+,
+{"id": 430,
+"source": "cf. 6.1.01.66, 6.2.5: UIOM 1999",
+"english": "In the city of the lame, the cripple is a courier.",
+"sumerian": "iri ad4-e-ne-ka ba-/za\\ lu2-kaš4-a-kam"}
+,
+{"id": 431,
+"source": "cf. 6.1.22: ll. 233-235",
+"english": "How does a cripple stand up?",
+"sumerian": "ba-za a-na-am3 gub-ba-/bi\\"}
+,
+{"id": 432,
+"source": "",
+"english": "The good thing is to find it; the bad thing is to lose it.",
+"sumerian": "sag9-ga-bi pad3-da ḫul-bi u2-gu de2-am3"}
+,
+{"id": 433,
+"source": "",
+"english": "I have found it -- a cause for celebration! I have lost it -- my heart does not ache!",
+"sumerian": "i3?-pad3 ba-ḫul2-le-en[line] u2-gu i-ni-in-de2 /šag4\\-ĝu10 la-ba-gig-ga-am3"}
+,
+{"id": 434,
+"source": "cf. 6.1.07.98",
+"english": "The good thing is the beer. The bad thing is the journey.",
+"sumerian": "nam-sag9-ga kaš-am3 nam-ḫul kaskal-am3"}
+,
+{"id": 435,
+"source": "",
+"english": "For his pleasure he got married. On his thinking it over he got divorced.",
+"sumerian": "sag9-ga-ni-še3 tuku-am3 ĝalga.ga-ni-še3 taka4-am3"}
+,
+{"id": 436,
+"source": "",
+"english": "Their pleasure -- their discomfort. Their discomfort -- their pleasure.",
+"sumerian": "sag9-ga-ne-ne ḫul-ne-ne[line] ḫul-ne-ne sag9-ga-ne-ne"}
+,
+{"id": 437,
+"source": "cf. 6.1.11.6, 6.1.22: l. 80, 6.1.26.d3",
+"english": "Collecting firewood is for the strong man; the weak man waits for him on dry land.",
+"sumerian": "u2 de5-de5-[ga] kalag-ga-še3[line] sig9-ga bar-rim4-[ma] mu-na-an-[tuš]"}
+,
+{"id": 438,
+"source": "cf. 6.2.3: UET 6/2 293",
+"english": "He who shaves his head acquires ever more hair. And he who gathers firewood acquires ever more grain.",
+"sumerian": "[ saĝ sar-ra ] /siki\\ ba-an-tuku-tuku[line] u2 de5-de5-ga de.zi.na3 ba-an-dirig-dirig-e-še"}
+,
+{"id": 439,
+"source": "cf. 6.1.19.b4, 6.1.24.3",
+"english": "He who destroys houses destroys reeds. He who destroys a house destroys gold.",
+"sumerian": "[e2 gul-gul]-la gi gul!-/la\\[line] [e2 gul]-/la\\ kug-sig17 gul-/la\\"}
+,
+{"id": 440,
+"source": "cf. 6.1.19.b3",
+"english": "(Walk like a lord, walk at the front. Walk like a slave, walk like a lord.) ((1 ms. has instead:) Build like a lord, build like a slave. Build like a slave, build like a lord.) ((another ms. has instead:) Walk like a lord, walk like a slave. Walk like a slave, walk like a lord.)",
+"sumerian": "[en]-/gin7\\ DU saĝ-ki DU[line] /saĝ\\-gin7 DU en-gin7 DU#)#(#(instead of lines 12-13, 1 ms. has:)#A. [en-gin7] du3 saĝ-gin7 du3#B. [saĝ-gin7] du3 en-gin7 du3#)#(#(another ms. has instead:)#AA. [en]-gin7 DU saĝ-gin7 DU#BB. [saĝ]-/gin7\\ DU en-gin7 DU#)"}
+,
+{"id": 441,
+"source": "?",
+"english": "Hand added to hand, and a man's house is built up. Stomach added to stomach , and a man's house is destroyed.",
+"sumerian": "šu šu-a ba-ab-taḫ e2 lu2 al-du3-e[line] šag4-gal šag4-gal-e ba-ab-taḫ e2 lu2 al-gul-e"}
+,
+{"id": 442,
+"source": "",
+"english": "The hoe cannot cut firewood. The pitchfork cannot cut firewood.",
+"sumerian": "ĝiš-al u2 nu-kud ĝiš-kibir2 u2 nu-kud"}
+,
+{"id": 443,
+"source": "cf. 6.2.3: UET 6/2 315 ll. 5-6",
+"english": "cf. 6.2.3: UET 6/2 315 ll. 5-6 In a household of several grown-up young men, the hoe and the work basket must cultivate the fields.",
+"sumerian": "e2 ĝuruš gal-gal-e-ne-ka ĝiš-al ĝiš-dusu al-ur11-/ru\\"}
+,
+{"id": 444,
+"source": "",
+"english": "The mother who has given birth to eight young men lies down exhausted.",
+"sumerian": "ama ĝuruš 8-e tu-ud-da niĝ2 sig-ga ba-nu2"}
+,
+{"id": 445,
+"source": "Alster 1997 2.142 = 6 Sec. A 1; cf. 6.1.23.7, 6.1.25.7",
+"english": "The house built by the upright man is destroyed by the treacherous man.",
+"sumerian": "e2 lu2 zid-de3 du3-a lu2-lul-e gul-la"}
+,
+{"id": 446,
+"source": "Alster 1997 2.143 = 6 Sec. A 2; cf. 6.1.14.17",
+"english": "If a household acquaintance has been exposed to harm, the matter is investigated.",
+"sumerian": "e2-a lu2 zu-bi mu-un-gul[line] en3-bi-a ba-tar-re-[(X) ]"}
+,
+{"id": 447,
+"source": "Alster 1997 2.144 = 6 Sec. A 3",
+"english": "Let there be unused land adjacent to a house; let there be a threshing-floor adjacent to a field.",
+"sumerian": "e2-e kislaḫ ḫe2-eb2-us2[line] a-šag4-ga sur12 ḫe2-eb2-/us2\\"}
+,
+{"id": 448,
+"source": "Alster 1997 2.146 = 6 Sec. A 5",
+"english": "One finds no rest (?) in a house in which a wife does not speak, in which the head of the household (?) does not utter joyous words.",
+"sumerian": "e2 dam-e gu3 nu-de2-dam[line] [ad]-da inim ḫul2 nu-ĝa2-ĝa2-dam[line] /šag4? nu-ši\\-ib-/kuš2?\\-u3"}
+,
+{"id": 449,
+"source": "Alster 1997 2.149 = 6 Sec. A 8; cf. 6.1.11.69, 6.1.26.d15",
+"english": "Those who live near the water look into the heart of the mountains. They don't look in their own direction.",
+"sumerian": "/a\\-da ab-tuš kur-šag4-še3 igi du8[line] /ni2\\-bi-še3 igi nu-du8"}
+,
+{"id": 450,
+"source": "Alster 1997 2.153 = 6.1; cf. 6.1.14.21",
+"english": "The palace is an ox; catch it by the tail!",
+"sumerian": "e2-gal gud-de3 kun-[bi ḫe2-dab5]"}
+,
+{"id": 451,
+"source": "Alster 1997 2.154 = 6.2; cf. 5.6.1: l. 94",
+"english": "The palace is a huge river; its interior is a goring bull.",
+"sumerian": "e2-gal id2 maḫ-[am3] šag4-bi [gud] /du7-du7\\-[dam]"}
+,
+{"id": 452,
+"source": "Alster 1997 2.155 = 6.3; cf. 6.1.28.24, 6.2.3: UET 6/2 209 ll. 1-3, 1.8.1.5: ll. 193-199",
+"english": "The palace is a forest. The king is a lion. Nungal overwhelms men with a huge battle-net. Oh Utu, accept my prayer.",
+"sumerian": "e2-gal tir-ra-am3 lugal [ur]-/maḫ\\[line] d.nun-gal sa.šu2-uš-/gal\\ lu2 bi2-/dul\\-dul?-e[line] d/utu?\\ šu-ĝu10 gid2-i-ma-ni-ib"}
+,
+{"id": 453,
+"source": "Alster 1997 2.156 = 6.4; cf. 6.1.14.23, 6.1.25.8",
+"english": "The palace is a slippery place which catches those who do not know it.",
+"sumerian": "[e2]-/gal\\ ki-ma-an-ze2-er nu-/um?\\-zu dab5-dab5-be2"}
+,
+{"id": 454,
+"source": "Alster 1997 2.157 = 6.5; cf. 6.1.14.20, 6.1.25.11, 6.2.3: UET 6/2 317",
+"english": "The palace cannot avoid the waste land. A barge cannot avoid straw. A freeborn man cannot avoid corvée work. A king's daughter cannot avoid the tavern.",
+"sumerian": "e2-gal a-ri-a nu-da13-da13[line] ĝiš-ma2-gur8 in-nu-da nu-da13-da13[line] dumu-gir15-bi du-lum la-ba-an-da13-da13[line] [dumu]-munus lugal-la eš2-dam [nu-da13-da13]"}
+,
+{"id": 455,
+"source": "Alster 1997 2.158 = 6.6; cf. 6.1.14.22, 6.1.17.b9, 6.1.25.10",
+"english": "The palace -- one day a mother giving birth, the next day a lamenting mother.",
+"sumerian": "e2-gal ud 1(DIŠ) ama tud-da-am3[line] ud 1(DIŠ) ama a-nir-ra-am3"}
+,
+{"id": 456,
+"source": "Alster 1997 2.159 = 6.7",
+"english": "Through building my house I incurred debt, so I could not afford to cultivate the field I had sowed with seed.",
+"sumerian": "e2 du3-du3-a-ĝa2 ur5-ra-bi /ĝe26-e\\-me-/en\\[line] gana2 ĝar-ĝar-ra-ĝa2 nu-ur11-ru-bi ĝe26-e-me-en"}
+,
+{"id": 457,
+"source": "Alster 1997 2.160 = 6.8",
+"english": "May you be a household built up by twin sons.",
+"sumerian": "e2 dumu tab du3-a ḫe2-me-en"}
+,
+{"id": 458,
+"source": "Alster 1997 2.161; cf. 6.1.03.165, 6.1.25.8",
+"english": "I would rather go home.",
+"sumerian": "e2-še3 ga-ĝen-na saĝ a-ab-kal"}
+,
+{"id": 459,
+"source": "Alster 1997 2.162 = 6.8",
+"english": "Those who enter his house are fifty.",
+"sumerian": "e2 kur9-ra-ni 50-am3"}
+,
+{"id": 460,
+"source": "Alster 1997 2.163 = 6.9",
+"english": "Whom can I bring to a house whose offspring have been annihilated?",
+"sumerian": "e2 numun til-til-la-še3 a-ba-am3 mu-un-tum3-me-en"}
+,
+{"id": 461,
+"source": "Alster 1997 2.164 = 6.10",
+"english": "I don't return to a house whose master is not at home.",
+"sumerian": "e2 lugal-bi nu-tuš-a šag4-bi-a nu-gur-re-en"}
+,
+{"id": 462,
+"source": "Veldhuis 2000 6.21",
+"english": "A bird in the sky is as good as an um bird.",
+"sumerian": "mušen an-na um-mušen-e dug3-ga"}
+,
+{"id": 463,
+"source": "Veldhuis 2000 6.22",
+"english": "A fish in the deep is as good as a carp in the reeds.",
+"sumerian": "ku6 engur-ra eštubku6 gi dug3-ga"}
+,
+{"id": 464,
+"source": "Veldhuis 2000 6.23",
+"english": "Four-legged creatures are as good as marsh rats.",
+"sumerian": "niĝ2-ur2-limmu2 peš2-ĝiš-gi dug3-ga"}
+,
+{"id": 465,
+"source": "Veldhuis 2000 6.24",
+"english": "All the birds flew away, and their mother alone stayed.",
+"sumerian": "mušen ba-dal-dal ama dili-bi ba-an-tuš"}
+,
+{"id": 466,
+"source": "Alster 1997 6.25",
+"english": "Ninazu, a bird flying around is your share.",
+"sumerian": "mušen ba-dal-dal d-nin-a-zu ḫa-la-zu-e-še"}
+,
+{"id": 467,
+"source": "Alster 1997 6.26",
+"english": "In the fowler's trap (?) is what he eats.",
+"sumerian": "mušen-du3 ĝiš-pap-ḫal-la-ka niĝ2 al-gu7-e"}
+,
+{"id": 468,
+"source": "Alster 1997 6.27",
+"english": "He who lives from birds and fish cannot sleep.",
+"sumerian": "mušen ku6 gu7-e u3 nu-um-ši-ku-[ku]"}
+,
+{"id": 469,
+"source": "Alster 1997 6.31; cf. 6.1.19.d4",
+"english": "He sneaks into the water like an um bird.",
+"sumerian": "um-mušen-gin7 a am3-gir5-gir5-/e\\"}
+,
+{"id": 470,
+"source": "Alster 1997 6.32; cf. 6.2.2: MDP 27 206 l. 1, 6.2.3: UET 6/2 244 ll. 1-2, 6.2.3: UET 6/3 80 l. 4",
+"english": "The wood pigeon's (?) voice is the glory of the garden.",
+"sumerian": "ir7-saĝmušen gu3 de2-de2 ĝiš-kiri6 me-te-bi"}
+,
+{"id": 471,
+"source": "Alster 1997 6.33; cf. 6.2.2: MDP 27 206 l. 3, 6.2.3: UET 6/2 244 ll. 3-4, 6.2.3: UET 6/3 80 l. 6",
+"english": "The francolin's voice is the glory of the fields.",
+"sumerian": "[darmušen gu3] de2 a-šag4-ga me-te-/bi\\-[im]"}
+,
+{"id": 472,
+"source": "Alster 1997 6.37",
+"english": "Offerings are the glory of the gods.",
+"sumerian": "diĝir sizkur-ra me-te-bi-im"}
+,
+{"id": 473,
+"source": "Alster 1997 6.39; cf. 6.1.07.30",
+"english": "The arabu fowl was not eaten in time.",
+"sumerian": "[a-ra2]-/bu\\mušen niĝ2 a2-ba-ka nu-gu7"}
+,
+{"id": 474,
+"source": "Alster 1997 6.43; cf. 6.1.11.26",
+"english": "Now, you should not sleep in the reedbeds: the marsh rats will eat you.",
+"sumerian": "/a2\\-še ĝiš-gi-a nam-mu-nu2-de3-en peš2-ĝiš-gi-a [i3]-/gu7\\-e-en"}
+,
+{"id": 475,
+"source": "Alster 1997 6.45",
+"english": "Don't pour water into a river. The rats will come up.",
+"sumerian": "/id2\\-da a na-de2-en peš2-bi am3-ed3-de3"}
+,
+{"id": 476,
+"source": "Alster 1997 6.48; cf. 6.2.5: P 376",
+"english": "Two esig birds, two (gusura fish) ((1 ms. has instead:) gusura birds), three suḫur carp, two eštub carp, and two suḫur carp, ((1 ms. adds:) two) sea fish, are present on Enlil's offering table.",
+"sumerian": "2 e-sigmušen 2 (gu2-sur-raku6) ((1 ms. has instead:) gu2-/sur-ra\\mušen) 3 suḫurku6[line] 2 eštubku6 2 suḫurku6 ((1 ms. adds:) 2) ku6-ab-baku6[line] ĝiš-banšur den-lil2-la2-ka ba-ĝal2-la"}
+,
+{"id": 477,
+"source": "cf. 6.2.5: TIM 10/1 2, 1.8.1.1: ll. 25-28",
+"english": "To stand and to sit, to spur on the donkeys, to support (?) the prince: who has the breath for that?",
+"sumerian": "gub-gub-bu-de3 tuš-tuš-de3[line] zib2 anše dab5-dab5-be2-de3 dumu lugal-la de2-de2-de3-a-ba zi-bi mu-un-tuku"}
+,
+{"id": 478,
+"source": "UM.ME",
+"english": "You are peering out from the parapet like the prince's nurse.",
+"sumerian": "emedada dumu lugal-la-gin7 bad3-si-a igi al-bar-bar-re"}
+,
+{"id": 479,
+"source": "",
+"english": "(Because you draw water, the swamp may drink.) ( You draw water for pouring out, so that the swamp may drink water.)",
+"sumerian": "(a ed3-de3-na-aš um-aḫ-bi ḫe2-naĝ-e) ( a i-/i-de2\\ bi2-ib-gur3-re-a a /um-aḫ\\-bi ḫe2-naĝ-e)"}
+,
+{"id": 480,
+"source": "?",
+"english": "I will feed you even though you are an outcast . I will give you drink even though you are an outcast . You are still my son, even if your god has turned against you.",
+"sumerian": "e-ri-ib-gu7-en ti-ri2-ga al-deḫi2-me-en[line] e-ri-ib-naĝ-e ti-ri2-ga al-deḫi2-me-en[line] dumu-ĝu10-me-en diĝir-zu kur2-ra-am3"}
+,
+{"id": 481,
+"source": "cf. 6.1.16.b7",
+"english": "'I will go today' is what a herdsman says; 'I will go tomorrow' is what a shepherd-boy says. 'I will go' is 'I will go', and the time passes.",
+"sumerian": "ud-da ga-ĝen na-gada-kam[line] ud ul-la ga-ĝen sipad-tur-ra-kam[line] ga-ĝen ga-ĝen-na-am3 ud mi-ni-ib-zal-zal-e"}
+,
+{"id": 482,
+"source": "cf. 6.1.26.a5, 6.2.1: Ni 4122 ll. 2-5",
+"english": "((1 ms. adds:) To serve beer with unwashed hands) To spit without trampling upon it, to sneeze without covering it with dust, to kiss with the tongue at midday without providing shade, are abominations to Utu.",
+"sumerian": "((ms. adds:)[line]A. šu nu-luḫ-ḫa kaš i3-de2-a#)[line] uš7 dug4-ga ĝiri3 nu-saga11-a[line] giri17 te-en-na saḫar nu-gi4-a[line] eme ak an-bar7 an-dul3 nu-ĝa2-ĝa2[line] niĝ2-gig d-utu-kam"}
+,
+{"id": 483,
+"source": "cf. 6.1.01.153, 6.1.16.b4-5, 6.1.22: ll. 26-27, 6.1.23.7",
+"english": "A shepherd his penis, a gardener his hair. An unjust heir who does not support a wife, or who does not support a child, has no cause for celebration.",
+"sumerian": "sipad ĝiš3-a-ni nu-ĝiš-kiri6 suḫur-a-ni[line] ibila nu-gen6-na dam nu-il2 dumu nu-il2 giri17-zal-še3 nu-il2"}
+,
+{"id": 484,
+"source": "cf. 6.1.16.b2",
+"english": "If you get rid of the shepherd, then his sheep will not return.",
+"sumerian": "sipad ḫe2-em-ta-ab-ed3-de3-a[line] udu-ni šu-a li-bi2-in-gi4"}
+,
+{"id": 485,
+"source": "cf. 6.1.16.b3",
+"english": "Because the clever shepherd became confused, his sheep did not return.",
+"sumerian": "sipad kug-zu mu-na-bir?-a-kam[line] udu-ni šu-a li-bi2-in-gi4"}
+,
+{"id": 486,
+"source": "",
+"english": "A shepherd-boy when weary cannot recognise his own mother.",
+"sumerian": "sipad-tur kuš2-a-ni ama-ni nu-mu-un-da-an-zu"}
+,
+{"id": 487,
+"source": "",
+"english": "While you still have light, grind the flour.",
+"sumerian": "ud ma-ra-an-ĝal2 zid2 ma5-a"}
+,
+{"id": 488,
+"source": "cf. 6.1.05.3",
+"english": "The wild bull is taboo for the plough.",
+"sumerian": "am-e niĝ2-gig ĝiš-apin-na-kam"}
+,
+{"id": 489,
+"source": "cf. 6.1.22: ll. 216-217",
+"english": "To eat modestly doesn't kill a man, but to covet will murder you. To eat a little is to live splendidly. When you walk about, keep your feet on the ground!",
+"sumerian": "tur gu7-a lu2 nu-til-le[line] igi-tum3 la2 saĝ ĝiš ra-ra[line] tur-bi gu7-a maḫ-bi til3-la[line] dib-dib-be2 ĝen-na ĝiri3 ki-a sig10-bi2-ib"}
+,
+{"id": 490,
+"source": "",
+"english": "As long as he is alive, he is his friend. When he is dead, he is his worst demon.",
+"sumerian": "en-na til3-la gu5-li-ni-im[line] ud ug5-ga gal5-la2 gal-la-ni-im"}
+,
+{"id": 491,
+"source": "cf. 6.1.16.d2",
+"english": "Friendship lasts for just (one day) ((1 ms. has instead:) three days) but collegiality lasts forever.",
+"sumerian": "nam-gu5-li niĝ2 ud (1-a-kam) ((1 ms. has instead:) 3-a-kam)[line] nam-gi4-me-a-aš niĝ2 da-ri2-kam"}
+,
+{"id": 492,
+"source": "",
+"english": "Quarrelling occurs wherever (there are colleagues) ( one of the group is senior to the rest). Slander occurs even where there has been purification.",
+"sumerian": "du14 ak-e ki (nam-gi4-me-aš-kam) ( nam-šeš-gal-la-še3)[line] eme sig gu7-e ki nam-luḫ-še3 i3-ĝal2"}
+,
+{"id": 493,
+"source": "",
+"english": "When travelling, a man does not tire of eating. He gathers in food all day long.",
+"sumerian": "kaskal niĝ2 gu7-da lu2 nu-kuš2-u3[line] ud šu2-uš-e ki bi2-ib-de5-de5-ge"}
+,
+{"id": 494,
+"source": "",
+"english": "There are bitter tears in human flesh.",
+"sumerian": "su nam-lu2-ulu3-ka a gig i3-ĝal2"}
+,
+{"id": 495,
+"source": "",
+"english": "A hand will stretch out towards an outstretched hand. A hand will open for an opened hand.",
+"sumerian": "šu gid2-e šu mu-da-gid2-e[line] šu bur2-ra šu? mu-[da]-bur2!-e"}
+,
+{"id": 496,
+"source": "cf. 6.1.22: ll. 284-286, 6.2.3: UET 6/2 265 ll. 2-3, 6.2.5: IM 62823 Seg. A ll. 7-8",
+"english": "He who has silver is happy; he who has grain feels comfortable; he who has livestock can sleep.",
+"sumerian": "kug tuku šag4 an-ḫul2 še tuku ur5 an-sag9[line] niĝ2-ur2-limmu2 tuku-e u3 mu-un-ši-ku-ku"}
+,
+{"id": 497,
+"source": "cf. 6.1.19.c1, 6.2.5: YBC 4677 ll. 8-10",
+"english": "What did Enlil make? Chaff! The lance struck. It went into the flesh.",
+"sumerian": "den-lil2-le a-na-am3 in-ak in-bul-bul[line] urud-šukur in-sig10 su mu-ni-ib-te-te"}
+,
+{"id": 498,
+"source": "cf. 6.1.19.c2, 6.1.24.9",
+"english": "When the sun is setting outside so that you cannot even recognise the hand in front of you, go indoors!",
+"sumerian": "d-utu bar-ra ḫe2-NE-[X]-šu2[line] ni2-zu šu nu-zu-am3 kur9-ni-ib"}
+,
+{"id": 499,
+"source": "cf. 6.1.07.100",
+"english": "He who says 'I will live for today' is bound like a bull on a nose-rope.",
+"sumerian": "ud-da ga-til3-e gud-gin7 /sam-an\\ [bi2-in-la2]"}
+,
+{"id": 500,
+"source": "cf. 3.31",
+"english": "Nanni cherished his old age: 'I am what an old man should be.'",
+"sumerian": "na-an-ni libir-ra-ni mu-na-/kal\\[line] ĝe26-e lu2 libir-ra-ka-e-še"}
+,
+{"id": 501,
+"source": "cf. 6.2.3: UET 6/2 335 l. 1",
+"english": "You grind with the pestle like a fearful slave girl.",
+"sumerian": "geme2 ni2 te-a-gin7 ĝiš-naĝa3 bi2-gur4-/gur4\\"}
+,
+{"id": 502,
+"source": "?",
+"english": "The slave girl who neglected to fill the containers grumbled: 'It does not fill to the top; it does not fill the middle.'",
+"sumerian": "/geme2\\ ĝiš-ba-an-/e\\ nu-ub-si-/am3?\\[line] dum-dam an-da-ab-za[line] ka nu-un-[si][line] murub2 nu-si?-[e-še]"}
+,
+{"id": 503,
+"source": "cf. 6.1.19.d9, 6.1.28.25",
+"english": "When the lady left the house and the slave girl entered from the street, away from her lady the slave girl sat at her own banquet.",
+"sumerian": "e2-ta e3 sila-ta kur9-ra gi4-in-e[line] ga-ša-an-na-ni ĝiš-bum-ma bi2-in-tuš"}
+,
+{"id": 504,
+"source": "cf. 6.1.22: ll. 278-279, 6.2.1: Ni 9824 Seg. C ll. 1-2, 6.2.5: YBC 8713 l. 7",
+"english": "When there is a dispute at the mill, a slave girl reveals (?) what she has stolen.",
+"sumerian": "e2-na4-kinkin(ḪAR)-na du14 ḫe2-en-/ĝal2?\\[line] geme2 niĝ2 zuḫ-a-ni pa im-mi-in?-ed3?"}
+,
+{"id": 505,
+"source": "",
+"english": "The joy of a daughter-in-law is anger.",
+"sumerian": "šag4 ḫul2-la e2-gi4-a šag4 ib2-ba-/kam\\"}
+,
+{"id": 506,
+"source": "cf. 6.1.07.48, 6.1.11.5",
+"english": "As long as you live you should not increase evil by telling lies; for if you do, to succumb will be your lot.",
+"sumerian": "til3-la lul-la ḫul na-an-gu-[ul-en][line] gam ḫa-la-zu-še3 mu-/un\\-[ĝal2]"}
+,
+{"id": 507,
+"source": "cf. 6.1.25.3",
+"english": "The lord (i.e. An (?)) cursed Unug, but so was he cursed by the lady of E-ana (i.e. Inana) .",
+"sumerian": "en-e unug-ki-/ga\\ nam im-ma-kud-de3 X[line] e-ne-ra nin e2-an-/na\\-[ke4] [(X)]"}
+,
+{"id": 508,
+"source": "cf. 6.1.07.80",
+"english": "I am a loyal steward with strong arms.",
+"sumerian": "aĝrig šu dim4-ma sa-KU kalag-[ga-me-en]"}
+,
+{"id": 509,
+"source": "",
+"english": "It is on account of being the boss that you bully me.",
+"sumerian": "nam-ugula-a ma-ab-du7-du7-/un\\"}
+,
+{"id": 510,
+"source": "",
+"english": "Because of his arrogance, may his head be bowed to his neck like a damp reed.",
+"sumerian": "nam-sun7-na-ta gi duru5-gin7[line] saĝ gu2-ni-še3 ḫe2-bi2-in-ed3-de3"}
+,
+{"id": 511,
+"source": "cf. 6.1.17.b7",
+"english": "Weighing scales made with a net are a trap made for the feet; a man should not take a merchant for his friend.",
+"sumerian": "ĝiš-erin2 sa ak pu2 niĝ2 ĝiri3-a-kam[line] dam-gara3 gu5-li-ni-ir lu2 na-an-tuku-tuku"}
+,
+{"id": 512,
+"source": "cf. 6.1.01.165, 6.1.17.b8, 6.1.22: ll. 194-196",
+"english": "You, merchant, how small you made the amount of silver! And how small you made the amount of oil and barley!",
+"sumerian": "dam-gar3-ra kug ta ba-an-tur i3 u3 še [ta ba-an-tur]"}
+,
+{"id": 513,
+"source": "",
+"english": "One cannot drag out the weak, one cannot hold back the strong.",
+"sumerian": "sig9-ga ba-ra-gid2-de3 kalag-ga ba-ra-ab-gub"}
+,
+{"id": 514,
+"source": "cf. 3.85",
+"english": "Let our odour be the smell of leeks -- let it not be the smell of turnips!",
+"sumerian": "šim sis-me šim ga-rašsar ḫe2[line] šim lu-ub2-sar nam-me"}
+,
+{"id": 515,
+"source": "cf. 6.1.11.22",
+"english": "He who insults is insulted. He who sneers is sneered at.",
+"sumerian": "in dub2-dub2-bu-ra in mu-na-an-ĝar[line] giri17 ur5-e giri17 mu-na-an-ur5-/re\\"}
+,
+{"id": 516,
+"source": "",
+"english": "A lion caught in the trap in the storehouse becomes mine in this way: the owner simply removes the wood.",
+"sumerian": "piriĝ araḫ4 sa-ba gub-ba[line] ur5 ĝa2-a-kam lugal-e ĝiš mu-ub-ze2-ze2"}
+,
+{"id": 517,
+"source": "",
+"english": "A tenant established the house, and ploughing established the field.",
+"sumerian": "ga-an-tuš-e e2 ba-an-gub[line] ur11-ru-e a-šag4 ba-ab-gub"}
+,
+{"id": 518,
+"source": "cf. 6.1.07.17, 6.2.5: YBC 9912",
+"english": "'I am stretching my legs on your behalf,' says a man delivering sesame.",
+"sumerian": "ḫaš2 a-ra-an-gid2-nam lu2 še-ĝiš-i3 bi2-ib2-il2-il2"}
+,
+{"id": 519,
+"source": "cf. 6.2.3: UET 6/2 382 l. 3",
+"english": "Iškur splits the mountains, yet he does not split the waterskin.",
+"sumerian": "diškur-e kur al-dar-dar-e[line] kuša-ĝa2-la2 nu-dar-re"}
+,
+{"id": 520,
+"source": "",
+"english": "A runaway slave girl only pretends to sleep.",
+"sumerian": "geme2 kar-ra u3 lul-la ku-ku"}
+,
+{"id": 521,
+"source": "cf. 6.1.07.13",
+"english": "He moves like a lion against a louse, but when there is a job is to be done, he moves like a rat.",
+"sumerian": "umun3-še3 piriĝ-gin7 du[line] kiĝ2 ak-de3 niĝ2-gilim-ma-gin7 du"}
+,
+{"id": 522,
+"source": "cf. 6.1.22: l. 85",
+"english": "As the sun rises, decisions are made. By the time the sun is up, kingship is conferred.",
+"sumerian": "ud ul-e3 nam al-tar-ra[line] d-utu gub-ba-ni nam-lugal mu-un-na-an-šum2"}
+,
+{"id": 523,
+"source": "cf. 6.1.28.1",
+"english": "The battle-club would not find out your name -- it would just find your flesh.",
+"sumerian": "ĝiš-tukul mu-zu na-an-pad3-de3[line] su-zu ḫe2-pad3-de3"}
+,
+{"id": 524,
+"source": "cf. 3.68",
+"english": "Our own odour is of pulled-up turnips -- sweet things are brought by strangers.",
+"sumerian": "u2-lu-ub2-sar ze2-ze2 šim sis-me[line] dug3-ga lu2-kur2-ra ma-ab-tum3"}
+,
+{"id": 525,
+"source": "cf. 6.1.26.b5-6",
+"english": "'Give me!' is what the king says. 'Do well!' is what the cupbearer's son says.",
+"sumerian": "šum2-ma-ab lugal-la-kam[line] dug3-ga-ab dumu sagi-a-kam"}
+,
+{"id": 526,
+"source": "cf. 6.1.11.25",
+"english": "If the foreman does not know how to assign the work, his workers will not stop shaking their heads.",
+"sumerian": "ugula a2 ĝiš ĝar-ra nu-un-zu-[a][line] erin2-na-ni saĝ sag3-ge nu-gul-e"}
+,
+{"id": 527,
+"source": "",
+"english": "Enlil's temple is a summation of accounts. The temple manager is its overseer.",
+"sumerian": "e2 den-lil2-la2 gu2-dirig saĝĝa ugula-bi-im"}
+,
+{"id": 528,
+"source": "cf. 6.1.14.18",
+"english": "Enlil's temple is a gathering (?) of wages.",
+"sumerian": "e2 den-lil2-la2 pa4-ḫar addir-am3"}
+,
+{"id": 529,
+"source": "cf. 6.2.4: VAT 21604 (+21605 Seg. B l. 3)",
+"english": " Enlil's greatest punishment is hunger.",
+"sumerian": "den-lil2-le šer7-da gu-la-ni šag4-ĝar-ra"}
+,
+{"id": 530,
+"source": "",
+"english": "If one does not give the dog something, it will bark at every woman.",
+"sumerian": "ur-e nu-mu-na-an-šum2[line] munus-e munus-e gu3 al-de2-de2-e"}
+,
+{"id": 531,
+"source": "cf. 6.1.05.93",
+"english": "She growls like a dog struck by a (throw-stick) ((1 ms. has instead:) ball (?)).",
+"sumerian": "ur-gir15 (ĝiš-ilar) ((1 ms. has instead:) ĝiš-ellag) ra-a-gin7[line] dum-dam an-da-ab-za"}
+,
+{"id": 532,
+"source": "",
+"english": "That which is made of evil threads grumbles.",
+"sumerian": "niĝ2 gu erim2-ma dum-dam za"}
+,
+{"id": 533,
+"source": "",
+"english": "'Just-let-me-say-a-word' walks like feet. Who can rival a garrulous man?",
+"sumerian": "/inim\\ ga-ab-dug4 ĝiri3-bi-gin7 du-du[line] /ka\\ an-tuku-da a-ba-am3 mu-da-ab-sa2-e"}
+,
+{"id": 534,
+"source": "cf. 3.101",
+"english": "You speak to me -- and I will speak to you!",
+"sumerian": "[za-e ĝa2-ra] /dug4\\-ma-ab ĝe26-e za-a ga-ri-ib-dug4"}
+,
+{"id": 535,
+"source": "cf. 3.99",
+"english": "You speak with me and I speak with you.",
+"sumerian": "za-e ĝe26-e mu-de3-dug4[line] ĝe26-e za-e mu-de3-dug4"}
+,
+{"id": 536,
+"source": "",
+"english": "Fools are the ribcages of heroes.",
+"sumerian": "/ḫu\\-ru-um ti-ti ur-saĝ-e-ne"}
+,
+{"id": 537,
+"source": "",
+"english": "The fool is garrulous.",
+"sumerian": "ḫu-ru-um ka tuku"}
+,
+{"id": 538,
+"source": "cf. 6.1.07.73",
+"english": "The dog moves, the knife moves, but still my man does not move.",
+"sumerian": "ur im-di me2-er im-di[line] mu-lu-ĝu10 /ba\\-[ra-mu]-un-di"}
+,
+{"id": 539,
+"source": "cf. 6.1.28.26",
+"english": "Where there is no grain, this is a sign of vengeance turned towards a city. Where there are no reeds, it is the worst of all poverty.",
+"sumerian": "še nu-ĝal2-la šu iri-ki-ka[line] gi nu-ĝal2-la nam-ukur3-ra dirig-ga"}
+,
+{"id": 540,
+"source": "",
+"english": "Something offered is not offered. Something finished is not finished. Nothing changes.",
+"sumerian": "niĝ2 ga-til3 nu ga-til3 niĝ2 ba-til nu ba-til[line] niĝ2 nu-kur2-ra-am3"}
+,
+{"id": 541,
+"source": "",
+"english": "A vagrant flays the skin of an opened hand.",
+"sumerian": "zilulu šu ḫal-la ab-zil-zil"}
+,
+{"id": 542,
+"source": "MIN",
+"english": "The two of them are like one man.",
+"sumerian": "2-a-bi lu2 1(DIŠ)-gin7-nam"}
+,
+{"id": 543,
+"source": "",
+"english": "Were he to find where I put my rubbish heap, he would say: 'You shouldn't go there!'",
+"sumerian": "ki an-ba-ĝu10 e-ne in-pad3-de3[line] na-/an-ni-ib\\-dib-be2-en"}
+,
+{"id": 544,
+"source": "cf. 6.1.08.b7",
+"english": "Although it has never been there, the goat knows the wasteland.",
+"sumerian": "ud5-de3 nu-um-ĝen-na e2-ri-a an-zu"}
+,
+{"id": 545,
+"source": "cf. 6.1.22: ll. 19-20, 6.1.28.28, 6.2.3: UET 6/2 311 ll. 4-5",
+"english": "With my mouth I cool the hot soup for you. I pick the bones from the fish for you.",
+"sumerian": "ka-ĝu10 tu7 bil-la2 ma-ra-sed-de3-en[line] ku6-ta ĝiri3-pax(PAD)-ra2 ma-ni-ib-de5-de5-ge-en"}
+,
+{"id": 546,
+"source": "cf. 6.2.3: UET 6/2 311 l. 1",
+"english": "My mouth, every month I fill you, my mouth.",
+"sumerian": "ka-ĝu10 itid-da ka /ba?\\-da-si"}
+,
+{"id": 547,
+"source": "cf. 6.2.3: UET 6/2 311 ll. 2-3",
+"english": "My tongue, like a runaway donkey, will not turn back.",
+"sumerian": "eme-ĝu10 anše kar-ra-gin7 eĝer-bi-še3 nu-gi4-gi4"}
+,
+{"id": 548,
+"source": "",
+"english": "The ox standing in the fodder abandoned the calf to enter the pen.",
+"sumerian": "gud-de3 mur-ra gub[line] amar-ta e2-ubur-/ra\\ ba-ni-in-kur9"}
+,
+{"id": 549,
+"source": "cf. 6.1.19.g1",
+"english": "You may lift it all together but you will put it down in pieces.",
+"sumerian": "teš2-e ḫe2-il2-il2 za-e lag-ga ḫe2-dur2"}
+,
+{"id": 550,
+"source": "cf. 6.1.26.a8",
+"english": "When a man comes forward as a witness, saying: 'Let me tell you what I know about him', but does not know the relevant information, it is an abomination to Suen.",
+"sumerian": "niĝ2 zu-a-ni ga-ra-an-da-ab-be2[line] niĝ2 nu-zu-am3 lu2-ki-inim-ma ab-ta-e3[line] niĝ2-gig d.suen-na-kam"}
+,
+{"id": 551,
+"source": "",
+"english": "Flies enter an open mouth.",
+"sumerian": "ka ĝal2 taka4-a nim ba-an-ku4-ku4"}
+,
+{"id": 552,
+"source": "",
+"english": "Offerings create life.",
+"sumerian": "sizkur2-re nam-til3 i3-u3-tud"}
+,
+{"id": 553,
+"source": "",
+"english": "Punishment is assigned for the swaggerer; he is afflicted with diseases.",
+"sumerian": "sun7-na nam-tag al-ĝa2-ĝa2 a2-sag3 al-il2-il2"}
+,
+{"id": 554,
+"source": "",
+"english": "Let him go down.",
+"sumerian": "ḫe2-em-ta-ab-ed3-de3"}
+,
+{"id": 555,
+"source": "",
+"english": "You should hold a kid in your right arm, and a bribe in your left arm.",
+"sumerian": "a2 zid-da-zu maš2 ḫe2-da-ĝal2[line] gab2-bu-zu kadra ḫe2-da-ĝal2"}
+,
+{"id": 556,
+"source": "cf. 6.1.07.14",
+"english": "The manicurist is himself dressed in dirty rags.",
+"sumerian": "/umbin\\ ku5-/ru\\ tug2-mu-dur7-ra-am3 mur10"}
+,
+{"id": 557,
+"source": "cf. 5.4.01: l. 98",
+"english": "He came, he stayed a while; he finished, he did not stay put.",
+"sumerian": "/al\\-ĝen al-zal al-til ki nu-um-gub"}
+,
+{"id": 558,
+"source": "",
+"english": "My fingernail that hurts is clutched in my embrace. My foot that hurts is in my sandal. But who will find my aching heart?",
+"sumerian": "umbin gig-ga ur2-ra ĝal2-la-ĝu10[line] ĝiri3 gig-ga kuš-e-sir2 ĝal2-/la\\-ĝu10[line] šag4 gig-ga-ĝu10 a-ba-a ḫu-mu-un-pad3-de3"}
+,
+{"id": 559,
+"source": "",
+"english": "May Inana pour oil on my heart that aches.",
+"sumerian": "din.an.a-ke4 šag4 gig-ga-ĝu10 i3 ḫe2-eb-de2"}
+,
+{"id": 560,
+"source": "",
+"english": "The sail on the mast blocks the river.",
+"sumerian": "tug2 dim-gal-la-ke4 id2-da bi2-ib-uš2-e"}
+,
+{"id": 561,
+"source": "",
+"english": "May you find the response to an insult hurled at you in a dispute.",
+"sumerian": "du14-da in-na di-da inim-ma ḫe2-ri-ib-pad3-de3"}
+,
+{"id": 562,
+"source": "",
+"english": "If it is too sweet for him, let him eat salt. If it is not too sweet for him, let him eat licorice.",
+"sumerian": "an-na-dug3-ga mun ḫe2-gu7-e[line] nu-un-na-dug3-ga u2-munzer ḫe2-gu7-e"}
+,
+{"id": 563,
+"source": "cf. 6.2.3: UET 6/2 255",
+"english": "A man's personal god is a shepherd who finds pasturage for the man. Let him lead him like sheep to the food they can eat.",
+"sumerian": "/diĝir\\ lu2-ulu3 sipad u2 kiĝ2-ĝa2 lu2-ulu3-kam[line] udu-gin7 u2 gu7-a ḫe2-en-tum2-tum2-mu"}
+,
+{"id": 564,
+"source": "",
+"english": "As long as the boasters haven't departed, their mouths make me uneasy.",
+"sumerian": "en-na-bi-še3-am3 ka silim šum2-ma[line] nu-un-da-ab-da13-da13[line] ka-bi? igi niĝin2 ma-ab-tum2-/me?\\"}
+,
+{"id": 565,
+"source": "",
+"english": "The heavens were destroyed, the earth was shaken. After the heavens were destroyed and the earth was shaken, the people were still standing there on their own.",
+"sumerian": "an ba-gul-gul ki ba-sag3-sag3[line] an ba-gul ki ba-sag3-ga!-ta[line] lu2 ni2-bi-a ba-an-gub"}
+,
+{"id": 566,
+"source": "",
+"english": "The rigging is not ship-shape, and the stern is not seaworthy.",
+"sumerian": "us2-saĝ si nu-sa2 eĝer-bi nu-gen6-na"}
+,
+{"id": 567,
+"source": "",
+"english": "He who entered Elam -- his lips are sealed.",
+"sumerian": "elamki kur9-ra-am3 zu2-ni ba-da-keše2"}
+,
+{"id": 568,
+"source": "",
+"english": "He who has to live in Elam -- his life is not good.",
+"sumerian": "elamki /al?\\-til3-la-ni nu-dug3-ga"}
+,
+{"id": 569,
+"source": "cf. 6.1.07.95",
+"english": "Wheat and hulled barley was made to taste like honey. The nomad ate it and didn't recognise what was in it.",
+"sumerian": "gig gu2-nida lal3-gin7 ib2-ak[line] mar-tu i3-gu7-a niĝ2 šag4-bi nu-un-zu"}
+,
+{"id": 570,
+"source": "",
+"english": "He who keeps fleeing, flees from his own past.",
+"sumerian": "al-kar-kar-re eĝer-ra-ni al-/kar\\"}
+,
+{"id": 571,
+"source": "cf. 6.1.26.c9",
+"english": "The south wind got its sand into my eyes: 'Why do you strike me in the back?'",
+"sumerian": "u18-lu igi-ĝa2 saḫar-bi! in-sig9-ga[line] a-na-aš-am3 eĝer-ra mu-un-dub2-be2-en"}
+,
+{"id": 572,
+"source": "",
+"english": "Between the basket and the boat are the fields of Simurrum.",
+"sumerian": "gi-gur-ta ĝiš-ma2-še3?[line] a-šag4 si-mu-ur4-ru-umki"}
+,
+{"id": 573,
+"source": "",
+"english": "You keep walking around the storehouse like a pig with a morsel in its mouth.",
+"sumerian": "šaḫ2 tun3-pad ka ĝal2-la-gin7[line] ĝa2-nun am3-niĝin2-niĝin2-e-en"}
+,
+{"id": 574,
+"source": "",
+"english": "For him who is rejected by Inana, his dream is to forget.",
+"sumerian": "zag tag-ga din.an.a ĝeštug2 u18-lu ma-mu2-da-ka-ni"}
+,
+{"id": 575,
+"source": "",
+"english": "Whether it is roasted or not, you should sprinkle the grain.",
+"sumerian": "al-sa nu-sa ab-ta-dub-be2-en"}
+,
+{"id": 576,
+"source": "",
+"english": "It is characteristic of your harvesting, it is characteristic of your gleaning, that they say: 'He is gone, he is gone.'",
+"sumerian": "al-ur4-ur4-na-ka-nam[line] al-de5-de5-e-na-ka-nam[line] ba-an-ĝen ba-an-ĝen mu-ni-ib-be2-ne"}
+,
+{"id": 577,
+"source": "cf. 6.1.22: ll. 191-193, 6.1.28.27",
+"english": "'You should serve me' is typical of purification priests. Bowing over your hips is typical of leather-workers. To be stationed in all corners is typical of lukur women. 'I will be there with you' is typical of gardeners. 'I swear by Enki that your garments will take no time in this establishment' is typical of fullers.",
+"sumerian": "ḫa-ma-gub-be2-en gudug-e-ne[line] ḫaš2-za gur-ra ašgab-e-ne[line] ub-da an-gub lukur-e-ne[line] ga-ba-e-de3-gub nu-kiri6-ke4-[ne][line] zi den-ki i3-pad3 tug2-zu e2?-a ud ba-ra-zal-e lu2-azlag2-e-ne"}
+,
+{"id": 578,
+"source": "cf. 6.1.14.6, 6.1.16.c5, 6.1.22: ll. 172-175, 6.1.25.1",
+"english": "The day became cloudy but it did not rain. It rained, but not enough for people to undo their sandals. The Tigris was not surging at its inlet, so water did not fill the arable lands.",
+"sumerian": "ud al-šu2-šu2-ru im nu-šeĝ3-šeĝ3[line] im al-šeĝ3 kuš-e-sir2 nu-du8[line] id2-idigna-a ka-ba mu-un-zur-re[line] a-gar3-re nu-si-si"}
+,
+{"id": 579,
+"source": "cf. 3.3.07: ll. 5-7",
+"english": "In Eridug, built in abundance, the monkey sits with longing eyes in the singer's house.",
+"sumerian": "eri.dug.ki ḫe2-ĝal2-la du3-a-ba[line] uguugu4-bi e2 nar-ra-ka igi la2-bi al-tuš"}
+,
+{"id": 580,
+"source": "",
+"english": "Cream and milk are multiplied by an axe.",
+"sumerian": "i3 ga ĝiš-silig-ta ab-ta-šar2"}
+,
+{"id": 581,
+"source": "cf. 6.1.15.f7",
+"english": "Let the solitary one remain alone; he is forever treacherous.",
+"sumerian": "1(DIŠ)-bi 1(DIŠ) ḫe2-a igi-igi-bi an-di-ni-ib-kur2-kur2"}
+,
+{"id": 582,
+"source": "",
+"english": "The goat spoke in the manner of a wise old woman but acted in the manner of an unclean woman.",
+"sumerian": "ud5-de3 nam-um-ma ba-dug4 nam-u2-zug4 ib2-ak"}
+,
+{"id": 583,
+"source": "cf. 6.1.07.11, 1.8.2.1: l. 246",
+"english": "The clod on the one hand, the furrow on the other hand. And I am the third one there.",
+"sumerian": "1(DIŠ) lag 1(DIŠ) ab-sin2 ĝe26-e 3(EŠ5)-kam-ma-bi-me-en"}
+,
+{"id": 584,
+"source": "cf. 6.1.07.15",
+"english": "Let me drink beer shandy and sit in the seat of honour!",
+"sumerian": "kašbir(A.SUD)-a ga-naĝ zag gal-la ga-tuš"}
+,
+{"id": 585,
+"source": "cf. 6.1.07.16",
+"english": "Although it was not important to him, he attended the festival.",
+"sumerian": "nu-mu-na-kal ezem-ma ba-DU"}
+,
+{"id": 586,
+"source": "cf. 6.1.07.21",
+"english": "The time passed, and what did you gain?",
+"sumerian": "ud mu-e-ši-zal a-na-am3 šu mu-da!-/ti\\"}
+,
+{"id": 587,
+"source": "cf. 6.1.22: ll. 148-150",
+"english": "The figure is good. The father-in-law rejoices over it: 'It is just like a real person!'",
+"sumerian": "alan mu-sag9 ušbar7 mu-un-da-ḫul2[line] i-gi4-in-zu lu2-ulu3-am3"}
+,
+{"id": 588,
+"source": "",
+"english": "A good word is a friend to numerous men.",
+"sumerian": "inim dug3 gu5-li lu2 šar2-ra-ka"}
+,
+{"id": 589,
+"source": "?",
+"english": "A destructive word is four oxen yoked together.",
+"sumerian": "inim gul-la gud 4 la2-a"}
+,
+{"id": 590,
+"source": "",
+"english": "Putting unwashed hands to one's mouth is disgusting.",
+"sumerian": "šu nu-luḫ-ḫa ka-e tum3-da niĝ2-gig-ga-am3"}
+,
+{"id": 591,
+"source": "",
+"english": "May a clever farmer live at home with you.",
+"sumerian": "engar igi-ĝal2-la e2-a ḫu-mu-e-da-an-til3"}
+,
+{"id": 592,
+"source": "",
+"english": "My drink is a river. The place where I sleep is a place of reed mats.",
+"sumerian": "naĝ-ĝu10 id2-da ki-nu2-ĝu10 ki-kid-am3"}
+,
+{"id": 593,
+"source": "",
+"english": "The gecko wears a tiara.",
+"sumerian": "muš-da-gur4-e suḫ am3-keše2-keše2"}
+,
+{"id": 594,
+"source": "cf. 6.1.02.161, 6.1.25.8",
+"english": "'I'm going home' is what he prefers.",
+"sumerian": "e2-še3 ga-ĝen-na saĝ a-ab-kal"}
+,
+{"id": 595,
+"source": "cf. 6.1.07.79",
+"english": "The sun never leaves my heart, which surpasses a garden.",
+"sumerian": "šag4-ĝu10 ĝiš-kiri6 ḫa-ra-dirig-ga[line] d-utu nu-um-ta-e3"}
+,
+{"id": 596,
+"source": "cf. 6.1.04.4, 6.1.22: l. 189, 6.2.4: VAT 21604 (+21605 Seg. B l. 2)",
+"english": " He holds up the sky, letting the earth dangle from his hands.",
+"sumerian": "an gur3-ru ki! šu-ni-še3! la2-a"}
+,
+{"id": 597,
+"source": "",
+"english": "The muš barley is reserved for the necromancer.",
+"sumerian": "še muš5 niĝ2-gig lu2-gidim-ma-ka"}
+,
+{"id": 598,
+"source": "",
+"english": "Wheat flour is sacred to his god.",
+"sumerian": "/zid2\\-gig niĝ2-gig diĝir-ra-na-ka"}
+,
+{"id": 599,
+"source": "cf. 6.1.25.13, 6.1.26.a10, 6.2.5: BM 57994 Seg. A ll. 1-3",
+"english": "If a man sailing downstream says 'Give way!' (?) -- if the hand touches a woman's genitals over her clothes -- it is an abomination to Suen.",
+"sumerian": "lu2 ĝiš-ma2 dirig-ga niĝ2 kab2?-a di-da[line] ugu? /tug2\\-ga gal4-la šu dug4-ga[line] niĝ2-gig d.suen-na-/ka\\"}
+,
+{"id": 600,
+"source": "",
+"english": "Carrying bread to the oven whilst singing is an abomination to Inana.",
+"sumerian": "im.šu-rin-na šir3-ra ninda al-/tum3?-mu\\[line] niĝ2-gig din.an.a-ka"}
+,
+{"id": 601,
+"source": "?",
+"english": "The sheep is shrouded in wickedness for him.",
+"sumerian": "e-ze2 niĝ2-erim2-e an-na-ra-ab-dul"}
+,
+{"id": 602,
+"source": "",
+"english": "If the sieve is not shaken, his flour will not drop from it.",
+"sumerian": "gišag4-sur nu-ub-/ra-aḫ\\-a zid2-ni nu-šub-be2"}
+,
+{"id": 603,
+"source": "",
+"english": "Coveting and (reaching out for things) ( spying) are abominations to Ninurta.",
+"sumerian": "igi-tum3 la2 (gid2-i-da) ( igi du8) niĝ2-gig d-nin-urta-ke4"}
+,
+{"id": 604,
+"source": "",
+"english": "I am confronting Fate: 'Speak in the way of a just man, or speak in the way of a wicked man, it makes no difference.'",
+"sumerian": "nam-tar-re gaba-ri-me-en[line] zid-du dug4-ga-ab erim2-du dug4-ga-ab"}
+,
+{"id": 605,
+"source": "cf. 6.2.2: MDP 27 89, 6.2.3: UET 6/2 322 l. 3",
+"english": "What comes out of one's mouth is not in one's hand.",
+"sumerian": "ka-ta ḫe2-ĝal2 šu-a nu-ĝal2"}
+,
+{"id": 606,
+"source": "cf. 6.1.07.77",
+"english": "He said: 'Woe!' and the boat sank with him. He said: 'Alas!' and the rudder broke.",
+"sumerian": "u3-u8-a bi2-in-dug4 ĝiš-ma2 ba-da-an-su[line] a-la-la bi2-in-dug4 gi-muš ba-da-an-ḫaš"}
+,
+{"id": 607,
+"source": "cf. 6.1.07.90",
+"english": "He is walking around despite his wounded neck.",
+"sumerian": "[gu2] zu-ḫu-ul-la-ni-ta du-du-a"}
+,
+{"id": 608,
+"source": "cf. 6.1.07.91",
+"english": "He turns things upside down.",
+"sumerian": "/gu2\\ bal gu2 ki-ta al-ak-e"}
+,
+{"id": 609,
+"source": "cf. 6.1.07.92",
+"english": "He devours things as crows do a field.",
+"sumerian": "a-šag4 buru4-mušen-gin7 zu2 e-da-ra-aḫ"}
+,
+{"id": 610,
+"source": "cf. 6.1.07.105",
+"english": "A free weaver equals (two slave girls) ((1 ms. has instead:) one slave girl). A free worker equals (three) ((1 ms. has instead:) two) slaves.",
+"sumerian": "uš-bar du8-a geme2 (2(MIN)-a-bi) ((1 ms. has instead:) 1(DIŠ)-a-bi) uĝ3-il2 du8-a arad (3(EŠ5)-a-bi) ((1 ms. has instead:) 2(MIN)-a-bi)"}
+,
+{"id": 611,
+"source": "cf. 6.1.07.45",
+"english": "My mouth enables me to rival other men.",
+"sumerian": "/ka\\-ĝu10 lu2 mu-da-ab-sa2-e"}
+,
+{"id": 612,
+"source": "",
+"english": "What is this after you split it? And this after you split it?",
+"sumerian": "a-na-am3 ne-e um-bar-bar-re-zu[line] u3 ne-e /um\\-bar-bar-re-zu"}
+,
+{"id": 613,
+"source": "cf. 6.1.07.99",
+"english": "When present, it was considered a loincloth; when lost, it is considered fine clothing.",
+"sumerian": "al-ĝal2 tug2-niĝ2-dara2-am3[line] u2-gu ba-an-/de2 \\ tug2-ga-am3"}
+,
+{"id": 614,
+"source": "cf. 6.2.5: YBC 7347",
+"english": "If the leader is being devoured by a fire, those behind him don't say: 'Where is the leader?'",
+"sumerian": "lu2 dub-saĝ-ĝa2 izi al-gu7-e[line] nu-ub-be2 lu2 eĝer-ra me-a lu2 dub-saĝ-ĝa2"}
+,
+{"id": 615,
+"source": "?",
+"english": "To call out from among the people.",
+"sumerian": "erin2-ta gu3 de2-de2"}
+,
+{"id": 616,
+"source": "SUKUD",
+"english": "Unique: a tall pot and a shouting statue.",
+"sumerian": "1 dug sukux-ra2 alan gu3 de2-de2"}
+,
+{"id": 617,
+"source": "",
+"english": "What is placed in the fire has a valuable role to play but leaves nothing behind when it's gone.",
+"sumerian": "niĝ2 izi sig9 me i3-kal-kal-am3 eĝer-ra-bi na"}
+,
+{"id": 618,
+"source": "?",
+"english": "Half a shekel is half a shekel wherever you go ; discarded, it is a shekel belonging to the place of wild cattle and serpents.",
+"sumerian": "/MAŠ\\ giĝ4 MAŠ giĝ4 ki im-du-a-kam[line] šub giĝ4 ki am muš-a-kam"}
+,
+{"id": 619,
+"source": "cf. 6.1.03.167, 6.1.22: l. 189, 6.2.4: VAT 21604 (+21605 Seg. B l. 2) ",
+"english": "He holds up the sky, letting the earth dangle from his hands.",
+"sumerian": "an an-guru3 ki šu-ni-še3 an-la2"}
+,
+{"id": 620,
+"source": "cf. 6.2.4: VAT 21604 (+21605 Seg. B l. 4) ",
+"english": "He bears the responsibility for it.",
+"sumerian": "šul-a-lum-bi al-il2-il2"}
+,
+{"id": 621,
+"source": "cf. 6.2.4: VAT 21604 (+21605 Seg. B l. 7) ",
+"english": "As a provisioner, I will come down upon those who speak proudly (?).",
+"sumerian": "u2-a-gin7 saĝ-gu2-ne-ka-ra ba-e-a-ed3-de3-de3-en"}
+,
+{"id": 622,
+"source": "",
+"english": "All day long, oh penis, you ejaculate as if you have blood inside you, and then you hang like a damp reed.",
+"sumerian": "ud šu2-uš ĝiš3-e a ab-ra-an[line] uš2 šag4-ba-gin7 gi duru5-a ab-la2-en"}
+,
+{"id": 623,
+"source": "cf. 6.2.4: VAT 21604 (+21605 Seg. B ll. 5-6) ",
+"english": "He who was the capturer of someone's assassin became his opponent.",
+"sumerian": "lu2 ga-šum dab5-ba-ni al-me-a lu2 du14-da-ka-na ba-an-kur9"}
+,
+{"id": 624,
+"source": "cf. 6.2.4: VAT 21604 (+21605 Seg. B ll 8-13) ",
+"english": "The north wind is a satisfying wind; the south wind is harmful (?) to man. The east wind is a rain-bearing wind; the west wind is greater than those who live there. The east wind is a wind of prosperity, the friend of Naram-Suen.",
+"sumerian": "tum9-si-sa2 tum9 si-am3 tum9-u18-lu lu2-bi sig10-ga-am3[line] tum9-sa12-ti-um tum9 šeĝ14-ĝa2 tum9-mar-tu lu2 til3-ba dirig-ga[line] tum9-sa12-ti-um tum9 ḫe2-ĝal2-la gu5-li d-na-ra-am-d.suen"}
+,
+{"id": 625,
+"source": "",
+"english": "Why should someone who knows something conceal it?",
+"sumerian": "niĝ2 zu a-na-aš ḫe2-en-de3-šu2"}
+,
+{"id": 626,
+"source": "?",
+"english": "My intelligence has dug the ground; you will not find what I have lost!",
+"sumerian": "dim3-ma-ĝu10 ki na-/aĝ2\\-ba-al[line] aĝ2 u2-gu de2-a-ĝu10 nu-ub-pad3-de3-en"}
+,
+{"id": 627,
+"source": "",
+"english": "A goat can be made to go down into water; in beer it becomes stuck.",
+"sumerian": "/maš2\\ a-a lu2 ba-ni-in-ed3-de3 kaš-a su-bur2"}
+,
+{"id": 628,
+"source": "",
+"english": "Oh little one who is no longer consuming milk, your mother is a wild cow yielding beer.",
+"sumerian": "lu2-tur ga nu-un-/da\\-gu7-a ama-zu sumun2 kurun-a"}
+,
+{"id": 629,
+"source": "",
+"english": "He could not overcome his fears, so he cut off what was fuelling them.",
+"sumerian": "/ni2?\\ teĝ3-ĝa2-ni nu-/ub\\-da-an-til niĝ2-/gu7\\ ab-ta-kud"}
+,
+{"id": 630,
+"source": "",
+"english": "The riverbank should rejoice as though there were a flood. Enlil should rejoice as though the Tigris were at high water.",
+"sumerian": "[a] /zig3\\-ga-gin7 peš10 ḫe2-da-ḫul2[line] id2-idigna a-u3-ba ĝal2-la-/gin7\\ den-lil2 ḫe2-da-ḫul2"}
+,
+{"id": 631,
+"source": "cf. 5.6.1: ll. 209-211",
+"english": "I want to get hold of borrowed clothes, borrowed linen and borrowed lapis lazuli.",
+"sumerian": "[tug2 ḫuĝ]-/ĝa2\\-am3 gada ḫuĝ-/ĝa2-am3\\[line] za-<gin3> ḫuĝ-ĝa2-am3 šu ḫe2-ma-ĝal2"}
+,
+{"id": 632,
+"source": "",
+"english": "Left-over clothes are the share of the slave-girl's child; they will fall off her and became nothing but chaff.",
+"sumerian": "tug2 ib2-/taka4\\ ḫa-la dumu geme2-kam[line] ib2-ta-šub in-bul-bul-a bi2-in-ak"}
+,
+{"id": 633,
+"source": "",
+"english": "The prosopis plant is how a witness should be: fruit pods come forth from it.",
+"sumerian": "ĝiš-kiši16 nam-lu2-inim-ma[line] ḫarub-ba-am3 im-ta-e3-a"}
+,
+{"id": 634,
+"source": "",
+"english": "A heart which does not know accounting -- is that a wise heart?",
+"sumerian": "šag4 niĝ2-kas7 nu-zu /šag4 igi\\-ĝal2-tuku"}
+,
+{"id": 635,
+"source": "",
+"english": "He who ploughs the fields should plough the fields; he who harvests grain should harvest grain.",
+"sumerian": "lu2 a-šag4 ur11-ru-ke4 a-šag4 ḫe2-ur11-ru[line] lu2 še šu su-ub-bu-da-ke4 še šu /ḫe2\\-eb-su-ub-be2"}
+,
+{"id": 636,
+"source": "?",
+"english": "Its mouth, like a seal , is half; its anus is the place amongst the grass where boats are pulled from the water.",
+"sumerian": "ka-bi kišib-gin7 MAŠ-am3 bid3-bi u2-a ma3-ur3-am3"}
+,
+{"id": 637,
+"source": "",
+"english": "After the serpent has been caught for him, he himself casts the incantation.",
+"sumerian": "muš un-na-dab5 e-ne ka-inim-ma ba-ab-šum2-mu"}
+,
+{"id": 638,
+"source": "",
+"english": "What is it, a sheep? What is it, a stag?",
+"sumerian": "/ta\\-am3 u8-am3 ta-am3 a-a-lum-am3"}
+,
+{"id": 639,
+"source": "?",
+"english": "What are the dreams of a slave girl? What are the prayers of a striving slave?",
+"sumerian": "[ta]-/am3\\ ma-mu2 gi4-in-na-kam[line] ta-am3 sizkur2 e-re sig10 ki-in-na-kam"}
+,
+{"id": 640,
+"source": "?",
+"english": "[line] line unclear#Let my gifts never cease in the presence of his god.",
+"sumerian": "[X] X e-da-/gu7?\\ til-e-da-gin7[line] niĝ2 šu dug4-ga-ĝu10 ki diĝir-ra-na nam-ba-e-til-en"}
+,
+{"id": 641,
+"source": "cf. 6.1.02.126, 6.1.11.131",
+"english": "Says the man lying on the roof to the man living in the house: 'It is too bright up here!'",
+"sumerian": "lu2 ur3-ra-ke4 lu2 /e2\\-[a til3-la]-/ka?\\[line] /mu\\-[na]-/ab\\-be2-a im-ma-zalag-ge-e-še"}
+,
+{"id": 642,
+"source": "?",
+"english": "The lion is tied up with that of which his own house is made.",
+"sumerian": "piriĝ-e e2 ni2-te-na-ka-da du3-a /ab\\-la2-la2"}
+,
+{"id": 643,
+"source": "",
+"english": "That which the thief has taken was made by an honest man.",
+"sumerian": "lu2-IM ib2-dab5?-ba lu2 gen6-na ba-/an\\-dim2"}
+,
+{"id": 644,
+"source": "",
+"english": "To appreciate the earth is for the gods; I am merely covered in dust.",
+"sumerian": "ki ab-/kal diĝir\\-ra-kam saḫar-ra-am3 bi2-ib2-šu2-šu2-un"}
+,
+{"id": 645,
+"source": "",
+"english": "In respect of both expenditures and capital goods, the anus is well supplied.",
+"sumerian": "zig3-ga saĝ-niĝ2-gur11-ra-ka bid3 ab-gu5-ul"}
+,
+{"id": 646,
+"source": "",
+"english": "Bitterness afflicted the anus; but it entered by way of the mouth.",
+"sumerian": "nam-sis-a bid3 ib-ra ka ba-an-kur9"}
+,
+{"id": 647,
+"source": "",
+"english": "The anus breaks wind; talking produces excessive words.",
+"sumerian": "gu-du-/e?\\ še10 dur2-e dug4-ge /inim dirig\\-ge am3-ta-ab-tum3"}
+,
+{"id": 648,
+"source": "?",
+"english": "(The elephant spoke to himself: 'There is nothing like me among all the creatures of Šakkan!' The wren answered him: 'But I, in my own small way, was created just as you were!') ((1 ms. has instead:) The elephant spoke to himself: 'Among all the creatures of Šakkan, the one that can defecate like me has yet to be created!' The wren answered him: 'But I, in my own small way, can defecate just as much as you!')",
+"sumerian": "am-si /ni2-te\\-a-ni /maš2\\-[anše dšakkan2-ka][line] niĝ2 ĝe26-gin7-nam nu-ĝal2 na-[ab-be2-a][line] an-ti-ri2-gu7-mušen-e mu-/na\\-[ni-ib-gi4-gi4][line] u3 ĝe26-e igi-te-en-ĝu10-še3[line] za-a-gin7-nam al-dim2-me-en-/e-še\\#)#(#(instead of lines 1-5, 1 ms. has:)#A. am-si ni2-ta-na maš2-anše dšakkan2-ka (um-ma pi-ru-um i-na ra-ma-ni-ša i-na bu-ul ša-am-ka-an)#B. niĝ2 ĝe26-gen6-na-am al-di-me-en nu-ĝal2 na-ab-be2-a (ša ki-ma ia-ti-ma zu-u2 u2-ul i-ba-ši)#C. al-ti-ri2-gu mu-na-ni-ib-gi4-gi4 (si-pi-di-qa2-ar i-ip-pa-al)#D. u3 ĝe26-e i-gi4-ten-ĝu10-uš (u3 a-na-ku ki-ma ka-a-ti)#E. za-a-gen6-nam al-di-me-en-e-še (a-na ma-na-ti-ia-ma ze2-a-ku)#)"}
+,
+{"id": 649,
+"source": "",
+"english": "(You go like an elephant to raise a sunken boat.) ( An elephant is led to a sunken boat to raise it.)",
+"sumerian": "(am-si-gin7 ma2 su-a ed3-de3-de3 im-du-de3-en) ( am-si ma sa-a e-de-de-en im-tu-mu-un-e-še (pi-ra a-na i-li-pi 6D;e-bi-tim a-na šu-li-i i-re-ed-du-u2))"}
+,
+{"id": 650,
+"source": "cf. 6.1.03.14",
+"english": "The wild bull is taboo for the plough.",
+"sumerian": "am-e niĝ2-gig apin-na-kam"}
+,
+{"id": 651,
+"source": "",
+"english": "'Like the wild bull, you only do what pleases you.'",
+"sumerian": "am-gin7 nam-sag9-ga ni2-zu-ka al-sag9-ge-en-e-še"}
+,
+{"id": 652,
+"source": "",
+"english": "The wild bull wanders about amid the rushes.",
+"sumerian": "am-e u2-numun2 al!-ni10-ni10-e"}
+,
+{"id": 653,
+"source": "?",
+"english": "The wild bull is free from the plough .",
+"sumerian": "am-e ĝiš-apin-na du8-du8-u3"}
+,
+{"id": 654,
+"source": "",
+"english": "An ox will catch you in your path.",
+"sumerian": "gud-de3 ĝiri3-zu-a al-dab5-be2-en"}
+,
+{"id": 655,
+"source": "",
+"english": "Like an ox, you do not know how to turn back.",
+"sumerian": "gud-gin7 a-ga gur-ra nu-e-zu"}
+,
+{"id": 656,
+"source": "",
+"english": "The dog snarls at an ox scrubbed with soap.",
+"sumerian": "gud naĝa dub2-ba-še3 ur-gir15-re ka-bi al-du8-du8-u3"}
+,
+{"id": 657,
+"source": "",
+"english": "The ox has been tamed; its tamers are great.",
+"sumerian": "gud a2 la2-am3 lu2 a2 la2-bi an-gu-lu-uš"}
+,
+{"id": 658,
+"source": "cf. 6.1.02.86, 6.1.26.d6",
+"english": "The furrows seem pleasant to an ox on the threshing floor.",
+"sumerian": "[gud sur12-ra ab-sin2-bi] al-sag9-sag9"}
+,
+{"id": 659,
+"source": "",
+"english": "From so many oxen, is there no dung?",
+"sumerian": "gud šar2-ra šurum-bi nu-/ĝal2\\-[la-am3]"}
+,
+{"id": 660,
+"source": "",
+"english": "If you make the oxen multiply, you may collect their dung.",
+"sumerian": "gud al-lu-lu-un šurum-bi al-de5-de5-ge-/en\\"}
+,
+{"id": 661,
+"source": "",
+"english": "O ox, you wander about in the street like a commissioner.",
+"sumerian": "gud šabra-gin7 sila-a al-ni10-ni10-en"}
+,
+{"id": 662,
+"source": "",
+"english": "The owner of an ox is also happy at being the emissary at the city gate.",
+"sumerian": "gud lugal-bi in-ga-ḫul2 sukkal abul-la-kam"}
+,
+{"id": 663,
+"source": "",
+"english": "The cow jumps to her heart's content, but she does not gore.",
+"sumerian": "ab2-/e šag4\\ gen6-na-ni-ta mu-gud si nu-ub-tu11"}
+,
+{"id": 664,
+"source": "",
+"english": "O cow, like a cat you walk behind the man carrying the food basket.",
+"sumerian": "ab2 /su?-a-gin7 eĝer lu2 gi?\\-gur-da-ka al-du-un"}
+,
+{"id": 665,
+"source": "",
+"english": "No one will give away even a barren cow for nothing.",
+"sumerian": "/ab2\\ šag4-/sug4-ga\\-bi /lu2\\ na-me šu nu-bar-re"}
+,
+{"id": 666,
+"source": "",
+"english": "Like a cow that has not given birth, you are looking for a calf of yours that does not exist!",
+"sumerian": "ab2 u3-nu-tud-/da\\-gin7 amar-za nu-me-a mi-ni-ib-/kiĝ2-kiĝ2\\-e-en"}
+,
+{"id": 667,
+"source": "",
+"english": "The cow walks in the marsh, the calf on the dry ground.",
+"sumerian": "ab2-e ambar-ra /amar-e\\ bar-rim4-ma in-dib"}
+,
+{"id": 668,
+"source": "",
+"english": "Like a horse you paw the ground where you drink.",
+"sumerian": "anše-kur-gin7 i3-/ḫur\\-en i3-naĝ-zu"}
+,
+{"id": 669,
+"source": "cf. 6.2.3: UET 6/2 287",
+"english": "The horse, after throwing off his rider, said: 'Were my load to be like this forever, how weak I would become!'",
+"sumerian": "anše-kur lu2 u5-a-ni u3-mu-ni-in-šub[line] tukum-bi gu2-un-ĝu10 da-ri2-še3[line] ne-en-nam al-sig-en-e-še"}
+,
+{"id": 670,
+"source": "cf. 6.2.3: UET 6/2 283",
+"english": "The donkey, after he had thrown off his packs, said: 'Now I can forget the burdens of former days!'",
+"sumerian": "anše barag la2-a-ni u3-mu-ni-in-šub[line] /du\\-lum ud-bi-ta ĝeštug2-ĝa2 ba-an-u18-lu-un-e-še"}
+,
+{"id": 671,
+"source": "cf. 6.2.3: UET 6/2 315",
+"english": "While the donkey was swimming in the river, the dog was busy gathering food: 'When will he climb out and eat?'",
+"sumerian": "/anše\\ id2-da al-dirig-dirig-ge-ma ur-gir15-re šu ba-ši-ib-de5-de5[line] [me]-/na\\-am3 al-ed3-de3 al-gu7-e-še"}
+,
+{"id": 672,
+"source": "",
+"english": "He who rents a donkey for a whole year kindles a fire in the moonlight.",
+"sumerian": "anše mu du3-u3-bi a2 bal-e[line] iti6-/ka\\ izi mu-ni-in-/sag3\\-ge"}
+,
+{"id": 673,
+"source": "cf. 6.2.3: UET 6/2 236",
+"english": "Make the donkey sit like this! Make it lift its shrivelled penis!",
+"sumerian": "anše ne-eš2-am3 tuš-ma-ab ĝiš3 pir2-bi il2-il2-ni-ib"}
+,
+{"id": 674,
+"source": "",
+"english": "A donkey is being used to transport one shekel of silver.",
+"sumerian": "anše kug 1 giĝ4-e bal-še3 i3-ak-e"}
+,
+{"id": 675,
+"source": "cf. 6.2.3: UET 6/2 234",
+"english": "Using a donkey in place of sheep will not provide you with an omen.",
+"sumerian": "anše bar udu ḫi-a-ka ĝiš-kim nu-mu-e-da-tuku"}
+,
+{"id": 676,
+"source": "cf. 6.2.3: UET 6/2 212",
+"english": "The lion had caught a helpless she-goat: 'Let me go! I will give you my fellow ewe in return!' 'If I am to let you go, tell me your name!' The she-goat answered the lion: 'You do not know my name? 'I-am-cleverer-than-you' is my name!' When the lion came to the fold, (he) ((1 ms. has instead:) the lion) cried: 'I release you!' She answered him from the other side: 'You released me, but were you clever? As for the sheep, none live here!'",
+"sumerian": "ur-maḫ-e ud5 ḫu-nu-a u3-mu-ni-in-dab5[line] šu ba-am3 u8 tab-ba-ĝu10 gur-ra ga-mu-ra-ab-šum2[line] tukum-bi šu mu-ri-bar-re mu-zu dug4-ma-ab[line] ud5-de3 ur-maḫ-e mu-na-ni-ib-gi4-gi4 za-e mu-ĝu10 nu-e-zu[line] umun2 mu-e-da-ak-e mu-ĝu10-um[line] ud ur-maḫ-e e2-tur3-še3 i-ĝen-na[line] ((1 ms. adds:) ur-/maḫ-e\\) mu-e-bur2-e-en gu3 al-de2-de2-e[line] e-ne gu2-re-ta mu-un-na-ni-ib-gi4-gi4[line] mu-e-bur2-e-en umun2 mu-e-ak bar udu ḫi-a-ka nu-dur2-ru-na-e-še"}
+,
+{"id": 677,
+"source": "",
+"english": "When the lion came to the sheepfold, there was a dog wearing a leash of spun wool.",
+"sumerian": "ud ur-maḫ-e e2-tur3-še3 ur-gir15-re eš2 siki sur-ra i3-mur10"}
+,
+{"id": 678,
+"source": "cf. 6.2.3: UET 6/2 211",
+"english": "When the lion caught a wild boar, he roared: 'Your flesh has not yet filled my mouth, but your squeals have deafened my ears!'",
+"sumerian": "ur-maḫ-e šaḫ2 ĝiš-gi4 u3-mu-ni-in-dab5[line] e-ne gu3 mu-ra-ra-ra[line] en-na-bi-še3-am3 uzu-zu ka-ĝu10 nu-mu-ni-in-si[line] za-pa-aĝ2-zu ĝeštug2-ĝu10 u2 ba-ni-in-ḫub2-e-še"}
+,
+{"id": 679,
+"source": "",
+"english": "A lion having fallen into a trap, a fox came up to him and said: 'I'll take your sandals home to the other side for you!'",
+"sumerian": "ur-maḫ-e pu2 niĝ2 ĝiri3-a-ka u3-mu-ni-in-šub[line] ka5-a ugu-bi-še3 u3-um-ĝen-ma kuš-e-sir2-zu[line] gu2?-še3 e2-še3 mu-e-ši-tum3-mu-un-e-še"}
+,
+{"id": 680,
+"source": "cf. 6.2.3: UET 6/2 208 l. 1",
+"english": "O lion, your allies in the reedbeds are numerous.",
+"sumerian": "ur-maḫ-e a2-taḫ-zu ĝiš-gi-a lu-lu-am3"}
+,
+{"id": 681,
+"source": "cf. 6.2.3: UET 6/2 208 l. 2",
+"english": "In the reedbeds the lion does not eat his acquaintance.",
+"sumerian": "ur-maḫ-e ĝiš-gi-a lu2 zu-a-ni nu-ub-gu7"}
+,
+{"id": 682,
+"source": "",
+"english": "The lion who lives a life of compassion will receive it.",
+"sumerian": "ur-maḫ-e šag4-ne-ša4 im-til3?-la šu ba-ab-teĝ3-/ĝe26?\\"}
+,
+{"id": 683,
+"source": "",
+"english": "When a lion roars, one says: 'Don't drop your food!'",
+"sumerian": "ur-maḫ-e gu3 u3-mu-un-ra-ra[line] niĝ2-gu7-zu nam-ba-šub-be2-en"}
+,
+{"id": 684,
+"source": "",
+"english": "Is the lion accustomed to eating that which is milled?",
+"sumerian": "ur-maḫ-e niĝ2-ar3-ra al-gu7-e"}
+,
+{"id": 685,
+"source": "",
+"english": "Is the lion accustomed to performing the brewers' craft?",
+"sumerian": "ur-maḫ-e /nam\\-lu2-kurun-na /al\\-ak-e"}
+,
+{"id": 686,
+"source": "",
+"english": "If the lion heats the soup, who would say 'It is no good'?",
+"sumerian": "ur-maḫ-e tu7 mu-un-kum2[line] a-ba nu-dug3-ga ab-be2-e-še"}
+,
+{"id": 687,
+"source": "MAN",
+"english": "No-one walks for a second time at the place where a lion has eaten a man.",
+"sumerian": "ki ur-maḫ-e lu2 in-gu7-a[line] 2-kam-ma-še3 lu2 na-me nu-dib2-be2"}
+,
+{"id": 688,
+"source": "",
+"english": "He eats meat in the presence of a lion.",
+"sumerian": "igi ur-maḫ-a-ka uzu al-gu7-e"}
+,
+{"id": 689,
+"source": "Alster 1997 5 Vers. B 69",
+"english": "Were a lion to approach him, you would chase only the wolf away!",
+"sumerian": "ur-maḫ a-ne u3-bi2-te[line] ur-bar-ra mi-ni-ib2-sar-re-en"}
+,
+{"id": 690,
+"source": "Alster 1997 5 Vers. A 70 = 5 Vers. B 76",
+"english": "You should not eat the flesh of a wolf. ((Vers. B adds:) Let me subdue it with all my might.)",
+"sumerian": "uzu ur-bar-ra nam-mu-ni-gu7#(#(Vers. B adds 1 line:)[line]A. maḫ-e ga-ba-an-gam#)"}
+,
+{"id": 691,
+"source": "Alster 1997 5 Vers. B 70",
+"english": "Loving the lion's fish (?), he did not know how to cut it (?).",
+"sumerian": "ku6 ur-maḫ X ki aĝ2 kud-de3 nu-ub-zu"}
+,
+{"id": 692,
+"source": "Alster 1997 5 Vers. A 71 = 5 Vers. B 74",
+"english": "Nine wolves having caught 10 sheep, there was one too many and they did not know how to share out the portions. A fox came along and said: 'Let me allocate the portions for you! The nine of you take one sheep. I by myself shall take nine -- this shall be my share!'",
+"sumerian": "ur-bar-ra 9-bi 10-am3 udu ḫi-a u3-mu-ni-in-dab5[line] 1(DIŠ)-am3 ab-si-am3 ḫa-la-be2-ne nu-/ḫa\\-la-a[line] ka5-a ugu-bi-še3 u3-un-ĝen[line] ĝe26-e ga-mu-e-ne-ḫa-la[line] 9 za-e-en-ze2-en 1(DIŠ)-am3 šu te-ba-ab-ze2-en[line] ĝe26-e dili-ĝu10-ne 9 šu ga-ba-ab-ti[line] ne-e ḫa-la šag4-ĝu10-e-še"}
+,
+{"id": 693,
+"source": "Alster 1997 5 Vers. B 71",
+"english": "Imagine a wolf is eating. Utu looks down on it and says: 'Provided you praise me you will grow fat' would be the reply.",
+"sumerian": "ur-bar-ra ḫe2-gu7(source: KA)-e d-utu igi i-bi2-in-du8[line] en-na teš2 i-i-X[line] i3-buluĝ3-e-še"}
+,
+{"id": 694,
+"source": "Alster 1997 5 Vers. B 72",
+"english": "While the wolf sat stuck in a trap, he said to Utu: 'When I come out, let me henceforth eat no more sheep. When I am hungry, the sheep I've taken, whatever you mention -- what will they mean to me? I shall be bound by a righteous oath. -- Now, what can I eat?'",
+"sumerian": "ur-/bar\\-ra ĝiš-es2-ad u3-/mu\\-mi-in-tuš[line] d-utu-ra an-na-ab-be2 i-im-ta-ed2-de3-en[line] a-da-al-ta sila4 na-an-gu7-e-en[line] ud šag4-ĝar an-tuku sila4 šu ba-ni-in-ti-a[line] niĝ2 mu-e-dug4-ga-zu a-na ma-nam[line] mu zid-ĝu10-a i-ni-dug4-ga[line] DU ĝe26-e a-na ga-gu7-e-še"}
+,
+{"id": 695,
+"source": "Alster 1997 5 Vers. A 73 = 5 Vers. B 73",
+"english": "The wolf wept before Utu: 'The animals frisk around together, but I am all alone.'",
+"sumerian": "ur-bar-ra d-utu-ra er2 /i3\\-še8-še8 maš2-anše ba-du7-du7[line] ĝe26-e dili-ĝu10-ne-e-/še\\"}
+,
+{"id": 696,
+"source": "Alster 1997 5 Vers. B 75",
+"english": "The shepherd cannot increase his flock where the wolf takes sheep.",
+"sumerian": "ki ur-bar-ra sila4 in-kar-ra[line] sipad-de3 udu nu-mu-ni-lu-lu"}
+,
+{"id": 697,
+"source": "",
+"english": "To a dog a dream is a joy.",
+"sumerian": "ur-gir15 maš2-ĝi6 mud5-am3"}
+,
+{"id": 698,
+"source": "",
+"english": "A dog entered a tavern and said: 'I can't see a thing. I'll open this one!'",
+"sumerian": "ur-gir15-re eš2-dam-še3 in-kur9-ma[line] niĝ2 na-me igi nu-mu-un-du8[line] ne-en ĝal2 taka4-en-e-še"}
+,
+{"id": 699,
+"source": "cf. 6.2.3: UET 6/2 264",
+"english": "A dog said to his master: 'If my pleasure is of no importance to you, then my loss should not be either!'",
+"sumerian": "ur-gir15 lugal-a-ni-ir na-ab-be2-a[line] tukum-bi nam-sag9-ga-ĝu10 ba-ra-ĝal2[line] i-bi2-za-ĝu10 nu-ra-ĝal2-e-še"}
+,
+{"id": 700,
+"source": "cf. 6.2.3: UET 6/2 231 ll. 1-2",
+"english": "The dog does not let me sit down in his master's house.",
+"sumerian": "ur-gir15-re e2 lugal-la-na-ka nu-dur2-ru-un"}
+,
+{"id": 701,
+"source": "cf. 6.2.3: UET 6/2 225",
+"english": "The dog understands 'Take it!', but it does not understand 'Put it down!'",
+"sumerian": "ur-gir15-re šu te-ba-ab mu-un-zu[line] ĝa2-ĝa2 nu-un-zu"}
+,
+{"id": 702,
+"source": "?",
+"english": "The dog recognises a man who loves him; as the dog is judge, so its tail acts as commissioner!",
+"sumerian": "ur-gir15-re lu2 ki aĝ2-bi mu-un-zu[line] ur di-kud-dam kun-bi maškim /ak?\\"}
+,
+{"id": 703,
+"source": "PAD",
+"english": "The dog gnawing on a bone says to his anus: 'This is going to hurt you!'",
+"sumerian": "ur ĝiri3-pax-ra2 al-tukur2?-re?[line] gu-du-ni an-na-ab-be2[line] a-ra-/ab-gig-ga\\-[(X)]-e-še"}
+,
+{"id": 704,
+"source": "",
+"english": "A dog does not stand still on the ferry-boat!",
+"sumerian": "ur-gir15 ĝiš/ma2\\-addir-/ra? nu?\\-gub-bu"}
+,
+{"id": 705,
+"source": "",
+"english": "Like a dog, he hates to grovel.",
+"sumerian": "ur-gir15-gin7 ki za-za ḫul a-/ab\\-gig"}
+,
+{"id": 706,
+"source": "cf. 6.1.03.95",
+"english": "He growls like a dog struck by a ball (?).",
+"sumerian": "ur-gir15 ĝiš-ellag ra-gin7 dum-dam i3-ib2-za"}
+,
+{"id": 707,
+"source": "",
+"english": "Control the dog, but love the puppy!",
+"sumerian": "ur-gir15-re gu2 gid2-gid2-ab-ze2-en ur-tur ki aĝ2-ab-ze2-en"}
+,
+{"id": 708,
+"source": "",
+"english": "To purchase a dog is within your sights; to purchase a waggon is to be destroyed.",
+"sumerian": "ur sam2-bi igi-za ĝal2 ĝiš-gigir sam2-bi ba-an-ḫul"}
+,
+{"id": 709,
+"source": "cf. 6.2.3: UET 6/2 223",
+"english": "A dog which is played with turns into a puppy.",
+"sumerian": "ur sag9-ga ur-tur-še3 ba-an-kur9"}
+,
+{"id": 710,
+"source": "cf. 6.2.3: UET 6/2 324",
+"english": "He cried out like a dog in a frenzy; its reward was having its skin flayed.",
+"sumerian": "ur mu2-da-gin7 gu3 bi2-in-de2[line] kug kuš du3-u3-bi ba-ni-in-gi4"}
+,
+{"id": 711,
+"source": "",
+"english": "A dog entered a warehouse. The merchant broke his leg with a wooden door-bolt: 'Get out of here!' The dog questioned his tail: 'Is there something behind me?' 'Those things which make you happy!' it was told. 'Well then, let me go back again tonight and receive something!' And so, upon his return, his leg was again broken. He dragged his tail and sat in the street. A second time he questioned his tail: 'Did the bolt just come out from in front of you, like before?'",
+"sumerian": "ur-gir15-re e2 ganba-še3[line] šaĝan-la2 ĝiš-suḫub4 ib2-ba-ni ba-an-ḫaš[line] e3-ma-ni-ta kun-bi en3 ab-tar-re[line] eĝer-ĝu10-ta niĝ2 na-me bi2-in-gub[line] niĝ2 sag9-ga-zu bi2-in-eš[line] DU ĝi6-da ga-gur niĝ2 na-me šu ga-an-ti[line] an-ga-am3 gur-ru-da-ni-ta ib2-ba-ni ba-an-ḫaš[line] kun-a-ni ba-an-ur3 sila ba-ni-in-tuš[line] gibil-be2-eš-am3 kun en3 ab-tar-tar-re[line] niĝ2 ud-bi-ta-gin7 igi-zu-ta im-ma-e3-e-še"}
+,
+{"id": 712,
+"source": "cf. 6.2.3: UET 6/2 222",
+"english": "If a dog snarls, throw a morsel into his mouth.",
+"sumerian": "ur-gir15-re zu2 mu-ra-ra[line] ninda pax(PAD)-ra2 ka-ga14-na"}
+,
+{"id": 713,
+"source": "",
+"english": "The dog has been taught to pay attention; as long as he pays attention, he may escape his chain.",
+"sumerian": "/ur-gir15-re\\ ĝiš /tuku\\ ba-an-zu[line] en-na ĝeštug za-na ḫar-ra-/ni\\ šu bi2-in-/kar?\\"}
+,
+{"id": 714,
+"source": "",
+"english": "A dog climbed up onto the roof.",
+"sumerian": "ur-gir15 ur3-ra-še3 mu-un-ed3"}
+,
+{"id": 715,
+"source": "",
+"english": "Dog, you are counting sheep.",
+"sumerian": "ur-gir15-re udu ḫi-a al-šid-en"}
+,
+{"id": 716,
+"source": "",
+"english": "Like a dog you have nowhere to sleep.",
+"sumerian": "ur-gin7 ki-nu2 nu-e-tuku"}
+,
+{"id": 717,
+"source": "",
+"english": "He is a dog without a tail.",
+"sumerian": "ur kun nu-tuku-am3"}
+,
+{"id": 718,
+"source": "cf. 6.2.3: UET 6/2 230 ll. 1-2",
+"english": "The dog collects bones.",
+"sumerian": "[ur-gir15]-/re\\ ĝiri3 al-de5-de5-ge"}
+,
+{"id": 719,
+"source": "cf. 6.2.3: UET 6/2 230 ll. 3-5",
+"english": "A dog went to a party. When he saw the bones there, he left, saying: 'Where I am going, I shall get more to eat than this!'",
+"sumerian": "[ur-gir15]-/re\\ kaš-de2-a-še3 al-ĝen[line] [ĝiri3-pax(PAD)-ra2]-bi igi u3-bi2-in-du8 ba-ĝen[line] [ki al-du]-/un\\-na-a dirig ne-e al-gu7-e-en-e-še!"}
+,
+{"id": 720,
+"source": "",
+"english": "Bitches advise their young: 'You should not eat the food from a funeral offering. When the person has brought it here, they will eat it.'",
+"sumerian": "nig /dumu\\-ne-ne saĝ keše2 mu-ak-e[line] ninda ki-sig10-ga na-an-gu7-un-ze2-en[line] e-ne u3-um-de6 lu2 im-ma-gu7-e-še"}
+,
+{"id": 721,
+"source": "cf. 6.2.3: UET 6/2 232",
+"english": "Like a whelping bitch he bites the workmen.",
+"sumerian": "nig tud-da-gin7 erin2 zu2 ab!-kud-kud-de3"}
+,
+{"id": 722,
+"source": "",
+"english": "Like a man's bitch you are walking behind a shaven-headed man.",
+"sumerian": "/nig\\ lu2-gin7 eĝer saĝ sar-ra-ka al-du-un"}
+,
+{"id": 723,
+"source": "?",
+"english": "Like the bitch of a scribe, he struts through the fields as though he were in charge .",
+"sumerian": "/nig? dub\\-sar-ra-gin7 a-šag4-ga nam-saĝ-ĝa2 al-ak-e"}
+,
+{"id": 724,
+"source": "cf. 6.2.3: UET 6/2 313",
+"english": "Thus says the bitch to the kid goat: 'Whether you are yellow or mottled, I still love my little ones.'",
+"sumerian": "[nig] /maš2?\\-še3 na-ab-be2-a mi-ni-ib-sig7-sig7-ge-en[line] [mi]-/ni\\-ib-gun3-gun3-un dumu-ĝu10 ki ab-aĝ2-e-še"}
+,
+{"id": 725,
+"source": "cf. 6.1.03.154, 1.8.2.1: l. 246",
+"english": "The clod on the one hand, the furrow on the other hand -- and as for me, I am the third one there.",
+"sumerian": "[1(DIŠ) lag 1(DIŠ)] ab-sin2[line] [ĝe26-e 3(EŠ5)-kam]-ma-bi-me-en"}
+,
+{"id": 726,
+"source": "cf. 6.1.01.76",
+"english": "A clod thrown into the water is destroyed as it disintegrates.",
+"sumerian": "lag a-[a] /gurud2\\-da bi-iz-bi gul-la"}
+,
+{"id": 727,
+"source": "cf. 6.1.03.82",
+"english": "He moves like a lion against a louse, but when there is a job is to be done, he moves like a rat.",
+"sumerian": "umun3-še3 piriĝ-gin7 du[line] kiĝ2 ak-/de3\\ niĝ2-gilim-gin7 du"}
+,
+{"id": 728,
+"source": "cf. 6.1.03.124",
+"english": "The manicurist is himself dressed in dirty rags.",
+"sumerian": "umbin kud tug2-mu-dur7-ra mu4-mu4"}
+,
+{"id": 729,
+"source": "cf. 6.1.03.155",
+"english": "Let me drink beer shandy and sit in the seat of honour!",
+"sumerian": "kašbir-a ga-naĝ![line] [zag] /gal\\-la ga-tuš"}
+,
+{"id": 730,
+"source": "cf. 6.1.03.156",
+"english": "Although it was not important to him, he attended the festival.",
+"sumerian": "[nu-mu]-/na\\-kal ezem-ma ba-DU"}
+,
+{"id": 731,
+"source": "cf. 6.1.03.75, 6.2.5: YBC 9912",
+"english": "'I am stretching my legs on your behalf,' says the man who delivers sesame seeds.",
+"sumerian": "[ḫaš2 a-ra-an]-/gid2\\-nam lu2 še-ĝiš-i3 [bi2-ib2-il2]-il2-i"}
+,
+{"id": 732,
+"source": "cf. 6.1.01.88, 6.1.03.157",
+"english": "'If the boat sinks, I will pull out the cargo.' When it was all over, what had you gained? It is still floating: it did not sink.",
+"sumerian": "ma2 ḫa-ba-su-su barag ga-ba-ra-ab-ur3[line] ud mu-da-zal a-na mu-e-ši-ti[line] i3-dirig nu-su-su"}
+,
+{"id": 733,
+"source": "cf. 6.1.01.167",
+"english": "I visit it by day, I visit it at nightfall. I always stand by the lamentation drum!",
+"sumerian": "ud i3-di-de3-en ud šu2-uš i3-di-de3-en[line] balaĝ er2-ra im-ma-gub-gub-bu-de3-en"}
+,
+{"id": 734,
+"source": "cf. 6.1.01.81",
+"english": "To accept a verdict is possible. To accept a curse is impossible.",
+"sumerian": "[di gid2-i al-ĝal2][line] /aš2\\ gid2-i nu-ĝal2"}
+,
+{"id": 735,
+"source": "cf. 6.1.02.d3",
+"english": "The duck was not eaten in time.",
+"sumerian": "[a-ra2-bumušen niĝ2] a2-ba-ka nu-gu7"}
+,
+{"id": 736,
+"source": "",
+"english": "He gathered everything for himself, but had to slaughter his pig.",
+"sumerian": "[im-ma-an-de5-de5 šaḫ2-ni ba]-an-šum"}
+,
+{"id": 737,
+"source": "",
+"english": "He gathered everything for himself, but used up his wood.",
+"sumerian": "/im\\-[ma-an-de5-de5 ĝiš-ni ba-an-til]"}
+,
+{"id": 738,
+"source": "cf. 6.1.01.31",
+"english": "You don't return borrowed bread.",
+"sumerian": "ninda šu ti-a [li-bi2-in-gur-ra]"}
+,
+{"id": 739,
+"source": "cf. 6.1.11.21",
+"english": "He spoke, but went back on what he said.",
+"sumerian": "bi2-in-dug4 ba-da-an-gur"}
+,
+{"id": 740,
+"source": "cf. 6.1.01.89",
+"english": "Like a boat, he always floats up in the water.",
+"sumerian": "ĝiš-ma2-gin7 a-a am3-zig3-zig3"}
+,
+{"id": 741,
+"source": "cf. 6.1.03.45, 6.2.1: Ni 9832 Seg. B ll. 6-7",
+"english": "You are forever pushing, like a millstone torn out of its joint.",
+"sumerian": "na4-kinkin(ḪAR) bur12-ra-/gin7\\ al-du7-du7-du7-/un\\"}
+,
+{"id": 742,
+"source": "",
+"english": "He whose speech is humble -- his wife is a slave girl.",
+"sumerian": "ka ba-an-la2-a dam-a-ni gi4-in-nam"}
+,
+{"id": 743,
+"source": "cf. 6.1.03.185",
+"english": "My mouth makes me comparable with other men.",
+"sumerian": "ka-ĝu10 lu2-[da] /an-da\\-sa2-e-en"}
+,
+{"id": 744,
+"source": "?",
+"english": "In order to survey the Land, he left his city.",
+"sumerian": "u6 di kalam di-de3-«en» iri-ni mu-un-ed2-e"}
+,
+{"id": 745,
+"source": "cf. 6.1.01.174",
+"english": "I walk about, I don't get tired. I keep moving, I don't sleep.",
+"sumerian": "al-di-di-de3-en nu-kuš2-u3-de3-en[line] i3-di-di-de3-en u3 nu-ku-ku-me-en"}
+,
+{"id": 746,
+"source": "cf. 6.1.03.55, 6.1.11.5",
+"english": "As long as you live, you should not increase evil by lying; for if you do, to succumb will be your lot.",
+"sumerian": "til3-la lul-la ḫul na-an-gu-ul-/e\\[line] gam ḫa-la-zu mu-un-/ĝal2\\"}
+,
+{"id": 747,
+"source": "cf. 6.1.01.175",
+"english": "When clothes have been cut up into rags, when the barley has been lying in the dust, what more is there to be got?",
+"sumerian": "tug2-me-en-ze2-er-še3 ba-X-/da\\-[bir7-ra][line] še saḫar-ba im-ma-an-/til3\\-[la][line] ta šu ba-ni-[in-ti]"}
+,
+{"id": 748,
+"source": "cf. 6.1.01.100",
+"english": "Whether he ate or not, the seed was good.",
+"sumerian": "in-gu7 nu-un-gu7 [numun sag9-ga-am3]"}
+,
+{"id": 749,
+"source": "cf. 6.1.01.176",
+"english": "I am a lady who wears large garments. Let me cut my loincloth!",
+"sumerian": "ga-ša-an tug2 gal-/gal\\-[la-ĝen][line] tug2-niĝ2-dara2-ĝu10 da-/an\\-[kud]"}
+,
+{"id": 750,
+"source": "cf. 6.1.02.11",
+"english": "Fate is a dog, well able to bite. It clings like dirty rags.",
+"sumerian": "nam-tar [ur]-am3 [zu2 mu-un-da-ab-kud][line] tug2-mu-dur7-ra-gin7 [im-ma-tab-tab]"}
+,
+{"id": 751,
+"source": "cf. 6.1.03.104",
+"english": "The dog moves, the knife moves, but still my man does not move.",
+"sumerian": "ur i-im-di[line] /me2\\-[er] [im-di][line] lu2-ĝu10 ba-ra-/mu\\-[un-di]"}
+,
+{"id": 752,
+"source": "cf. 6.1.03.179",
+"english": "He said: 'Woe!' and the boat sank with him. He said: 'Alas!' and the rudder broke. The young man said: 'Ah god!' and the boat reached its destination.",
+"sumerian": "ux(PA)-a bi2-in-dug4 ma2 ba-/da-an\\-[su][line] a-la-la bi2-in-dug4 ĝiš-gi-muš ba-da-an-ḫaš[line] ĝuruš-e u8-a diĝir-ra-am3 di ĝiš-ma2 ki-bi ba-te"}
+,
+{"id": 753,
+"source": "cf. 6.1.03.166",
+"english": "The sun never leaves my heart, which surpasses a garden.",
+"sumerian": "šag4-ĝu10 ĝiš-kiri6 /ḫa\\-[ra-dirig]-/ga-ta\\[line] d-utu nu-mu-un-/ta\\-[e3]"}
+,
+{"id": 754,
+"source": "cf. 6.1.03.60",
+"english": "I am a loyal steward, I am a strong pair of hands.",
+"sumerian": "aĝrig šu dim4-/ma\\-[am3] sa-KU kalag-ga-me-en"}
+,
+{"id": 755,
+"source": "cf. 6.1.02.93, 6.2.3: UET 6/3 31 ll. 5-6",
+"english": "A stranger's ox eats grass while one's own ox lies hungry.",
+"sumerian": "gud kur2-ra u2 gu7-gu7[line] gud ni2-ba i3-šim-ma! nu2-nu2"}
+,
+{"id": 756,
+"source": "cf. 6.1.02.71",
+"english": "Tell a lie, tell the truth.",
+"sumerian": "lul dug4-ga-ab[line] zid dug4-ga-ab"}
+,
+{"id": 757,
+"source": "cf. 6.1.03.180",
+"english": "He is working despite his pierced neck.",
+"sumerian": "/gu2\\ zu-ḫu-ul-a-ni-ta /du3\\-du3-am3"}
+,
+{"id": 758,
+"source": "cf. 6.1.03.181",
+"english": "He turns things upside down.",
+"sumerian": "/gu2\\ bal gu2 ki-ta al-ak-e"}
+,
+{"id": 759,
+"source": "cf. 6.1.03.182",
+"english": "He devours things as crows do a field.",
+"sumerian": "[a]-šag4 buru4-mušen-gin7 /zu2\\ e-da-an-ra-aḫ"}
+,
+{"id": 760,
+"source": "cf. 6.1.01.155",
+"english": "Conceived by no father, conceived by no mother, the reed came out of the breast of the storm.",
+"sumerian": "[ad]-/da\\ a ḫur nu-ri[line] [ama-a] a /ḫur\\ nu-ri[line] [gien3-bar] /gaba\\ ud-da X [e3]-a"}
+,
+{"id": 761,
+"source": "cf. 6.1.03.140",
+"english": "Wheat and hulled barley was made to taste like honey. The nomad ate it and didn't recognise what was in it.",
+"sumerian": "gig gu2-nida-a lal3-/gin7 ib2\\-ak[line] mar-tu i3-gu7-e niĝ2 šag4-/bi\\ nu-un-zu"}
+,
+{"id": 762,
+"source": "?",
+"english": "Don't pile up the poured barley. When it has been carried to your barley and piled up, it will be eaten by your lord.",
+"sumerian": "še sur-ra gu2 na-an-mar-mar-/re\\[line] še-zu-še3 tum4 tu11 lugal-zu ba-an-gu7"}
+,
+{"id": 763,
+"source": "cf. 6.1.02.121",
+"english": "The good thing is to find it. The bad thing is to have lost it.",
+"sumerian": "sag9-ga-bi pad3-da[line] ḫul-bi u2-gu de2-a"}
+,
+{"id": 764,
+"source": "cf. 6.1.02.123",
+"english": "The pleasure -- it is the beer! The discomfort -- it is the journey!",
+"sumerian": "nam-sag9-ga kaš-a[line] nam-ḫul kaskal-la"}
+,
+{"id": 765,
+"source": "cf. 6.1.03.187",
+"english": "When present, it is considered a loincloth; when lost, it is considered fine clothing.",
+"sumerian": "al-ĝal2-la tug2-niĝ2-dara2-am3[line] u2-gu ba-an-de2 tug2-ga-am3"}
+,
+{"id": 766,
+"source": "cf. 6.1.01.97, 6.1.11.53",
+"english": "Those who get excited should not become foremen. A shepherd should not become a farmer.",
+"sumerian": "[šag4-bi zig3-ga ugula nam-me][line] /sipad\\ engar [nam-me]"}
+,
+{"id": 767,
+"source": "cf. 6.1.03.183",
+"english": "A free weaver equals two slave girls. A free worker equals three slaves.",
+"sumerian": "uš!-bar /du8\\-[a geme2 2(MIN)-am3][line] uĝ3-il2 /du8\\-a arad 3(EŠ5)-am3"}
+,
+{"id": 768,
+"source": "",
+"english": "Crushed by a stone belonging to my lady.",
+"sumerian": "na4 niĝ2 ga-ša-an-ĝa2-a-ke4 gaz-za-am3"}
+,
+{"id": 769,
+"source": "cf. 6.1.01.70",
+"english": "The songs of a city are its omen diviners.",
+"sumerian": "[iri-ki en3]-du-bi [maš2-šu]-gid2-gid2-bi"}
+,
+{"id": 770,
+"source": "",
+"english": "A pig digging in the house.",
+"sumerian": "šaḫ2 e2-a ba-al-ba-al"}
+,
+{"id": 771,
+"source": "The butcher said:",
+"english": "A pig which was about to be slaughtered by the pig-butcher squealed. 'Your ancestors and forebears walked this road, and now you too are walking it, so why (?) are you squealing?'",
+"sumerian": "šaḫ2 lu2-šaḫ2-šum-ma mi-ni-ib-šum-e[line] gu3 i3-ra-/ra\\ kaskal ninda2-zu[line] u3 pa-bil-/ga-zu\\ i3-re7-eš-am3[line] u3 za-e al-du-un-/na\\-ni gu3 i3-ra-ra-e-še"}
+,
+{"id": 772,
+"source": "cf. 6.2.3: UET 6/2 275",
+"english": "He snatches things like a pig, as if for himself, but also for his owner.",
+"sumerian": "šaḫ2-gin7 šu ab-/kar\\-kar-re![line] i-gi4-in-/zu\\ ni2-te-a-ni lugal-a-ni-še3!-/am3\\-e-še"}
+,
+{"id": 773,
+"source": "cf. 6.2.3: UET 6/2 300 l. 1",
+"english": "Like a pig spattered with mud.",
+"sumerian": "šaḫ2 lu-ḫu-um-ma su3-am3!"}
+,
+{"id": 774,
+"source": "cf. 6.2.3: UET 6/2 300 l. 2",
+"english": "The pig picks up morsels of bread.",
+"sumerian": "šaḫ2 /ninda pax(PAD)-ra2\\ mu-un-il2"}
+,
+{"id": 775,
+"source": "",
+"english": "Having lost the sow, they sit around and strengthen the pigsty.",
+"sumerian": "megida2! u2-gu de2-a-ta i3-dur2-ru-ne[line] e2-ir-/da\\ mu!-un-kal-la-ge-ne"}
+,
+{"id": 776,
+"source": "",
+"english": "Like a sow was she not treated to luxury? Was she not accustomed to demanding barley in the middle of the night?",
+"sumerian": "megida2!-gin7 ḫi-li nu-mu-ni-in-ak[line] ĝi6 MAŠ-a-ka še al nu-mu-ni-in-dug4-e-še"}
+,
+{"id": 777,
+"source": "cf. 6.2.3: UET 6/2 240 l. 2",
+"english": "Wearing a long beard like a goat.",
+"sumerian": "maš2!-gin7 sun4 la2-a"}
+,
+{"id": 778,
+"source": "cf. 6.2.3: UET 6/2 240 l. 1",
+"english": "A goat is the gift of a large kid.",
+"sumerian": "ud5-de3 saĝ rig7 maš2 gal-la-ka"}
+,
+{"id": 779,
+"source": "",
+"english": "A goat says to another goat: 'I too butt my head.'",
+"sumerian": "ud5-de3 /ud5?\\-X na-ab-be2-a[line] u3 ĝe26-e saĝ mu-ni-ib-ra-ra"}
+,
+{"id": 780,
+"source": "cf. 6.1.03.111",
+"english": "Although it has never been there, the goat knows the waste land.",
+"sumerian": "ud5-de3 nu-ĝen-na e2-ri-a an-zu"}
+,
+{"id": 781,
+"source": "",
+"english": "Some wolves were chasing a goat. It turned around and its feet clattered into each other.",
+"sumerian": "ud5-de3 ur-bar-ra-be2-ne bi2-in-us2-us2[line] i3-bal ĝiri3-bi ĝiri3 bi2-in-ra"}
+,
+{"id": 782,
+"source": "?",
+"english": "He gets his behind in his mouth, like a hippopotamus .",
+"sumerian": "dim3-šaḫ2-gin7 bid3-da ka-ga14-na al-sag3"}
+,
+{"id": 783,
+"source": "",
+"english": "A stag wandering in the outlying areas.",
+"sumerian": "lu-lim bar dag-ga"}
+,
+{"id": 784,
+"source": "1 ms. adds:",
+"english": "A gazelle not alert, a dog not on the watch. ( A man raising his hand in anger does not see clearly.)",
+"sumerian": "maš-da3 igi nu-la2 ur igi nu-ĝal2-la ( lu2 šu zig3-zig3-ga igi nu-du8)"}
+,
+{"id": 785,
+"source": "",
+"english": "Like a gazelle he is drinking 15 days' worth of water.",
+"sumerian": "maš-da3-gin7 a ud 15-kam i3-naĝ-naĝ"}
+,
+{"id": 786,
+"source": "",
+"english": "'Get that bear away from us!' -- so he has gone to the mountains.",
+"sumerian": "az-e daĝal tag-ga-ab ḫur-saĝ-ĝa2 mu-un-ĝen"}
+,
+{"id": 787,
+"source": "cf. 6.2.3: UET 6/2 241",
+"english": "A bear in the sixth month turned onto its side and said: 'Were An not to give you, oh sleep, to a person, as he does to me -- they would die.'",
+"sumerian": "az-e itid 6-kam-ma ti-ba u3-un-bal[line] an u3-sa2 na-an-šum2-mu-un[line] ĝa2-a-gin7-nam ḫe2-ug7-e-še"}
+,
+{"id": 788,
+"source": "cf. 6.2.3: UET 6/2 294",
+"english": "Like a hyena, you will not eat it unless it stinks.",
+"sumerian": "kir4-gin7 en-na mi-ni-ḫab2-ba nu-gu7-e-en"}
+,
+{"id": 789,
+"source": "",
+"english": "The claws of a cat can walk even in sheep fat.",
+"sumerian": "umbin su-a i3-udu-še3 ba-an-kur9"}
+,
+{"id": 790,
+"source": "",
+"english": "As with a cat, it is its tongue that treats its skin.",
+"sumerian": "su-a-gin7 kuš du3-u3-bi eme-am3"}
+,
+{"id": 791,
+"source": "",
+"english": "A cat can find a hole in the ground.",
+"sumerian": "su-a ki-in-dar-ra mi-ni-pad3-de3"}
+,
+{"id": 792,
+"source": "",
+"english": "A fox stamped on the crotch of an elephant: 'It's enough, it's too much!'",
+"sumerian": "ka5-a /ur2\\ am-si-ka ĝiri3-bi mu-un-gub[line] ab-si ab-dirig-/e-še\\"}
+,
+{"id": 793,
+"source": "",
+"english": "A fox demanded of Enlil the horns of a wild bull. While it was wearing the wild bull's horns, it started to rain. But the horns rose high above him, so he could not enter his burrow. Until midnight the wind kept blowing, and the clouds brought rain. Afterwards, when it had stopped raining on him, and he had dried off, he said: 'I shall return this feature to its rightful owner!'",
+"sumerian": "ka5-a den-lil2-le si-am-e al u3-bi2-in-dug4[line] si-am-e ba-ni-in-la2 im šeĝ14 mu-na-an-zi-zi[line] ḫabrud-da-ni nu-mu-da-an-ku4-ku4[line] ĝi6 MAŠ-bi-še3 tum9-mir mir[line] muru9 im-šeĝ3-ĝe26[line] ugu-ba in-til-la-ta ḫe2-em-ta-ḫad2[line] ĝarza2 lugal-a-<ni>-ir ga-ba-ni-ib-gur-e-še"}
+,
+{"id": 794,
+"source": "ŠUB",
+"english": "A fox was pursuing the testicles of a wild bull, as though about to die of hunger.",
+"sumerian": "ka5-a šir am-e al-us2-us2[line] i-gi4-in-zu en-na šag4-ĝar-ra-na ug5-ga-«DIŠ»-a"}
+,
+{"id": 795,
+"source": "",
+"english": "A fox was scrabbling in a dyke: 'Nobody has ever seen my bent-over behind.'",
+"sumerian": "ka5-a eg2 al-DU gu-du gam-ma-ĝu10[line] lu2 na-me igi nu-mu-ni-in-«GID2»-du8"}
+,
+{"id": 796,
+"source": "cf. 6.2.3: UET 6/2 213",
+"english": "The fox dropped her young. They came out as twins.",
+"sumerian": "/ka5\\-a maš2-bi mu-<šub>[line] maš2-tab-ba-ni mu-ni-in-i-i"}
+,
+{"id": 797,
+"source": "cf. 6.2.3: UET 6/2 219",
+"english": "A fox spoke to a goat: 'Let me put my shoes in your house!' It replied: 'When the dog arrives, I will hang them up on a peg!' The fox: 'If there's a dog staying like that in your house, bring me my shoes. Don't expect me to stay the night!'",
+"sumerian": "ka5-a ud5-de3-eš2 an-na-ab-be2[line] kuš-e-sir2(source: TUM)-ĝu10 e2-zu-a ga-mu-ni-ib2-ĝar[line] du-u3-da ur-gir15-ra-ka ĝiš-gag-ta ga-mu-ni-ib2-la2[line] tukum-bi ur-gir15-re e2-zu-a ur5-ra-še3 an-til3[line] kuš-e-sir2-ĝu10 DU-u3[line] ĝi6 na-an-sa2-e-en-e-še"}
+,
+{"id": 798,
+"source": "cf. 6.2.3: UET 6/2 220",
+"english": "A fox went into a den in a thorny bush, and (the dog said:) 'Hey, come out!' But it would not come out. 'How am I supposed to get in from out here?' (exclaimed the dog). 'So long as you don't chase me away, I will stay sitting here!' said the fox.",
+"sumerian": "ka5-a dur2 ĝiš-kiši17-še3 in-kur9-ma[line] ĝa2-nu e3-im-ta ed2-de3 nu-ub-zu[line] gu2-e-ta a-na-gin7-nam i3-kur9-re-en[line] en-na-me-še3-am3 na-an-sar-sar[line] al-tuš-en-e-še"}
+,
+{"id": 799,
+"source": "?",
+"english": "Like an aroused fox, your cry echoes over the fields.",
+"sumerian": "ka5-a zig3-ga-gin7 za-pa-aĝ2-zu a-gar3-re ab-gur-e-še"}
+,
+{"id": 800,
+"source": "",
+"english": "What will the dog do about what the fox is doing?",
+"sumerian": "ka5-a a-na-am3 al-ak-a[line] ur-gir15-re a-na-am3 mu-un-ši-ib-ak-de3"}
+,
+{"id": 801,
+"source": "cf. 6.2.3: UET 6/2 217",
+"english": "The fox set his mind on some treachery: 'I am throwing it out. I am carrying it to the river.'",
+"sumerian": "ka5-a nam-lul-la ĝeštug2-ga-ni in-gub-ma[line] ba-šub-bu-de3-en id2-da mi-ni-ib-tum2-en-e-še"}
+,
+{"id": 802,
+"source": "",
+"english": "A fox walked around a throw-stick: 'Who is going to give a party as good as that?'",
+"sumerian": "ka5-a ĝiš-ilar-e mu-un-ni10-ni10[line] kaš-de2-a ne-en dug3-ga a-ba-a ba-ab-šum2-mu-e-še"}
+,
+{"id": 803,
+"source": "?",
+"english": "A fox had been caught by a partially-sighted man: 'Is this why you are crying?' The fox replied: 'Set me free!'",
+"sumerian": "ka5-a lu2-igi-ze2-ze2 u3-bi2-in-dab5[line] ne-eš2 er2 mu-e-še8-še8 šu ba-mu-u8-e-še"}
+,
+{"id": 804,
+"source": "Veldhuis 2000 p. 392",
+"english": "The man who owns much barley may sleep (?). [line] line unclear",
+"sumerian": "/lu2\\ še tuku-tuku X u3 mu-/un\\-[ku-ku][line] X MU gud NE-ba-an"}
+,
+{"id": 805,
+"source": "Alster 1997 8 Sec. C 2",
+"english": "A raven had (?) a porous jar. A fox asked: 'Where do you sprinkle the water?' 'I sprinkle in the Tigris and the Euphrates,' it replied, 'Why do you ask?'",
+"sumerian": "ugamušen dugsaḫar an-/da\\-[X][line] ka5-a en3 i-ni-in-tar [(X)][line] me-am3 i-ib2-su3-e[line] id2-idigna id2-buranun-na-/še3\\ i-ni-in-su3-e[line] a-na-aš-am3 en3 mu-e-tar-tar-re"}
+,
+{"id": 806,
+"source": "Alster 1997 8 Sec. C 3",
+"english": "Like an azag-gun bird you wear a tiara over your eyes.",
+"sumerian": "a-zag-gun3-mušen-gin7 igi-a aga X[line] [X] DU./DU\\ [X]"}
+,
+{"id": 807,
+"source": "Alster 1997 8 Sec. D 3",
+"english": "Let the tree split its relative.",
+"sumerian": "ĝiš-e ĝiš !uš-bar-bi ḫe2-eb-dar-re"}
+,
+{"id": 808,
+"source": "Alster 1997 8 Sec. D 4",
+"english": "A chair always stands at the doorway as an audience gift.",
+"sumerian": "ĝiš-gu-za igi-du8-a kan4-na gub-gub"}
+,
+{"id": 809,
+"source": "Alster 1997 8 Sec. D 7",
+"english": "On our trough full of grapes the ears are hanging outside.",
+"sumerian": "ĝiš-buniĝ(SUG)-me ĝeštin si-si-še3 ĝeštug bar-ta-am3"}
+,
+{"id": 810,
+"source": "Alster 1997 8 Sec. D 8",
+"english": "The thief hurls a throw-stick toward a bound sheep.",
+"sumerian": "ĝiš-ilar lu2-ni2-zuḫ ugu udu keše2-da am3-šub"}
+,
+{"id": 811,
+"source": "cf. 6.1.10.1, 6.2.5: IM 43438 Seg. A l. 1",
+"english": "Whatever the man in authority said, it was not pleasant.",
+"sumerian": "nir-ĝal2-e a-na bi2-in-dug4 nu-sag9"}
+,
+{"id": 812,
+"source": "cf. 6.1.10.2",
+"english": "Whatever the man in authority said, it was not right.",
+"sumerian": "nir-ĝal2-e a-na bi2-in-dug4 nu-zid"}
+,
+{"id": 813,
+"source": "cf. 6.1.10.3-4, 6.2.2: MDP 27 216, 6.2.5: IM 43438 Seg. A l. 2",
+"english": "When the authorities are wise, and the poor are loyal, it is the effect of the blessing of Aratta.",
+"sumerian": "nir-ĝal2 kug-zu-am3 ukur3 šu dim4-ma-am3[line] šu ĝar ĝal2-la arattaki-ka"}
+,
+{"id": 814,
+"source": "cf. 6.1.10.5, 6.1.22: l. 190, 6.2.3: UET 6/3 80 l. 18",
+"english": "The mighty man is master of the earth.",
+"sumerian": "a2-tuku lugal ki-in-du-ka"}
+,
+{"id": 815,
+"source": "cf. 6.1.10.6",
+"english": "It is from a man's mouth that strength comes.",
+"sumerian": "usu ka lu2-/ta\\ am3-kur9-kur9"}
+,
+{"id": 816,
+"source": "cf. 6.1.10.7, 6.2.3: UET 6/3 462",
+"english": "Strength cannot keep pace with intelligence.",
+"sumerian": "usu igi-ĝal2-tuku nu-ub-da-sa2"}
+,
+{"id": 817,
+"source": "cf. 6.1.10.8",
+"english": "The strength of my god completes my own.",
+"sumerian": "usu diĝir-ĝa2 ni2-ĝa2 ba-til"}
+,
+{"id": 818,
+"source": "cf. 6.1.10.9, 6.1.17.b3, ll. 12-13, 5.6.7: l. 28",
+"english": "Youthful vigour has left my loins, like a runaway donkey.",
+"sumerian": "nam-ĝuruš-ĝu10 anše kar-/ra\\-gin7 ḫaš2-ĝa2 ba-e-taka4"}
+,
+{"id": 819,
+"source": "",
+"english": "Ignoramuses are numerous in the palace.",
+"sumerian": "nu-zu e2-gal-la ba-šar2"}
+,
+{"id": 820,
+"source": "",
+"english": "He who knows but does not speak is a fool.",
+"sumerian": "zu-a nu-di is-ḫab2-ba-am3"}
+,
+{"id": 821,
+"source": "cf. 6.1.19.b1, 6.1.21.b4, 6.1.24.2, 6.2.5: YBC 4677 ll. 1-2",
+"english": "When a fattened pig is about to be slaughtered, one says: 'Let me replace what I eat.'",
+"sumerian": "[šaḫ2] niga /ab\\-šum-u3-de3 [niĝ2]-ĝu10 gu7-a-ĝu10 ga-an-sug6-e-še"}
+,
+{"id": 822,
+"source": "cf. 6.1.19.b2, 6.1.21.b5, 6.1.24.2, 6.2.5: YBC 4677 ll. 3-4",
+"english": "As the piglet roots around (?), it says: 'I do not eat for pleasure.'",
+"sumerian": "[šaḫ2]ze2-eḫ tur-re šu /al\\-gud-gu4-ud[line] sag9-ga-aš ĝe26-e nu-gu7-e-še"}
+,
+{"id": 823,
+"source": "cf. 6.1.19.b5, 6.1.24.4",
+"english": "The ruler's wife kneels, the slave girl dies. The ruler kneels, the slave dies.",
+"sumerian": "dam u3-mu-un-/si\\ [gam-am3 geme2 ug5-ga]-/am3\\[line] u3-mu-un-/si\\ gam-/am3\\ [arad ug5-ga-am3]"}
+,
+{"id": 825,
+"source": "Alster 1997 9 Sec. B 3 Version A; cf. 6.1.21.c16, l. 9",
+"english": "The man whose feet are deformed accepts shoes.",
+"sumerian": "lu2 ma-an-zi-[le … kuš]/suḫub2\\ [šu ti-a]"}
+,
+{"id": 826,
+"source": "Alster 1997 9 Sec. B 4 Version A; cf. 6.1.21.c16, l. 10",
+"english": "It is the one who wears a loincloth who will accept the ceremonial garment.",
+"sumerian": "tug2-aĝ2-dara2 X [tug2-aĝ2-lam2 šu ti-a]"}
+,
+{"id": 827,
+"source": "",
+"english": "Oh Utu, you are my judge: pronounce my judgment! You are my decision-maker, decide my case! The dream that I have seen -- turn it into a favourable one!",
+"sumerian": "d-utu di-kud-me-en di-ĝu10 kud-de3[line] ka-aš bar-bar-re-me-en ka-aš-ĝu10 bar-ra[line] maš2-ĝi6 igi ba-ni-in-du8-a sag9-ga-aš kur9-ni-ib2"}
+,
+{"id": 828,
+"source": "",
+"english": "Let me walk straight, so that I can catch up with my companion!",
+"sumerian": "si sa2-bi ga-ĝen tab-ba-ĝu10 sa2 ga-am3-dug4"}
+,
+{"id": 829,
+"source": "",
+"english": "Supposing sleep overtakes those who drag the boat, supposing sleep overtakes them -- the only possibility is to walk along the road.",
+"sumerian": "gi4-in ma2 gid2 u3-sa2 dab5[line] gi4-in u3-sa2 dab5 kaskal-la du"}
+,
+{"id": 830,
+"source": "cf. 6.1.09.a1, 6.2.5: IM43438 Seg. A l. 1",
+"english": "Whatever the man in authority said, it was not pleasant.",
+"sumerian": "[nir]-/ĝal2\\-e /a-na\\ [bi2-in]-/dug4\\ nu-sag9"}
+,
+{"id": 831,
+"source": "cf. 6.1.09.a2",
+"english": "Whatever the man in authority said, it was not right.",
+"sumerian": "nir-ĝal2-e a-na /bi2\\-in-dug4 nu-zid"}
+,
+{"id": 832,
+"source": "cf. 6.1.09.a3, 6.2.2: MDP 27 216, 6.2.5: IM 43438 Seg. A l. 2",
+"english": "When the authorities are wise, and the poor are loyal, it is the effect of the blessing of Aratta.",
+"sumerian": "nir-ĝal2 kug-zu-am3 ukur3 šu dim4-am3[line] šu ĝar ĝal2-la arattaki-ka"}
+,
+{"id": 833,
+"source": "cf. 6.1.09.a4, 6.1.22: l. 190, 6.2.3: UET 6/3 80 l. 18",
+"english": "The mighty man is master of the earth.",
+"sumerian": "a2-tuku lugal ki-in-du-ke4"}
+,
+{"id": 834,
+"source": "cf. 6.1.09.a5",
+"english": "It is from a man's mouth that strength comes.",
+"sumerian": "usu ka lu2-ta-am3 am3-kur9-kur9"}
+,
+{"id": 835,
+"source": "cf. 6.1.09.a6, 6.2.3: UET 6/3 462",
+"english": "Strength cannot keep pace with intelligence.",
+"sumerian": "usu igi-ĝal2-tuku nu-mu-e-da-sa2"}
+,
+{"id": 836,
+"source": "cf. 6.1.09.a7",
+"english": "The strength of my god completes my own.",
+"sumerian": "usu diĝir-ĝa2 ni2-ĝa2 ba-til"}
+,
+{"id": 837,
+"source": "cf. 6.1.09.a8, 6.1.17.b3, ll. 12-13, 5.6.7: l. 28",
+"english": "Youthful vigour has left my loins, like a runaway donkey.",
+"sumerian": "[nam]-/ĝuruš\\ anše /kar\\-ra-gin7 ḫaš2-ĝa2 ba-e-taka4"}
+,
+{"id": 838,
+"source": "cf. 6.1.17.b3, l. 14, 6.1.19.a1, l. 1, 5.6.7: l. 29",
+"english": "My black mountain has sprouted white gypsum.",
+"sumerian": "[ḫur-saĝ] /gig2\\-ĝu10 /im\\-babbar ba-an-mu2"}
+,
+{"id": 839,
+"source": "cf. 6.1.17.b3, l. 15, 6.1.19.a1, ll. 2-3, 5.6.7: l. 30",
+"english": "My mother sent to me a man from the forest, who has given me paralysed hands.",
+"sumerian": "ama-ĝu10 ĝiš-tir-ta lu2 mu-ši-in-gi4[line] šu dab5-ĝu10 ma-an-šum2"}
+,
+{"id": 840,
+"source": "cf. 6.1.17.b3, ll. 16-17, 6.1.19.a1, ll. 4-5, 5.6.7: l. 31",
+"english": "My mongoose, which used to eat strong-smelling (food) ((1 ms. has instead:) meat), can no longer stretch its neck toward a jar of ghee.",
+"sumerian": "d-nin-kilim (niĝ2) ((1 ms. has instead:) uzu) ḫab2-ba gu7-gu7-ĝu10[line] dug i3-nun-na-še3 gu2 nu-mu-un-ši-la2-e"}
+,
+{"id": 841,
+"source": "?",
+"english": "'The lap three times, the eye seven times' is what she says to the one about to breach her defences.",
+"sumerian": "ur2 am-mu-uš-e i-bi2 7(IMIN)-e[line] bad3-si gul-gul-e na-ab-be2-a"}
+,
+{"id": 842,
+"source": "",
+"english": "'Let me fill your new storehouse with my old hay.'",
+"sumerian": "esaĝ2 gibil-za in-nu sumun-a-ĝu10 ga-an-si-e-še"}
+,
+{"id": 843,
+"source": "",
+"english": "A man turned toward you. What did he seize?",
+"sumerian": "lu2 mu-e-ši-in-gi4 ta-am3 bi2-ib?-dab5"}
+,
+{"id": 844,
+"source": "cf. 6.1.03.55, 6.1.07.48",
+"english": "As long as you live you should not increase evil by lying; for if you do, to succumb will be your lot.",
+"sumerian": "til3-la lul-la ḫul na-an-gu-<ul>-en[line] ga-am3 ḫa-la-zu mu-un-ĝal2"}
+,
+{"id": 845,
+"source": "cf. 6.1.02.133, 6.1.22: l. 80, 6.1.26.d3",
+"english": "To collect firewood is a job for the strong man. The weak man sits waiting for him on dry land.",
+"sumerian": "u2 de5-de5-ga kalag-ga-še3[line] sig9-ga bar-rim4-ma mu-un-na-tuš"}
+,
+{"id": 846,
+"source": "cf. 6.1.02.103",
+"english": "Although the lamentation priest's grain boat was sinking, he would be walking on dry land.",
+"sumerian": "gala-a ma2 še-ka-ni ḫa-ba-an-da-su-su[line] bar-rim4-ma ḫa-ba-e-ĝen"}
+,
+{"id": 847,
+"source": "cf. 6.1.07.41",
+"english": "He spoke but did not keep his word. He keeps speaking but shies away from his responsibilities.",
+"sumerian": "bi2-in-dug4 nu-mu-un-gen6[line] ab-be2 ab-da-ab-gur"}
+,
+{"id": 848,
+"source": "cf. 6.1.03.69",
+"english": "He who insults is insulted. He who sneers is sneered at.",
+"sumerian": "in dub2-dub2-bu-/ra\\ in mu-/un-na-an\\-ĝal2[line] giri17 ur5 giri17 mu-/un\\-na-/ur5\\-e"}
+,
+{"id": 849,
+"source": "",
+"english": "So says the slave girl: 'It has been carried away!'",
+"sumerian": "/gi4\\-in al?-/tum4?\\-me na-ab-be2-e"}
+,
+{"id": 850,
+"source": "",
+"english": "'Let the master's god split it, then.'",
+"sumerian": "diĝir u3-mu-un-na-ke4 ḫu-mu-/dar-dar\\-e-e-še"}
+,
+{"id": 851,
+"source": "cf. 6.1.01.109",
+"english": "You cannot butt me with your horns! Why are you butting? I am running away!",
+"sumerian": "si nu-e-/da\\-il2-/i?\\[line] a-na-aš-am3 si il2-i-de3-en[line] i3-du-de3-en"}
+,
+{"id": 852,
+"source": "",
+"english": "A gir fish of the sea, whose head is wider than its body.",
+"sumerian": "/gir\\ ab-ba saĝ ni2-ba sal-sal"}
+,
+{"id": 853,
+"source": "",
+"english": "From the river, oh Inana, let my man eat.",
+"sumerian": "id2-da-ta dga-ša-an-an lu2-ĝu10 ḫe2-gu7-gu7"}
+,
+{"id": 854,
+"source": "",
+"english": "'My affairs are great affairs, my offices are great offices.'",
+"sumerian": "aĝ2-ĝa2 aĝ2 gal-la-am3[line] me-ĝu10 me gal-la-am3"}
+,
+{"id": 855,
+"source": "cf. 6.1.01.97, 6.1.07.104",
+"english": "An exciteable man should not become an overseer. A shepherd should not become a farmer.",
+"sumerian": "šag4-bi zig3-ga ugula nam-me[line] sipad engar nam-me"}
+,
+{"id": 856,
+"source": "cf. 6.1.01.104, 6.1.15.c3, 6.1.26.b4, 6.1.28.8",
+"english": "Were you to pour oil onto the top of a sceptre.",
+"sumerian": "/saĝ\\ ĝiš-ĝidru-ka i3 ḫe2-en-de2"}
+,
+{"id": 857,
+"source": "",
+"english": "From within a tree, a spoon. Who is it?",
+"sumerian": "šag4 ĝiš-ta dilim2 a-ba-am3"}
+,
+{"id": 858,
+"source": "cf. 6.1.25.9, 6.1.26.a2, 6.2.5: UM 29-16-519 Seg. B l. 2",
+"english": "A palace will fall of its own accord.",
+"sumerian": "e2-gal ni2-bi-še3 gam-e-dam"}
+,
+{"id": 859,
+"source": "cf. 6.1.26.a6, 6.2.5: UM 29-16-519 Seg. B l. 6",
+"english": "To take revenge is the prerogative of Ninurta.",
+"sumerian": "šu gi4-/gi4\\ [niĝ2-gig d-nin-urta-kam]"}
+,
+{"id": 860,
+"source": "",
+"english": "'That my friend should be well is our wish, and that our enemies should be gone! May those friendly to you reach their goal as a ship does a friendly harbour!'",
+"sumerian": "gu5-li-ĝu10 sag9-ga ḫe2-am3-me-am3 ḫul-me DU-am3[line] sag9-ga-zu ma2 kar sag9-ga-gin7 kar-ra /ḫe2-em-us2\\"}
+,
+{"id": 861,
+"source": "",
+"english": "'May your enemy, like the flood waters of a river, return to his city.'",
+"sumerian": "ḫul-zu a-ĝi6-a-ĝi6 /id2\\-da-gin7 /iri\\-ni-še3 ḫa-ba-gi4"}
+,
+{"id": 862,
+"source": "cf. 6.1.02.149, 6.1.26.d15",
+"english": "Those who live near the water look into the mountains. They don't look in their own direction.",
+"sumerian": "/a\\-da ab-tuš kur-šag4 igi du8[line] ni2-bi-še3 igi nu-du8"}
+,
+{"id": 863,
+"source": "cf. 6.1.02.150",
+"english": "Adapa knows no loss as he walks within the mountains.",
+"sumerian": "a-da-ab-e niĝ2 im-ba nu-zu[line] kur-šag4-ge di-di"}
+,
+{"id": 864,
+"source": "cf. 6.1.02.126, 6.1.04.56",
+"english": "Says the man lying on the roof to the man living in the house: 'It is too bright up here!'",
+"sumerian": "lu2 ur3 an-/nu2\\ lu2 e2 an-til3-/la\\[line] al-zalag-e-še"}
+,
+{"id": 865,
+"source": "cf. 6.1.02.37, 6.2.3: UET 6/2 267 ll. 1-2",
+"english": "You're a scribe but you don't even know how to write your own name? Shame on you!",
+"sumerian": "/dub\\-sar-me-en mu ni2-za nu-zu[line] igi ni2-za sag3-ga"}
+,
+{"id": 866,
+"source": "cf. 5.6.1: l. 202",
+"english": "A loving heart builds houses.",
+"sumerian": "šag4 ki aĝ2 niĝ2 e2 du3-du3-u3-dam"}
+,
+{"id": 867,
+"source": "cf. 5.6.1: l. 203",
+"english": "A hating heart destroys houses.",
+"sumerian": "šag4 ḫul gig niĝ2 e2 gul-gul-lu-dam"}
+,
+{"id": 868,
+"source": "?",
+"english": "Her friend advises her: 'It is for your own good.'",
+"sumerian": "sag9-a-za ma-la-ga-ni[line] im-ma-da-ab-ši-de5-ge4-e-še"}
+,
+{"id": 869,
+"source": "A.MUŠ3×A.DI",
+"english": "You cool down their hearts.",
+"sumerian": "šag4-bi ab-sedx-de3-en"}
+,
+{"id": 870,
+"source": "cf. 6.1.09.a12, 6.1.21.b4, 6.1.24.2, 6.2.5: YBC 4677 ll. 1-2",
+"english": "When a fattened pig is about to be slaughtered, one says: 'Let me replace what I eat.'",
+"sumerian": "[šaḫ2 niga ab-šum]-/u3\\-de3 [niĝ2 i3-gu7]-a-ĝu10 ga-ab-sug6-e-še"}
+,
+{"id": 871,
+"source": "cf. 6.1.09.a13, 6.1.21.b5, 6.1.24.2, 6.2.5: YBC 4677 ll. 3-4",
+"english": "As the piglet snuffles around, it says: 'I can no longer take pleasure in eating.'",
+"sumerian": "/šaḫ2\\ze2-eḫ tur-re šu al-gud-gu4-ud-de3[line] [sag9]-/ga\\-aš ĝe26-e nu-gu7-e-še"}
+,
+{"id": 872,
+"source": "cf. 6.1.02.137",
+"english": "Build like a lord -- live like a slave! Build like a slave -- live like a lord!",
+"sumerian": "[en]-gin7 du3 saĝ-gin7 til3[line] /saĝ\\-gin7 du3 en-gin7 til3"}
+,
+{"id": 873,
+"source": "cf. 6.1.02.135, 6.1.24.3",
+"english": "He who destroys houses destroys silver. He who destroys a house destroys gold.",
+"sumerian": "e2 gul-gul-e kug i3-gul-e[line] e2 gul-e kug-sig17 i3-gul-e"}
+,
+{"id": 874,
+"source": "cf. 6.1.09.a14, 6.1.24.4",
+"english": "The lord's wife kneels, the slave girl dies. The lord kneels, the slave dies.",
+"sumerian": "dam u3-mu-un-si gam-am3 am ug5-ga-am3[line] [u3]-/mu\\-un-si gam-am3 /arad\\ ug5-ga-am3"}
+,
+{"id": 875,
+"source": "cf. 6.1.03.25, 6.2.5: YBC 4677 ll. 8-10",
+"english": "What did Enlil make? Chaff! The lance struck. It went into the flesh.",
+"sumerian": "[den-lil2-le a-na-am3 in-ak in-bul-bul][line] [urud-šukur in]-/sig10\\ [su] /mu\\-ni-ib-[te]-te"}
+,
+{"id": 876,
+"source": "cf. 6.1.03.26, 6.1.24.9",
+"english": "When the sun is setting outside so that you cannot even recognise the hand in front of you, go inside!",
+"sumerian": "d-utu bar-ra ḫe2-en-ni-šu2 ni2-zu šu nu-zu-a kur9-ni-ib"}
+,
+{"id": 877,
+"source": "cf. 6.1.01.145, 6.1.22: ll. 87-88, 6.1.28.4",
+"english": "Accept your lot and make your mother happy! Run fast and make your god happy!",
+"sumerian": "ĝiš-šub us2-sa ama-zu ḫul2-la[line] kaš4 <dug4>-ga-ab diĝir-zu ḫul2-la"}
+,
+{"id": 878,
+"source": "cf. 6.1.01.146",
+"english": "Marry the wife of your choice.",
+"sumerian": "igi il2-la-za dam tuku-ba-ni-ib"}
+,
+{"id": 879,
+"source": "cf. 6.1.01.147",
+"english": "May Inana make a hot-limbed wife lie with you! May she bestow upon you broad-shouldered sons! May she find for you a place of happiness!",
+"sumerian": "din.an.a-ke4 dam ur2 kum2-ma ḫa-ra-an-nu2-e[line] dumu a2 tal2-tal2-la ḫa-ra-an-ba-e[line] ki niĝ2 sag9-ga ḫa-ra-ab-kiĝ2-kiĝ2-e"}
+,
+{"id": 880,
+"source": "cf. 6.1.01.126, 6.1.14.42, 6.1.22: l. 34, 6.2.3: UET 6/2 284",
+"english": "A plant as sweet as a husband, a plant as sweet as a mother: may Ezina-Kusu (the grain goddess) dwell in your home.",
+"sumerian": "u2 dam-da ze2-eb u2 ama-da ze2-eb[line] de.zi.na2-dku3-su3 e2-a ḫe2-me-da-an-til3"}
+,
+{"id": 881,
+"source": "cf. 6.1.21.c1, 6.1.23.18, 6.1.24.8",
+"english": "A man's waterskin is his life. A man's sandals are his eyes. A man's wife is his supervisor (?). A man's son is his protective shade. A man's daughter is his eager servant (?). A man's daughter-in-law is his policeman.",
+"sumerian": "kuš-um-mud zi lu2-kam kuš-e-sir2 /igi\\ lu2-kam[line] dam dim4-ma lu2-kam dumu-nitaḫ ĝissu lu2-kam[line] dumu-munus saĝ šu ĝar lu2-kam e2-gi4-a gal5-la2 lu2-kam"}
+,
+{"id": 882,
+"source": "cf. 6.1.21.c14",
+"english": "The um bird flees, running away from its own behind.",
+"sumerian": "um-mušen al-[saḫ6 gu-du-bi] am3-[kar]"}
+,
+{"id": 883,
+"source": "cf. 6.1.03.41, 6.1.28.25",
+"english": "When the mistress left the house and the slave girl entered from the street, away from her mistress the slave girl set up her own banquet.",
+"sumerian": "e2-ta e3 sila-ta kur9-/ra\\ geme2 nin-a-ni ĝiš-bum-ma-/ni\\ [bi2-in-tuš]"}
+,
+{"id": 884,
+"source": "cf. 6.1.21.c7",
+"english": "The litter was not apparent to the slave girl. To her mistress it just kept increasing.",
+"sumerian": "gi4-in an-ba pa /nu-um-e3\\ ga-ša-an-a-ni mu-ni-ib-gu-ul-gu-/ul\\"}
+,
+{"id": 885,
+"source": "cf. 6.1.09.d3, 6.1.13.29, 6.2.3: UET 6/3 464 l. 3",
+"english": "A fool who was overwhelmed by his backside stuck his hand up his backside.",
+"sumerian": "is-ḫab2 ki-bid3-/da\\ [(X)] šu ša-an-ša-[ša-da][line] šu-ni bid3-/da\\ [ba-ni-in-gid2]"}
+,
+{"id": 886,
+"source": "X",
+"english": "A great river is a grave.",
+"sumerian": "id2 maḫ ki-/maḫ\\-[]"}
+,
+{"id": 887,
+"source": "cf. 6.1.15.a9",
+"english": "From the horizon to the very heart of the heavens, the bread is too little for his great stomach! The grain from every hand in his Land is too little for him!",
+"sumerian": "/an?-ur2? an?-šag4?-ga?\\ ninda /šag4\\-gal-la-ni-še3 bi2-in-tur[line] /šu\\ kalam-ma-ni-ta še ba-an-da-tur"}
+,
+{"id": 888,
+"source": "cf. 6.1.01.58",
+"english": "Morsels of bread and tasty onions are the food of the school (?).",
+"sumerian": "ninda pad-pax(PAD)-ra2 šum2-sikil zil2-la2 ninda e2-dub-ba-a"}
+,
+{"id": 889,
+"source": "cf. 6.1.01.48",
+"english": "In the fields, coarse flour is meat fat.",
+"sumerian": "dab.in a-šag4-/ga\\ uzu.suš2-/am3\\"}
+,
+{"id": 890,
+"source": "cf. 6.1.03.117",
+"english": "You should lift it all together, but put it down in pieces.",
+"sumerian": "teš2-e ḫe2-il2-/il2\\ za-e lag-ga ḫe2-/dur2\\"}
+,
+{"id": 891,
+"source": "cf. 5.5.5: ll. 63-65",
+"english": "The early working shepherd, the early working farmer, the young man who got married while he was young: who compares to them?",
+"sumerian": "sipad šu-nim-ma engar šu-nim-ma[line] ĝuruš-e ud tur-ra-na-/ka\\ dam ba-tuku-tuku-u2-a[line] /a\\-ba-a /mu\\-da-ab-sa2-e"}
+]}

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jabify.android.NoChats" >
+
+    <item
+        android:id="@+id/size"
+        android:orderInCategory="100"
+        android:title="Font size"/>
+		
+
+</menu>
